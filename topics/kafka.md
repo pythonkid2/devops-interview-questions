@@ -2,69 +2,103 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Kafka**
 
-**5** interview questions tagged `Kafka`.
+**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
+
+| | |
+| --- | ---: |
+| Questions | 5 |
+| Easy / Medium / Hard | 0 / 5 / 0 |
+| Companies | 1 |
+
+## Most asked
+
+- [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) — **2×** · Medium
+  <a id="can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does"></a>
+- [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) — **2×** · Medium
+  <a id="how-does-kafka-handle-data-durability"></a>
+- [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) — **2×** · Medium
+  <a id="what-is-the-purpose-of-the-replication-factor-in-kafka"></a>
+- [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka) — **2×** · Medium
+  <a id="what-would-be-your-day-to-day-role-when-it-comes-to-kafka"></a>
+- [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka) — **2×** · Medium
+  <a id="when-should-an-application-consider-using-kafka"></a>
+
+## Beginner
 
 _None in this band yet._
 
-## Intermediate (Medium)
+## Intermediate
 
-- [Can you tell me the core components of Kafka and what each component does?](../questions/kafka/can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does.md) — asked 1×
-- [How does Kafka handle data durability?](../questions/kafka/how-does-kafka-handle-data-durability.md) — asked 1×
-- [What is the purpose of the replication factor in Kafka?](../questions/kafka/what-is-the-purpose-of-the-replication-factor-in-kafka.md) — asked 1×
-- [What would be your day-to-day role when it comes to Kafka?](../questions/kafka/what-would-be-your-day-to-day-role-when-it-comes-to-kafka.md) — asked 1×
-- [When should an application consider using Kafka?](../questions/kafka/when-should-an-application-consider-using-kafka.md) — asked 1×
+- [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) — 2×
+  <a id="can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does"></a>
+- [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) — 2×
+  <a id="how-does-kafka-handle-data-durability"></a>
+- [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) — 2×
+  <a id="what-is-the-purpose-of-the-replication-factor-in-kafka"></a>
+- [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka) — 2×
+  <a id="what-would-be-your-day-to-day-role-when-it-comes-to-kafka"></a>
+- [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka) — 2×
+  <a id="when-should-an-application-consider-using-kafka"></a>
 
-## Advanced (Hard)
+## Advanced
 
 _None in this band yet._
 
-## Frequently asked
+## By interview round
 
-- [Can you tell me the core components of Kafka and what each component does?](../questions/kafka/can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does.md) — 1× · Medium
-- [How does Kafka handle data durability?](../questions/kafka/how-does-kafka-handle-data-durability.md) — 1× · Medium
-- [What is the purpose of the replication factor in Kafka?](../questions/kafka/what-is-the-purpose-of-the-replication-factor-in-kafka.md) — 1× · Medium
-- [What would be your day-to-day role when it comes to Kafka?](../questions/kafka/what-would-be-your-day-to-day-role-when-it-comes-to-kafka.md) — 1× · Medium
-- [When should an application consider using Kafka?](../questions/kafka/when-should-an-application-consider-using-kafka.md) — 1× · Medium
+### Technical Round 1
 
-## Rare questions
-
-- [Can you tell me the core components of Kafka and what each component does?](../questions/kafka/can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does.md) — 1×
-- [How does Kafka handle data durability?](../questions/kafka/how-does-kafka-handle-data-durability.md) — 1×
-- [What is the purpose of the replication factor in Kafka?](../questions/kafka/what-is-the-purpose-of-the-replication-factor-in-kafka.md) — 1×
-- [What would be your day-to-day role when it comes to Kafka?](../questions/kafka/what-would-be-your-day-to-day-role-when-it-comes-to-kafka.md) — 1×
-- [When should an application consider using Kafka?](../questions/kafka/when-should-an-application-consider-using-kafka.md) — 1×
+- [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does)
+- [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability)
+- [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka)
+- [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka)
+- [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka)
 
 ## Companies asking
 
 - [BNP Paribas](../companies/bnp-paribas.md)
 
+## Recently added
+
+- [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) — 2026-07-15
+- [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka) — 2026-07-15
+- [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) — 2026-07-15
+- [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) — 2026-07-15
+- [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka) — 2026-07-15
+
 ## Related topics
 
-- [Databases](./databases.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [Kubernetes](./kubernetes.md)
-- [Docker](./docker.md)
-- [AWS](./aws.md)
-- [Jenkins](./jenkins.md)
-- [CI/CD](./ci-cd.md)
+- [Storage](./storage.md)
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) | Medium | 2 |
+| [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) | Medium | 2 |
+| [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) | Medium | 2 |
+| [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka) | Medium | 2 |
+| [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka) | Medium | 2 |
 
 ## Learning resources
 
-- Review [Kafka on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)

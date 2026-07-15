@@ -2,57 +2,78 @@
 
 [Home](../README.md) > [Topics](./README.md) > **High Availability**
 
-**0** interview questions tagged `High Availability`.
+**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
+
+| | |
+| --- | ---: |
+| Questions | 1 |
+| Easy / Medium / Hard | 0 / 0 / 1 |
+| Companies | 0 |
+
+## Most asked
+
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — **2×** · Hard · tags: `Kubernetes`, `System Design`
+  <a id="how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit"></a>
+
+## Beginner
 
 _None in this band yet._
 
-## Intermediate (Medium)
+## Intermediate
 
 _None in this band yet._
 
-## Advanced (Hard)
+## Advanced
 
-_None in this band yet._
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 2× · tags: `Kubernetes`, `System Design`
+  <a id="how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit"></a>
 
-## Frequently asked
+## By interview round
 
-_None yet._
+### Unspecified
 
-## Rare questions
-
-_None yet._
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — tags: `Kubernetes`, `System Design`
 
 ## Companies asking
 
-_Not attributed yet._
+- [Unknown Company](../companies/unknown-company.md)
+
+## Recently added
+
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 2026-07-15 · tags: `Kubernetes`, `System Design`
 
 ## Related topics
 
+- [SRE](./sre.md)
+- [Incident Response](./incident-response.md)
 - [Disaster Recovery](./disaster-recovery.md)
-- [Incident Management](./incident-management.md)
-- [Chaos Engineering](./chaos-engineering.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [Kubernetes](./kubernetes.md)
-- [Docker](./docker.md)
-- [AWS](./aws.md)
+- [SLOs](./slos.md)
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) | Hard | 2 |
 
 ## Learning resources
 
-- Review [High Availability on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)

@@ -5,97 +5,79 @@
 ## Overview
 
 | Metric | Value |
-| --- | --- |
-| Unique questions | 13 |
-| Interview posts tracked | 2 |
-| Topics covered | 6 |
+| --- | ---: |
+| Questions | 13 |
+| Topics covered | 5 |
 
-## Difficulty distribution
+## Topics asked
 
-- **Easy**: 0 `░░░░░░░░░░░░░░░░░░░░`
-- **Medium**: 13 `████████████████████`
-- **Hard**: 0 `░░░░░░░░░░░░░░░░░░░░`
+- [Kubernetes](../topics/kubernetes.md) — 4
+- [Networking](../topics/networking.md) — 3
+- [AWS](../topics/aws.md) — 2
+- [General](../topics/general.md) — 2
+- [Security](../topics/security.md) — 2
 
-## Question categories (topics)
+## Most repeated
 
-- [Networking](../topics/networking.md) — 3 question(s)
-- [CloudFormation](../topics/cloudformation.md) — 2 question(s)
-- [EKS](../topics/eks.md) — 2 question(s)
-- [General](../topics/general.md) — 2 question(s)
-- [Kubernetes](../topics/kubernetes.md) — 2 question(s)
-- [Security](../topics/security.md) — 2 question(s)
+- [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../topics/kubernetes.md#after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai) — 2× · Kubernetes
+- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) — 2× · Networking
+- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../topics/kubernetes.md#during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep) — 2× · Kubernetes
+- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — 2× · Security
+- [How do you validate infrastructure changes before executing them in production?](../topics/general.md#how-do-you-validate-infrastructure-changes-before-executing-them-in-production) — 2× · General
+- [How would you automate environment provisioning while allowing environment-specific configurations?](../topics/general.md#how-would-you-automate-environment-provisioning-while-allowing-environment-speci) — 2× · General
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — 2× · Networking
+- [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../topics/kubernetes.md#how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne) — 2× · Kubernetes
+- [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../topics/aws.md#how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component) — 2× · AWS
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — 2× · Security
+- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../topics/kubernetes.md#what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu) — 2× · Kubernetes
+- [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — 2× · AWS
+- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte) — 2× · Networking
 
-## Interview rounds
+## By topic
 
-- [Technical Interview](../browse/by-round/technical-interview.md) — 13
+### AWS
 
-## Frequently asked
-
-- [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../questions/kubernetes/after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai.md) — Kubernetes · Medium · 2×
-- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../questions/networking/an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md) — Networking · Medium · 2×
-- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../questions/eks/during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md) — EKS · Medium · 2×
-- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../questions/security/during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr.md) — Security · Medium · 2×
-- [How do you validate infrastructure changes before executing them in production?](../questions/general/how-do-you-validate-infrastructure-changes-before-executing-them-in-production.md) — General · Medium · 2×
-- [How would you automate environment provisioning while allowing environment-specific configurations?](../questions/general/how-would-you-automate-environment-provisioning-while-allowing-environment-speci.md) — General · Medium · 2×
-- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../questions/networking/how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md) — Networking · Medium · 2×
-- [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../questions/kubernetes/how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne.md) — Kubernetes · Medium · 2×
-- [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../questions/cloudformation/how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component.md) — CloudFormation · Medium · 2×
-- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../questions/security/how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi.md) — Security · Medium · 2×
-- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) — EKS · Medium · 2×
-- [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../questions/cloudformation/you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state.md) — CloudFormation · Medium · 2×
-- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../questions/networking/your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md) — Networking · Medium · 2×
-
-## Questions by topic
-
-### CloudFormation
-
-- [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../questions/cloudformation/how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component.md) — Medium
-- [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../questions/cloudformation/you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state.md) — Medium
-
-### EKS
-
-- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../questions/eks/during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md) — Medium
-- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) — Medium
+- [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../topics/aws.md#how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component) — Medium
+- [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — Medium
 
 ### General
 
-- [How do you validate infrastructure changes before executing them in production?](../questions/general/how-do-you-validate-infrastructure-changes-before-executing-them-in-production.md) — Medium
-- [How would you automate environment provisioning while allowing environment-specific configurations?](../questions/general/how-would-you-automate-environment-provisioning-while-allowing-environment-speci.md) — Medium
+- [How do you validate infrastructure changes before executing them in production?](../topics/general.md#how-do-you-validate-infrastructure-changes-before-executing-them-in-production) — Medium
+- [How would you automate environment provisioning while allowing environment-specific configurations?](../topics/general.md#how-would-you-automate-environment-provisioning-while-allowing-environment-speci) — Medium
 
 ### Kubernetes
 
-- [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../questions/kubernetes/after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai.md) — Medium
-- [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../questions/kubernetes/how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne.md) — Medium
+- [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../topics/kubernetes.md#after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai) — Medium
+- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../topics/kubernetes.md#during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep) — Medium
+- [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../topics/kubernetes.md#how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne) — Medium
+- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../topics/kubernetes.md#what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu) — Medium
 
 ### Networking
 
-- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../questions/networking/an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md) — Medium
-- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../questions/networking/how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md) — Medium
-- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../questions/networking/your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md) — Medium
+- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) — Medium
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — Medium
+- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte) — Medium
 
 ### Security
 
-- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../questions/security/during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr.md) — Medium
-- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../questions/security/how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi.md) — Medium
+- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — Medium
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — Medium
 
-## Recently added / updated
+## Interview rounds
 
-- [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../questions/kubernetes/how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne.md) (2026-07-15)
-- [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../questions/kubernetes/after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai.md) (2026-07-15)
-- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../questions/security/during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr.md) (2026-07-15)
-- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../questions/security/how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi.md) (2026-07-15)
-- [How would you automate environment provisioning while allowing environment-specific configurations?](../questions/general/how-would-you-automate-environment-provisioning-while-allowing-environment-speci.md) (2026-07-15)
-- [How do you validate infrastructure changes before executing them in production?](../questions/general/how-do-you-validate-infrastructure-changes-before-executing-them-in-production.md) (2026-07-15)
-- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../questions/networking/an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md) (2026-07-15)
-- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../questions/networking/how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md) (2026-07-15)
-- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../questions/networking/your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md) (2026-07-15)
-- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) (2026-07-15)
+- Technical — 13
 
-## Related browsing
+## Recently added
 
-- [All companies](./README.md)
-- [All topics](../topics/README.md)
-- [Browse by difficulty](../browse/by-difficulty/README.md)
-- [Most asked](../browse/by-frequency.md)
+- [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../topics/kubernetes.md#how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne) — 2026-07-15
+- [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../topics/kubernetes.md#after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai) — 2026-07-15
+- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — 2026-07-15
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — 2026-07-15
+- [How would you automate environment provisioning while allowing environment-specific configurations?](../topics/general.md#how-would-you-automate-environment-provisioning-while-allowing-environment-speci) — 2026-07-15
+- [How do you validate infrastructure changes before executing them in production?](../topics/general.md#how-do-you-validate-infrastructure-changes-before-executing-them-in-production) — 2026-07-15
+- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) — 2026-07-15
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — 2026-07-15
+- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte) — 2026-07-15
+- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../topics/kubernetes.md#what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu) — 2026-07-15
 
-[← Home](../README.md)
+[← All companies](./README.md) · [Home](../README.md)

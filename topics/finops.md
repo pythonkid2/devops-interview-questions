@@ -2,57 +2,75 @@
 
 [Home](../README.md) > [Topics](./README.md) > **FinOps**
 
-**0** interview questions tagged `FinOps`.
+**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
+
+| | |
+| --- | ---: |
+| Questions | 1 |
+| Easy / Medium / Hard | 0 / 1 / 0 |
+| Companies | 0 |
+
+## Most asked
+
+- [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — **2×** · Medium
+  <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
+
+## Beginner
 
 _None in this band yet._
 
-## Intermediate (Medium)
+## Intermediate
+
+- [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — 2×
+  <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
+
+## Advanced
 
 _None in this band yet._
 
-## Advanced (Hard)
+## By interview round
 
-_None in this band yet._
+### Unspecified
 
-## Frequently asked
-
-_None yet._
-
-## Rare questions
-
-_None yet._
+- [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance)
 
 ## Companies asking
 
-_Not attributed yet._
+- [Unknown Company](../companies/unknown-company.md)
+
+## Recently added
+
+- [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — 2026-07-15
 
 ## Related topics
 
-- [Cost Optimization](./cost-optimization.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [Kubernetes](./kubernetes.md)
-- [Docker](./docker.md)
-- [AWS](./aws.md)
-- [Jenkins](./jenkins.md)
-- [CI/CD](./ci-cd.md)
+- [System Design](./system-design.md)
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) | Medium | 2 |
 
 ## Learning resources
 
-- Review [FinOps on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)

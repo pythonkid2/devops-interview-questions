@@ -2,57 +2,76 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Prometheus**
 
-**0** interview questions tagged `Prometheus`.
+**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
+
+| | |
+| --- | ---: |
+| Questions | 1 |
+| Easy / Medium / Hard | 0 / 1 / 0 |
+| Companies | 0 |
+
+## Most asked
+
+- [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — **1×** · Medium
+  <a id="what-is-the-purpose-of-prometheus-and-grafana-in-monitoring"></a>
+
+## Beginner
 
 _None in this band yet._
 
-## Intermediate (Medium)
+## Intermediate
+
+- [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — 1×
+  <a id="what-is-the-purpose-of-prometheus-and-grafana-in-monitoring"></a>
+
+## Advanced
 
 _None in this band yet._
 
-## Advanced (Hard)
+## By interview round
 
-_None in this band yet._
+### Unspecified
 
-## Frequently asked
-
-_None yet._
-
-## Rare questions
-
-_None yet._
+- [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring)
 
 ## Companies asking
 
-_Not attributed yet._
+- [Unknown Company](../companies/unknown-company.md)
+
+## Recently added
+
+- [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — 2026-07-15
 
 ## Related topics
 
 - [Monitoring](./monitoring.md)
-- [Logging](./logging.md)
-- [AIOps](./aiops.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [Kubernetes](./kubernetes.md)
-- [Docker](./docker.md)
-- [AWS](./aws.md)
+- [Observability](./observability.md)
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) | Medium | 1 |
 
 ## Learning resources
 
-- Review [Prometheus on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)

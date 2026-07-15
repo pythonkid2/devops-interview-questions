@@ -5,77 +5,63 @@
 ## Overview
 
 | Metric | Value |
-| --- | --- |
-| Unique questions | 8 |
-| Interview posts tracked | 2 |
+| --- | ---: |
+| Questions | 8 |
 | Topics covered | 4 |
 
-## Difficulty distribution
+## Topics asked
 
-- **Easy**: 0 `░░░░░░░░░░░░░░░░░░░░`
-- **Medium**: 7 `██████████████████░░`
-- **Hard**: 1 `██░░░░░░░░░░░░░░░░░░`
+- [Terraform](../topics/terraform.md) — 5
+- [GitHub Actions](../topics/github-actions.md) — 1
+- [Jenkins](../topics/jenkins.md) — 1
+- [Kubernetes](../topics/kubernetes.md) — 1
 
-## Question categories (topics)
+## Most repeated
 
-- [Terraform](../topics/terraform.md) — 5 question(s)
-- [GitHub Actions](../topics/github-actions.md) — 1 question(s)
-- [Jenkins](../topics/jenkins.md) — 1 question(s)
-- [Kubernetes](../topics/kubernetes.md) — 1 question(s)
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 3× · Terraform
+- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 1× · Jenkins
+- [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — 1× · Kubernetes
+- [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — 1× · Terraform
+- [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — 1× · Terraform
+- [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — 1× · Terraform
+- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 1× · GitHub Actions
+- [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — 1× · Terraform
 
-## Interview rounds
-
-- [Technical](../browse/by-round/technical.md) — 8
-
-## Frequently asked
-
-- [What is a Terraform State File, and why is it important?](../questions/terraform/what-is-a-terraform-state-file-and-why-is-it-important.md) — Terraform · Medium · 2×
-- [Explain a Jenkins Pipeline and its stages.](../questions/jenkins/explain-a-jenkins-pipeline-and-its-stages.md) — Jenkins · Medium · 1×
-- [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../questions/kubernetes/explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources.md) — Kubernetes · Medium · 1×
-- [Explain Terraform Workspaces and their use cases.](../questions/terraform/explain-terraform-workspaces-and-their-use-cases.md) — Terraform · Medium · 1×
-- [If the Terraform State File is lost, how can it be recovered?](../questions/terraform/if-the-terraform-state-file-is-lost-how-can-it-be-recovered.md) — Terraform · Hard · 1×
-- [What is a Terraform Backend? Explain the Backend configuration.](../questions/terraform/what-is-a-terraform-backend-explain-the-backend-configuration.md) — Terraform · Medium · 1×
-- [Write a GitHub Actions workflow for CI/CD.](../questions/github-actions/write-a-github-actions-workflow-for-ci-cd.md) — GitHub Actions · Medium · 1×
-- [Write Terraform code to provision an AWS EC2 instance.](../questions/terraform/write-terraform-code-to-provision-an-aws-ec2-instance.md) — Terraform · Medium · 1×
-
-## Questions by topic
+## By topic
 
 ### GitHub Actions
 
-- [Write a GitHub Actions workflow for CI/CD.](../questions/github-actions/write-a-github-actions-workflow-for-ci-cd.md) — Medium
+- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — Medium
 
 ### Jenkins
 
-- [Explain a Jenkins Pipeline and its stages.](../questions/jenkins/explain-a-jenkins-pipeline-and-its-stages.md) — Medium
+- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — Medium
 
 ### Kubernetes
 
-- [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../questions/kubernetes/explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources.md) — Medium
+- [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — Medium
 
 ### Terraform
 
-- [Explain Terraform Workspaces and their use cases.](../questions/terraform/explain-terraform-workspaces-and-their-use-cases.md) — Medium
-- [If the Terraform State File is lost, how can it be recovered?](../questions/terraform/if-the-terraform-state-file-is-lost-how-can-it-be-recovered.md) — Hard
-- [What is a Terraform Backend? Explain the Backend configuration.](../questions/terraform/what-is-a-terraform-backend-explain-the-backend-configuration.md) — Medium
-- [What is a Terraform State File, and why is it important?](../questions/terraform/what-is-a-terraform-state-file-and-why-is-it-important.md) — Medium
-- [Write Terraform code to provision an AWS EC2 instance.](../questions/terraform/write-terraform-code-to-provision-an-aws-ec2-instance.md) — Medium
+- [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — Medium
+- [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — Hard
+- [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — Medium
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — Medium
+- [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — Medium
 
-## Recently added / updated
+## Interview rounds
 
-- [What is a Terraform State File, and why is it important?](../questions/terraform/what-is-a-terraform-state-file-and-why-is-it-important.md) (2026-07-15)
-- [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../questions/kubernetes/explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources.md) (2026-07-15)
-- [Explain a Jenkins Pipeline and its stages.](../questions/jenkins/explain-a-jenkins-pipeline-and-its-stages.md) (2026-07-15)
-- [Write a GitHub Actions workflow for CI/CD.](../questions/github-actions/write-a-github-actions-workflow-for-ci-cd.md) (2026-07-15)
-- [What is a Terraform Backend? Explain the Backend configuration.](../questions/terraform/what-is-a-terraform-backend-explain-the-backend-configuration.md) (2026-07-15)
-- [If the Terraform State File is lost, how can it be recovered?](../questions/terraform/if-the-terraform-state-file-is-lost-how-can-it-be-recovered.md) (2026-07-15)
-- [Explain Terraform Workspaces and their use cases.](../questions/terraform/explain-terraform-workspaces-and-their-use-cases.md) (2026-07-15)
-- [Write Terraform code to provision an AWS EC2 instance.](../questions/terraform/write-terraform-code-to-provision-an-aws-ec2-instance.md) (2026-07-15)
+- Technical — 8
 
-## Related browsing
+## Recently added
 
-- [All companies](./README.md)
-- [All topics](../topics/README.md)
-- [Browse by difficulty](../browse/by-difficulty/README.md)
-- [Most asked](../browse/by-frequency.md)
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-15
+- [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — 2026-07-15
+- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2026-07-15
+- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 2026-07-15
+- [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — 2026-07-15
+- [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — 2026-07-15
+- [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — 2026-07-15
+- [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — 2026-07-15
 
-[← Home](../README.md)
+[← All companies](./README.md) · [Home](../README.md)

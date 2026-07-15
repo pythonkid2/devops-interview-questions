@@ -1,97 +1,73 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-476-blue) ![companies](https://img.shields.io/badge/companies-12-success) ![posts](https://img.shields.io/badge/linkedin_posts-150-informational)
+![questions](https://img.shields.io/badge/questions-503-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-180-informational)
 
-Curated **DevOps / Cloud / SRE interview questions** extracted from public LinkedIn interview-experience posts — organized for fast study.
+Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
-> Find any question in under 30 seconds: pick a **company**, **topic**, or **difficulty**, then drill into a question page.
+> Interview tomorrow? Open a **topic**, skim **most asked**, then drill company pages.
 
 ## Quick start
 
-1. Pick how you want to study:
-   - [By company](./companies/README.md) (e.g. PwC, TCS, Infosys)
-   - [By topic](./topics/README.md) (AWS, K8s, DR, AIOps, SRE, …)
-   - [By difficulty](./browse/by-difficulty/README.md)
-   - [Most asked](./browse/by-frequency.md)
-   - [By interview round](./browse/by-round/README.md)
-2. Open a question page for the prompt + related links.
-3. Track progress via [Statistics](./statistics/README.md).
+1. [Topics](./topics/README.md) — Kubernetes, AWS, Terraform, Docker, Linux, …
+2. [Companies](./companies/README.md) — PwC, TCS, Infosys, …
+3. [Most asked](./study-guides/most-asked.md)
+4. [By difficulty](./study-guides/by-difficulty.md)
+5. [Tags](./study-guides/tags.md) — secondary concepts (not folders)
 
 ## Snapshot
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 476 |
-| Posts processed | 150 |
-| Added this week | 476 |
-| Duplicates skipped | 98 |
-
-## Search examples (GitHub)
-
-In this repo’s GitHub search box try:
-
-- `IRSA`
-- `Terraform state`
-- `path:topics/kubernetes`
-- `path:companies/pwc`
-- `path:browse/by-difficulty/hard.md`
-
-## Popular companies
-
-- [Models](./companies/models.md)
-- [Mirafra](./companies/mirafra.md)
-- [BNP Paribas](./companies/bnp-paribas.md)
-- [Infosys](./companies/infosys.md)
-- [PwC](./companies/pwc.md)
-- [Global Payments](./companies/global-payments.md)
-- [Argyll Infotech](./companies/argyll-infotech.md)
-- [NVIDIA](./companies/nvidia.md)
-- [SpaceTechInc](./companies/spacetechinc.md)
-- [TCS](./companies/tcs.md)
-- [DPRSolutions](./companies/dprsolutions.md)
-- [EY](./companies/ey.md)
+| Unique questions | 503 |
+| Posts processed | 180 |
+| Added this week | 503 |
 
 ## Popular topics
 
-- [Terraform](./topics/terraform.md) — 56
-- [Kubernetes](./topics/kubernetes.md) — 50
-- [Docker](./topics/docker.md) — 44
-- [AWS](./topics/aws.md) — 35
-- [Jenkins](./topics/jenkins.md) — 31
-- [CI/CD](./topics/ci-cd.md) — 22
-- [Security](./topics/security.md) — 17
-- [Networking](./topics/networking.md) — 8
-- [Shell Scripting](./topics/shell-scripting.md) — 7
-- [Monitoring](./topics/monitoring.md) — 6
-- [Azure DevOps](./topics/azure-devops.md) — 5
-- [Kafka](./topics/kafka.md) — 5
+- [Terraform](./topics/terraform.md) — 60
+- [Kubernetes](./topics/kubernetes.md) — 58
+- [Docker](./topics/docker.md) — 45
+- [AWS](./topics/aws.md) — 42
+- [CI/CD](./topics/ci-cd.md) — 37
+- [Jenkins](./topics/jenkins.md) — 32
+- [Security](./topics/security.md) — 24
+- [Monitoring](./topics/monitoring.md) — 10
+- [Observability](./topics/observability.md) — 9
+- [Python](./topics/python.md) — 9
+
+## Popular companies
+
+- [BNP Paribas](./companies/bnp-paribas.md) — 28
+- [Mirafra](./companies/mirafra.md) — 28
+- [Global Payments](./companies/global-payments.md) — 13
+- [PwC](./companies/pwc.md) — 13
+- [SpaceTech Inc.](./companies/spacetech-inc.md) — 13
+- [Infosys](./companies/infosys.md) — 12
+- [NVIDIA](./companies/nvidia.md) — 11
+- [Argyll Infotech](./companies/argyll-infotech.md) — 10
+- [Fineshift Software Pvt. Ltd.](./companies/fineshift-software-pvt-ltd.md) — 8
+- [TCS](./companies/tcs.md) — 8
 
 ## Repository map
 
 ```
-.
-├── README.md
-├── FAQ.md
-├── CONTRIBUTING.md
-├── companies/          # study by employer
-├── topics/             # study by technology
-├── questions/<topic>/  # one file per question (scales well)
-├── browse/             # difficulty · frequency · rounds
-└── statistics/         # growth & distributions
+README.md
+topics/          # one study-guide page per technology
+companies/       # employer pages (with questions only)
+study-guides/    # most-asked · difficulty · rounds
+reports/         # top-100 · growth · breakdowns
+questions/       # detail pages only when answers are enriched
 ```
 
-## Architecture (collector → this repo)
+## GitHub search tips
 
-```
-LinkedIn crawl → SQLite → LLM extract → dedupe → Markdown generate → git
-```
+- `CrashLoopBackOff`
+- `Terraform state`
+- `path:topics/kubernetes`
+- `path:companies/pwc`
 
-## FAQ / Contributing / Roadmap
-
-- [FAQ](./FAQ.md)
-- [Contributing](./CONTRIBUTING.md)
-- Roadmap: richer answers, round coverage, difficulty calibration, PostgreSQL-backed search UI.
+- [FAQ](./FAQ.md) · [Contributing](./CONTRIBUTING.md) · [Reports](./reports/README.md)
 
 ---
 
-_Auto-generated by the LinkedIn DevOps Interview Intelligence System._
+_Auto-generated for interview prep. Collector pipelines stay out of this repo._

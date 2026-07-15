@@ -2,77 +2,126 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Networking**
 
-**8** interview questions tagged `Networking`.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
 
-- [Difference between TCP and UDP. Where have you used each?](../questions/networking/difference-between-tcp-and-udp-where-have-you-used-each.md) — asked 1×
+| | |
+| --- | ---: |
+| Questions | 8 |
+| Easy / Medium / Hard | 1 / 7 / 0 |
+| Companies | 1 |
 
-## Intermediate (Medium)
+## Most asked
 
-- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../questions/networking/an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md) — asked 2×
-- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../questions/networking/explain-load-balancer-reverse-proxy-and-ingress-with-real-examples.md) — asked 1×
-- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../questions/networking/explain-vpc-subnets-nat-gateway-and-internet-gateway.md) — asked 1×
-- [How does DNS resolution work internally?](../questions/networking/how-does-dns-resolution-work-internally.md) — asked 1×
-- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../questions/networking/how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md) — asked 2×
-- [What is the difference between a load balancer and an application firewall?](../questions/networking/what-is-the-difference-between-a-load-balancer-and-an-application-firewall.md) — asked 2×
-- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../questions/networking/your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md) — asked 2×
+- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) — **2×** · Medium
+  <a id="an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails"></a>
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — **2×** · Medium
+  <a id="how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams"></a>
+- [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall) — **2×** · Medium
+  <a id="what-is-the-difference-between-a-load-balancer-and-an-application-firewall"></a>
+- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte) — **2×** · Medium
+  <a id="your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte"></a>
+- [Difference between TCP and UDP. Where have you used each?](../topics/networking.md#difference-between-tcp-and-udp-where-have-you-used-each) — **1×** · Easy
+  <a id="difference-between-tcp-and-udp-where-have-you-used-each"></a>
+- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/networking.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — **1×** · Medium
+  <a id="explain-load-balancer-reverse-proxy-and-ingress-with-real-examples"></a>
+- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/networking.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — **1×** · Medium
+  <a id="explain-vpc-subnets-nat-gateway-and-internet-gateway"></a>
+- [How does DNS resolution work internally?](../topics/networking.md#how-does-dns-resolution-work-internally) — **1×** · Medium
+  <a id="how-does-dns-resolution-work-internally"></a>
 
-## Advanced (Hard)
+## Beginner
+
+- [Difference between TCP and UDP. Where have you used each?](../topics/networking.md#difference-between-tcp-and-udp-where-have-you-used-each) — 1×
+  <a id="difference-between-tcp-and-udp-where-have-you-used-each"></a>
+
+## Intermediate
+
+- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) — 2×
+  <a id="an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails"></a>
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — 2×
+  <a id="how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams"></a>
+- [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall) — 2×
+  <a id="what-is-the-difference-between-a-load-balancer-and-an-application-firewall"></a>
+- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte) — 2×
+  <a id="your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte"></a>
+- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/networking.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — 1×
+  <a id="explain-load-balancer-reverse-proxy-and-ingress-with-real-examples"></a>
+- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/networking.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — 1×
+  <a id="explain-vpc-subnets-nat-gateway-and-internet-gateway"></a>
+- [How does DNS resolution work internally?](../topics/networking.md#how-does-dns-resolution-work-internally) — 1×
+  <a id="how-does-dns-resolution-work-internally"></a>
+
+## Advanced
 
 _None in this band yet._
 
-## Frequently asked
+## By interview round
 
-- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../questions/networking/an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md) — 2× · Medium
-- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../questions/networking/how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md) — 2× · Medium
-- [What is the difference between a load balancer and an application firewall?](../questions/networking/what-is-the-difference-between-a-load-balancer-and-an-application-firewall.md) — 2× · Medium
-- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../questions/networking/your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md) — 2× · Medium
-- [Difference between TCP and UDP. Where have you used each?](../questions/networking/difference-between-tcp-and-udp-where-have-you-used-each.md) — 1× · Easy
-- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../questions/networking/explain-load-balancer-reverse-proxy-and-ingress-with-real-examples.md) — 1× · Medium
-- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../questions/networking/explain-vpc-subnets-nat-gateway-and-internet-gateway.md) — 1× · Medium
-- [How does DNS resolution work internally?](../questions/networking/how-does-dns-resolution-work-internally.md) — 1× · Medium
+### Technical
 
-## Rare questions
+- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails)
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams)
+- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte)
 
-- [Difference between TCP and UDP. Where have you used each?](../questions/networking/difference-between-tcp-and-udp-where-have-you-used-each.md) — 1×
-- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../questions/networking/explain-load-balancer-reverse-proxy-and-ingress-with-real-examples.md) — 1×
-- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../questions/networking/explain-vpc-subnets-nat-gateway-and-internet-gateway.md) — 1×
-- [How does DNS resolution work internally?](../questions/networking/how-does-dns-resolution-work-internally.md) — 1×
-- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../questions/networking/an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md) — 2×
-- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../questions/networking/how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md) — 2×
-- [What is the difference between a load balancer and an application firewall?](../questions/networking/what-is-the-difference-between-a-load-balancer-and-an-application-firewall.md) — 2×
-- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../questions/networking/your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md) — 2×
+### Unspecified
+
+- [Difference between TCP and UDP. Where have you used each?](../topics/networking.md#difference-between-tcp-and-udp-where-have-you-used-each)
+- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/networking.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples)
+- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/networking.md#explain-vpc-subnets-nat-gateway-and-internet-gateway)
+- [How does DNS resolution work internally?](../topics/networking.md#how-does-dns-resolution-work-internally)
+- [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall)
 
 ## Companies asking
 
 - [PwC](../companies/pwc.md)
 
+## Recently added
+
+- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) — 2026-07-15
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — 2026-07-15
+- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte) — 2026-07-15
+- [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall) — 2026-07-15
+- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/networking.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — 2026-07-15
+- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/networking.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — 2026-07-15
+- [How does DNS resolution work internally?](../topics/networking.md#how-does-dns-resolution-work-internally) — 2026-07-15
+- [Difference between TCP and UDP. Where have you used each?](../topics/networking.md#difference-between-tcp-and-udp-where-have-you-used-each) — 2026-07-15
+
 ## Related topics
 
-- [Linux](./linux.md)
-- [Shell Scripting](./shell-scripting.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [Kubernetes](./kubernetes.md)
-- [Docker](./docker.md)
-- [AWS](./aws.md)
-- [Jenkins](./jenkins.md)
+_See [all topics](./README.md)._
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) | Medium | 2 |
+| [Difference between TCP and UDP. Where have you used each?](../topics/networking.md#difference-between-tcp-and-udp-where-have-you-used-each) | Easy | 1 |
+| [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/networking.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) | Medium | 1 |
+| [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/networking.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) | Medium | 1 |
+| [How does DNS resolution work internally?](../topics/networking.md#how-does-dns-resolution-work-internally) | Medium | 1 |
+| [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) | Medium | 2 |
+| [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall) | Medium | 2 |
+| [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte) | Medium | 2 |
 
 ## Learning resources
 
-- Review [Networking on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)

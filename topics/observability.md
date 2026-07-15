@@ -2,57 +2,135 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Observability**
 
-**0** interview questions tagged `Observability`.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
+
+| | |
+| --- | ---: |
+| Questions | 9 |
+| Easy / Medium / Hard | 0 / 8 / 1 |
+| Companies | 2 |
+
+## Most asked
+
+- [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) — **2×** · Medium
+  <a id="can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch"></a>
+- [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) — **2×** · Medium
+  <a id="do-you-have-working-experience-on-the-elk-stack"></a>
+- [How do you integrate Ansible with the ELK Stack?](../topics/observability.md#how-do-you-integrate-ansible-with-the-elk-stack) — **2×** · Medium
+  <a id="how-do-you-integrate-ansible-with-the-elk-stack"></a>
+- [What are the components of the ELK Stack?](../topics/observability.md#what-are-the-components-of-the-elk-stack) — **2×** · Medium
+  <a id="what-are-the-components-of-the-elk-stack"></a>
+- [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack) — **2×** · Medium
+  <a id="what-is-the-difference-between-grafana-and-the-elk-stack"></a>
+- [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) — **2×** · Medium
+  <a id="what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project"></a>
+- [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi) — **1×** · Hard
+  <a id="how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi"></a>
+- [How would you configure cross-account IAM roles for centralized logging?](../topics/observability.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) — **1×** · Medium
+  <a id="how-would-you-configure-cross-account-iam-roles-for-centralized-logging"></a>
+- [What are NCCL logs, and why are they important in distributed training?](../topics/observability.md#what-are-nccl-logs-and-why-are-they-important-in-distributed-training) — **1×** · Medium
+  <a id="what-are-nccl-logs-and-why-are-they-important-in-distributed-training"></a>
+
+## Beginner
 
 _None in this band yet._
 
-## Intermediate (Medium)
+## Intermediate
 
-_None in this band yet._
+- [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) — 2×
+  <a id="can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch"></a>
+- [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) — 2×
+  <a id="do-you-have-working-experience-on-the-elk-stack"></a>
+- [How do you integrate Ansible with the ELK Stack?](../topics/observability.md#how-do-you-integrate-ansible-with-the-elk-stack) — 2×
+  <a id="how-do-you-integrate-ansible-with-the-elk-stack"></a>
+- [What are the components of the ELK Stack?](../topics/observability.md#what-are-the-components-of-the-elk-stack) — 2×
+  <a id="what-are-the-components-of-the-elk-stack"></a>
+- [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack) — 2×
+  <a id="what-is-the-difference-between-grafana-and-the-elk-stack"></a>
+- [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) — 2×
+  <a id="what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project"></a>
+- [How would you configure cross-account IAM roles for centralized logging?](../topics/observability.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) — 1×
+  <a id="how-would-you-configure-cross-account-iam-roles-for-centralized-logging"></a>
+- [What are NCCL logs, and why are they important in distributed training?](../topics/observability.md#what-are-nccl-logs-and-why-are-they-important-in-distributed-training) — 1×
+  <a id="what-are-nccl-logs-and-why-are-they-important-in-distributed-training"></a>
 
-## Advanced (Hard)
+## Advanced
 
-_None in this band yet._
+- [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi) — 1×
+  <a id="how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi"></a>
 
-## Frequently asked
+## By interview round
 
-_None yet._
+### Technical Round 1
 
-## Rare questions
+- [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch)
+- [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack)
+- [How do you integrate Ansible with the ELK Stack?](../topics/observability.md#how-do-you-integrate-ansible-with-the-elk-stack)
+- [How would you configure cross-account IAM roles for centralized logging?](../topics/observability.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging)
+- [What are the components of the ELK Stack?](../topics/observability.md#what-are-the-components-of-the-elk-stack)
+- [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack)
+- [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project)
 
-_None yet._
+### Unspecified
+
+- [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi)
+- [What are NCCL logs, and why are they important in distributed training?](../topics/observability.md#what-are-nccl-logs-and-why-are-they-important-in-distributed-training)
 
 ## Companies asking
 
-_Not attributed yet._
+- [BNP Paribas](../companies/bnp-paribas.md)
+- [NVIDIA](../companies/nvidia.md)
+
+## Recently added
+
+- [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack) — 2026-07-15
+- [What are the components of the ELK Stack?](../topics/observability.md#what-are-the-components-of-the-elk-stack) — 2026-07-15
+- [How do you integrate Ansible with the ELK Stack?](../topics/observability.md#how-do-you-integrate-ansible-with-the-elk-stack) — 2026-07-15
+- [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) — 2026-07-15
+- [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) — 2026-07-15
+- [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) — 2026-07-15
+- [How would you configure cross-account IAM roles for centralized logging?](../topics/observability.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) — 2026-07-15
+- [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi) — 2026-07-15
+- [What are NCCL logs, and why are they important in distributed training?](../topics/observability.md#what-are-nccl-logs-and-why-are-they-important-in-distributed-training) — 2026-07-15
 
 ## Related topics
 
+- [Prometheus](./prometheus.md)
 - [Monitoring](./monitoring.md)
-- [Logging](./logging.md)
-- [AIOps](./aiops.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [Kubernetes](./kubernetes.md)
-- [Docker](./docker.md)
-- [AWS](./aws.md)
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) | Medium | 2 |
+| [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) | Medium | 2 |
+| [How do you integrate Ansible with the ELK Stack?](../topics/observability.md#how-do-you-integrate-ansible-with-the-elk-stack) | Medium | 2 |
+| [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi) | Hard | 1 |
+| [How would you configure cross-account IAM roles for centralized logging?](../topics/observability.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) | Medium | 1 |
+| [What are NCCL logs, and why are they important in distributed training?](../topics/observability.md#what-are-nccl-logs-and-why-are-they-important-in-distributed-training) | Medium | 1 |
+| [What are the components of the ELK Stack?](../topics/observability.md#what-are-the-components-of-the-elk-stack) | Medium | 2 |
+| [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack) | Medium | 2 |
+| [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) | Medium | 2 |
 
 ## Learning resources
 
-- Review [Observability on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)

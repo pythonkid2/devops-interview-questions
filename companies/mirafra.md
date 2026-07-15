@@ -5,134 +5,117 @@
 ## Overview
 
 | Metric | Value |
-| --- | --- |
-| Unique questions | 28 |
-| Interview posts tracked | 2 |
-| Topics covered | 11 |
+| --- | ---: |
+| Questions | 28 |
+| Topics covered | 9 |
 
-## Difficulty distribution
+## Topics asked
 
-- **Easy**: 0 `░░░░░░░░░░░░░░░░░░░░`
-- **Medium**: 28 `████████████████████`
-- **Hard**: 0 `░░░░░░░░░░░░░░░░░░░░`
+- [Bash](../topics/bash.md) — 7
+- [Security](../topics/security.md) — 7
+- [Jenkins](../topics/jenkins.md) — 6
+- [CI/CD](../topics/ci-cd.md) — 2
+- [General](../topics/general.md) — 2
+- [Kubernetes](../topics/kubernetes.md) — 1
+- [Monitoring](../topics/monitoring.md) — 1
+- [Python](../topics/python.md) — 1
+- [System Design](../topics/system-design.md) — 1
 
-## Question categories (topics)
+## Most repeated
 
-- [Shell Scripting](../topics/shell-scripting.md) — 7 question(s)
-- [Jenkins](../topics/jenkins.md) — 6 question(s)
-- [SonarQube](../topics/sonarqube.md) — 4 question(s)
-- [General](../topics/general.md) — 3 question(s)
-- [CI/CD](../topics/ci-cd.md) — 2 question(s)
-- [Checkmarx](../topics/checkmarx.md) — 1 question(s)
-- [Kubernetes](../topics/kubernetes.md) — 1 question(s)
-- [Monitoring](../topics/monitoring.md) — 1 question(s)
-- [Python](../topics/python.md) — 1 question(s)
-- [Security](../topics/security.md) — 1 question(s)
-- [SonarQube & Checkmarx](../topics/sonarqube-checkmarx.md) — 1 question(s)
+- [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) — 4× · Security
+- [Did you generate SonarQube or Checkmarx reports every day?](../topics/security.md#did-you-generate-sonarqube-or-checkmarx-reports-every-day) — 2× · Security
+- [Did you only trigger the scans, or did you also review and triage the violations?](../topics/security.md#did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations) — 2× · Security
+- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../topics/security.md#did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results) — 2× · Security
+- [Do you have Python experience? How much exposure do you have?](../topics/python.md#do-you-have-python-experience-how-much-exposure-do-you-have) — 2× · Python
+- [Explain an integration you implemented in your project?](../topics/general.md#explain-an-integration-you-implemented-in-your-project) — 2× · General
+- [Explain the complete CI/CD flow that you built end-to-end.](../topics/ci-cd.md#explain-the-complete-ci-cd-flow-that-you-built-end-to-end) — 2× · CI/CD
+- [Explain the Jenkins pipeline you worked on.](../topics/jenkins.md#explain-the-jenkins-pipeline-you-worked-on) — 2× · Jenkins
+- [Explain your CPU monitoring script line by line.](../topics/bash.md#explain-your-cpu-monitoring-script-line-by-line) — 2× · Bash
+- [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — 2× · System Design
+- [How did you add the Checkmarx (security scan) stage in Jenkins?](../topics/jenkins.md#how-did-you-add-the-checkmarx-security-scan-stage-in-jenkins) — 2× · Jenkins
+- [How did you configure SonarQube with Jenkins?](../topics/jenkins.md#how-did-you-configure-sonarqube-with-jenkins) — 2× · Jenkins
+- [How did you configure the Quality Gate in SonarQube?](../topics/jenkins.md#how-did-you-configure-the-quality-gate-in-sonarqube) — 2× · Jenkins
+- [How do you review and coordinate security findings with development and security teams?](../topics/security.md#how-do-you-review-and-coordinate-security-findings-with-development-and-security) — 2× · Security
+- [How do you troubleshoot deployment failures?](../topics/kubernetes.md#how-do-you-troubleshoot-deployment-failures) — 2× · Kubernetes
+- [How would you schedule the cleanup script every week?](../topics/bash.md#how-would-you-schedule-the-cleanup-script-every-week) — 2× · Bash
+- [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — 2× · Jenkins
+- [What automation tasks have you done using Shell scripting?](../topics/bash.md#what-automation-tasks-have-you-done-using-shell-scripting) — 2× · Bash
+- [What happens if the Quality Gate fails?](../topics/jenkins.md#what-happens-if-the-quality-gate-fails) — 2× · Jenkins
+- [What is the meaning of -mtime +7?](../topics/bash.md#what-is-the-meaning-of-mtime-7) — 2× · Bash
 
-## Interview rounds
+## By topic
 
-- [Final](../browse/by-round/final.md) — 28
+### Bash
 
-## Frequently asked
-
-- [Give an example where you helped resolve a SonarQube finding.](../questions/sonarqube/give-an-example-where-you-helped-resolve-a-sonarqube-finding.md) — SonarQube · Medium · 4×
-- [Did you generate SonarQube or Checkmarx reports every day?](../questions/sonarqube/did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) — SonarQube · Medium · 2×
-- [Did you only trigger the scans, or did you also review and triage the violations?](../questions/sonarqube-checkmarx/did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations.md) — SonarQube & Checkmarx · Medium · 2×
-- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../questions/sonarqube/did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md) — SonarQube · Medium · 2×
-- [Do you have Python experience? How much exposure do you have?](../questions/python/do-you-have-python-experience-how-much-exposure-do-you-have.md) — Python · Medium · 2×
-- [Explain an integration you implemented in your project?](../questions/general/explain-an-integration-you-implemented-in-your-project.md) — General · Medium · 2×
-- [Explain the complete CI/CD flow that you built end-to-end.](../questions/ci-cd/explain-the-complete-ci-cd-flow-that-you-built-end-to-end.md) — CI/CD · Medium · 2×
-- [Explain the Jenkins pipeline you worked on.](../questions/jenkins/explain-the-jenkins-pipeline-you-worked-on.md) — Jenkins · Medium · 2×
-- [Explain your CPU monitoring script line by line.](../questions/shell-scripting/explain-your-cpu-monitoring-script-line-by-line.md) — Shell Scripting · Medium · 2×
-- [Explain your project architecture from a DevOps perspective.](../questions/general/explain-your-project-architecture-from-a-devops-perspective.md) — General · Medium · 2×
-- [How did you add the Checkmarx (security scan) stage in Jenkins?](../questions/jenkins/how-did-you-add-the-checkmarx-security-scan-stage-in-jenkins.md) — Jenkins · Medium · 2×
-- [How did you configure SonarQube with Jenkins?](../questions/jenkins/how-did-you-configure-sonarqube-with-jenkins.md) — Jenkins · Medium · 2×
-- [How did you configure the Quality Gate in SonarQube?](../questions/jenkins/how-did-you-configure-the-quality-gate-in-sonarqube.md) — Jenkins · Medium · 2×
-- [How do you review and coordinate security findings with development and security teams?](../questions/security/how-do-you-review-and-coordinate-security-findings-with-development-and-security.md) — Security · Medium · 2×
-- [How do you troubleshoot deployment failures?](../questions/kubernetes/how-do-you-troubleshoot-deployment-failures.md) — Kubernetes · Medium · 2×
-
-## Questions by topic
-
-### Checkmarx
-
-- [What types of vulnerabilities does Checkmarx detect?](../questions/checkmarx/what-types-of-vulnerabilities-does-checkmarx-detect.md) — Medium
+- [Explain your CPU monitoring script line by line.](../topics/bash.md#explain-your-cpu-monitoring-script-line-by-line) — Medium
+- [How would you schedule the cleanup script every week?](../topics/bash.md#how-would-you-schedule-the-cleanup-script-every-week) — Medium
+- [What automation tasks have you done using Shell scripting?](../topics/bash.md#what-automation-tasks-have-you-done-using-shell-scripting) — Medium
+- [What is the meaning of -mtime +7?](../topics/bash.md#what-is-the-meaning-of-mtime-7) — Medium
+- [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) — Medium
+- [Write a Shell script for weekly log cleanup.](../topics/bash.md#write-a-shell-script-for-weekly-log-cleanup) — Medium
+- [Write a Shell script to monitor CPU utilization.](../topics/bash.md#write-a-shell-script-to-monitor-cpu-utilization) — Medium
 
 ### CI/CD
 
-- [Explain the complete CI/CD flow that you built end-to-end.](../questions/ci-cd/explain-the-complete-ci-cd-flow-that-you-built-end-to-end.md) — Medium
-- [What was your role in the CI/CD pipeline?](../questions/ci-cd/what-was-your-role-in-the-ci-cd-pipeline.md) — Medium
+- [Explain the complete CI/CD flow that you built end-to-end.](../topics/ci-cd.md#explain-the-complete-ci-cd-flow-that-you-built-end-to-end) — Medium
+- [What was your role in the CI/CD pipeline?](../topics/ci-cd.md#what-was-your-role-in-the-ci-cd-pipeline) — Medium
 
 ### General
 
-- [Explain an integration you implemented in your project?](../questions/general/explain-an-integration-you-implemented-in-your-project.md) — Medium
-- [Explain your project architecture from a DevOps perspective.](../questions/general/explain-your-project-architecture-from-a-devops-perspective.md) — Medium
-- [What third-party integrations have you worked on?](../questions/general/what-third-party-integrations-have-you-worked-on.md) — Medium
+- [Explain an integration you implemented in your project?](../topics/general.md#explain-an-integration-you-implemented-in-your-project) — Medium
+- [What third-party integrations have you worked on?](../topics/general.md#what-third-party-integrations-have-you-worked-on) — Medium
 
 ### Jenkins
 
-- [Explain the Jenkins pipeline you worked on.](../questions/jenkins/explain-the-jenkins-pipeline-you-worked-on.md) — Medium
-- [How did you add the Checkmarx (security scan) stage in Jenkins?](../questions/jenkins/how-did-you-add-the-checkmarx-security-scan-stage-in-jenkins.md) — Medium
-- [How did you configure SonarQube with Jenkins?](../questions/jenkins/how-did-you-configure-sonarqube-with-jenkins.md) — Medium
-- [How did you configure the Quality Gate in SonarQube?](../questions/jenkins/how-did-you-configure-the-quality-gate-in-sonarqube.md) — Medium
-- [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../questions/jenkins/if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t.md) — Medium
-- [What happens if the Quality Gate fails?](../questions/jenkins/what-happens-if-the-quality-gate-fails.md) — Medium
+- [Explain the Jenkins pipeline you worked on.](../topics/jenkins.md#explain-the-jenkins-pipeline-you-worked-on) — Medium
+- [How did you add the Checkmarx (security scan) stage in Jenkins?](../topics/jenkins.md#how-did-you-add-the-checkmarx-security-scan-stage-in-jenkins) — Medium
+- [How did you configure SonarQube with Jenkins?](../topics/jenkins.md#how-did-you-configure-sonarqube-with-jenkins) — Medium
+- [How did you configure the Quality Gate in SonarQube?](../topics/jenkins.md#how-did-you-configure-the-quality-gate-in-sonarqube) — Medium
+- [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — Medium
+- [What happens if the Quality Gate fails?](../topics/jenkins.md#what-happens-if-the-quality-gate-fails) — Medium
 
 ### Kubernetes
 
-- [How do you troubleshoot deployment failures?](../questions/kubernetes/how-do-you-troubleshoot-deployment-failures.md) — Medium
+- [How do you troubleshoot deployment failures?](../topics/kubernetes.md#how-do-you-troubleshoot-deployment-failures) — Medium
 
 ### Monitoring
 
-- [What monitoring tools have you used after deployment?](../questions/monitoring/what-monitoring-tools-have-you-used-after-deployment.md) — Medium
+- [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — Medium
 
 ### Python
 
-- [Do you have Python experience? How much exposure do you have?](../questions/python/do-you-have-python-experience-how-much-exposure-do-you-have.md) — Medium
+- [Do you have Python experience? How much exposure do you have?](../topics/python.md#do-you-have-python-experience-how-much-exposure-do-you-have) — Medium
 
 ### Security
 
-- [How do you review and coordinate security findings with development and security teams?](../questions/security/how-do-you-review-and-coordinate-security-findings-with-development-and-security.md) — Medium
+- [Did you generate SonarQube or Checkmarx reports every day?](../topics/security.md#did-you-generate-sonarqube-or-checkmarx-reports-every-day) — Medium
+- [Did you only trigger the scans, or did you also review and triage the violations?](../topics/security.md#did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations) — Medium
+- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../topics/security.md#did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results) — Medium
+- [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) — Medium
+- [How do you review and coordinate security findings with development and security teams?](../topics/security.md#how-do-you-review-and-coordinate-security-findings-with-development-and-security) — Medium
+- [What types of findings does SonarQube report?](../topics/security.md#what-types-of-findings-does-sonarqube-report) — Medium
+- [What types of vulnerabilities does Checkmarx detect?](../topics/security.md#what-types-of-vulnerabilities-does-checkmarx-detect) — Medium
 
-### Shell Scripting
+### System Design
 
-- [Explain your CPU monitoring script line by line.](../questions/shell-scripting/explain-your-cpu-monitoring-script-line-by-line.md) — Medium
-- [How would you schedule the cleanup script every week?](../questions/shell-scripting/how-would-you-schedule-the-cleanup-script-every-week.md) — Medium
-- [What automation tasks have you done using Shell scripting?](../questions/shell-scripting/what-automation-tasks-have-you-done-using-shell-scripting.md) — Medium
-- [What is the meaning of -mtime +7?](../questions/shell-scripting/what-is-the-meaning-of-mtime-7.md) — Medium
-- [What is the output of the following command? echo hi || echo hello](../questions/shell-scripting/what-is-the-output-of-the-following-command-echo-hi-echo-hello.md) — Medium
-- [Write a Shell script for weekly log cleanup.](../questions/shell-scripting/write-a-shell-script-for-weekly-log-cleanup.md) — Medium
-- [Write a Shell script to monitor CPU utilization.](../questions/shell-scripting/write-a-shell-script-to-monitor-cpu-utilization.md) — Medium
+- [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — Medium
 
-### SonarQube
+## Interview rounds
 
-- [Did you generate SonarQube or Checkmarx reports every day?](../questions/sonarqube/did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) — Medium
-- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../questions/sonarqube/did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md) — Medium
-- [Give an example where you helped resolve a SonarQube finding.](../questions/sonarqube/give-an-example-where-you-helped-resolve-a-sonarqube-finding.md) — Medium
-- [What types of findings does SonarQube report?](../questions/sonarqube/what-types-of-findings-does-sonarqube-report.md) — Medium
+- Final — 28
 
-### SonarQube & Checkmarx
+## Recently added
 
-- [Did you only trigger the scans, or did you also review and triage the violations?](../questions/sonarqube-checkmarx/did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations.md) — Medium
+- [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — 2026-07-15
+- [How do you troubleshoot deployment failures?](../topics/kubernetes.md#how-do-you-troubleshoot-deployment-failures) — 2026-07-15
+- [How do you review and coordinate security findings with development and security teams?](../topics/security.md#how-do-you-review-and-coordinate-security-findings-with-development-and-security) — 2026-07-15
+- [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) — 2026-07-15
+- [What is the meaning of -mtime +7?](../topics/bash.md#what-is-the-meaning-of-mtime-7) — 2026-07-15
+- [How would you schedule the cleanup script every week?](../topics/bash.md#how-would-you-schedule-the-cleanup-script-every-week) — 2026-07-15
+- [Write a Shell script for weekly log cleanup.](../topics/bash.md#write-a-shell-script-for-weekly-log-cleanup) — 2026-07-15
+- [Explain your CPU monitoring script line by line.](../topics/bash.md#explain-your-cpu-monitoring-script-line-by-line) — 2026-07-15
+- [Write a Shell script to monitor CPU utilization.](../topics/bash.md#write-a-shell-script-to-monitor-cpu-utilization) — 2026-07-15
+- [What types of vulnerabilities does Checkmarx detect?](../topics/security.md#what-types-of-vulnerabilities-does-checkmarx-detect) — 2026-07-15
 
-## Recently added / updated
-
-- [What monitoring tools have you used after deployment?](../questions/monitoring/what-monitoring-tools-have-you-used-after-deployment.md) (2026-07-15)
-- [How do you troubleshoot deployment failures?](../questions/kubernetes/how-do-you-troubleshoot-deployment-failures.md) (2026-07-15)
-- [How do you review and coordinate security findings with development and security teams?](../questions/security/how-do-you-review-and-coordinate-security-findings-with-development-and-security.md) (2026-07-15)
-- [What is the output of the following command? echo hi || echo hello](../questions/shell-scripting/what-is-the-output-of-the-following-command-echo-hi-echo-hello.md) (2026-07-15)
-- [What is the meaning of -mtime +7?](../questions/shell-scripting/what-is-the-meaning-of-mtime-7.md) (2026-07-15)
-- [How would you schedule the cleanup script every week?](../questions/shell-scripting/how-would-you-schedule-the-cleanup-script-every-week.md) (2026-07-15)
-- [Write a Shell script for weekly log cleanup.](../questions/shell-scripting/write-a-shell-script-for-weekly-log-cleanup.md) (2026-07-15)
-- [Explain your CPU monitoring script line by line.](../questions/shell-scripting/explain-your-cpu-monitoring-script-line-by-line.md) (2026-07-15)
-- [Write a Shell script to monitor CPU utilization.](../questions/shell-scripting/write-a-shell-script-to-monitor-cpu-utilization.md) (2026-07-15)
-- [What types of vulnerabilities does Checkmarx detect?](../questions/checkmarx/what-types-of-vulnerabilities-does-checkmarx-detect.md) (2026-07-15)
-
-## Related browsing
-
-- [All companies](./README.md)
-- [All topics](../topics/README.md)
-- [Browse by difficulty](../browse/by-difficulty/README.md)
-- [Most asked](../browse/by-frequency.md)
-
-[← Home](../README.md)
+[← All companies](./README.md) · [Home](../README.md)

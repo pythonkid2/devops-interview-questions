@@ -5,105 +5,88 @@
 ## Overview
 
 | Metric | Value |
-| --- | --- |
-| Unique questions | 13 |
-| Interview posts tracked | 1 |
-| Topics covered | 8 |
+| --- | ---: |
+| Questions | 13 |
+| Topics covered | 7 |
 
-## Difficulty distribution
+## Topics asked
 
-- **Easy**: 0 `░░░░░░░░░░░░░░░░░░░░`
-- **Medium**: 13 `████████████████████`
-- **Hard**: 0 `░░░░░░░░░░░░░░░░░░░░`
+- [Kubernetes](../topics/kubernetes.md) — 4
+- [AWS](../topics/aws.md) — 2
+- [General](../topics/general.md) — 2
+- [Security](../topics/security.md) — 2
+- [Ansible](../topics/ansible.md) — 1
+- [Python](../topics/python.md) — 1
+- [Terraform](../topics/terraform.md) — 1
 
-## Question categories (topics)
+## Most repeated
 
-- [Kubernetes](../topics/kubernetes.md) — 4 question(s)
-- [AWS](../topics/aws.md) — 2 question(s)
-- [Security](../topics/security.md) — 2 question(s)
-- [Ansible](../topics/ansible.md) — 1 question(s)
-- [General](../topics/general.md) — 1 question(s)
-- [Microservices](../topics/microservices.md) — 1 question(s)
-- [Python](../topics/python.md) — 1 question(s)
-- [Terraform](../topics/terraform.md) — 1 question(s)
+- [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — 2× · Kubernetes
+- [Can you automate Kubernetes deployment?](../topics/kubernetes.md#can-you-automate-kubernetes-deployment) — 1× · Kubernetes
+- [For what purpose did you use Ansible?](../topics/ansible.md#for-what-purpose-did-you-use-ansible) — 1× · Ansible
+- [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) — 1× · Security
+- [How do you automate Kubernetes deployment?](../topics/kubernetes.md#how-do-you-automate-kubernetes-deployment) — 1× · Kubernetes
+- [Suppose you have a monolithic application and want to convert it into microservices. What would you do?](../topics/general.md#suppose-you-have-a-monolithic-application-and-want-to-convert-it-into-microservi) — 1× · General
+- [What AWS services are you currently using?](../topics/aws.md#what-aws-services-are-you-currently-using) — 1× · AWS
+- [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) — 1× · AWS
+- [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/kubernetes.md#what-do-you-mean-by-rbac-iam-kubernetes-context) — 1× · Kubernetes
+- [What happens if the port is already in use?](../topics/general.md#what-happens-if-the-port-is-already-in-use) — 1× · General
+- [What is the best way to save credentials? Where should credentials be stored?](../topics/security.md#what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored) — 1× · Security
+- [What is the difference between a .tf file and variables in Terraform?](../topics/terraform.md#what-is-the-difference-between-a-tf-file-and-variables-in-terraform) — 1× · Terraform
+- [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../topics/python.md#you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-) — 1× · Python
 
-## Interview rounds
-
-- [unknown](../browse/by-round/unknown.md) — 12
-
-## Frequently asked
-
-- [What is Blue-Green Deployment?](../questions/kubernetes/what-is-blue-green-deployment.md) — Kubernetes · Medium · 2×
-- [Can you automate Kubernetes deployment?](../questions/kubernetes/can-you-automate-kubernetes-deployment.md) — Kubernetes · Medium · 1×
-- [For what purpose did you use Ansible?](../questions/ansible/for-what-purpose-did-you-use-ansible.md) — Ansible · Medium · 1×
-- [Have you worked on anything related to security during your current role?](../questions/security/have-you-worked-on-anything-related-to-security-during-your-current-role.md) — Security · Medium · 1×
-- [How do you automate Kubernetes deployment?](../questions/kubernetes/how-do-you-automate-kubernetes-deployment.md) — Kubernetes · Medium · 1×
-- [Suppose you have a monolithic application and want to convert it into microservices. What would you do?](../questions/microservices/suppose-you-have-a-monolithic-application-and-want-to-convert-it-into-microservi.md) — Microservices · Medium · 1×
-- [What AWS services are you currently using?](../questions/aws/what-aws-services-are-you-currently-using.md) — AWS · Medium · 1×
-- [What AWS services have you used? Explain your experience in detail.](../questions/aws/what-aws-services-have-you-used-explain-your-experience-in-detail.md) — AWS · Medium · 1×
-- [What do you mean by RBAC? (IAM/Kubernetes context.)](../questions/kubernetes/what-do-you-mean-by-rbac-iam-kubernetes-context.md) — Kubernetes · Medium · 1×
-- [What happens if the port is already in use?](../questions/general/what-happens-if-the-port-is-already-in-use.md) — General · Medium · 1×
-- [What is the best way to save credentials? Where should credentials be stored?](../questions/security/what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored.md) — Security · Medium · 1×
-- [What is the difference between a .tf file and variables in Terraform?](../questions/terraform/what-is-the-difference-between-a-tf-file-and-variables-in-terraform.md) — Terraform · Medium · 1×
-- [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../questions/python/you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-.md) — Python · Medium · 1×
-
-## Questions by topic
+## By topic
 
 ### Ansible
 
-- [For what purpose did you use Ansible?](../questions/ansible/for-what-purpose-did-you-use-ansible.md) — Medium
+- [For what purpose did you use Ansible?](../topics/ansible.md#for-what-purpose-did-you-use-ansible) — Medium
 
 ### AWS
 
-- [What AWS services are you currently using?](../questions/aws/what-aws-services-are-you-currently-using.md) — Medium
-- [What AWS services have you used? Explain your experience in detail.](../questions/aws/what-aws-services-have-you-used-explain-your-experience-in-detail.md) — Medium
+- [What AWS services are you currently using?](../topics/aws.md#what-aws-services-are-you-currently-using) — Medium
+- [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) — Medium
 
 ### General
 
-- [What happens if the port is already in use?](../questions/general/what-happens-if-the-port-is-already-in-use.md) — Medium
+- [Suppose you have a monolithic application and want to convert it into microservices. What would you do?](../topics/general.md#suppose-you-have-a-monolithic-application-and-want-to-convert-it-into-microservi) — Medium
+- [What happens if the port is already in use?](../topics/general.md#what-happens-if-the-port-is-already-in-use) — Medium
 
 ### Kubernetes
 
-- [Can you automate Kubernetes deployment?](../questions/kubernetes/can-you-automate-kubernetes-deployment.md) — Medium
-- [How do you automate Kubernetes deployment?](../questions/kubernetes/how-do-you-automate-kubernetes-deployment.md) — Medium
-- [What do you mean by RBAC? (IAM/Kubernetes context.)](../questions/kubernetes/what-do-you-mean-by-rbac-iam-kubernetes-context.md) — Medium
-- [What is Blue-Green Deployment?](../questions/kubernetes/what-is-blue-green-deployment.md) — Medium
-
-### Microservices
-
-- [Suppose you have a monolithic application and want to convert it into microservices. What would you do?](../questions/microservices/suppose-you-have-a-monolithic-application-and-want-to-convert-it-into-microservi.md) — Medium
+- [Can you automate Kubernetes deployment?](../topics/kubernetes.md#can-you-automate-kubernetes-deployment) — Medium
+- [How do you automate Kubernetes deployment?](../topics/kubernetes.md#how-do-you-automate-kubernetes-deployment) — Medium
+- [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/kubernetes.md#what-do-you-mean-by-rbac-iam-kubernetes-context) — Medium
+- [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — Medium
 
 ### Python
 
-- [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../questions/python/you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-.md) — Medium
+- [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../topics/python.md#you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-) — Medium
 
 ### Security
 
-- [Have you worked on anything related to security during your current role?](../questions/security/have-you-worked-on-anything-related-to-security-during-your-current-role.md) — Medium
-- [What is the best way to save credentials? Where should credentials be stored?](../questions/security/what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored.md) — Medium
+- [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) — Medium
+- [What is the best way to save credentials? Where should credentials be stored?](../topics/security.md#what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored) — Medium
 
 ### Terraform
 
-- [What is the difference between a .tf file and variables in Terraform?](../questions/terraform/what-is-the-difference-between-a-tf-file-and-variables-in-terraform.md) — Medium
+- [What is the difference between a .tf file and variables in Terraform?](../topics/terraform.md#what-is-the-difference-between-a-tf-file-and-variables-in-terraform) — Medium
 
-## Recently added / updated
+## Interview rounds
 
-- [What is the best way to save credentials? Where should credentials be stored?](../questions/security/what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored.md) (2026-07-15)
-- [What is Blue-Green Deployment?](../questions/kubernetes/what-is-blue-green-deployment.md) (2026-07-15)
-- [What do you mean by RBAC? (IAM/Kubernetes context.)](../questions/kubernetes/what-do-you-mean-by-rbac-iam-kubernetes-context.md) (2026-07-15)
-- [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../questions/python/you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-.md) (2026-07-15)
-- [For what purpose did you use Ansible?](../questions/ansible/for-what-purpose-did-you-use-ansible.md) (2026-07-15)
-- [What AWS services have you used? Explain your experience in detail.](../questions/aws/what-aws-services-have-you-used-explain-your-experience-in-detail.md) (2026-07-15)
-- [What happens if the port is already in use?](../questions/general/what-happens-if-the-port-is-already-in-use.md) (2026-07-15)
-- [How do you automate Kubernetes deployment?](../questions/kubernetes/how-do-you-automate-kubernetes-deployment.md) (2026-07-15)
-- [Can you automate Kubernetes deployment?](../questions/kubernetes/can-you-automate-kubernetes-deployment.md) (2026-07-15)
-- [Have you worked on anything related to security during your current role?](../questions/security/have-you-worked-on-anything-related-to-security-during-your-current-role.md) (2026-07-15)
+- Other — 12
+- Unspecified — 1
 
-## Related browsing
+## Recently added
 
-- [All companies](./README.md)
-- [All topics](../topics/README.md)
-- [Browse by difficulty](../browse/by-difficulty/README.md)
-- [Most asked](../browse/by-frequency.md)
+- [What is the best way to save credentials? Where should credentials be stored?](../topics/security.md#what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored) — 2026-07-15
+- [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — 2026-07-15
+- [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/kubernetes.md#what-do-you-mean-by-rbac-iam-kubernetes-context) — 2026-07-15
+- [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../topics/python.md#you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-) — 2026-07-15
+- [For what purpose did you use Ansible?](../topics/ansible.md#for-what-purpose-did-you-use-ansible) — 2026-07-15
+- [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) — 2026-07-15
+- [What happens if the port is already in use?](../topics/general.md#what-happens-if-the-port-is-already-in-use) — 2026-07-15
+- [How do you automate Kubernetes deployment?](../topics/kubernetes.md#how-do-you-automate-kubernetes-deployment) — 2026-07-15
+- [Can you automate Kubernetes deployment?](../topics/kubernetes.md#can-you-automate-kubernetes-deployment) — 2026-07-15
+- [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) — 2026-07-15
 
-[← Home](../README.md)
+[← All companies](./README.md) · [Home](../README.md)

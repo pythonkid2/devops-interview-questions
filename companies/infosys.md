@@ -5,93 +5,81 @@
 ## Overview
 
 | Metric | Value |
-| --- | --- |
-| Unique questions | 13 |
-| Interview posts tracked | 1 |
-| Topics covered | 5 |
+| --- | ---: |
+| Questions | 12 |
+| Topics covered | 6 |
 
-## Difficulty distribution
+## Topics asked
 
-- **Easy**: 0 `░░░░░░░░░░░░░░░░░░░░`
-- **Medium**: 8 `████████████░░░░░░░░`
-- **Hard**: 5 `████████░░░░░░░░░░░░`
+- [General](../topics/general.md) — 6
+- [CI/CD](../topics/ci-cd.md) — 2
+- [AWS](../topics/aws.md) — 1
+- [Disaster Recovery](../topics/disaster-recovery.md) — 1
+- [Kubernetes](../topics/kubernetes.md) — 1
+- [System Design](../topics/system-design.md) — 1
 
-## Question categories (topics)
+## Most repeated
 
-- [General](../topics/general.md) — 7 question(s)
-- [AWS](../topics/aws.md) — 2 question(s)
-- [CI/CD](../topics/ci-cd.md) — 2 question(s)
-- [Disaster Recovery](../topics/disaster-recovery.md) — 1 question(s)
-- [Kubernetes](../topics/kubernetes.md) — 1 question(s)
+- [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) — 1× · General
+- [Can adhering strictly to the Single Responsibility Principle in large distributed systems increase overall system complexity and make maintenance more difficult?](../topics/general.md#can-adhering-strictly-to-the-single-responsibility-principle-in-large-distribute) — 1× · General
+- [Design an end-to-end automated deployment solution for multiple environments.](../topics/kubernetes.md#design-an-end-to-end-automated-deployment-solution-for-multiple-environments) — 1× · Kubernetes
+- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — 1× · System Design
+- [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — 1× · CI/CD
+- [How would you handle resistance from team members while adopting DevOps tools and practices?](../topics/general.md#how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an) — 1× · General
+- [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../topics/general.md#how-would-you-manage-data-consistency-and-transactions-across-microservices-depl) — 1× · General
+- [How would you measure the success of your automation initiative?](../topics/general.md#how-would-you-measure-the-success-of-your-automation-initiative) — 1× · General
+- [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 1× · Disaster Recovery
+- [In a well-designed CI/CD pipeline for a critical banking application, is it acceptable to push code directly to production without automated testing if the developer is confident and time is limited?](../topics/ci-cd.md#in-a-well-designed-ci-cd-pipeline-for-a-critical-banking-application-is-it-accep) — 1× · CI/CD
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 1× · AWS
+- [Your team is experiencing frequent production outages due to inconsistent environments and manual deployments. What DevOps strategy would you implement?](../topics/general.md#your-team-is-experiencing-frequent-production-outages-due-to-inconsistent-enviro) — 1× · General
 
-## Interview rounds
-
-- [First Round](../browse/by-round/first-round.md) — 13
-
-## Frequently asked
-
-- [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../questions/general/a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho.md) — General · Medium · 1×
-- [As an AWS and DevOps Senior Consultant, design a secure, scalable, and highly available architecture for a global SaaS product.](../questions/aws/as-an-aws-and-devops-senior-consultant-design-a-secure-scalable-and-highly-avail.md) — AWS · Hard · 1×
-- [Can adhering strictly to the Single Responsibility Principle in large distributed systems increase overall system complexity and make maintenance more difficult?](../questions/general/can-adhering-strictly-to-the-single-responsibility-principle-in-large-distribute.md) — General · Medium · 1×
-- [Design an end-to-end automated deployment solution for multiple environments.](../questions/kubernetes/design-an-end-to-end-automated-deployment-solution-for-multiple-environments.md) — Kubernetes · Hard · 1×
-- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../questions/general/design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a.md) — General · Hard · 1×
-- [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../questions/ci-cd/how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-.md) — CI/CD · Hard · 1×
-- [How would you handle resistance from team members while adopting DevOps tools and practices?](../questions/general/how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an.md) — General · Medium · 1×
-- [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../questions/general/how-would-you-manage-data-consistency-and-transactions-across-microservices-depl.md) — General · Hard · 1×
-- [How would you measure the success of your automation initiative?](../questions/general/how-would-you-measure-the-success-of-your-automation-initiative.md) — General · Medium · 1×
-- [How would you structure the failover process during a regional outage?](../questions/disaster-recovery/how-would-you-structure-the-failover-process-during-a-regional-outage.md) — Disaster Recovery · Medium · 1×
-- [In a well-designed CI/CD pipeline for a critical banking application, is it acceptable to push code directly to production without automated testing if the developer is confident and time is limited?](../questions/ci-cd/in-a-well-designed-ci-cd-pipeline-for-a-critical-banking-application-is-it-accep.md) — CI/CD · Medium · 1×
-- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../questions/aws/which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform.md) — AWS · Medium · 1×
-- [Your team is experiencing frequent production outages due to inconsistent environments and manual deployments. What DevOps strategy would you implement?](../questions/general/your-team-is-experiencing-frequent-production-outages-due-to-inconsistent-enviro.md) — General · Medium · 1×
-
-## Questions by topic
+## By topic
 
 ### AWS
 
-- [As an AWS and DevOps Senior Consultant, design a secure, scalable, and highly available architecture for a global SaaS product.](../questions/aws/as-an-aws-and-devops-senior-consultant-design-a-secure-scalable-and-highly-avail.md) — Hard
-- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../questions/aws/which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform.md) — Medium
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — Medium
 
 ### CI/CD
 
-- [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../questions/ci-cd/how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-.md) — Hard
-- [In a well-designed CI/CD pipeline for a critical banking application, is it acceptable to push code directly to production without automated testing if the developer is confident and time is limited?](../questions/ci-cd/in-a-well-designed-ci-cd-pipeline-for-a-critical-banking-application-is-it-accep.md) — Medium
+- [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — Hard
+- [In a well-designed CI/CD pipeline for a critical banking application, is it acceptable to push code directly to production without automated testing if the developer is confident and time is limited?](../topics/ci-cd.md#in-a-well-designed-ci-cd-pipeline-for-a-critical-banking-application-is-it-accep) — Medium
 
 ### Disaster Recovery
 
-- [How would you structure the failover process during a regional outage?](../questions/disaster-recovery/how-would-you-structure-the-failover-process-during-a-regional-outage.md) — Medium
+- [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — Medium
 
 ### General
 
-- [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../questions/general/a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho.md) — Medium
-- [Can adhering strictly to the Single Responsibility Principle in large distributed systems increase overall system complexity and make maintenance more difficult?](../questions/general/can-adhering-strictly-to-the-single-responsibility-principle-in-large-distribute.md) — Medium
-- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../questions/general/design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a.md) — Hard
-- [How would you handle resistance from team members while adopting DevOps tools and practices?](../questions/general/how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an.md) — Medium
-- [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../questions/general/how-would-you-manage-data-consistency-and-transactions-across-microservices-depl.md) — Hard
-- [How would you measure the success of your automation initiative?](../questions/general/how-would-you-measure-the-success-of-your-automation-initiative.md) — Medium
-- [Your team is experiencing frequent production outages due to inconsistent environments and manual deployments. What DevOps strategy would you implement?](../questions/general/your-team-is-experiencing-frequent-production-outages-due-to-inconsistent-enviro.md) — Medium
+- [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) — Medium
+- [Can adhering strictly to the Single Responsibility Principle in large distributed systems increase overall system complexity and make maintenance more difficult?](../topics/general.md#can-adhering-strictly-to-the-single-responsibility-principle-in-large-distribute) — Medium
+- [How would you handle resistance from team members while adopting DevOps tools and practices?](../topics/general.md#how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an) — Medium
+- [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../topics/general.md#how-would-you-manage-data-consistency-and-transactions-across-microservices-depl) — Hard
+- [How would you measure the success of your automation initiative?](../topics/general.md#how-would-you-measure-the-success-of-your-automation-initiative) — Medium
+- [Your team is experiencing frequent production outages due to inconsistent environments and manual deployments. What DevOps strategy would you implement?](../topics/general.md#your-team-is-experiencing-frequent-production-outages-due-to-inconsistent-enviro) — Medium
 
 ### Kubernetes
 
-- [Design an end-to-end automated deployment solution for multiple environments.](../questions/kubernetes/design-an-end-to-end-automated-deployment-solution-for-multiple-environments.md) — Hard
+- [Design an end-to-end automated deployment solution for multiple environments.](../topics/kubernetes.md#design-an-end-to-end-automated-deployment-solution-for-multiple-environments) — Hard
 
-## Recently added / updated
+### System Design
 
-- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../questions/aws/which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform.md) (2026-07-15)
-- [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../questions/general/a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho.md) (2026-07-15)
-- [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../questions/general/how-would-you-manage-data-consistency-and-transactions-across-microservices-depl.md) (2026-07-15)
-- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../questions/general/design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a.md) (2026-07-15)
-- [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../questions/ci-cd/how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-.md) (2026-07-15)
-- [How would you measure the success of your automation initiative?](../questions/general/how-would-you-measure-the-success-of-your-automation-initiative.md) (2026-07-15)
-- [Design an end-to-end automated deployment solution for multiple environments.](../questions/kubernetes/design-an-end-to-end-automated-deployment-solution-for-multiple-environments.md) (2026-07-15)
-- [How would you handle resistance from team members while adopting DevOps tools and practices?](../questions/general/how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an.md) (2026-07-15)
-- [Your team is experiencing frequent production outages due to inconsistent environments and manual deployments. What DevOps strategy would you implement?](../questions/general/your-team-is-experiencing-frequent-production-outages-due-to-inconsistent-enviro.md) (2026-07-15)
-- [How would you structure the failover process during a regional outage?](../questions/disaster-recovery/how-would-you-structure-the-failover-process-during-a-regional-outage.md) (2026-07-15)
+- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — Hard
 
-## Related browsing
+## Interview rounds
 
-- [All companies](./README.md)
-- [All topics](../topics/README.md)
-- [Browse by difficulty](../browse/by-difficulty/README.md)
-- [Most asked](../browse/by-frequency.md)
+- Technical Round 1 — 12
 
-[← Home](../README.md)
+## Recently added
+
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 2026-07-15
+- [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) — 2026-07-15
+- [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../topics/general.md#how-would-you-manage-data-consistency-and-transactions-across-microservices-depl) — 2026-07-15
+- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — 2026-07-15
+- [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — 2026-07-15
+- [How would you measure the success of your automation initiative?](../topics/general.md#how-would-you-measure-the-success-of-your-automation-initiative) — 2026-07-15
+- [Design an end-to-end automated deployment solution for multiple environments.](../topics/kubernetes.md#design-an-end-to-end-automated-deployment-solution-for-multiple-environments) — 2026-07-15
+- [How would you handle resistance from team members while adopting DevOps tools and practices?](../topics/general.md#how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an) — 2026-07-15
+- [Your team is experiencing frequent production outages due to inconsistent environments and manual deployments. What DevOps strategy would you implement?](../topics/general.md#your-team-is-experiencing-frequent-production-outages-due-to-inconsistent-enviro) — 2026-07-15
+- [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 2026-07-15
+
+[← All companies](./README.md) · [Home](../README.md)

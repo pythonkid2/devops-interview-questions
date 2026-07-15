@@ -5,78 +5,56 @@
 ## Overview
 
 | Metric | Value |
-| --- | --- |
-| Unique questions | 7 |
-| Interview posts tracked | 1 |
-| Topics covered | 5 |
+| --- | ---: |
+| Questions | 7 |
+| Topics covered | 4 |
 
-## Difficulty distribution
+## Topics asked
 
-- **Easy**: 0 `░░░░░░░░░░░░░░░░░░░░`
-- **Medium**: 3 `█████████░░░░░░░░░░░`
-- **Hard**: 4 `███████████░░░░░░░░░`
+- [General](../topics/general.md) — 4
+- [Azure](../topics/azure.md) — 1
+- [CI/CD](../topics/ci-cd.md) — 1
+- [Security](../topics/security.md) — 1
 
-## Question categories (topics)
+## Most repeated
 
-- [General](../topics/general.md) — 3 question(s)
-- [Azure](../topics/azure.md) — 1 question(s)
-- [Azure DevOps](../topics/azure-devops.md) — 1 question(s)
-- [Power Platform](../topics/power-platform.md) — 1 question(s)
-- [Security](../topics/security.md) — 1 question(s)
+- [How do you ensure flows don't get disabled after 90 days?](../topics/general.md#how-do-you-ensure-flows-don-t-get-disabled-after-90-days) — 2× · General
+- [How do you handle delegation when working with more than 100,000 records?](../topics/general.md#how-do-you-handle-delegation-when-working-with-more-than-100000-records) — 2× · General
+- [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps) — 2× · Security
+- [How do you manage ALM with Power Platform Gateway?](../topics/general.md#how-do-you-manage-alm-with-power-platform-gateway) — 2× · General
+- [How do you modify a managed solution in production without restarting the entire lifecycle?](../topics/general.md#how-do-you-modify-a-managed-solution-in-production-without-restarting-the-entire) — 2× · General
+- [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — 2× · Azure
+- [Why does a Canvas App work perfectly in Dev but fail in Production, and how do you troubleshoot it?](../topics/ci-cd.md#why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo) — 2× · CI/CD
 
-## Interview rounds
-
-_Not specified in source posts._
-
-## Frequently asked
-
-- [How do you ensure flows don't get disabled after 90 days?](../questions/general/how-do-you-ensure-flows-don-t-get-disabled-after-90-days.md) — General · Medium · 1×
-- [How do you handle delegation when working with more than 100,000 records?](../questions/power-platform/how-do-you-handle-delegation-when-working-with-more-than-100000-records.md) — Power Platform · Medium · 1×
-- [How do you implement security across multiple data sources in Canvas Apps?](../questions/security/how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps.md) — Security · Hard · 1×
-- [How do you manage ALM with Power Platform Gateway?](../questions/general/how-do-you-manage-alm-with-power-platform-gateway.md) — General · Medium · 1×
-- [How do you modify a managed solution in production without restarting the entire lifecycle?](../questions/general/how-do-you-modify-a-managed-solution-in-production-without-restarting-the-entire.md) — General · Hard · 1×
-- [When would you choose an Azure Function over Power Automate?](../questions/azure/when-would-you-choose-an-azure-function-over-power-automate.md) — Azure · Hard · 1×
-- [Why does a Canvas App work perfectly in Dev but fail in Production, and how do you troubleshoot it?](../questions/azure-devops/why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo.md) — Azure DevOps · Hard · 1×
-
-## Questions by topic
+## By topic
 
 ### Azure
 
-- [When would you choose an Azure Function over Power Automate?](../questions/azure/when-would-you-choose-an-azure-function-over-power-automate.md) — Hard
+- [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — Hard
 
-### Azure DevOps
+### CI/CD
 
-- [Why does a Canvas App work perfectly in Dev but fail in Production, and how do you troubleshoot it?](../questions/azure-devops/why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo.md) — Hard
+- [Why does a Canvas App work perfectly in Dev but fail in Production, and how do you troubleshoot it?](../topics/ci-cd.md#why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo) — Hard
 
 ### General
 
-- [How do you ensure flows don't get disabled after 90 days?](../questions/general/how-do-you-ensure-flows-don-t-get-disabled-after-90-days.md) — Medium
-- [How do you manage ALM with Power Platform Gateway?](../questions/general/how-do-you-manage-alm-with-power-platform-gateway.md) — Medium
-- [How do you modify a managed solution in production without restarting the entire lifecycle?](../questions/general/how-do-you-modify-a-managed-solution-in-production-without-restarting-the-entire.md) — Hard
-
-### Power Platform
-
-- [How do you handle delegation when working with more than 100,000 records?](../questions/power-platform/how-do-you-handle-delegation-when-working-with-more-than-100000-records.md) — Medium
+- [How do you ensure flows don't get disabled after 90 days?](../topics/general.md#how-do-you-ensure-flows-don-t-get-disabled-after-90-days) — Medium
+- [How do you handle delegation when working with more than 100,000 records?](../topics/general.md#how-do-you-handle-delegation-when-working-with-more-than-100000-records) — Medium
+- [How do you manage ALM with Power Platform Gateway?](../topics/general.md#how-do-you-manage-alm-with-power-platform-gateway) — Medium
+- [How do you modify a managed solution in production without restarting the entire lifecycle?](../topics/general.md#how-do-you-modify-a-managed-solution-in-production-without-restarting-the-entire) — Hard
 
 ### Security
 
-- [How do you implement security across multiple data sources in Canvas Apps?](../questions/security/how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps.md) — Hard
+- [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps) — Hard
 
-## Recently added / updated
+## Recently added
 
-- [Why does a Canvas App work perfectly in Dev but fail in Production, and how do you troubleshoot it?](../questions/azure-devops/why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo.md) (2026-07-15)
-- [How do you implement security across multiple data sources in Canvas Apps?](../questions/security/how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps.md) (2026-07-15)
-- [How do you ensure flows don't get disabled after 90 days?](../questions/general/how-do-you-ensure-flows-don-t-get-disabled-after-90-days.md) (2026-07-15)
-- [How do you modify a managed solution in production without restarting the entire lifecycle?](../questions/general/how-do-you-modify-a-managed-solution-in-production-without-restarting-the-entire.md) (2026-07-15)
-- [How do you manage ALM with Power Platform Gateway?](../questions/general/how-do-you-manage-alm-with-power-platform-gateway.md) (2026-07-15)
-- [When would you choose an Azure Function over Power Automate?](../questions/azure/when-would-you-choose-an-azure-function-over-power-automate.md) (2026-07-15)
-- [How do you handle delegation when working with more than 100,000 records?](../questions/power-platform/how-do-you-handle-delegation-when-working-with-more-than-100000-records.md) (2026-07-15)
+- [Why does a Canvas App work perfectly in Dev but fail in Production, and how do you troubleshoot it?](../topics/ci-cd.md#why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo) — 2026-07-15
+- [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps) — 2026-07-15
+- [How do you ensure flows don't get disabled after 90 days?](../topics/general.md#how-do-you-ensure-flows-don-t-get-disabled-after-90-days) — 2026-07-15
+- [How do you modify a managed solution in production without restarting the entire lifecycle?](../topics/general.md#how-do-you-modify-a-managed-solution-in-production-without-restarting-the-entire) — 2026-07-15
+- [How do you manage ALM with Power Platform Gateway?](../topics/general.md#how-do-you-manage-alm-with-power-platform-gateway) — 2026-07-15
+- [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — 2026-07-15
+- [How do you handle delegation when working with more than 100,000 records?](../topics/general.md#how-do-you-handle-delegation-when-working-with-more-than-100000-records) — 2026-07-15
 
-## Related browsing
-
-- [All companies](./README.md)
-- [All topics](../topics/README.md)
-- [Browse by difficulty](../browse/by-difficulty/README.md)
-- [Most asked](../browse/by-frequency.md)
-
-[← Home](../README.md)
+[← All companies](./README.md) · [Home](../README.md)

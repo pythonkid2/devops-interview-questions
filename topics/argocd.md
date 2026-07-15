@@ -2,57 +2,82 @@
 
 [Home](../README.md) > [Topics](./README.md) > **ArgoCD**
 
-**0** interview questions tagged `ArgoCD`.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
+
+| | |
+| --- | ---: |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 1 / 1 |
+| Companies | 0 |
+
+## Most asked
+
+- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — **2×** · Hard · tags: `GitOps`
+  <a id="design-a-gitops-workflow-for-20-teams-with-independent-release-cycles"></a>
+- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — **1×** · Medium
+  <a id="what-is-the-difference-between-gitops-and-traditional-devops"></a>
+
+## Beginner
 
 _None in this band yet._
 
-## Intermediate (Medium)
+## Intermediate
 
-_None in this band yet._
+- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 1×
+  <a id="what-is-the-difference-between-gitops-and-traditional-devops"></a>
 
-## Advanced (Hard)
+## Advanced
 
-_None in this band yet._
+- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 2× · tags: `GitOps`
+  <a id="design-a-gitops-workflow-for-20-teams-with-independent-release-cycles"></a>
 
-## Frequently asked
+## By interview round
 
-_None yet._
+### Unspecified
 
-## Rare questions
-
-_None yet._
+- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — tags: `GitOps`
+- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops)
 
 ## Companies asking
 
-_Not attributed yet._
+- [Unknown Company](../companies/unknown-company.md)
+
+## Recently added
+
+- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 2026-07-15 · tags: `GitOps`
+- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 2026-07-15
 
 ## Related topics
 
-- [Kubernetes](./kubernetes.md)
 - [Docker](./docker.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [AWS](./aws.md)
-- [Jenkins](./jenkins.md)
-- [CI/CD](./ci-cd.md)
-- [Security](./security.md)
+- [Kubernetes](./kubernetes.md)
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) | Hard | 2 |
+| [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) | Medium | 1 |
 
 ## Learning resources
 
-- Review [ArgoCD on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)

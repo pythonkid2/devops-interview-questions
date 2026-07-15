@@ -5,44 +5,26 @@
 ## Overview
 
 | Metric | Value |
-| --- | --- |
-| Unique questions | 1 |
-| Interview posts tracked | 1 |
+| --- | ---: |
+| Questions | 1 |
 | Topics covered | 1 |
 
-## Difficulty distribution
+## Topics asked
 
-- **Easy**: 0 `░░░░░░░░░░░░░░░░░░░░`
-- **Medium**: 1 `████████████████████`
-- **Hard**: 0 `░░░░░░░░░░░░░░░░░░░░`
+- [Azure](../topics/azure.md) — 1
 
-## Question categories (topics)
+## Most repeated
 
-- [Azure|Terraform|Docker](../topics/azure-terraform-docker.md) — 1 question(s)
+- [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — 1× · Azure
 
-## Interview rounds
+## By topic
 
-_Not specified in source posts._
+### Azure
 
-## Frequently asked
+- [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — Medium
 
-- [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../questions/azure-terraform-docker/design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t.md) — Azure|Terraform|Docker · Medium · 1×
+## Recently added
 
-## Questions by topic
+- [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — 2026-07-15
 
-### Azure|Terraform|Docker
-
-- [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../questions/azure-terraform-docker/design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t.md) — Medium
-
-## Recently added / updated
-
-- [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../questions/azure-terraform-docker/design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t.md) (2026-07-15)
-
-## Related browsing
-
-- [All companies](./README.md)
-- [All topics](../topics/README.md)
-- [Browse by difficulty](../browse/by-difficulty/README.md)
-- [Most asked](../browse/by-frequency.md)
-
-[← Home](../README.md)
+[← All companies](./README.md) · [Home](../README.md)

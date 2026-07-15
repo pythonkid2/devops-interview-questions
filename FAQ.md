@@ -1,32 +1,23 @@
 # FAQ
 
-> Home: [README](./README.md)
+> [Home](./README.md)
 
-## How do I find Amazon / PwC / TCS questions fast?
+## How do I study Kubernetes / AWS / Terraform fast?
 
-Open [Companies](./companies/README.md) and click the company name.
+Open [Topics](./topics/README.md) → click the technology. That one page is your study guide.
 
-## How do I study Kubernetes / Terraform / AWS / DR / AIOps?
+## How do I find questions asked at PwC / TCS / Infosys?
 
-Open [Topics](./topics/README.md). Topics are grouped for a DevOps study path:
+Open [Companies](./companies/README.md).
 
-- **Reliability & SRE** — Disaster Recovery, HA, Incident Management, On-Call, Chaos
-- **Observability & AIOps** — Monitoring, Prometheus, Grafana, OpenTelemetry, AIOps
-- **Cloud / K8s / IaC / CI/CD** — AWS, Azure, GCP, Kubernetes, Terraform, Jenkins, …
+## What should I practice the night before?
 
-## How do I practice Easy vs Hard questions?
-
-Use [Browse by difficulty](./browse/by-difficulty/README.md).
-
-## What are the most repeated questions?
-
-See [Most asked](./browse/by-frequency.md).
+[Most asked](./study-guides/most-asked.md) and then your target [topic](./topics/README.md).
 
 ## Why are some answers empty?
 
-Extraction can run without answer enrichment (`enrich_answers: false`) to save LLM quota.
-Enable enrichment in the crawler config, or [contribute answers](./CONTRIBUTING.md).
+Answer enrichment is optional (`enrich_answers` in the collector). Questions still publish — answers fill in when enrichment runs or contributors add them.
 
-## How is this repository updated?
+## Where do questions come from?
 
-A pipeline crawls LinkedIn interview posts, extracts questions with an LLM, deduplicates them, and regenerates these Markdown pages.
+Public LinkedIn interview-experience posts, extracted and deduplicated into this knowledge base.

@@ -2,72 +2,144 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**6** interview questions tagged `Monitoring`.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
 
-- [Difference between logs, metrics, and traces.](../questions/monitoring/difference-between-logs-metrics-and-traces.md) — asked 1×
+| | |
+| --- | ---: |
+| Questions | 10 |
+| Easy / Medium / Hard | 2 / 7 / 1 |
+| Companies | 5 |
 
-## Intermediate (Medium)
+## Most asked
 
-- [Explain your monitoring and alerting strategy.](../questions/monitoring/explain-your-monitoring-and-alerting-strategy.md) — asked 1×
-- [How do you investigate a sudden spike in application latency?](../questions/monitoring/how-do-you-investigate-a-sudden-spike-in-application-latency.md) — asked 1×
-- [Monitoring shows increased latency across services. How do you isolate the issue?](../questions/monitoring/monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue.md) — asked 2×
-- [Monitoring, Troubleshooting & Production Support](../questions/monitoring/monitoring-troubleshooting-production-support.md) — asked 1×
-- [What monitoring tools have you used after deployment?](../questions/monitoring/what-monitoring-tools-have-you-used-after-deployment.md) — asked 2×
+- [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) — **2×** · Medium
+  <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
+- [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — **2×** · Medium
+  <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
+- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — **1×** · Hard
+  <a id="can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios"></a>
+- [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — **1×** · Easy
+  <a id="difference-between-logs-metrics-and-traces"></a>
+- [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — **1×** · Medium
+  <a id="explain-your-monitoring-and-alerting-strategy"></a>
+- [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) — **1×** · Medium
+  <a id="how-do-you-investigate-a-sudden-spike-in-application-latency"></a>
+- [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — **1×** · Medium
+  <a id="infrastructure-monitoring-troubleshooting"></a>
+- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — **1×** · Easy
+  <a id="monitoring-logging-cloudwatch-prometheus-elk-stack"></a>
+- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — **1×** · Medium
+  <a id="monitoring-troubleshooting-production-support"></a>
+- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — **1×** · Medium
+  <a id="what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool"></a>
 
-## Advanced (Hard)
+## Beginner
 
-_None in this band yet._
+- [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — 1×
+  <a id="difference-between-logs-metrics-and-traces"></a>
+- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 1×
+  <a id="monitoring-logging-cloudwatch-prometheus-elk-stack"></a>
 
-## Frequently asked
+## Intermediate
 
-- [Monitoring shows increased latency across services. How do you isolate the issue?](../questions/monitoring/monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue.md) — 2× · Medium
-- [What monitoring tools have you used after deployment?](../questions/monitoring/what-monitoring-tools-have-you-used-after-deployment.md) — 2× · Medium
-- [Difference between logs, metrics, and traces.](../questions/monitoring/difference-between-logs-metrics-and-traces.md) — 1× · Easy
-- [Explain your monitoring and alerting strategy.](../questions/monitoring/explain-your-monitoring-and-alerting-strategy.md) — 1× · Medium
-- [How do you investigate a sudden spike in application latency?](../questions/monitoring/how-do-you-investigate-a-sudden-spike-in-application-latency.md) — 1× · Medium
-- [Monitoring, Troubleshooting & Production Support](../questions/monitoring/monitoring-troubleshooting-production-support.md) — 1× · Medium
+- [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) — 2×
+  <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
+- [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — 2×
+  <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
+- [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — 1×
+  <a id="explain-your-monitoring-and-alerting-strategy"></a>
+- [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) — 1×
+  <a id="how-do-you-investigate-a-sudden-spike-in-application-latency"></a>
+- [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 1×
+  <a id="infrastructure-monitoring-troubleshooting"></a>
+- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 1×
+  <a id="monitoring-troubleshooting-production-support"></a>
+- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — 1×
+  <a id="what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool"></a>
 
-## Rare questions
+## Advanced
 
-- [Difference between logs, metrics, and traces.](../questions/monitoring/difference-between-logs-metrics-and-traces.md) — 1×
-- [Explain your monitoring and alerting strategy.](../questions/monitoring/explain-your-monitoring-and-alerting-strategy.md) — 1×
-- [How do you investigate a sudden spike in application latency?](../questions/monitoring/how-do-you-investigate-a-sudden-spike-in-application-latency.md) — 1×
-- [Monitoring, Troubleshooting & Production Support](../questions/monitoring/monitoring-troubleshooting-production-support.md) — 1×
-- [Monitoring shows increased latency across services. How do you isolate the issue?](../questions/monitoring/monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue.md) — 2×
-- [What monitoring tools have you used after deployment?](../questions/monitoring/what-monitoring-tools-have-you-used-after-deployment.md) — 2×
+- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — 1×
+  <a id="can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios"></a>
+
+## By interview round
+
+### Final
+
+- [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment)
+
+### Unspecified
+
+- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios)
+- [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces)
+- [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy)
+- [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency)
+- [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting)
+- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack)
+- [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue)
+- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support)
+- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool)
 
 ## Companies asking
 
 - [Argyll Infotech](../companies/argyll-infotech.md)
+- [DPRSolutions](../companies/dprsolutions.md)
+- [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md)
 - [Mirafra](../companies/mirafra.md)
+- [Sri-Hire](../companies/sri-hire.md)
+
+## Recently added
+
+- [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 2026-07-15
+- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 2026-07-15
+- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 2026-07-15
+- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — 2026-07-15
+- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — 2026-07-15
+- [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — 2026-07-15
+- [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) — 2026-07-15
+- [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — 2026-07-15
+- [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) — 2026-07-15
+- [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — 2026-07-15
 
 ## Related topics
 
-- [Logging](./logging.md)
-- [AIOps](./aiops.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [Kubernetes](./kubernetes.md)
-- [Docker](./docker.md)
-- [AWS](./aws.md)
-- [Jenkins](./jenkins.md)
+- [Prometheus](./prometheus.md)
+- [Observability](./observability.md)
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) | Hard | 1 |
+| [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) | Easy | 1 |
+| [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) | Medium | 1 |
+| [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) | Medium | 1 |
+| [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) | Medium | 1 |
+| [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) | Easy | 1 |
+| [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) | Medium | 2 |
+| [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) | Medium | 1 |
+| [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) | Medium | 2 |
+| [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) | Medium | 1 |
 
 ## Learning resources
 
-- Review [Monitoring on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)

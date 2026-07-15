@@ -5,68 +5,50 @@
 ## Overview
 
 | Metric | Value |
-| --- | --- |
-| Unique questions | 5 |
-| Interview posts tracked | 1 |
+| --- | ---: |
+| Questions | 5 |
 | Topics covered | 4 |
 
-## Difficulty distribution
+## Topics asked
 
-- **Easy**: 0 `░░░░░░░░░░░░░░░░░░░░`
-- **Medium**: 3 `████████████░░░░░░░░`
-- **Hard**: 2 `████████░░░░░░░░░░░░`
+- [Monitoring](../topics/monitoring.md) — 2
+- [Ansible](../topics/ansible.md) — 1
+- [General](../topics/general.md) — 1
+- [Python](../topics/python.md) — 1
 
-## Question categories (topics)
+## Most repeated
 
-- [Monitoring tools](../topics/monitoring-tools.md) — 2 question(s)
-- [Auto Scaling](../topics/auto-scaling.md) — 1 question(s)
-- [Configuration & Integration](../topics/configuration-integration.md) — 1 question(s)
-- [Scripting Language](../topics/scripting-language.md) — 1 question(s)
+- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — 1× · Monitoring
+- [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) — 1× · Python
+- [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../topics/ansible.md#how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac) — 1× · Ansible
+- [What is your experience with Auto Scaling?](../topics/general.md#what-is-your-experience-with-auto-scaling) — 1× · General
+- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — 1× · Monitoring
 
-## Interview rounds
+## By topic
 
-_Not specified in source posts._
+### Ansible
 
-## Frequently asked
+- [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../topics/ansible.md#how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac) — Hard
 
-- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../questions/monitoring-tools/can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios.md) — Monitoring tools · Hard · 1×
-- [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../questions/scripting-language/how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh.md) — Scripting Language · Medium · 1×
-- [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../questions/configuration-integration/how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac.md) — Configuration & Integration · Hard · 1×
-- [What is your experience with Auto Scaling?](../questions/auto-scaling/what-is-your-experience-with-auto-scaling.md) — Auto Scaling · Medium · 1×
-- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../questions/monitoring-tools/what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool.md) — Monitoring tools · Medium · 1×
+### General
 
-## Questions by topic
+- [What is your experience with Auto Scaling?](../topics/general.md#what-is-your-experience-with-auto-scaling) — Medium
 
-### Auto Scaling
+### Monitoring
 
-- [What is your experience with Auto Scaling?](../questions/auto-scaling/what-is-your-experience-with-auto-scaling.md) — Medium
+- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — Hard
+- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — Medium
 
-### Configuration & Integration
+### Python
 
-- [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../questions/configuration-integration/how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac.md) — Hard
+- [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) — Medium
 
-### Monitoring tools
+## Recently added
 
-- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../questions/monitoring-tools/can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios.md) — Hard
-- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../questions/monitoring-tools/what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool.md) — Medium
+- [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) — 2026-07-15
+- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — 2026-07-15
+- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — 2026-07-15
+- [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../topics/ansible.md#how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac) — 2026-07-15
+- [What is your experience with Auto Scaling?](../topics/general.md#what-is-your-experience-with-auto-scaling) — 2026-07-15
 
-### Scripting Language
-
-- [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../questions/scripting-language/how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh.md) — Medium
-
-## Recently added / updated
-
-- [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../questions/scripting-language/how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh.md) (2026-07-15)
-- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../questions/monitoring-tools/can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios.md) (2026-07-15)
-- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../questions/monitoring-tools/what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool.md) (2026-07-15)
-- [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../questions/configuration-integration/how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac.md) (2026-07-15)
-- [What is your experience with Auto Scaling?](../questions/auto-scaling/what-is-your-experience-with-auto-scaling.md) (2026-07-15)
-
-## Related browsing
-
-- [All companies](./README.md)
-- [All topics](../topics/README.md)
-- [Browse by difficulty](../browse/by-difficulty/README.md)
-- [Most asked](../browse/by-frequency.md)
-
-[← Home](../README.md)
+[← All companies](./README.md) · [Home](../README.md)

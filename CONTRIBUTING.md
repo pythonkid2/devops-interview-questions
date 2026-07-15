@@ -1,27 +1,23 @@
 # Contributing
 
-Thanks for helping improve this DevOps interview knowledge base!
+> [Home](./README.md)
 
-## Ways to contribute
+## What belongs here
 
-1. **Fix a bad question** — open a PR editing the Markdown under `questions/<topic>/`.
-2. **Add a short answer** — fill _Short interview answer_ / _Detailed explanation_.
-3. **Improve labels** — difficulty, topic, or company attribution.
-4. **Report noise** — hiring posts misclassified as interview experiences.
+Only **real DevOps interview questions** (Cloud / SRE / Platform).
 
-## Guidelines
+Do **not** add job descriptions, skill stacks, or hiring ads.
 
-- Keep answers concise and interview-ready.
-- Prefer concrete commands / diagrams over fluff.
-- Link related questions when useful.
-- Do not paste private / confidential employer data.
+## Improve an answer
 
-## Local regeneration
+1. Prefer editing via the collector (`enrich_answers: true`) or a PR on an enriched question page under `questions/`.
+2. Keep answers concise and interview-ready.
+3. Do not paste confidential employer data.
 
-If you run the collector yourself:
+## Regenerate
 
 ```bash
 python -m interview_intel.main generate
 ```
 
-Please do not hand-move generated files into a different layout — change the generator instead.
+Do not restructure folders by hand — change the generator instead.

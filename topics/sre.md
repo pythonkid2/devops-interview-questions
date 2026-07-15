@@ -2,57 +2,84 @@
 
 [Home](../README.md) > [Topics](./README.md) > **SRE**
 
-**0** interview questions tagged `SRE`.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
-- [Beginner (Easy)](#beginner-easy)
-- [Intermediate (Medium)](#intermediate-medium)
-- [Advanced (Hard)](#advanced-hard)
-- [Frequently asked](#frequently-asked)
-- [Rare questions](#rare-questions)
+- [Overview](#overview)
+- [Most asked](#most-asked)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [By interview round](#by-interview-round)
 - [Companies asking](#companies-asking)
+- [Recently added](#recently-added)
 - [Related topics](#related-topics)
+- [All questions](#all-questions)
 
-## Beginner (Easy)
+## Overview
+
+| | |
+| --- | ---: |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 1 / 1 |
+| Companies | 1 |
+
+## Most asked
+
+- [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — **1×** · Hard
+  <a id="can-you-explain-the-concept-of-chaos-engineering"></a>
+- [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — **1×** · Medium
+  <a id="what-is-the-difference-between-slos-and-slis"></a>
+
+## Beginner
 
 _None in this band yet._
 
-## Intermediate (Medium)
+## Intermediate
 
-_None in this band yet._
+- [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — 1×
+  <a id="what-is-the-difference-between-slos-and-slis"></a>
 
-## Advanced (Hard)
+## Advanced
 
-_None in this band yet._
+- [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — 1×
+  <a id="can-you-explain-the-concept-of-chaos-engineering"></a>
 
-## Frequently asked
+## By interview round
 
-_None yet._
+### Unspecified
 
-## Rare questions
-
-_None yet._
+- [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering)
+- [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis)
 
 ## Companies asking
 
-_Not attributed yet._
+- [SpaceTech Inc.](../companies/spacetech-inc.md)
+
+## Recently added
+
+- [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — 2026-07-15
+- [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — 2026-07-15
 
 ## Related topics
 
+- [Incident Response](./incident-response.md)
 - [Disaster Recovery](./disaster-recovery.md)
-- [Incident Management](./incident-management.md)
-- [Chaos Engineering](./chaos-engineering.md)
-- [General](./general.md)
-- [Terraform](./terraform.md)
-- [Kubernetes](./kubernetes.md)
-- [Docker](./docker.md)
-- [AWS](./aws.md)
+- [High Availability](./high-availability.md)
+- [SLOs](./slos.md)
+
+## All questions
+
+| Question | Diff | Asked |
+| --- | --- | ---: |
+| [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) | Hard | 1 |
+| [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) | Medium | 1 |
 
 ## Learning resources
 
-- Review [SRE on companies pages](../companies/README.md)
-- Filter by [difficulty](../browse/by-difficulty/README.md)
-- See [most asked overall](../browse/by-frequency.md)
+- Practice [most asked overall](../study-guides/most-asked.md)
+- Filter by [difficulty](../study-guides/by-difficulty.md)
+- Browse [companies](../companies/README.md)
 
 [← All topics](./README.md) · [Home](../README.md)
