@@ -61,6 +61,6 @@ _Not attributed yet._
 
 ---
 
-_Start of topic_ | [Explain a Jenkins Pipeline and its stages. →](./explain-a-jenkins-pipeline-and-its-stages.md)
+[← A Jenkins pipeline completed successfully, but the latest ch](./a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible.md) | [A Jenkins pipeline stopped triggering after a Git push. How  →](./a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo.md)
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)

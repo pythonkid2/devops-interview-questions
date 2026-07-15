@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Networking](../../topics/networking.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | Technical Interview |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -52,14 +52,15 @@ _None listed yet._
 
 ## Related questions
 
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](./how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md)
+- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](./an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md)
+- [What is the difference between a load balancer and an application firewall?](./what-is-the-difference-between-a-load-balancer-and-an-application-firewall.md)
 - [Difference between TCP and UDP. Where have you used each?](./difference-between-tcp-and-udp-where-have-you-used-each.md)
 - [How does DNS resolution work internally?](./how-does-dns-resolution-work-internally.md)
 - [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](./explain-load-balancer-reverse-proxy-and-ingress-with-real-examples.md)
-- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](./how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md)
-- [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](./an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md)
 
 ---
 
-[← How would you design a VPC architecture that supports multip](./how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md) | _End of topic_
+[← What is the difference between a load balancer and an applic](./what-is-the-difference-between-a-load-balancer-and-an-application-firewall.md) | _End of topic_
 
 [Topic: Networking](../../topics/networking.md) · [All questions](../README.md) · [Home](../../README.md)

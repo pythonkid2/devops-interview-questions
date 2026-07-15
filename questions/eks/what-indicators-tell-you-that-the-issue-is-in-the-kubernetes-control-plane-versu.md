@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [EKS](../../topics/eks.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | Technical Interview |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -53,6 +53,7 @@ _None listed yet._
 ## Related questions
 
 - [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](./during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md)
+- [An Amazon EKS application starts returning intermittent 502/503 errors immediately after deployment. How would you identify whether the issue is related to Kubernetes, the Load Balancer, or the application?](./an-amazon-eks-application-starts-returning-intermittent-502-503-errors-immediate.md)
 
 ---
 

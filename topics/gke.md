@@ -41,13 +41,13 @@ _Not attributed yet._
 ## Related topics
 
 - [AWS](./aws.md)
-- [Checkmarx](./checkmarx.md)
-- [CI/CD](./ci-cd.md)
-- [CloudFormation](./cloudformation.md)
-- [Docker](./docker.md)
+- [Azure](./azure.md)
+- [GCP](./gcp.md)
 - [EKS](./eks.md)
+- [CloudFormation](./cloudformation.md)
 - [General](./general.md)
-- [GitHub Actions](./github-actions.md)
+- [Terraform](./terraform.md)
+- [Kubernetes](./kubernetes.md)
 
 ## Learning resources
 

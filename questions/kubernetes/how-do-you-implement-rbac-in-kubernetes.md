@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Kubernetes](../../topics/kubernetes.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | _Not specified_ |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -52,15 +52,15 @@ _Not attributed yet._
 
 ## Related questions
 
-- [A Kubernetes pod keeps crashing. How do you investigate?](./a-kubernetes-pod-keeps-crashing-how-do-you-investigate.md)
 - [What is Exit Status 2 in Kubernetes?](./what-is-exit-status-2-in-kubernetes.md)
-- [Explain the complete request flow from a browser to a Kubernetes pod.](./explain-the-complete-request-flow-from-a-browser-to-a-kubernetes-pod.md)
-- [Why is a pod stuck in CrashLoopBackOff? How would you debug it?](./why-is-a-pod-stuck-in-crashloopbackoff-how-would-you-debug-it.md)
-- [Difference between Deployment, StatefulSet, DaemonSet, and Job.](./difference-between-deployment-statefulset-daemonset-and-job.md)
-- [Readiness Probe vs Liveness Probe.](./readiness-probe-vs-liveness-probe.md)
+- [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](./after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai.md)
+- [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](./how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne.md)
+- [A Kubernetes pod keeps crashing. How do you investigate?](./a-kubernetes-pod-keeps-crashing-how-do-you-investigate.md)
+- [How do you troubleshoot deployment failures?](./how-do-you-troubleshoot-deployment-failures.md)
+- [What is Blue-Green Deployment?](./what-is-blue-green-deployment.md)
 
 ---
 
-[← Explain the complete request flow from a browser to a Kubern](./explain-the-complete-request-flow-from-a-browser-to-a-kubernetes-pod.md) | [How do you provide pod access to S3 bucket →](./how-do-you-provide-pod-access-to-s3-bucket.md)
+[← How do you configure Kubernetes taints and tolerations for G](./how-do-you-configure-kubernetes-taints-and-tolerations-for-gpu-workloads.md) | [How do you integrate GitHub or Bitbucket with Kubernetes? Ex →](./how-do-you-integrate-github-or-bitbucket-with-kubernetes-explain-the-steps.md)
 
 [Topic: Kubernetes](../../topics/kubernetes.md) · [All questions](../README.md) · [Home](../../README.md)

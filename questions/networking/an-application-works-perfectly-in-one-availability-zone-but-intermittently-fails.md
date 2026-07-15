@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Networking](../../topics/networking.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | Technical Interview |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -52,11 +52,12 @@ _None listed yet._
 
 ## Related questions
 
+- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](./your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md)
+- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](./how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md)
+- [What is the difference between a load balancer and an application firewall?](./what-is-the-difference-between-a-load-balancer-and-an-application-firewall.md)
 - [Difference between TCP and UDP. Where have you used each?](./difference-between-tcp-and-udp-where-have-you-used-each.md)
 - [How does DNS resolution work internally?](./how-does-dns-resolution-work-internally.md)
 - [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](./explain-load-balancer-reverse-proxy-and-ingress-with-real-examples.md)
-- [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](./your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md)
-- [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](./how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md)
 
 ---
 

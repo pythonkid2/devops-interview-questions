@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Docker](../../topics/docker.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | _Not specified_ |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -54,13 +54,13 @@ _Not attributed yet._
 
 - [Difference between CMD and ENTRYPOINT.](./difference-between-cmd-and-entrypoint.md)
 - [A Docker container works locally but fails in production. Why?](./a-docker-container-works-locally-but-fails-in-production-why.md)
-- [What happens internally when you run docker run?](./what-happens-internally-when-you-run-docker-run.md)
-- [Docker architectures](./docker-architectures.md)
-- [Docker layers](./docker-layers.md)
-- [Difference between add and copy](./difference-between-add-and-copy.md)
+- [Explain the Docker container lifecycle.](./explain-the-docker-container-lifecycle.md)
+- [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](./a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou.md)
+- [What is the purpose of a Docker image?](./what-is-the-purpose-of-a-docker-image.md)
+- [What is the Docker daemon?](./what-is-the-docker-daemon.md)
 
 ---
 
-[← Explain the Docker container lifecycle.](./explain-the-docker-container-lifecycle.md) | [How does Docker help with environment consistency? →](./how-does-docker-help-with-environment-consistency.md)
+[← How do you troubleshoot high CPU usage in a Docker container](./how-do-you-troubleshoot-high-cpu-usage-in-a-docker-container.md) | [How does Docker help with environment consistency? →](./how-does-docker-help-with-environment-consistency.md)
 
 [Topic: Docker](../../topics/docker.md) · [All questions](../README.md) · [Home](../../README.md)

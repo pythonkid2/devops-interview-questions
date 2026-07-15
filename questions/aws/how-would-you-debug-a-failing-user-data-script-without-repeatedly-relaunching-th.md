@@ -53,14 +53,14 @@ _Not attributed yet._
 ## Related questions
 
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](./an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan.md)
+- [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](./you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces.md)
 - [As an AWS and DevOps Senior Consultant, design a secure, scalable, and highly available architecture for a global SaaS product.](./as-an-aws-and-devops-senior-consultant-design-a-secure-scalable-and-highly-avail.md)
 - [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](./which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform.md)
 - [What are the major AWS services you have worked on?](./what-are-the-major-aws-services-you-have-worked-on.md)
 - [How was infrastructure provisioning handled on these services?](./how-was-infrastructure-provisioning-handled-on-these-services.md)
-- [What is User Data in EC2?](./what-is-user-data-in-ec2.md)
 
 ---
 
-[← How was infrastructure provisioning handled on these service](./how-was-infrastructure-provisioning-handled-on-these-services.md) | [How would you troubleshoot an HTTPS Application Load Balance →](./how-would-you-troubleshoot-an-https-application-load-balancer-that-isn-t-serving.md)
+[← How would you create User-Agent based exceptions in AWS WAF?](./how-would-you-create-user-agent-based-exceptions-in-aws-waf.md) | [How would you deploy AWS WAF policies across hundreds of AWS →](./how-would-you-deploy-aws-waf-policies-across-hundreds-of-aws-accounts.md)
 
 [Topic: AWS](../../topics/aws.md) · [All questions](../README.md) · [Home](../../README.md)

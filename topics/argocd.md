@@ -40,14 +40,14 @@ _Not attributed yet._
 
 ## Related topics
 
-- [AWS](./aws.md)
-- [Checkmarx](./checkmarx.md)
-- [CI/CD](./ci-cd.md)
-- [CloudFormation](./cloudformation.md)
+- [Kubernetes](./kubernetes.md)
 - [Docker](./docker.md)
-- [EKS](./eks.md)
 - [General](./general.md)
-- [GitHub Actions](./github-actions.md)
+- [Terraform](./terraform.md)
+- [AWS](./aws.md)
+- [Jenkins](./jenkins.md)
+- [CI/CD](./ci-cd.md)
+- [Security](./security.md)
 
 ## Learning resources
 

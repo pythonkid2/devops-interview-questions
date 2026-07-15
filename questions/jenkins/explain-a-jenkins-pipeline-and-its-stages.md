@@ -61,6 +61,6 @@ _None listed yet._
 
 ---
 
-[← A Jenkins pipeline fails after deployment. What's your debug](./a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process.md) | [Explain the Jenkins pipeline you worked on. →](./explain-the-jenkins-pipeline-you-worked-on.md)
+[← A Jenkins pipeline stopped triggering after a Git push. How ](./a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo.md) | [Explain the Jenkins architecture. →](./explain-the-jenkins-architecture.md)
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)

@@ -61,6 +61,6 @@ _None listed yet._
 
 ---
 
-[← If Jenkins is working locally but not accessible through the](./if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t.md) | [Write jenkins pipeline syntax →](./write-jenkins-pipeline-syntax.md)
+[← What are Post Build Actions?](./what-are-post-build-actions.md) | [What is a Jenkins Pipeline? →](./what-is-a-jenkins-pipeline.md)
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)

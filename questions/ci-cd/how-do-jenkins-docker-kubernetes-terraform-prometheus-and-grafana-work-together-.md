@@ -55,12 +55,12 @@ _None listed yet._
 - [Your CI/CD deployment breaks after a code merge. How do you identify the root cause?](./your-ci-cd-deployment-breaks-after-a-code-merge-how-do-you-identify-the-root-cau.md)
 - [Explain the complete CI/CD flow that you built end-to-end.](./explain-the-complete-ci-cd-flow-that-you-built-end-to-end.md)
 - [What was your role in the CI/CD pipeline?](./what-was-your-role-in-the-ci-cd-pipeline.md)
+- [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](./explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s.md)
 - [Explain your CI/CD pipeline from code commit to production.](./explain-your-ci-cd-pipeline-from-code-commit-to-production.md)
 - [How do you implement zero-downtime deployments?](./how-do-you-implement-zero-downtime-deployments.md)
-- [How would you optimize a pipeline that takes 25 minutes to complete?](./how-would-you-optimize-a-pipeline-that-takes-25-minutes-to-complete.md)
 
 ---
 
-[← Explain your CI/CD pipeline from code commit to production.](./explain-your-ci-cd-pipeline-from-code-commit-to-production.md) | [How do you implement rollback if deployment fails? →](./how-do-you-implement-rollback-if-deployment-fails.md)
+[← Explain your role in setting up the CI/CD pipeline and the t](./explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d.md) | [How do you implement rollback if deployment fails? →](./how-do-you-implement-rollback-if-deployment-fails.md)
 
 [Topic: CI/CD](../../topics/ci-cd.md) · [All questions](../README.md) · [Home](../../README.md)

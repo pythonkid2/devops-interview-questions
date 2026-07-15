@@ -56,9 +56,10 @@ _None listed yet._
 - [Difference between logs, metrics, and traces.](./difference-between-logs-metrics-and-traces.md)
 - [How do you investigate a sudden spike in application latency?](./how-do-you-investigate-a-sudden-spike-in-application-latency.md)
 - [Explain your monitoring and alerting strategy.](./explain-your-monitoring-and-alerting-strategy.md)
+- [Monitoring, Troubleshooting & Production Support](./monitoring-troubleshooting-production-support.md)
 
 ---
 
-[← Monitoring shows increased latency across services. How do y](./monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue.md) | _End of topic_
+[← Monitoring, Troubleshooting & Production Support](./monitoring-troubleshooting-production-support.md) | _End of topic_
 
 [Topic: Monitoring](../../topics/monitoring.md) · [All questions](../README.md) · [Home](../../README.md)

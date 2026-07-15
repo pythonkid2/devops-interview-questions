@@ -3,9 +3,9 @@
 [Home](../../README.md) > [By round](./README.md) > **Final**
 
 
-- [Did you generate SonarQube or Checkmarx reports every day?](../../questions/sonarqube-checkmarx/did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) — SonarQube & Checkmarx · Medium
+- [Did you generate SonarQube or Checkmarx reports every day?](../../questions/sonarqube/did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) — SonarQube · Medium
 - [Did you only trigger the scans, or did you also review and triage the violations?](../../questions/sonarqube-checkmarx/did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations.md) — SonarQube & Checkmarx · Medium
-- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../../questions/sonarqube-checkmarx/did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md) — SonarQube & Checkmarx · Medium
+- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../../questions/sonarqube/did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md) — SonarQube · Medium
 - [Do you have Python experience? How much exposure do you have?](../../questions/python/do-you-have-python-experience-how-much-exposure-do-you-have.md) — Python · Medium
 - [Explain an integration you implemented in your project?](../../questions/general/explain-an-integration-you-implemented-in-your-project.md) — General · Medium
 - [Explain the complete CI/CD flow that you built end-to-end.](../../questions/ci-cd/explain-the-complete-ci-cd-flow-that-you-built-end-to-end.md) — CI/CD · Medium
@@ -17,7 +17,7 @@
 - [How did you configure SonarQube with Jenkins?](../../questions/jenkins/how-did-you-configure-sonarqube-with-jenkins.md) — Jenkins · Medium
 - [How did you configure the Quality Gate in SonarQube?](../../questions/jenkins/how-did-you-configure-the-quality-gate-in-sonarqube.md) — Jenkins · Medium
 - [How do you review and coordinate security findings with development and security teams?](../../questions/security/how-do-you-review-and-coordinate-security-findings-with-development-and-security.md) — Security · Medium
-- [How do you troubleshoot deployment failures?](../../questions/general/how-do-you-troubleshoot-deployment-failures.md) — General · Medium
+- [How do you troubleshoot deployment failures?](../../questions/kubernetes/how-do-you-troubleshoot-deployment-failures.md) — Kubernetes · Medium
 - [How would you schedule the cleanup script every week?](../../questions/shell-scripting/how-would-you-schedule-the-cleanup-script-every-week.md) — Shell Scripting · Medium
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../../questions/jenkins/if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t.md) — Jenkins · Medium
 - [What automation tasks have you done using Shell scripting?](../../questions/shell-scripting/what-automation-tasks-have-you-done-using-shell-scripting.md) — Shell Scripting · Medium

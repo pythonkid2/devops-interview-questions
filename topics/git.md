@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Git**
 
-**0** interview questions tagged `Git`.
+**2** interview questions tagged `Git`.
 
 ## Table of contents
 
@@ -16,11 +16,11 @@
 
 ## Beginner (Easy)
 
-_None in this band yet._
+- [When you perform a Git merge, what are the different options you use?](../questions/git/when-you-perform-a-git-merge-what-are-the-different-options-you-use.md) — asked 1×
 
 ## Intermediate (Medium)
 
-_None in this band yet._
+- [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../questions/git/how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a.md) — asked 1×
 
 ## Advanced (Hard)
 
@@ -28,26 +28,28 @@ _None in this band yet._
 
 ## Frequently asked
 
-_None yet._
+- [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../questions/git/how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a.md) — 1× · Medium
+- [When you perform a Git merge, what are the different options you use?](../questions/git/when-you-perform-a-git-merge-what-are-the-different-options-you-use.md) — 1× · Easy
 
 ## Rare questions
 
-_None yet._
+- [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../questions/git/how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a.md) — 1×
+- [When you perform a Git merge, what are the different options you use?](../questions/git/when-you-perform-a-git-merge-what-are-the-different-options-you-use.md) — 1×
 
 ## Companies asking
 
-_Not attributed yet._
+- [Unknown](../companies/unknown.md)
 
 ## Related topics
 
-- [AWS](./aws.md)
-- [Checkmarx](./checkmarx.md)
-- [CI/CD](./ci-cd.md)
-- [CloudFormation](./cloudformation.md)
-- [Docker](./docker.md)
-- [EKS](./eks.md)
+- [Python](./python.md)
 - [General](./general.md)
-- [GitHub Actions](./github-actions.md)
+- [Terraform](./terraform.md)
+- [Kubernetes](./kubernetes.md)
+- [Docker](./docker.md)
+- [AWS](./aws.md)
+- [Jenkins](./jenkins.md)
+- [CI/CD](./ci-cd.md)
 
 ## Learning resources
 

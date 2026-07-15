@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **EKS**
 
-**2** interview questions tagged `EKS`.
+**3** interview questions tagged `EKS`.
 
 ## Table of contents
 
@@ -20,8 +20,9 @@ _None in this band yet._
 
 ## Intermediate (Medium)
 
-- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../questions/eks/during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md) — asked 1×
-- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) — asked 1×
+- [An Amazon EKS application starts returning intermittent 502/503 errors immediately after deployment. How would you identify whether the issue is related to Kubernetes, the Load Balancer, or the application?](../questions/eks/an-amazon-eks-application-starts-returning-intermittent-502-503-errors-immediate.md) — asked 2×
+- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../questions/eks/during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md) — asked 2×
+- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) — asked 2×
 
 ## Advanced (Hard)
 
@@ -29,28 +30,31 @@ _None in this band yet._
 
 ## Frequently asked
 
-- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../questions/eks/during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md) — 1× · Medium
-- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) — 1× · Medium
+- [An Amazon EKS application starts returning intermittent 502/503 errors immediately after deployment. How would you identify whether the issue is related to Kubernetes, the Load Balancer, or the application?](../questions/eks/an-amazon-eks-application-starts-returning-intermittent-502-503-errors-immediate.md) — 2× · Medium
+- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../questions/eks/during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md) — 2× · Medium
+- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) — 2× · Medium
 
 ## Rare questions
 
-- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../questions/eks/during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md) — 1×
-- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) — 1×
+- [An Amazon EKS application starts returning intermittent 502/503 errors immediately after deployment. How would you identify whether the issue is related to Kubernetes, the Load Balancer, or the application?](../questions/eks/an-amazon-eks-application-starts-returning-intermittent-502-503-errors-immediate.md) — 2×
+- [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../questions/eks/during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep.md) — 2×
+- [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](../questions/eks/what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md) — 2×
 
 ## Companies asking
 
+- [MNC](../companies/mnc.md)
 - [PwC](../companies/pwc.md)
 
 ## Related topics
 
 - [AWS](./aws.md)
-- [Checkmarx](./checkmarx.md)
-- [CI/CD](./ci-cd.md)
+- [Azure](./azure.md)
+- [GCP](./gcp.md)
 - [CloudFormation](./cloudformation.md)
-- [Docker](./docker.md)
 - [General](./general.md)
-- [GitHub Actions](./github-actions.md)
-- [Jenkins](./jenkins.md)
+- [Terraform](./terraform.md)
+- [Kubernetes](./kubernetes.md)
+- [Docker](./docker.md)
 
 ## Learning resources
 

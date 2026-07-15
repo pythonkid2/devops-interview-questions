@@ -61,6 +61,6 @@ _Not attributed yet._
 
 ---
 
-[← What happens if the Quality Gate fails?](./what-happens-if-the-quality-gate-fails.md) | _End of topic_
+[← Why do we use Jenkins Agents?](./why-do-we-use-jenkins-agents.md) | _End of topic_
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)

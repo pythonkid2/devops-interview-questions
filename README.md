@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-203-blue) ![companies](https://img.shields.io/badge/companies-8-success) ![posts](https://img.shields.io/badge/linkedin_posts-60-informational)
+![questions](https://img.shields.io/badge/questions-476-blue) ![companies](https://img.shields.io/badge/companies-12-success) ![posts](https://img.shields.io/badge/linkedin_posts-150-informational)
 
 Curated **DevOps / Cloud / SRE interview questions** extracted from public LinkedIn interview-experience posts — organized for fast study.
 
@@ -10,7 +10,7 @@ Curated **DevOps / Cloud / SRE interview questions** extracted from public Linke
 
 1. Pick how you want to study:
    - [By company](./companies/README.md) (e.g. PwC, TCS, Infosys)
-   - [By topic](./topics/README.md) (AWS, Kubernetes, Terraform, …)
+   - [By topic](./topics/README.md) (AWS, K8s, DR, AIOps, SRE, …)
    - [By difficulty](./browse/by-difficulty/README.md)
    - [Most asked](./browse/by-frequency.md)
    - [By interview round](./browse/by-round/README.md)
@@ -21,10 +21,10 @@ Curated **DevOps / Cloud / SRE interview questions** extracted from public Linke
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 203 |
-| Posts processed | 60 |
-| Added this week | 203 |
-| Duplicates skipped | 42 |
+| Unique questions | 476 |
+| Posts processed | 150 |
+| Added this week | 476 |
+| Duplicates skipped | 98 |
 
 ## Search examples (GitHub)
 
@@ -38,29 +38,33 @@ In this repo’s GitHub search box try:
 
 ## Popular companies
 
+- [Models](./companies/models.md)
 - [Mirafra](./companies/mirafra.md)
-- [TCS](./companies/tcs.md)
+- [BNP Paribas](./companies/bnp-paribas.md)
 - [Infosys](./companies/infosys.md)
-- [One of the top MNCs](./companies/one-of-the-top-mncs.md)
 - [PwC](./companies/pwc.md)
-- [Vanguard Consultants](./companies/vanguard-consultants.md)
-- [VIIS Global](./companies/viis-global.md)
-- [Workfall](./companies/workfall.md)
+- [Global Payments](./companies/global-payments.md)
+- [Argyll Infotech](./companies/argyll-infotech.md)
+- [NVIDIA](./companies/nvidia.md)
+- [SpaceTechInc](./companies/spacetechinc.md)
+- [TCS](./companies/tcs.md)
+- [DPRSolutions](./companies/dprsolutions.md)
+- [EY](./companies/ey.md)
 
 ## Popular topics
 
-- [General](./topics/general.md) — 62
-- [Kubernetes](./topics/kubernetes.md) — 25
-- [Terraform](./topics/terraform.md) — 25
-- [AWS](./topics/aws.md) — 15
-- [Docker](./topics/docker.md) — 15
-- [CI/CD](./topics/ci-cd.md) — 11
-- [Jenkins](./topics/jenkins.md) — 10
+- [Terraform](./topics/terraform.md) — 56
+- [Kubernetes](./topics/kubernetes.md) — 50
+- [Docker](./topics/docker.md) — 44
+- [AWS](./topics/aws.md) — 35
+- [Jenkins](./topics/jenkins.md) — 31
+- [CI/CD](./topics/ci-cd.md) — 22
+- [Security](./topics/security.md) — 17
+- [Networking](./topics/networking.md) — 8
 - [Shell Scripting](./topics/shell-scripting.md) — 7
-- [Networking](./topics/networking.md) — 6
-- [Linux](./topics/linux.md) — 5
-- [Monitoring](./topics/monitoring.md) — 5
-- [Security](./topics/security.md) — 5
+- [Monitoring](./topics/monitoring.md) — 6
+- [Azure DevOps](./topics/azure-devops.md) — 5
+- [Kafka](./topics/kafka.md) — 5
 
 ## Repository map
 

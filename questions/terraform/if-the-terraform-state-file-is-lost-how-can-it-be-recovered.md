@@ -52,15 +52,15 @@ _None listed yet._
 
 ## Related questions
 
+- [What is Terraform?](./what-is-terraform.md)
+- [What is a Terraform State File, and why is it important?](./what-is-a-terraform-state-file-and-why-is-it-important.md)
 - [Terraform changes accidentally modify production resources. How would you recover?](./terraform-changes-accidentally-modify-production-resources-how-would-you-recover.md)
+- [How would you create the same infrastructure for Development, QA, UAT, and Production without duplicating code using Terraform?](./how-would-you-create-the-same-infrastructure-for-development-qa-uat-and-producti.md)
+- [You need to provision 100 EC2 instances with different configurations across Development, QA, UAT, and Production environments using Terraform. What would you use, and why?](./you-need-to-provision-100-ec2-instances-with-different-configurations-across-dev.md)
 - [How does Terraform state locking work?](./how-does-terraform-state-locking-work.md)
-- [Difference between count and for_each.](./difference-between-count-and-for-each.md)
-- [How do you migrate Terraform state without recreating resources?](./how-do-you-migrate-terraform-state-without-recreating-resources.md)
-- [What is Terraform Drift? How do you detect it?](./what-is-terraform-drift-how-do-you-detect-it.md)
-- [Explain your Terraform module structure for multiple environments.](./explain-your-terraform-module-structure-for-multiple-environments.md)
 
 ---
 
-[← How would you stop Terraform from managing a resource it cur](./how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages.md) | [Is there a safer alternative to directly modifying the Terra →](./is-there-a-safer-alternative-to-directly-modifying-the-terraform-state-file-in-a.md)
+[← How would you stop Terraform from managing a resource it cur](./how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages.md) | [Infrastructure as Code (IaC) →](./infrastructure-as-code-iac.md)
 
 [Topic: Terraform](../../topics/terraform.md) · [All questions](../README.md) · [Home](../../README.md)

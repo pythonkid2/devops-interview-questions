@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **SonarQube & Checkmarx**
 
-**3** interview questions tagged `SonarQube & Checkmarx`.
+**1** interview questions tagged `SonarQube & Checkmarx`.
 
 ## Table of contents
 
@@ -20,9 +20,7 @@ _None in this band yet._
 
 ## Intermediate (Medium)
 
-- [Did you generate SonarQube or Checkmarx reports every day?](../questions/sonarqube-checkmarx/did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) — asked 2×
 - [Did you only trigger the scans, or did you also review and triage the violations?](../questions/sonarqube-checkmarx/did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations.md) — asked 2×
-- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../questions/sonarqube-checkmarx/did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md) — asked 2×
 
 ## Advanced (Hard)
 
@@ -30,15 +28,11 @@ _None in this band yet._
 
 ## Frequently asked
 
-- [Did you generate SonarQube or Checkmarx reports every day?](../questions/sonarqube-checkmarx/did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) — 2× · Medium
 - [Did you only trigger the scans, or did you also review and triage the violations?](../questions/sonarqube-checkmarx/did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations.md) — 2× · Medium
-- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../questions/sonarqube-checkmarx/did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md) — 2× · Medium
 
 ## Rare questions
 
-- [Did you generate SonarQube or Checkmarx reports every day?](../questions/sonarqube-checkmarx/did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) — 2×
 - [Did you only trigger the scans, or did you also review and triage the violations?](../questions/sonarqube-checkmarx/did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations.md) — 2×
-- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../questions/sonarqube-checkmarx/did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md) — 2×
 
 ## Companies asking
 
@@ -46,14 +40,14 @@ _None in this band yet._
 
 ## Related topics
 
-- [AWS](./aws.md)
-- [Checkmarx](./checkmarx.md)
-- [CI/CD](./ci-cd.md)
-- [CloudFormation](./cloudformation.md)
-- [Docker](./docker.md)
-- [EKS](./eks.md)
 - [General](./general.md)
-- [GitHub Actions](./github-actions.md)
+- [Terraform](./terraform.md)
+- [Kubernetes](./kubernetes.md)
+- [Docker](./docker.md)
+- [AWS](./aws.md)
+- [Jenkins](./jenkins.md)
+- [CI/CD](./ci-cd.md)
+- [Security](./security.md)
 
 ## Learning resources
 

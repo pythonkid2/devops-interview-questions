@@ -54,13 +54,13 @@ _None listed yet._
 
 - [Your CI/CD deployment breaks after a code merge. How do you identify the root cause?](./your-ci-cd-deployment-breaks-after-a-code-merge-how-do-you-identify-the-root-cau.md)
 - [Explain the complete CI/CD flow that you built end-to-end.](./explain-the-complete-ci-cd-flow-that-you-built-end-to-end.md)
+- [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](./explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s.md)
 - [Explain your CI/CD pipeline from code commit to production.](./explain-your-ci-cd-pipeline-from-code-commit-to-production.md)
 - [How do you implement zero-downtime deployments?](./how-do-you-implement-zero-downtime-deployments.md)
 - [How would you optimize a pipeline that takes 25 minutes to complete?](./how-would-you-optimize-a-pipeline-that-takes-25-minutes-to-complete.md)
-- [How do you implement rollback if deployment fails?](./how-do-you-implement-rollback-if-deployment-fails.md)
 
 ---
 
-[← In a well-designed CI/CD pipeline for a critical banking app](./in-a-well-designed-ci-cd-pipeline-for-a-critical-banking-application-is-it-accep.md) | [Your CI/CD deployment breaks after a code merge. How do you  →](./your-ci-cd-deployment-breaks-after-a-code-merge-how-do-you-identify-the-root-cau.md)
+[← What is your experience with CI/CD pipelines?](./what-is-your-experience-with-ci-cd-pipelines.md) | [Your CI/CD deployment breaks after a code merge. How do you  →](./your-ci-cd-deployment-breaks-after-a-code-merge-how-do-you-identify-the-root-cau.md)
 
 [Topic: CI/CD](../../topics/ci-cd.md) · [All questions](../README.md) · [Home](../../README.md)

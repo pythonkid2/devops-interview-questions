@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Terraform](../../topics/terraform.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | Technical |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -44,6 +44,7 @@ _None listed yet._
 
 ## Companies asking
 
+- [BNP Paribas](../../companies/bnp-paribas.md)
 - [TCS](../../companies/tcs.md)
 
 ## Tags
@@ -52,15 +53,15 @@ _None listed yet._
 
 ## Related questions
 
+- [What is Terraform?](./what-is-terraform.md)
 - [Terraform changes accidentally modify production resources. How would you recover?](./terraform-changes-accidentally-modify-production-resources-how-would-you-recover.md)
+- [How would you create the same infrastructure for Development, QA, UAT, and Production without duplicating code using Terraform?](./how-would-you-create-the-same-infrastructure-for-development-qa-uat-and-producti.md)
+- [You need to provision 100 EC2 instances with different configurations across Development, QA, UAT, and Production environments using Terraform. What would you use, and why?](./you-need-to-provision-100-ec2-instances-with-different-configurations-across-dev.md)
 - [How does Terraform state locking work?](./how-does-terraform-state-locking-work.md)
 - [Difference between count and for_each.](./difference-between-count-and-for-each.md)
-- [How do you migrate Terraform state without recreating resources?](./how-do-you-migrate-terraform-state-without-recreating-resources.md)
-- [What is Terraform Drift? How do you detect it?](./what-is-terraform-drift-how-do-you-detect-it.md)
-- [Explain your Terraform module structure for multiple environments.](./explain-your-terraform-module-structure-for-multiple-environments.md)
 
 ---
 
-[← What is a Terraform Backend? Explain the Backend configurati](./what-is-a-terraform-backend-explain-the-backend-configuration.md) | [What is drift detection →](./what-is-drift-detection.md)
+[← What is a Terraform resource?](./what-is-a-terraform-resource.md) | [What is drift detection →](./what-is-drift-detection.md)
 
 [Topic: Terraform](../../topics/terraform.md) · [All questions](../README.md) · [Home](../../README.md)

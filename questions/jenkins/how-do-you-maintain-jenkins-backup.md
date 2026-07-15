@@ -61,6 +61,6 @@ _Not attributed yet._
 
 ---
 
-[← How did you configure the Quality Gate in SonarQube?](./how-did-you-configure-the-quality-gate-in-sonarqube.md) | [If Jenkins is working locally but not accessible through the →](./if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t.md)
+[← How do you back up and restore Jenkins?](./how-do-you-back-up-and-restore-jenkins.md) | [How do you pass environment variables in a Jenkins Pipeline? →](./how-do-you-pass-environment-variables-in-a-jenkins-pipeline.md)
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)

@@ -61,6 +61,6 @@ _None listed yet._
 
 ---
 
-[← How do you maintain jenkins backup](./how-do-you-maintain-jenkins-backup.md) | [What happens if the Quality Gate fails? →](./what-happens-if-the-quality-gate-fails.md)
+[← How does Jenkins trigger automatically after a GitHub push?](./how-does-jenkins-trigger-automatically-after-a-github-push.md) | [The build works locally but fails in Jenkins. What would you →](./the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first.md)
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)

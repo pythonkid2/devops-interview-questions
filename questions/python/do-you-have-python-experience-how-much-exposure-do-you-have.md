@@ -52,10 +52,11 @@ _None listed yet._
 
 ## Related questions
 
-_No related questions in this topic yet._
+- [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](./write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex.md)
+- [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](./you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-.md)
 
 ---
 
-_Start of topic_ | _End of topic_
+_Start of topic_ | [Write a Python script to monitor CPU, Memory, and Disk utili →](./write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex.md)
 
 [Topic: Python](../../topics/python.md) · [All questions](../README.md) · [Home](../../README.md)

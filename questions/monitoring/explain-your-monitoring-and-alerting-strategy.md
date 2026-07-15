@@ -56,6 +56,7 @@ _Not attributed yet._
 - [What monitoring tools have you used after deployment?](./what-monitoring-tools-have-you-used-after-deployment.md)
 - [Difference between logs, metrics, and traces.](./difference-between-logs-metrics-and-traces.md)
 - [How do you investigate a sudden spike in application latency?](./how-do-you-investigate-a-sudden-spike-in-application-latency.md)
+- [Monitoring, Troubleshooting & Production Support](./monitoring-troubleshooting-production-support.md)
 
 ---
 

@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Docker](../../topics/docker.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | _Not specified_ |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -54,10 +54,10 @@ _Not attributed yet._
 
 - [Difference between CMD and ENTRYPOINT.](./difference-between-cmd-and-entrypoint.md)
 - [A Docker container works locally but fails in production. Why?](./a-docker-container-works-locally-but-fails-in-production-why.md)
-- [What happens internally when you run docker run?](./what-happens-internally-when-you-run-docker-run.md)
-- [Docker architectures](./docker-architectures.md)
-- [Docker layers](./docker-layers.md)
-- [Difference between add and copy](./difference-between-add-and-copy.md)
+- [Explain the Docker container lifecycle.](./explain-the-docker-container-lifecycle.md)
+- [How do you use docker stats during troubleshooting?](./how-do-you-use-docker-stats-during-troubleshooting.md)
+- [What is the purpose of a Docker image?](./what-is-the-purpose-of-a-docker-image.md)
+- [What is the Docker daemon?](./what-is-the-docker-daemon.md)
 
 ---
 

@@ -40,13 +40,13 @@ _None in this band yet._
 
 ## Related topics
 
-- [AWS](./aws.md)
-- [CI/CD](./ci-cd.md)
-- [CloudFormation](./cloudformation.md)
-- [Docker](./docker.md)
-- [EKS](./eks.md)
+- [Security](./security.md)
+- [SonarQube](./sonarqube.md)
 - [General](./general.md)
-- [GitHub Actions](./github-actions.md)
+- [Terraform](./terraform.md)
+- [Kubernetes](./kubernetes.md)
+- [Docker](./docker.md)
+- [AWS](./aws.md)
 - [Jenkins](./jenkins.md)
 
 ## Learning resources

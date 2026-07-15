@@ -52,10 +52,13 @@ _None listed yet._
 
 ## Related questions
 
+- [Did you generate SonarQube or Checkmarx reports every day?](./did-you-generate-sonarqube-or-checkmarx-reports-every-day.md)
+- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](./did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md)
 - [What types of findings does SonarQube report?](./what-types-of-findings-does-sonarqube-report.md)
+- [What is the purpose of SonarQube in DevSecOps?](./what-is-the-purpose-of-sonarqube-in-devsecops.md)
 
 ---
 
-_Start of topic_ | [What types of findings does SonarQube report? →](./what-types-of-findings-does-sonarqube-report.md)
+[← Did you write any scripts to collect SonarQube or Checkmarx ](./did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md) | [What is the purpose of SonarQube in DevSecOps? →](./what-is-the-purpose-of-sonarqube-in-devsecops.md)
 
 [Topic: SonarQube](../../topics/sonarqube.md) · [All questions](../README.md) · [Home](../../README.md)

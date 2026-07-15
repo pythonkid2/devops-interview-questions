@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Security](../../topics/security.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | Technical Interview |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -52,13 +52,15 @@ _None listed yet._
 
 ## Related questions
 
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](./how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi.md)
 - [How do you review and coordinate security findings with development and security teams?](./how-do-you-review-and-coordinate-security-findings-with-development-and-security.md)
+- [Difference between IAM Roles and IAM Policies.](./difference-between-iam-roles-and-iam-policies.md)
 - [How do you secure container images before deployment?](./how-do-you-secure-container-images-before-deployment.md)
 - [How do you manage secrets in production?](./how-do-you-manage-secrets-in-production.md)
-- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](./how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi.md)
+- [How do you implement security across multiple data sources in Canvas Apps?](./how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps.md)
 
 ---
 
-_Start of topic_ | [How do you manage secrets in production? →](./how-do-you-manage-secrets-in-production.md)
+[← Do you have experience building security pipelines?](./do-you-have-experience-building-security-pipelines.md) | [Have you integrated security tools into CI/CD pipelines? →](./have-you-integrated-security-tools-into-ci-cd-pipelines.md)
 
 [Topic: Security](../../topics/security.md) · [All questions](../README.md) · [Home](../../README.md)

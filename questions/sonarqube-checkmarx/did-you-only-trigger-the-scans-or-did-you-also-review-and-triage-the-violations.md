@@ -52,11 +52,10 @@ _None listed yet._
 
 ## Related questions
 
-- [Did you generate SonarQube or Checkmarx reports every day?](./did-you-generate-sonarqube-or-checkmarx-reports-every-day.md)
-- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](./did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md)
+_No related questions in this topic yet._
 
 ---
 
-[← Did you generate SonarQube or Checkmarx reports every day?](./did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) | [Did you write any scripts to collect SonarQube or Checkmarx  →](./did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md)
+_Start of topic_ | _End of topic_
 
 [Topic: SonarQube & Checkmarx](../../topics/sonarqube-checkmarx.md) · [All questions](../README.md) · [Home](../../README.md)

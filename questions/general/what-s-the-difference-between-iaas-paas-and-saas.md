@@ -52,15 +52,15 @@ _Not attributed yet._
 
 ## Related questions
 
+- [How do you validate infrastructure changes before executing them in production?](./how-do-you-validate-infrastructure-changes-before-executing-them-in-production.md)
+- [How would you automate environment provisioning while allowing environment-specific configurations?](./how-would-you-automate-environment-provisioning-while-allowing-environment-speci.md)
 - [Your production server suddenly goes down. What do you do first?](./your-production-server-suddenly-goes-down-what-do-you-do-first.md)
 - [High CPU usage is affecting application performance. Where do you start?](./high-cpu-usage-is-affecting-application-performance-where-do-you-start.md)
 - [Users report a slow application, but the servers look healthy. How would you troubleshoot?](./users-report-a-slow-application-but-the-servers-look-healthy-how-would-you-troub.md)
 - [Explain your project architecture from a DevOps perspective.](./explain-your-project-architecture-from-a-devops-perspective.md)
-- [What third-party integrations have you worked on?](./what-third-party-integrations-have-you-worked-on.md)
-- [Explain an integration you implemented in your project?](./explain-an-integration-you-implemented-in-your-project.md)
 
 ---
 
-[← What third-party integrations have you worked on?](./what-third-party-integrations-have-you-worked-on.md) | [What's the difference between Public, Private, Hybrid, and M →](./what-s-the-difference-between-public-private-hybrid-and-multi-cloud.md)
+[← What will be your approach when testing is incomplete and re](./what-will-be-your-approach-when-testing-is-incomplete-and-release-slippage-occur.md) | [What's the difference between Public, Private, Hybrid, and M →](./what-s-the-difference-between-public-private-hybrid-and-multi-cloud.md)
 
 [Topic: General](../../topics/general.md) · [All questions](../README.md) · [Home](../../README.md)

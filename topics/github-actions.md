@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **GitHub Actions**
 
-**1** interview questions tagged `GitHub Actions`.
+**3** interview questions tagged `GitHub Actions`.
 
 ## Table of contents
 
@@ -16,10 +16,11 @@
 
 ## Beginner (Easy)
 
-_None in this band yet._
+- [What are runners in GitHub Actions?](../questions/github-actions/what-are-runners-in-github-actions.md) — asked 1×
 
 ## Intermediate (Medium)
 
+- [GitHub Administration & Repository Migration](../questions/github-actions/github-administration-repository-migration.md) — asked 1×
 - [Write a GitHub Actions workflow for CI/CD.](../questions/github-actions/write-a-github-actions-workflow-for-ci-cd.md) — asked 1×
 
 ## Advanced (Hard)
@@ -28,26 +29,31 @@ _None in this band yet._
 
 ## Frequently asked
 
+- [GitHub Administration & Repository Migration](../questions/github-actions/github-administration-repository-migration.md) — 1× · Medium
+- [What are runners in GitHub Actions?](../questions/github-actions/what-are-runners-in-github-actions.md) — 1× · Easy
 - [Write a GitHub Actions workflow for CI/CD.](../questions/github-actions/write-a-github-actions-workflow-for-ci-cd.md) — 1× · Medium
 
 ## Rare questions
 
+- [GitHub Administration & Repository Migration](../questions/github-actions/github-administration-repository-migration.md) — 1×
+- [What are runners in GitHub Actions?](../questions/github-actions/what-are-runners-in-github-actions.md) — 1×
 - [Write a GitHub Actions workflow for CI/CD.](../questions/github-actions/write-a-github-actions-workflow-for-ci-cd.md) — 1×
 
 ## Companies asking
 
+- [Argyll Infotech](../companies/argyll-infotech.md)
 - [TCS](../companies/tcs.md)
 
 ## Related topics
 
-- [AWS](./aws.md)
-- [Checkmarx](./checkmarx.md)
 - [CI/CD](./ci-cd.md)
-- [CloudFormation](./cloudformation.md)
-- [Docker](./docker.md)
-- [EKS](./eks.md)
-- [General](./general.md)
 - [Jenkins](./jenkins.md)
+- [Azure DevOps](./azure-devops.md)
+- [General](./general.md)
+- [Terraform](./terraform.md)
+- [Kubernetes](./kubernetes.md)
+- [Docker](./docker.md)
+- [AWS](./aws.md)
 
 ## Learning resources
 

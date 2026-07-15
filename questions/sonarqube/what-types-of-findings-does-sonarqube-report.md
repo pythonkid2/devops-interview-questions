@@ -53,9 +53,12 @@ _None listed yet._
 ## Related questions
 
 - [Give an example where you helped resolve a SonarQube finding.](./give-an-example-where-you-helped-resolve-a-sonarqube-finding.md)
+- [Did you generate SonarQube or Checkmarx reports every day?](./did-you-generate-sonarqube-or-checkmarx-reports-every-day.md)
+- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](./did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md)
+- [What is the purpose of SonarQube in DevSecOps?](./what-is-the-purpose-of-sonarqube-in-devsecops.md)
 
 ---
 
-[← Give an example where you helped resolve a SonarQube finding](./give-an-example-where-you-helped-resolve-a-sonarqube-finding.md) | _End of topic_
+[← What is the purpose of SonarQube in DevSecOps?](./what-is-the-purpose-of-sonarqube-in-devsecops.md) | _End of topic_
 
 [Topic: SonarQube](../../topics/sonarqube.md) · [All questions](../README.md) · [Home](../../README.md)

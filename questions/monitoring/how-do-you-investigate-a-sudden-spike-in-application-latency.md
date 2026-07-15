@@ -56,6 +56,7 @@ _Not attributed yet._
 - [What monitoring tools have you used after deployment?](./what-monitoring-tools-have-you-used-after-deployment.md)
 - [Difference between logs, metrics, and traces.](./difference-between-logs-metrics-and-traces.md)
 - [Explain your monitoring and alerting strategy.](./explain-your-monitoring-and-alerting-strategy.md)
+- [Monitoring, Troubleshooting & Production Support](./monitoring-troubleshooting-production-support.md)
 
 ---
 

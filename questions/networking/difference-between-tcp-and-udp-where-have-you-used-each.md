@@ -52,11 +52,12 @@ _Not attributed yet._
 
 ## Related questions
 
-- [How does DNS resolution work internally?](./how-does-dns-resolution-work-internally.md)
-- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](./explain-load-balancer-reverse-proxy-and-ingress-with-real-examples.md)
 - [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](./your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte.md)
 - [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](./how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams.md)
 - [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](./an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails.md)
+- [What is the difference between a load balancer and an application firewall?](./what-is-the-difference-between-a-load-balancer-and-an-application-firewall.md)
+- [How does DNS resolution work internally?](./how-does-dns-resolution-work-internally.md)
+- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](./explain-load-balancer-reverse-proxy-and-ingress-with-real-examples.md)
 
 ---
 

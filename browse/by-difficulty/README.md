@@ -4,8 +4,8 @@
 
 | Level | Questions |
 | --- | ---: |
-| [Easy](./easy.md) | 16 |
-| [Medium](./medium.md) | 172 |
-| [Hard](./hard.md) | 15 |
+| [Easy](./easy.md) | 57 |
+| [Medium](./medium.md) | 378 |
+| [Hard](./hard.md) | 41 |
 
 [← Home](../../README.md)

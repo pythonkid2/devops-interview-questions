@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Linux](../../topics/linux.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | _Not specified_ |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -52,10 +52,10 @@ _Not attributed yet._
 
 ## Related questions
 
-- [How would you debug high CPU, memory, or disk utilization on a Linux server?](./how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server.md)
 - [For a memory or CPU-related issue, what would be shown in logs or events?](./for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events.md)
 - [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](./a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-.md)
 - [What is systemd?](./what-is-systemd.md)
+- [How would you debug high CPU, memory, or disk utilization on a Linux server?](./how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server.md)
 
 ---
 

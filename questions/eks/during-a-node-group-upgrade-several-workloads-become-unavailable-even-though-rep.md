@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [EKS](../../topics/eks.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | Technical Interview |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -53,9 +53,10 @@ _None listed yet._
 ## Related questions
 
 - [What indicators tell you that the issue is in the Kubernetes control plane versus the underlying AWS infrastructure?](./what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md)
+- [An Amazon EKS application starts returning intermittent 502/503 errors immediately after deployment. How would you identify whether the issue is related to Kubernetes, the Load Balancer, or the application?](./an-amazon-eks-application-starts-returning-intermittent-502-503-errors-immediate.md)
 
 ---
 
-_Start of topic_ | [What indicators tell you that the issue is in the Kubernetes →](./what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md)
+[← An Amazon EKS application starts returning intermittent 502/](./an-amazon-eks-application-starts-returning-intermittent-502-503-errors-immediate.md) | [What indicators tell you that the issue is in the Kubernetes →](./what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu.md)
 
 [Topic: EKS](../../topics/eks.md) · [All questions](../README.md) · [Home](../../README.md)

@@ -6,9 +6,13 @@
 
 Open [Companies](./companies/README.md) and click the company name.
 
-## How do I study Kubernetes / Terraform / AWS?
+## How do I study Kubernetes / Terraform / AWS / DR / AIOps?
 
-Open [Topics](./topics/README.md).
+Open [Topics](./topics/README.md). Topics are grouped for a DevOps study path:
+
+- **Reliability & SRE** — Disaster Recovery, HA, Incident Management, On-Call, Chaos
+- **Observability & AIOps** — Monitoring, Prometheus, Grafana, OpenTelemetry, AIOps
+- **Cloud / K8s / IaC / CI/CD** — AWS, Azure, GCP, Kubernetes, Terraform, Jenkins, …
 
 ## How do I practice Easy vs Hard questions?
 

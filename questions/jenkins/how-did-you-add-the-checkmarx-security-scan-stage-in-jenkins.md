@@ -61,6 +61,6 @@ _None listed yet._
 
 ---
 
-[← Explain the Jenkins pipeline you worked on.](./explain-the-jenkins-pipeline-you-worked-on.md) | [How did you configure SonarQube with Jenkins? →](./how-did-you-configure-sonarqube-with-jenkins.md)
+[← Explain the stages in a Jenkins Pipeline.](./explain-the-stages-in-a-jenkins-pipeline.md) | [How did you configure SonarQube with Jenkins? →](./how-did-you-configure-sonarqube-with-jenkins.md)
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)

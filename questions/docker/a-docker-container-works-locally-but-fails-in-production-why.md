@@ -53,14 +53,14 @@ _Not attributed yet._
 ## Related questions
 
 - [Difference between CMD and ENTRYPOINT.](./difference-between-cmd-and-entrypoint.md)
-- [What happens internally when you run docker run?](./what-happens-internally-when-you-run-docker-run.md)
-- [Docker architectures](./docker-architectures.md)
-- [Docker layers](./docker-layers.md)
-- [Difference between add and copy](./difference-between-add-and-copy.md)
-- [Explain about docker networking more](./explain-about-docker-networking-more.md)
+- [Explain the Docker container lifecycle.](./explain-the-docker-container-lifecycle.md)
+- [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](./a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou.md)
+- [How do you use docker stats during troubleshooting?](./how-do-you-use-docker-stats-during-troubleshooting.md)
+- [What is the purpose of a Docker image?](./what-is-the-purpose-of-a-docker-image.md)
+- [What is the Docker daemon?](./what-is-the-docker-daemon.md)
 
 ---
 
-[← A Docker container is consuming high CPU and memory. How wou](./a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou.md) | [Difference between add and copy →](./difference-between-add-and-copy.md)
+[← A Docker container is consuming high CPU and memory. How wou](./a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou.md) | [A Docker image has 10 layers, and all layers are already cac →](./a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay.md)
 
 [Topic: Docker](../../topics/docker.md) · [All questions](../README.md) · [Home](../../README.md)

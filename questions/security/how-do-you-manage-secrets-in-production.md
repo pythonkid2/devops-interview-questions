@@ -52,13 +52,15 @@ _Not attributed yet._
 
 ## Related questions
 
-- [How do you review and coordinate security findings with development and security teams?](./how-do-you-review-and-coordinate-security-findings-with-development-and-security.md)
-- [How do you secure container images before deployment?](./how-do-you-secure-container-images-before-deployment.md)
 - [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](./how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi.md)
 - [During an infrastructure audit, what AWS configurations do you review before approving a production release?](./during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr.md)
+- [How do you review and coordinate security findings with development and security teams?](./how-do-you-review-and-coordinate-security-findings-with-development-and-security.md)
+- [Difference between IAM Roles and IAM Policies.](./difference-between-iam-roles-and-iam-policies.md)
+- [How do you secure container images before deployment?](./how-do-you-secure-container-images-before-deployment.md)
+- [How do you implement security across multiple data sources in Canvas Apps?](./how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps.md)
 
 ---
 
-[← During an infrastructure audit, what AWS configurations do y](./during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr.md) | [How do you review and coordinate security findings with deve →](./how-do-you-review-and-coordinate-security-findings-with-development-and-security.md)
+[← How do you implement security across multiple data sources i](./how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps.md) | [How do you review and coordinate security findings with deve →](./how-do-you-review-and-coordinate-security-findings-with-development-and-security.md)
 
 [Topic: Security](../../topics/security.md) · [All questions](../README.md) · [Home](../../README.md)

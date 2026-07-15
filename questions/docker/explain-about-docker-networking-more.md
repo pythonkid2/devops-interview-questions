@@ -54,13 +54,13 @@ _Not attributed yet._
 
 - [Difference between CMD and ENTRYPOINT.](./difference-between-cmd-and-entrypoint.md)
 - [A Docker container works locally but fails in production. Why?](./a-docker-container-works-locally-but-fails-in-production-why.md)
-- [What happens internally when you run docker run?](./what-happens-internally-when-you-run-docker-run.md)
-- [Docker architectures](./docker-architectures.md)
-- [Docker layers](./docker-layers.md)
-- [Difference between add and copy](./difference-between-add-and-copy.md)
+- [Explain the Docker container lifecycle.](./explain-the-docker-container-lifecycle.md)
+- [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](./a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou.md)
+- [How do you use docker stats during troubleshooting?](./how-do-you-use-docker-stats-during-troubleshooting.md)
+- [What is the purpose of a Docker image?](./what-is-the-purpose-of-a-docker-image.md)
 
 ---
 
-[← Docker layers](./docker-layers.md) | [Explain the Docker container lifecycle. →](./explain-the-docker-container-lifecycle.md)
+[← Docker layers](./docker-layers.md) | [Explain Bridge, Host, and Overlay networks. →](./explain-bridge-host-and-overlay-networks.md)
 
 [Topic: Docker](../../topics/docker.md) · [All questions](../README.md) · [Home](../../README.md)

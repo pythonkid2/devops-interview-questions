@@ -53,14 +53,14 @@ _Not attributed yet._
 ## Related questions
 
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](./an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan.md)
+- [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](./you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces.md)
 - [As an AWS and DevOps Senior Consultant, design a secure, scalable, and highly available architecture for a global SaaS product.](./as-an-aws-and-devops-senior-consultant-design-a-secure-scalable-and-highly-avail.md)
 - [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](./which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform.md)
 - [What are the major AWS services you have worked on?](./what-are-the-major-aws-services-you-have-worked-on.md)
 - [What is User Data in EC2?](./what-is-user-data-in-ec2.md)
-- [How would you debug a failing User Data script without repeatedly relaunching the instance?](./how-would-you-debug-a-failing-user-data-script-without-repeatedly-relaunching-th.md)
 
 ---
 
-[← Have you worked with Load Balancers?](./have-you-worked-with-load-balancers.md) | [How would you debug a failing User Data script without repea →](./how-would-you-debug-a-failing-user-data-script-without-repeatedly-relaunching-th.md)
+[← Have you worked with Load Balancers?](./have-you-worked-with-load-balancers.md) | [How would you centralize AWS WAF monitoring and troubleshoot →](./how-would-you-centralize-aws-waf-monitoring-and-troubleshooting-across-200-aws-a.md)
 
 [Topic: AWS](../../topics/aws.md) · [All questions](../README.md) · [Home](../../README.md)

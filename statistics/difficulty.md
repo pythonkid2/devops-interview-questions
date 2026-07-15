@@ -4,8 +4,8 @@
 
 | Difficulty | Count | Share |
 | --- | ---: | --- |
-| [Easy](../browse/by-difficulty/easy.md) | 16 | 8% `██░░░░░░░░░░░░░░░░░░` |
-| [Medium](../browse/by-difficulty/medium.md) | 172 | 85% `█████████████████░░░` |
-| [Hard](../browse/by-difficulty/hard.md) | 15 | 7% `█░░░░░░░░░░░░░░░░░░░` |
+| [Easy](../browse/by-difficulty/easy.md) | 57 | 12% `██░░░░░░░░░░░░░░░░░░` |
+| [Medium](../browse/by-difficulty/medium.md) | 378 | 79% `████████████████░░░░` |
+| [Hard](../browse/by-difficulty/hard.md) | 41 | 9% `██░░░░░░░░░░░░░░░░░░` |
 
 [← Statistics](./README.md)

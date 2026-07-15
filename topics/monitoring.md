@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**5** interview questions tagged `Monitoring`.
+**6** interview questions tagged `Monitoring`.
 
 ## Table of contents
 
@@ -23,6 +23,7 @@
 - [Explain your monitoring and alerting strategy.](../questions/monitoring/explain-your-monitoring-and-alerting-strategy.md) — asked 1×
 - [How do you investigate a sudden spike in application latency?](../questions/monitoring/how-do-you-investigate-a-sudden-spike-in-application-latency.md) — asked 1×
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../questions/monitoring/monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue.md) — asked 2×
+- [Monitoring, Troubleshooting & Production Support](../questions/monitoring/monitoring-troubleshooting-production-support.md) — asked 1×
 - [What monitoring tools have you used after deployment?](../questions/monitoring/what-monitoring-tools-have-you-used-after-deployment.md) — asked 2×
 
 ## Advanced (Hard)
@@ -36,29 +37,32 @@ _None in this band yet._
 - [Difference between logs, metrics, and traces.](../questions/monitoring/difference-between-logs-metrics-and-traces.md) — 1× · Easy
 - [Explain your monitoring and alerting strategy.](../questions/monitoring/explain-your-monitoring-and-alerting-strategy.md) — 1× · Medium
 - [How do you investigate a sudden spike in application latency?](../questions/monitoring/how-do-you-investigate-a-sudden-spike-in-application-latency.md) — 1× · Medium
+- [Monitoring, Troubleshooting & Production Support](../questions/monitoring/monitoring-troubleshooting-production-support.md) — 1× · Medium
 
 ## Rare questions
 
 - [Difference between logs, metrics, and traces.](../questions/monitoring/difference-between-logs-metrics-and-traces.md) — 1×
 - [Explain your monitoring and alerting strategy.](../questions/monitoring/explain-your-monitoring-and-alerting-strategy.md) — 1×
 - [How do you investigate a sudden spike in application latency?](../questions/monitoring/how-do-you-investigate-a-sudden-spike-in-application-latency.md) — 1×
+- [Monitoring, Troubleshooting & Production Support](../questions/monitoring/monitoring-troubleshooting-production-support.md) — 1×
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../questions/monitoring/monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue.md) — 2×
 - [What monitoring tools have you used after deployment?](../questions/monitoring/what-monitoring-tools-have-you-used-after-deployment.md) — 2×
 
 ## Companies asking
 
+- [Argyll Infotech](../companies/argyll-infotech.md)
 - [Mirafra](../companies/mirafra.md)
 
 ## Related topics
 
-- [AWS](./aws.md)
-- [Checkmarx](./checkmarx.md)
-- [CI/CD](./ci-cd.md)
-- [CloudFormation](./cloudformation.md)
-- [Docker](./docker.md)
-- [EKS](./eks.md)
+- [Logging](./logging.md)
+- [AIOps](./aiops.md)
 - [General](./general.md)
-- [GitHub Actions](./github-actions.md)
+- [Terraform](./terraform.md)
+- [Kubernetes](./kubernetes.md)
+- [Docker](./docker.md)
+- [AWS](./aws.md)
+- [Jenkins](./jenkins.md)
 
 ## Learning resources
 

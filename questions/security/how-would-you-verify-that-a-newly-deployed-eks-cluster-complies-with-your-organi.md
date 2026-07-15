@@ -6,7 +6,7 @@
 | --- | --- |
 | **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
 | **Topic** | [Security](../../topics/security.md) |
-| **Asked** | 1× |
+| **Asked** | 2× |
 | **Round** | Technical Interview |
 | **First seen** | 2026-07-15 |
 | **Last updated** | 2026-07-15 |
@@ -52,13 +52,15 @@ _None listed yet._
 
 ## Related questions
 
+- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](./during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr.md)
 - [How do you review and coordinate security findings with development and security teams?](./how-do-you-review-and-coordinate-security-findings-with-development-and-security.md)
+- [Difference between IAM Roles and IAM Policies.](./difference-between-iam-roles-and-iam-policies.md)
 - [How do you secure container images before deployment?](./how-do-you-secure-container-images-before-deployment.md)
 - [How do you manage secrets in production?](./how-do-you-manage-secrets-in-production.md)
-- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](./during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr.md)
+- [How do you implement security across multiple data sources in Canvas Apps?](./how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps.md)
 
 ---
 
-[← How do you secure container images before deployment?](./how-do-you-secure-container-images-before-deployment.md) | _End of topic_
+[← How would you design IAM permissions and trust relationships](./how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws.md) | [What IAM permissions are required for AWS Systems Manager? →](./what-iam-permissions-are-required-for-aws-systems-manager.md)
 
 [Topic: Security](../../topics/security.md) · [All questions](../README.md) · [Home](../../README.md)

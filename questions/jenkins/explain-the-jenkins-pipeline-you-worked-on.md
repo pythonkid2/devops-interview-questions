@@ -61,6 +61,6 @@ _None listed yet._
 
 ---
 
-[← Explain a Jenkins Pipeline and its stages.](./explain-a-jenkins-pipeline-and-its-stages.md) | [How did you add the Checkmarx (security scan) stage in Jenki →](./how-did-you-add-the-checkmarx-security-scan-stage-in-jenkins.md)
+[← Explain the Jenkins architecture.](./explain-the-jenkins-architecture.md) | [Explain the stages in a Jenkins Pipeline. →](./explain-the-stages-in-a-jenkins-pipeline.md)
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)

@@ -61,6 +61,6 @@ _None listed yet._
 
 ---
 
-[← How did you configure SonarQube with Jenkins?](./how-did-you-configure-sonarqube-with-jenkins.md) | [How do you maintain jenkins backup →](./how-do-you-maintain-jenkins-backup.md)
+[← How did you configure SonarQube with Jenkins?](./how-did-you-configure-sonarqube-with-jenkins.md) | [How do you back up and restore Jenkins? →](./how-do-you-back-up-and-restore-jenkins.md)
 
 [Topic: Jenkins](../../topics/jenkins.md) · [All questions](../README.md) · [Home](../../README.md)
