@@ -1,0 +1,62 @@
+# Did you only trigger the scans, or did you also review and triage the violations?
+
+[Home](../../README.md) > [Topics](../../topics/README.md) > [SonarQube & Checkmarx](../../topics/sonarqube-checkmarx.md) > **Question**
+
+| | |
+| --- | --- |
+| **Difficulty** | [Medium](../../browse/by-difficulty/medium.md) |
+| **Topic** | [SonarQube & Checkmarx](../../topics/sonarqube-checkmarx.md) |
+| **Asked** | 2× |
+| **Round** | Final |
+| **First seen** | 2026-07-15 |
+| **Last updated** | 2026-07-15 |
+
+## Table of contents
+
+- [Short interview answer](#short-interview-answer)
+- [Detailed explanation](#detailed-explanation)
+- [Example](#example)
+- [Common mistakes](#common-mistakes)
+- [Follow-up questions](#follow-up-questions)
+- [Companies asking](#companies-asking)
+- [Tags](#tags)
+- [Related questions](#related-questions)
+
+## Short interview answer
+
+> _No short answer yet. Run extract with `llm.enrich_answers: true`, or [contribute one](../../CONTRIBUTING.md)._
+
+## Detailed explanation
+
+> _No detailed explanation yet. Run extract with `llm.enrich_answers: true`, or [contribute one](../../CONTRIBUTING.md)._
+
+## Example
+
+> _No example yet. Run extract with `llm.enrich_answers: true`, or [contribute one](../../CONTRIBUTING.md)._
+
+## Common mistakes
+
+> _Add common pitfalls when enriching or contributing._
+
+## Follow-up questions
+
+_None listed yet._
+
+## Companies asking
+
+- [Mirafra](../../companies/mirafra.md)
+
+## Tags
+
+`Final` `Medium` `SonarQube & Checkmarx`
+
+## Related questions
+
+- [Did you generate SonarQube or Checkmarx reports every day?](./did-you-generate-sonarqube-or-checkmarx-reports-every-day.md)
+- [Did you write any scripts to collect SonarQube or Checkmarx scan results?](./did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md)
+
+---
+
+[← Did you generate SonarQube or Checkmarx reports every day?](./did-you-generate-sonarqube-or-checkmarx-reports-every-day.md) | [Did you write any scripts to collect SonarQube or Checkmarx  →](./did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results.md)
+
+[Topic: SonarQube & Checkmarx](../../topics/sonarqube-checkmarx.md) · [All questions](../README.md) · [Home](../../README.md)
