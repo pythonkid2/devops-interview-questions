@@ -8,7 +8,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [AWS](./aws.md) | 42 |
+| [AWS](./aws.md) | 43 |
 | [Azure](./azure.md) | 4 |
 | [GCP](./gcp.md) | 1 |
 
@@ -16,7 +16,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Kubernetes](./kubernetes.md) | 58 |
+| [Kubernetes](./kubernetes.md) | 74 |
 | [Docker](./docker.md) | 45 |
 | [ArgoCD](./argocd.md) | 2 |
 
@@ -24,16 +24,17 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Terraform](./terraform.md) | 60 |
+| [Terraform](./terraform.md) | 67 |
 | [Ansible](./ansible.md) | 5 |
 
 ## CI/CD
 
 | Topic | Questions |
 | --- | ---: |
-| [CI/CD](./ci-cd.md) | 37 |
-| [Jenkins](./jenkins.md) | 32 |
+| [CI/CD](./ci-cd.md) | 38 |
+| [Jenkins](./jenkins.md) | 34 |
 | [GitHub Actions](./github-actions.md) | 4 |
+| [Deployment Strategies](./deployment-strategies.md) | 1 |
 
 ## Observability
 
@@ -48,20 +49,24 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Networking](./networking.md) | 8 |
+| [Ingress](./ingress.md) | 3 |
+| [Load Balancing](./load-balancing.md) | 1 |
+| [VPC](./vpc.md) | 1 |
 
 ## Security
 
 | Topic | Questions |
 | --- | ---: |
 | [Security](./security.md) | 24 |
+| [IAM](./iam.md) | 1 |
 | [Network Security](./network-security.md) | 1 |
 
 ## SRE
 
 | Topic | Questions |
 | --- | ---: |
-| [Disaster Recovery](./disaster-recovery.md) | 6 |
-| [Incident Response](./incident-response.md) | 4 |
+| [Disaster Recovery](./disaster-recovery.md) | 7 |
+| [Incident Response](./incident-response.md) | 5 |
 | [SRE](./sre.md) | 2 |
 | [High Availability](./high-availability.md) | 1 |
 | [SLOs](./slos.md) | 1 |
@@ -84,7 +89,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Kafka](./kafka.md) | 5 |
-| [Storage](./storage.md) | 1 |
+| [Storage](./storage.md) | 2 |
 
 ## Architecture & cost
 
@@ -97,7 +102,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 111 |
+| [General](./general.md) | 135 |
 
 
 [← Home](../README.md)

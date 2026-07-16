@@ -23,18 +23,18 @@
 | --- | ---: |
 | Questions | 4 |
 | Easy / Medium / Hard | 1 / 2 / 1 |
-| Companies | 2 |
+| Companies | 3 |
 
 ## Most asked
 
 - [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions) — **2×** · Easy
   <a id="what-are-runners-in-github-actions"></a>
+- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — **2×** · Medium
+  <a id="write-a-github-actions-workflow-for-ci-cd"></a>
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — **1×** · Medium
   <a id="github-administration-repository-migration"></a>
 - [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions) — **1×** · Hard
   <a id="how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions"></a>
-- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — **1×** · Medium
-  <a id="write-a-github-actions-workflow-for-ci-cd"></a>
 
 ## Beginner
 
@@ -43,10 +43,10 @@
 
 ## Intermediate
 
+- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 2×
+  <a id="write-a-github-actions-workflow-for-ci-cd"></a>
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 1×
   <a id="github-administration-repository-migration"></a>
-- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 1×
-  <a id="write-a-github-actions-workflow-for-ci-cd"></a>
 
 ## Advanced
 
@@ -69,18 +69,20 @@
 
 - [Argyll Infotech](../companies/argyll-infotech.md)
 - [TCS](../companies/tcs.md)
+- [zemoso technologies](../companies/zemoso-technologies.md)
 
 ## Recently added
 
+- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 2026-07-16
 - [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions) — 2026-07-15
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 2026-07-15
 - [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions) — 2026-07-15
-- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 2026-07-15
 
 ## Related topics
 
 - [CI/CD](./ci-cd.md)
 - [Jenkins](./jenkins.md)
+- [Deployment Strategies](./deployment-strategies.md)
 
 ## All questions
 
@@ -89,7 +91,7 @@
 | [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) | Medium | 1 |
 | [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions) | Hard | 1 |
 | [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions) | Easy | 2 |
-| [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) | Medium | 1 |
+| [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) | Medium | 2 |
 
 ## Learning resources
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Storage**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 1 / 0 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 1 / 1 / 0 |
 | Companies | 1 |
 
 ## Most asked
 
 - [How does RAG work?](../topics/storage.md#how-does-rag-work) — **1×** · Easy
   <a id="how-does-rag-work"></a>
+- [Storage (PV/PVC)](../topics/storage.md#storage-pv-pvc) — **1×** · Medium · tags: `PVC`, `PV`
+  <a id="storage-pv-pvc"></a>
 
 ## Beginner
 
@@ -37,7 +39,8 @@
 
 ## Intermediate
 
-_None in this band yet._
+- [Storage (PV/PVC)](../topics/storage.md#storage-pv-pvc) — 1× · tags: `PVC`, `PV`
+  <a id="storage-pv-pvc"></a>
 
 ## Advanced
 
@@ -48,6 +51,7 @@ _None in this band yet._
 ### Unspecified
 
 - [How does RAG work?](../topics/storage.md#how-does-rag-work)
+- [Storage (PV/PVC)](../topics/storage.md#storage-pv-pvc) — tags: `PVC`, `PV`
 
 ## Companies asking
 
@@ -55,6 +59,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Storage (PV/PVC)](../topics/storage.md#storage-pv-pvc) — 2026-07-16 · tags: `PVC`, `PV`
 - [How does RAG work?](../topics/storage.md#how-does-rag-work) — 2026-07-15
 
 ## Related topics
@@ -66,6 +71,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [How does RAG work?](../topics/storage.md#how-does-rag-work) | Easy | 1 |
+| [Storage (PV/PVC)](../topics/storage.md#storage-pv-pvc) | Medium | 1 |
 
 ## Learning resources
 

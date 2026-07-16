@@ -29,20 +29,20 @@
 
 - [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) — **4×** · Medium
   <a id="give-an-example-where-you-helped-resolve-a-sonarqube-finding"></a>
+- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — **3×** · Medium
+  <a id="during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr"></a>
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — **3×** · Medium
+  <a id="how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi"></a>
 - [Did you generate SonarQube or Checkmarx reports every day?](../topics/security.md#did-you-generate-sonarqube-or-checkmarx-reports-every-day) — **2×** · Medium
   <a id="did-you-generate-sonarqube-or-checkmarx-reports-every-day"></a>
 - [Did you only trigger the scans, or did you also review and triage the violations?](../topics/security.md#did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations) — **2×** · Medium
   <a id="did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations"></a>
 - [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../topics/security.md#did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results) — **2×** · Medium
   <a id="did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results"></a>
-- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — **2×** · Medium
-  <a id="during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr"></a>
 - [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps) — **2×** · Hard
   <a id="how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps"></a>
 - [How do you review and coordinate security findings with development and security teams?](../topics/security.md#how-do-you-review-and-coordinate-security-findings-with-development-and-security) — **2×** · Medium
   <a id="how-do-you-review-and-coordinate-security-findings-with-development-and-security"></a>
-- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — **2×** · Medium
-  <a id="how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi"></a>
 - [What types of findings does SonarQube report?](../topics/security.md#what-types-of-findings-does-sonarqube-report) — **2×** · Medium
   <a id="what-types-of-findings-does-sonarqube-report"></a>
 - [What types of vulnerabilities does Checkmarx detect?](../topics/security.md#what-types-of-vulnerabilities-does-checkmarx-detect) — **2×** · Medium
@@ -85,18 +85,18 @@
 
 - [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) — 4×
   <a id="give-an-example-where-you-helped-resolve-a-sonarqube-finding"></a>
+- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — 3×
+  <a id="during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr"></a>
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — 3×
+  <a id="how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi"></a>
 - [Did you generate SonarQube or Checkmarx reports every day?](../topics/security.md#did-you-generate-sonarqube-or-checkmarx-reports-every-day) — 2×
   <a id="did-you-generate-sonarqube-or-checkmarx-reports-every-day"></a>
 - [Did you only trigger the scans, or did you also review and triage the violations?](../topics/security.md#did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations) — 2×
   <a id="did-you-only-trigger-the-scans-or-did-you-also-review-and-triage-the-violations"></a>
 - [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../topics/security.md#did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results) — 2×
   <a id="did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results"></a>
-- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — 2×
-  <a id="during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr"></a>
 - [How do you review and coordinate security findings with development and security teams?](../topics/security.md#how-do-you-review-and-coordinate-security-findings-with-development-and-security) — 2×
   <a id="how-do-you-review-and-coordinate-security-findings-with-development-and-security"></a>
-- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — 2×
-  <a id="how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi"></a>
 - [What types of findings does SonarQube report?](../topics/security.md#what-types-of-findings-does-sonarqube-report) — 2×
   <a id="what-types-of-findings-does-sonarqube-report"></a>
 - [What types of vulnerabilities does Checkmarx detect?](../topics/security.md#what-types-of-vulnerabilities-does-checkmarx-detect) — 2×
@@ -183,6 +183,8 @@
 
 ## Recently added
 
+- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — 2026-07-16
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — 2026-07-16
 - [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps) — 2026-07-15
 - [Are you interested in learning Security, SecOps, and AI-driven operations?](../topics/security.md#are-you-interested-in-learning-security-secops-and-ai-driven-operations) — 2026-07-15
 - [How do you see Security fitting into the future of DevOps?](../topics/security.md#how-do-you-see-security-fitting-into-the-future-of-devops) — 2026-07-15
@@ -194,13 +196,12 @@
 - [Can you explain how to implement security best practices in AWS?](../topics/security.md#can-you-explain-how-to-implement-security-best-practices-in-aws) — 2026-07-15
 - [What is the best way to save credentials? Where should credentials be stored?](../topics/security.md#what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored) — 2026-07-15
 - [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) — 2026-07-15
-- [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — 2026-07-15
-- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — 2026-07-15
 - [What is the purpose of SonarQube in DevSecOps?](../topics/security.md#what-is-the-purpose-of-sonarqube-in-devsecops) — 2026-07-15
 - [How do you review and coordinate security findings with development and security teams?](../topics/security.md#how-do-you-review-and-coordinate-security-findings-with-development-and-security) — 2026-07-15
 
 ## Related topics
 
+- [IAM](./iam.md)
 - [Network Security](./network-security.md)
 
 ## All questions
@@ -214,7 +215,7 @@
 | [Did you write any scripts to collect SonarQube or Checkmarx scan results?](../topics/security.md#did-you-write-any-scripts-to-collect-sonarqube-or-checkmarx-scan-results) | Medium | 2 |
 | [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) | Easy | 1 |
 | [Do you have experience building security pipelines?](../topics/security.md#do-you-have-experience-building-security-pipelines) | Medium | 1 |
-| [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) | Medium | 2 |
+| [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) | Medium | 3 |
 | [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) | Medium | 4 |
 | [Have you integrated security tools into CI/CD pipelines?](../topics/security.md#have-you-integrated-security-tools-into-ci-cd-pipelines) | Medium | 1 |
 | [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) | Medium | 1 |
@@ -224,7 +225,7 @@
 | [How do you secure container images before deployment?](../topics/security.md#how-do-you-secure-container-images-before-deployment) | Medium | 1 |
 | [How do you see Security fitting into the future of DevOps?](../topics/security.md#how-do-you-see-security-fitting-into-the-future-of-devops) | Medium | 1 |
 | [How would you design IAM permissions and trust relationships for large-scale AWS Organizations environments?](../topics/security.md#how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws) | Medium | 1 |
-| [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) | Medium | 2 |
+| [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) | Medium | 3 |
 | [What IAM permissions are required for AWS Systems Manager?](../topics/security.md#what-iam-permissions-are-required-for-aws-systems-manager) | Medium | 1 |
 | [What is the best way to save credentials? Where should credentials be stored?](../topics/security.md#what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored) | Medium | 1 |
 | [What is the purpose of SonarQube in DevSecOps?](../topics/security.md#what-is-the-purpose-of-sonarqube-in-devsecops) | Medium | 1 |

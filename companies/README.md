@@ -16,6 +16,8 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [Argyll Infotech](./argyll-infotech.md) | 10 |
 | [Fineshift Software Pvt. Ltd.](./fineshift-software-pvt-ltd.md) | 8 |
 | [TCS](./tcs.md) | 8 |
+| [zemoso technologies](./zemoso-technologies.md) | 8 |
+| [Elite Code Technologies](./elite-code-technologies.md) | 7 |
 | [EY](./ey.md) | 7 |
 | [Sri-Hire](./sri-hire.md) | 5 |
 | [DPRSolutions](./dprsolutions.md) | 4 |
@@ -26,6 +28,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 343 |
+| [Unknown Company](./unknown-company.md) | 392 |
 
 [← Home](../README.md)
