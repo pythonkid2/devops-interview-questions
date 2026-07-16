@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **IAM**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
+- [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — **1×** · Medium · tags: `AWS`
+  <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — **1×** · Medium · tags: `RBAC`
   <a id="rbac-security"></a>
 
@@ -36,6 +38,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — 1× · tags: `AWS`
+  <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — 1× · tags: `RBAC`
   <a id="rbac-security"></a>
 
@@ -47,6 +51,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — tags: `AWS`
 - [RBAC & Security](../topics/iam.md#rbac-security) — tags: `RBAC`
 
 ## Companies asking
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — 2026-07-16 · tags: `AWS`
 - [RBAC & Security](../topics/iam.md#rbac-security) — 2026-07-16 · tags: `RBAC`
 
 ## Related topics
@@ -66,6 +72,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) | Medium | 1 |
 | [RBAC & Security](../topics/iam.md#rbac-security) | Medium | 1 |
 
 ## Learning resources

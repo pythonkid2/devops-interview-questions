@@ -4,10 +4,10 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 392 |
+| [Unknown Company](../companies/unknown-company.md) | 412 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
-| [Global Payments](../companies/global-payments.md) | 13 |
+| [Global Payments](../companies/global-payments.md) | 24 |
 | [PwC](../companies/pwc.md) | 13 |
 | [SpaceTech Inc.](../companies/spacetech-inc.md) | 13 |
 | [Infosys](../companies/infosys.md) | 12 |

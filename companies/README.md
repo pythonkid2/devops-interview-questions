@@ -8,7 +8,7 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | --- | ---: |
 | [BNP Paribas](./bnp-paribas.md) | 28 |
 | [Mirafra](./mirafra.md) | 28 |
-| [Global Payments](./global-payments.md) | 13 |
+| [Global Payments](./global-payments.md) | 24 |
 | [PwC](./pwc.md) | 13 |
 | [SpaceTech Inc.](./spacetech-inc.md) | 13 |
 | [Infosys](./infosys.md) | 12 |
@@ -28,6 +28,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 392 |
+| [Unknown Company](./unknown-company.md) | 412 |
 
 [← Home](../README.md)

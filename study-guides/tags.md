@@ -8,11 +8,11 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 | Tag | Questions |
 | --- | ---: |
+| `AWS` | 2 |
 | `CI/CD` | 2 |
 | `Docker` | 2 |
 | `System Design` | 2 |
 | `Alerting` | 1 |
-| `AWS` | 1 |
 | `Azure` | 1 |
 | `Git` | 1 |
 | `GitOps` | 1 |
@@ -30,6 +30,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 ## AWS
 
+- [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — IAM · tags: `AWS`
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — Terraform · tags: `AWS`
 
 ## Azure

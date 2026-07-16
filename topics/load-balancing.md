@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Load Balancing**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) — **2×** · Medium
   <a id="explain-clusterip-nodeport-and-loadbalancer"></a>
+- [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — **1×** · Medium
+  <a id="how-load-balancer-elb-alb-distributes-traffic"></a>
 
 ## Beginner
 
@@ -38,6 +40,8 @@ _None in this band yet._
 
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) — 2×
   <a id="explain-clusterip-nodeport-and-loadbalancer"></a>
+- [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — 1×
+  <a id="how-load-balancer-elb-alb-distributes-traffic"></a>
 
 ## Advanced
 
@@ -48,6 +52,7 @@ _None in this band yet._
 ### Unspecified
 
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer)
+- [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic)
 
 ## Companies asking
 
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — 2026-07-16
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) — 2026-07-16
 
 ## Related topics
@@ -68,6 +74,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) | Medium | 2 |
+| [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) | Medium | 1 |
 
 ## Learning resources
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Kafka**
 
-**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 5 |
-| Easy / Medium / Hard | 0 / 5 / 0 |
+| Questions | 6 |
+| Easy / Medium / Hard | 1 / 5 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -37,10 +37,13 @@
   <a id="what-would-be-your-day-to-day-role-when-it-comes-to-kafka"></a>
 - [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka) — **2×** · Medium
   <a id="when-should-an-application-consider-using-kafka"></a>
+- [What is Kafka?](../topics/kafka.md#what-is-kafka) — **1×** · Easy
+  <a id="what-is-kafka"></a>
 
 ## Beginner
 
-_None in this band yet._
+- [What is Kafka?](../topics/kafka.md#what-is-kafka) — 1×
+  <a id="what-is-kafka"></a>
 
 ## Intermediate
 
@@ -69,12 +72,17 @@ _None in this band yet._
 - [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka)
 - [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka)
 
+### Unspecified
+
+- [What is Kafka?](../topics/kafka.md#what-is-kafka)
+
 ## Companies asking
 
 - [BNP Paribas](../companies/bnp-paribas.md)
 
 ## Recently added
 
+- [What is Kafka?](../topics/kafka.md#what-is-kafka) — 2026-07-16
 - [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) — 2026-07-15
 - [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka) — 2026-07-15
 - [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) — 2026-07-15
@@ -84,6 +92,8 @@ _None in this band yet._
 ## Related topics
 
 - [Storage](./storage.md)
+- [Databases](./databases.md)
+- [Redis](./redis.md)
 
 ## All questions
 
@@ -91,6 +101,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) | Medium | 2 |
 | [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) | Medium | 2 |
+| [What is Kafka?](../topics/kafka.md#what-is-kafka) | Easy | 1 |
 | [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) | Medium | 2 |
 | [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka) | Medium | 2 |
 | [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka) | Medium | 2 |

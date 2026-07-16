@@ -64,7 +64,9 @@ _None in this band yet._
 
 ## Related topics
 
+- [Databases](./databases.md)
 - [Kafka](./kafka.md)
+- [Redis](./redis.md)
 
 ## All questions
 

@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — **3×** · Hard · tags: `Kubernetes`, `System Design`
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — **4×** · Hard · tags: `Kubernetes`, `System Design`
   <a id="how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit"></a>
 
 ## Beginner
@@ -40,7 +40,7 @@ _None in this band yet._
 
 ## Advanced
 
-- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 3× · tags: `Kubernetes`, `System Design`
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 4× · tags: `Kubernetes`, `System Design`
   <a id="how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit"></a>
 
 ## By interview round
@@ -68,7 +68,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) | Hard | 3 |
+| [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) | Hard | 4 |
 
 ## Learning resources
 

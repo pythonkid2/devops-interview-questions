@@ -8,7 +8,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [AWS](./aws.md) | 43 |
+| [AWS](./aws.md) | 51 |
 | [Azure](./azure.md) | 4 |
 | [GCP](./gcp.md) | 1 |
 
@@ -50,7 +50,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | --- | ---: |
 | [Networking](./networking.md) | 8 |
 | [Ingress](./ingress.md) | 3 |
-| [Load Balancing](./load-balancing.md) | 1 |
+| [Load Balancing](./load-balancing.md) | 2 |
 | [VPC](./vpc.md) | 1 |
 
 ## Security
@@ -58,7 +58,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Security](./security.md) | 24 |
-| [IAM](./iam.md) | 1 |
+| [IAM](./iam.md) | 2 |
 | [Network Security](./network-security.md) | 1 |
 
 ## SRE
@@ -88,21 +88,23 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Kafka](./kafka.md) | 5 |
+| [Kafka](./kafka.md) | 6 |
 | [Storage](./storage.md) | 2 |
+| [Databases](./databases.md) | 1 |
+| [Redis](./redis.md) | 1 |
 
 ## Architecture & cost
 
 | Topic | Questions |
 | --- | ---: |
-| [System Design](./system-design.md) | 5 |
+| [System Design](./system-design.md) | 6 |
 | [FinOps](./finops.md) | 1 |
 
 ## Other
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 135 |
+| [General](./general.md) | 152 |
 
 
 [← Home](../README.md)

@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-564-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-210-informational)
+![questions](https://img.shields.io/badge/questions-595-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-240-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,16 +18,16 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 564 |
-| Posts processed | 210 |
-| Added this week | 564 |
+| Unique questions | 595 |
+| Posts processed | 240 |
+| Added this week | 595 |
 
 ## Popular topics
 
 - [Kubernetes](./topics/kubernetes.md) — 74
 - [Terraform](./topics/terraform.md) — 67
+- [AWS](./topics/aws.md) — 51
 - [Docker](./topics/docker.md) — 45
-- [AWS](./topics/aws.md) — 43
 - [CI/CD](./topics/ci-cd.md) — 38
 - [Jenkins](./topics/jenkins.md) — 34
 - [Security](./topics/security.md) — 24
@@ -39,7 +39,7 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
-- [Global Payments](./companies/global-payments.md) — 13
+- [Global Payments](./companies/global-payments.md) — 24
 - [PwC](./companies/pwc.md) — 13
 - [SpaceTech Inc.](./companies/spacetech-inc.md) — 13
 - [Infosys](./companies/infosys.md) — 12
