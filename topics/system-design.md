@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **System Design**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 0 / 4 / 2 |
+| Questions | 7 |
+| Easy / Medium / Hard | 0 / 5 / 2 |
 | Companies | 2 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="explain-your-project-architecture-from-a-devops-perspective"></a>
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — **2×** · Medium
   <a id="what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar"></a>
+- [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — **1×** · Medium
+  <a id="describe-a-software-project-where-you-significantly-improved-performance-scalabi"></a>
 - [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — **1×** · Hard
   <a id="design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a"></a>
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — **1×** · Hard
@@ -50,6 +52,8 @@ _None in this band yet._
   <a id="explain-your-project-architecture-from-a-devops-perspective"></a>
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — 2×
   <a id="what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar"></a>
+- [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — 1×
+  <a id="describe-a-software-project-where-you-significantly-improved-performance-scalabi"></a>
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — 1×
   <a id="how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan"></a>
 - [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) — 1×
@@ -74,6 +78,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi)
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture)
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan)
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar)
@@ -86,6 +91,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — 2026-07-17
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — 2026-07-16
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — 2026-07-15
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — 2026-07-15
@@ -96,11 +102,13 @@ _None in this band yet._
 ## Related topics
 
 - [FinOps](./finops.md)
+- [Microservices](./microservices.md)
 
 ## All questions
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) | Medium | 1 |
 | [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) | Hard | 1 |
 | [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) | Hard | 1 |
 | [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) | Medium | 2 |

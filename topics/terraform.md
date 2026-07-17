@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Terraform**
 
-**70** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**74** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 70 |
-| Easy / Medium / Hard | 8 / 56 / 6 |
+| Questions | 74 |
+| Easy / Medium / Hard | 8 / 60 / 6 |
 | Companies | 6 |
 
 ## Most asked
@@ -159,6 +159,8 @@
   <a id="how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance"></a>
 - [How does Terraform state locking work?](../topics/terraform.md#how-does-terraform-state-locking-work) — 1×
   <a id="how-does-terraform-state-locking-work"></a>
+- [How have you implemented Infrastructure as Code using Terraform?](../topics/terraform.md#how-have-you-implemented-infrastructure-as-code-using-terraform) — 1×
+  <a id="how-have-you-implemented-infrastructure-as-code-using-terraform"></a>
 - [How will you manage environments like Dev, QA, Prod in Terraform?](../topics/terraform.md#how-will-you-manage-environments-like-dev-qa-prod-in-terraform) — 1×
   <a id="how-will-you-manage-environments-like-dev-qa-prod-in-terraform"></a>
 - [How will you use Terraform modules in a real project?](../topics/terraform.md#how-will-you-use-terraform-modules-in-a-real-project) — 1×
@@ -173,6 +175,10 @@
   <a id="how-would-you-manage-infrastructure-as-code-for-200-300-aws-accounts"></a>
 - [How would you manage Terraform state across multiple accounts and environments?](../topics/terraform.md#how-would-you-manage-terraform-state-across-multiple-accounts-and-environments) — 1×
   <a id="how-would-you-manage-terraform-state-across-multiple-accounts-and-environments"></a>
+- [How would you optimize a large Terraform state?](../topics/terraform.md#how-would-you-optimize-a-large-terraform-state) — 1×
+  <a id="how-would-you-optimize-a-large-terraform-state"></a>
+- [How would you recover from a partially failed Terraform deployment?](../topics/terraform.md#how-would-you-recover-from-a-partially-failed-terraform-deployment) — 1×
+  <a id="how-would-you-recover-from-a-partially-failed-terraform-deployment"></a>
 - [How would you stop Terraform from managing a resource it currently manages?](../topics/terraform.md#how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages) — 1×
   <a id="how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages"></a>
 - [If two engineers run Terraform apply at the same time, what problem can occur and how do you prevent it?](../topics/terraform.md#if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and) — 1×
@@ -181,6 +187,8 @@
   <a id="if-your-terraform-state-file-is-completely-lost-how-do-you-recover-it"></a>
 - [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 1×
   <a id="infrastructure-as-code-iac"></a>
+- [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) — 1×
+  <a id="terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves"></a>
 - [Terraform project architecture](../topics/terraform.md#terraform-project-architecture) — 1×
   <a id="terraform-project-architecture"></a>
 - [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — 1×
@@ -276,19 +284,23 @@
 - [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources)
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — tags: `AWS`
 - [How does Terraform state locking work?](../topics/terraform.md#how-does-terraform-state-locking-work)
+- [How have you implemented Infrastructure as Code using Terraform?](../topics/terraform.md#how-have-you-implemented-infrastructure-as-code-using-terraform)
 - [How to define dependency in Terraform ?](../topics/terraform.md#how-to-define-dependency-in-terraform)
 - [How will you manage environments like Dev, QA, Prod in Terraform?](../topics/terraform.md#how-will-you-manage-environments-like-dev-qa-prod-in-terraform)
 - [How will you use Terraform modules in a real project?](../topics/terraform.md#how-will-you-use-terraform-modules-in-a-real-project)
 - [How would you bring existing AWS resources (created outside Terraform) under Terraform management?](../topics/terraform.md#how-would-you-bring-existing-aws-resources-created-outside-terraform-under-terra)
 - [How would you create the same infrastructure for Development, QA, UAT, and Production without duplicating code using Terraform?](../topics/terraform.md#how-would-you-create-the-same-infrastructure-for-development-qa-uat-and-producti)
 - [How would you design Terraform code to manage a large number of similar resources (e.g., 100 Lambda functions) with varying configurations, without duplicating resource blocks?](../topics/terraform.md#how-would-you-design-terraform-code-to-manage-a-large-number-of-similar-resource)
+- [How would you optimize a large Terraform state?](../topics/terraform.md#how-would-you-optimize-a-large-terraform-state)
 - [How would you rate your Terraform proficiency on a scale of 1–5?](../topics/terraform.md#how-would-you-rate-your-terraform-proficiency-on-a-scale-of-1-5)
+- [How would you recover from a partially failed Terraform deployment?](../topics/terraform.md#how-would-you-recover-from-a-partially-failed-terraform-deployment)
 - [How would you stop Terraform from managing a resource it currently manages?](../topics/terraform.md#how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages)
 - [If two engineers run Terraform apply at the same time, what problem can occur and how do you prevent it?](../topics/terraform.md#if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and)
 - [If your Terraform State File is completely lost, how do you recover it?](../topics/terraform.md#if-your-terraform-state-file-is-completely-lost-how-do-you-recover-it)
 - [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac)
 - [Is there a safer alternative to directly modifying the Terraform state file in a production environment?](../topics/terraform.md#is-there-a-safer-alternative-to-directly-modifying-the-terraform-state-file-in-a)
 - [Terraform changes accidentally modify production resources. How would you recover?](../topics/terraform.md#terraform-changes-accidentally-modify-production-resources-how-would-you-recover)
+- [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves)
 - [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-)
 - [Terraform project architecture](../topics/terraform.md#terraform-project-architecture)
 - [Terraform state is 300MB and planning takes 15 minutes. How would you optimize it?](../topics/terraform.md#terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it)
@@ -322,6 +334,10 @@
 
 ## Recently added
 
+- [How have you implemented Infrastructure as Code using Terraform?](../topics/terraform.md#how-have-you-implemented-infrastructure-as-code-using-terraform) — 2026-07-17
+- [How would you recover from a partially failed Terraform deployment?](../topics/terraform.md#how-would-you-recover-from-a-partially-failed-terraform-deployment) — 2026-07-17
+- [How would you optimize a large Terraform state?](../topics/terraform.md#how-would-you-optimize-a-large-terraform-state) — 2026-07-17
+- [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) — 2026-07-17
 - [If two engineers run Terraform apply at the same time, what problem can occur and how do you prevent it?](../topics/terraform.md#if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and) — 2026-07-17
 - [How do you call a Terraform module from another module or root module?](../topics/terraform.md#how-do-you-call-a-terraform-module-from-another-module-or-root-module) — 2026-07-17
 - [What is the recommended folder structure for a production‑grade Terraform project?](../topics/terraform.md#what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec) — 2026-07-17
@@ -333,10 +349,6 @@
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-16
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — 2026-07-16 · tags: `AWS`
 - [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — 2026-07-16
-- [Difference between terraform.tfvars file and variables.tf file ?](../topics/terraform.md#difference-between-terraform-tfvars-file-and-variables-tf-file) — 2026-07-16
-- [What have you provisioned using Terraform ?](../topics/terraform.md#what-have-you-provisioned-using-terraform) — 2026-07-16
-- [How to define dependency in Terraform ?](../topics/terraform.md#how-to-define-dependency-in-terraform) — 2026-07-16
-- [What is Terraform?](../topics/terraform.md#what-is-terraform) — 2026-07-16
 
 ## Related topics
 
@@ -363,6 +375,7 @@
 | [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources) | Medium | 1 |
 | [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) | Medium | 1 |
 | [How does Terraform state locking work?](../topics/terraform.md#how-does-terraform-state-locking-work) | Medium | 1 |
+| [How have you implemented Infrastructure as Code using Terraform?](../topics/terraform.md#how-have-you-implemented-infrastructure-as-code-using-terraform) | Medium | 1 |
 | [How to define dependency in Terraform ?](../topics/terraform.md#how-to-define-dependency-in-terraform) | Medium | 2 |
 | [How will you manage environments like Dev, QA, Prod in Terraform?](../topics/terraform.md#how-will-you-manage-environments-like-dev-qa-prod-in-terraform) | Medium | 1 |
 | [How will you use Terraform modules in a real project?](../topics/terraform.md#how-will-you-use-terraform-modules-in-a-real-project) | Medium | 1 |
@@ -373,7 +386,9 @@
 | [How would you enforce standards, governance, and reusability in Terraform modules?](../topics/terraform.md#how-would-you-enforce-standards-governance-and-reusability-in-terraform-modules) | Medium | 1 |
 | [How would you manage Infrastructure as Code for 200–300 AWS accounts?](../topics/terraform.md#how-would-you-manage-infrastructure-as-code-for-200-300-aws-accounts) | Medium | 1 |
 | [How would you manage Terraform state across multiple accounts and environments?](../topics/terraform.md#how-would-you-manage-terraform-state-across-multiple-accounts-and-environments) | Medium | 1 |
+| [How would you optimize a large Terraform state?](../topics/terraform.md#how-would-you-optimize-a-large-terraform-state) | Medium | 1 |
 | [How would you rate your Terraform proficiency on a scale of 1–5?](../topics/terraform.md#how-would-you-rate-your-terraform-proficiency-on-a-scale-of-1-5) | Easy | 1 |
+| [How would you recover from a partially failed Terraform deployment?](../topics/terraform.md#how-would-you-recover-from-a-partially-failed-terraform-deployment) | Medium | 1 |
 | [How would you stop Terraform from managing a resource it currently manages?](../topics/terraform.md#how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages) | Medium | 1 |
 | [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) | Hard | 1 |
 | [If two engineers run Terraform apply at the same time, what problem can occur and how do you prevent it?](../topics/terraform.md#if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and) | Medium | 1 |
@@ -381,6 +396,7 @@
 | [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) | Medium | 1 |
 | [Is there a safer alternative to directly modifying the Terraform state file in a production environment?](../topics/terraform.md#is-there-a-safer-alternative-to-directly-modifying-the-terraform-state-file-in-a) | Hard | 1 |
 | [Terraform changes accidentally modify production resources. How would you recover?](../topics/terraform.md#terraform-changes-accidentally-modify-production-resources-how-would-you-recover) | Medium | 2 |
+| [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) | Medium | 1 |
 | [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-) | Medium | 4 |
 | [Terraform project architecture](../topics/terraform.md#terraform-project-architecture) | Medium | 1 |
 | [Terraform state is 300MB and planning takes 15 minutes. How would you optimize it?](../topics/terraform.md#terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it) | Medium | 4 |

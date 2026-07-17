@@ -4,15 +4,17 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 462 |
+| [Unknown Company](../companies/unknown-company.md) | 574 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
+| [Deloitte](../companies/deloitte.md) | 25 |
 | [Global Payments](../companies/global-payments.md) | 24 |
 | [PwC](../companies/pwc.md) | 13 |
 | [SpaceTech Inc.](../companies/spacetech-inc.md) | 13 |
 | [Infosys](../companies/infosys.md) | 12 |
 | [NVIDIA](../companies/nvidia.md) | 11 |
 | [Argyll Infotech](../companies/argyll-infotech.md) | 10 |
+| [DEVYNTECH](../companies/devyntech.md) | 9 |
 | [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md) | 8 |
 | [TCS](../companies/tcs.md) | 8 |
 | [zemoso technologies](../companies/zemoso-technologies.md) | 8 |

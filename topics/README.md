@@ -8,7 +8,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [AWS](./aws.md) | 51 |
+| [AWS](./aws.md) | 58 |
 | [Azure](./azure.md) | 4 |
 | [GCP](./gcp.md) | 1 |
 
@@ -16,35 +16,36 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Kubernetes](./kubernetes.md) | 90 |
-| [Docker](./docker.md) | 47 |
-| [ArgoCD](./argocd.md) | 2 |
-| [EKS](./eks.md) | 1 |
+| [Kubernetes](./kubernetes.md) | 98 |
+| [Docker](./docker.md) | 51 |
+| [EKS](./eks.md) | 5 |
+| [ArgoCD](./argocd.md) | 3 |
+| [Helm](./helm.md) | 2 |
 
 ## IaC
 
 | Topic | Questions |
 | --- | ---: |
-| [Terraform](./terraform.md) | 70 |
-| [Ansible](./ansible.md) | 5 |
+| [Terraform](./terraform.md) | 74 |
+| [Ansible](./ansible.md) | 9 |
 
 ## CI/CD
 
 | Topic | Questions |
 | --- | ---: |
-| [CI/CD](./ci-cd.md) | 39 |
-| [Jenkins](./jenkins.md) | 34 |
-| [GitHub Actions](./github-actions.md) | 4 |
+| [Jenkins](./jenkins.md) | 41 |
+| [CI/CD](./ci-cd.md) | 40 |
+| [GitHub Actions](./github-actions.md) | 5 |
 | [Deployment Strategies](./deployment-strategies.md) | 1 |
 
 ## Observability
 
 | Topic | Questions |
 | --- | ---: |
-| [Monitoring](./monitoring.md) | 10 |
+| [Monitoring](./monitoring.md) | 12 |
 | [Observability](./observability.md) | 9 |
+| [Prometheus](./prometheus.md) | 2 |
 | [Logging](./logging.md) | 1 |
-| [Prometheus](./prometheus.md) | 1 |
 
 ## Networking
 
@@ -68,12 +69,12 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Disaster Recovery](./disaster-recovery.md) | 7 |
-| [Incident Response](./incident-response.md) | 5 |
+| [Disaster Recovery](./disaster-recovery.md) | 8 |
+| [Incident Response](./incident-response.md) | 6 |
 | [SRE](./sre.md) | 3 |
+| [SLOs](./slos.md) | 2 |
 | [High Availability](./high-availability.md) | 1 |
 | [On-Call](./on-call.md) | 1 |
-| [SLOs](./slos.md) | 1 |
 
 ## Linux
 
@@ -87,29 +88,30 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Python](./python.md) | 9 |
-| [Git](./git.md) | 1 |
+| [Git](./git.md) | 2 |
 
 ## Data & platforms
 
 | Topic | Questions |
 | --- | ---: |
 | [Kafka](./kafka.md) | 6 |
+| [Databases](./databases.md) | 5 |
 | [Storage](./storage.md) | 2 |
-| [Databases](./databases.md) | 1 |
 | [Redis](./redis.md) | 1 |
 
 ## Architecture & cost
 
 | Topic | Questions |
 | --- | ---: |
-| [System Design](./system-design.md) | 6 |
+| [System Design](./system-design.md) | 7 |
+| [Microservices](./microservices.md) | 2 |
 | [FinOps](./finops.md) | 1 |
 
 ## Other
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 172 |
+| [General](./general.md) | 261 |
 
 
 [← Home](../README.md)

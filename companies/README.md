@@ -8,12 +8,14 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | --- | ---: |
 | [BNP Paribas](./bnp-paribas.md) | 28 |
 | [Mirafra](./mirafra.md) | 28 |
+| [Deloitte](./deloitte.md) | 25 |
 | [Global Payments](./global-payments.md) | 24 |
 | [PwC](./pwc.md) | 13 |
 | [SpaceTech Inc.](./spacetech-inc.md) | 13 |
 | [Infosys](./infosys.md) | 12 |
 | [NVIDIA](./nvidia.md) | 11 |
 | [Argyll Infotech](./argyll-infotech.md) | 10 |
+| [DEVYNTECH](./devyntech.md) | 9 |
 | [Fineshift Software Pvt. Ltd.](./fineshift-software-pvt-ltd.md) | 8 |
 | [TCS](./tcs.md) | 8 |
 | [zemoso technologies](./zemoso-technologies.md) | 8 |
@@ -28,6 +30,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 462 |
+| [Unknown Company](./unknown-company.md) | 574 |
 
 [← Home](../README.md)

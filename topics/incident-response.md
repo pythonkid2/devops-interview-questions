@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Incident Response**
 
-**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 5 |
-| Easy / Medium / Hard | 0 / 3 / 2 |
+| Questions | 6 |
+| Easy / Medium / Hard | 0 / 3 / 3 |
 | Companies | 0 |
 
 ## Most asked
@@ -35,6 +35,8 @@
   <a id="tell-us-about-a-production-incident-and-how-you-resolved-it"></a>
 - [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) — **1×** · Medium
   <a id="explain-one-challenging-production-incident-and-how-you-resolved-it"></a>
+- [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) — **1×** · Hard
+  <a id="explain-your-production-incident-management-process"></a>
 - [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you) — **1×** · Medium
   <a id="you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you"></a>
 
@@ -57,6 +59,8 @@ _None in this band yet._
   <a id="how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident"></a>
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2×
   <a id="explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec"></a>
+- [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) — 1×
+  <a id="explain-your-production-incident-management-process"></a>
 
 ## By interview round
 
@@ -64,6 +68,7 @@ _None in this band yet._
 
 - [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it)
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec)
+- [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process)
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident)
 - [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it)
 - [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you)
@@ -74,6 +79,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) — 2026-07-17
 - [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) — 2026-07-16
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2026-07-16
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 2026-07-16
@@ -94,6 +100,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) | Medium | 1 |
 | [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) | Hard | 2 |
+| [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) | Hard | 1 |
 | [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) | Hard | 4 |
 | [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) | Medium | 2 |
 | [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you) | Medium | 1 |

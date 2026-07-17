@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-645-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-330-informational)
+![questions](https://img.shields.io/badge/questions-791-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-330-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,35 +18,35 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 645 |
+| Unique questions | 791 |
 | Posts processed | 330 |
-| Added this week | 645 |
+| Added this week | 791 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 90
-- [Terraform](./topics/terraform.md) — 70
-- [AWS](./topics/aws.md) — 51
-- [Docker](./topics/docker.md) — 47
-- [CI/CD](./topics/ci-cd.md) — 39
-- [Jenkins](./topics/jenkins.md) — 34
+- [Kubernetes](./topics/kubernetes.md) — 98
+- [Terraform](./topics/terraform.md) — 74
+- [AWS](./topics/aws.md) — 58
+- [Docker](./topics/docker.md) — 51
+- [Jenkins](./topics/jenkins.md) — 41
+- [CI/CD](./topics/ci-cd.md) — 40
 - [Security](./topics/security.md) — 24
-- [Monitoring](./topics/monitoring.md) — 10
+- [Monitoring](./topics/monitoring.md) — 12
+- [Ansible](./topics/ansible.md) — 9
 - [Observability](./topics/observability.md) — 9
-- [Python](./topics/python.md) — 9
 
 ## Popular companies
 
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
+- [Deloitte](./companies/deloitte.md) — 25
 - [Global Payments](./companies/global-payments.md) — 24
 - [PwC](./companies/pwc.md) — 13
 - [SpaceTech Inc.](./companies/spacetech-inc.md) — 13
 - [Infosys](./companies/infosys.md) — 12
 - [NVIDIA](./companies/nvidia.md) — 11
 - [Argyll Infotech](./companies/argyll-infotech.md) — 10
-- [Fineshift Software Pvt. Ltd.](./companies/fineshift-software-pvt-ltd.md) — 8
-- [TCS](./companies/tcs.md) — 8
+- [DEVYNTECH](./companies/devyntech.md) — 9
 
 ## Repository map
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **ArgoCD**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 1 / 1 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 1 / 2 |
 | Companies | 0 |
 
 ## Most asked
 
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — **4×** · Hard · tags: `GitOps`
   <a id="design-a-gitops-workflow-for-20-teams-with-independent-release-cycles"></a>
+- [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — **1×** · Hard · tags: `GitOps`
+  <a id="how-would-you-design-a-gitops-workflow-for-multiple-teams"></a>
 - [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — **1×** · Medium
   <a id="what-is-the-difference-between-gitops-and-traditional-devops"></a>
 
@@ -45,12 +47,15 @@ _None in this band yet._
 
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 4× · tags: `GitOps`
   <a id="design-a-gitops-workflow-for-20-teams-with-independent-release-cycles"></a>
+- [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — 1× · tags: `GitOps`
+  <a id="how-would-you-design-a-gitops-workflow-for-multiple-teams"></a>
 
 ## By interview round
 
 ### Unspecified
 
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — tags: `GitOps`
+- [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — tags: `GitOps`
 - [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops)
 
 ## Companies asking
@@ -59,6 +64,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — 2026-07-17 · tags: `GitOps`
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 2026-07-16 · tags: `GitOps`
 - [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 2026-07-15
 
@@ -67,12 +73,14 @@ _None in this band yet._
 - [Docker](./docker.md)
 - [Kubernetes](./kubernetes.md)
 - [EKS](./eks.md)
+- [Helm](./helm.md)
 
 ## All questions
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) | Hard | 4 |
+| [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) | Hard | 1 |
 | [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) | Medium | 1 |
 
 ## Learning resources

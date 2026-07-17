@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Git**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — **1×** · Medium
   <a id="sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a"></a>
+- [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — **1×** · Medium
+  <a id="which-git-branching-strategy-have-you-used"></a>
 
 ## Beginner
 
@@ -38,6 +40,8 @@ _None in this band yet._
 
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — 1×
   <a id="sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a"></a>
+- [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — 1×
+  <a id="which-git-branching-strategy-have-you-used"></a>
 
 ## Advanced
 
@@ -48,6 +52,7 @@ _None in this band yet._
 ### Unspecified
 
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a)
+- [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used)
 
 ## Companies asking
 
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — 2026-07-17
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — 2026-07-17
 
 ## Related topics
@@ -66,6 +72,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) | Medium | 1 |
+| [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) | Medium | 1 |
 
 ## Learning resources
 
