@@ -27,10 +27,10 @@
 
 ## Most asked
 
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — **2×** · Medium
+  <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — **2×** · Medium
   <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
-- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — **1×** · Medium
-  <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 
 ## Beginner
 
@@ -38,10 +38,10 @@ _None in this band yet._
 
 ## Intermediate
 
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 2×
+  <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — 2×
   <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
-- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 1×
-  <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 
 ## Advanced
 
@@ -72,7 +72,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) | Medium | 1 |
+| [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) | Medium | 2 |
 | [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) | Medium | 2 |
 
 ## Learning resources

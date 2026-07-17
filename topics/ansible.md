@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Ansible**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 0 / 8 / 1 |
+| Questions | 10 |
+| Easy / Medium / Hard | 0 / 9 / 1 |
 | Companies | 3 |
 
 ## Most asked
@@ -35,6 +35,8 @@
   <a id="what-is-the-ansible-cfg-file"></a>
 - [Where did you use Ansible in project?](../topics/ansible.md#where-did-you-use-ansible-in-project) — **2×** · Medium
   <a id="where-did-you-use-ansible-in-project"></a>
+- [Configuration Management (Ansible)](../topics/ansible.md#configuration-management-ansible) — **1×** · Medium
+  <a id="configuration-management-ansible"></a>
 - [Explain the role of SSH keys in Ansible.](../topics/ansible.md#explain-the-role-of-ssh-keys-in-ansible) — **1×** · Medium
   <a id="explain-the-role-of-ssh-keys-in-ansible"></a>
 - [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../topics/ansible.md#how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac) — **1×** · Hard
@@ -60,6 +62,8 @@ _None in this band yet._
   <a id="what-is-the-ansible-cfg-file"></a>
 - [Where did you use Ansible in project?](../topics/ansible.md#where-did-you-use-ansible-in-project) — 2×
   <a id="where-did-you-use-ansible-in-project"></a>
+- [Configuration Management (Ansible)](../topics/ansible.md#configuration-management-ansible) — 1×
+  <a id="configuration-management-ansible"></a>
 - [Explain the role of SSH keys in Ansible.](../topics/ansible.md#explain-the-role-of-ssh-keys-in-ansible) — 1×
   <a id="explain-the-role-of-ssh-keys-in-ansible"></a>
 - [How do you establish connectivity between two Linux servers using Ansible?](../topics/ansible.md#how-do-you-establish-connectivity-between-two-linux-servers-using-ansible) — 1× · tags: `Linux`
@@ -87,6 +91,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Configuration Management (Ansible)](../topics/ansible.md#configuration-management-ansible)
 - [Explain the role of SSH keys in Ansible.](../topics/ansible.md#explain-the-role-of-ssh-keys-in-ansible)
 - [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../topics/ansible.md#how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac)
 - [How do you establish connectivity between two Linux servers using Ansible?](../topics/ansible.md#how-do-you-establish-connectivity-between-two-linux-servers-using-ansible) — tags: `Linux`
@@ -102,6 +107,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Configuration Management (Ansible)](../topics/ansible.md#configuration-management-ansible) — 2026-07-17
 - [How would you automate Machine B from Machine A using Ansible?](../topics/ansible.md#how-would-you-automate-machine-b-from-machine-a-using-ansible) — 2026-07-17
 - [Explain the role of SSH keys in Ansible.](../topics/ansible.md#explain-the-role-of-ssh-keys-in-ansible) — 2026-07-17
 - [How does Ansible communicate with remote servers?](../topics/ansible.md#how-does-ansible-communicate-with-remote-servers) — 2026-07-17
@@ -120,6 +126,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Configuration Management (Ansible)](../topics/ansible.md#configuration-management-ansible) | Medium | 1 |
 | [Explain the role of SSH keys in Ansible.](../topics/ansible.md#explain-the-role-of-ssh-keys-in-ansible) | Medium | 1 |
 | [Explain the structure of an Ansible playbook.](../topics/ansible.md#explain-the-structure-of-an-ansible-playbook) | Medium | 2 |
 | [For what purpose did you use Ansible?](../topics/ansible.md#for-what-purpose-did-you-use-ansible) | Medium | 2 |

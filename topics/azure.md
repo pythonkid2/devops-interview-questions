@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Azure**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 0 / 4 / 2 |
+| Questions | 9 |
+| Easy / Medium / Hard | 3 / 4 / 2 |
 | Companies | 4 |
 
 ## Most asked
@@ -39,10 +39,21 @@
   <a id="implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code"></a>
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — **1×** · Medium
   <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
+- [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — **1×** · Easy
+  <a id="what-is-azure-boards"></a>
+- [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — **1×** · Easy
+  <a id="what-is-azure-repos"></a>
+- [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — **1×** · Easy
+  <a id="what-is-azure-test-plans"></a>
 
 ## Beginner
 
-_None in this band yet._
+- [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — 1×
+  <a id="what-is-azure-boards"></a>
+- [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — 1×
+  <a id="what-is-azure-repos"></a>
+- [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — 1×
+  <a id="what-is-azure-test-plans"></a>
 
 ## Intermediate
 
@@ -71,6 +82,9 @@ _None in this band yet._
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure)
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code)
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it)
+- [What is Azure Boards?](../topics/azure.md#what-is-azure-boards)
+- [What is Azure Repos?](../topics/azure.md#what-is-azure-repos)
+- [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans)
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate)
 
 ## Companies asking
@@ -82,6 +96,9 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — 2026-07-17
+- [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — 2026-07-17
+- [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — 2026-07-17
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — 2026-07-17
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — 2026-07-17
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — 2026-07-15
@@ -103,6 +120,9 @@ _None in this band yet._
 | [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) | Medium | 2 |
 | [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) | Hard | 1 |
 | [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) | Medium | 1 |
+| [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) | Easy | 1 |
+| [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) | Easy | 1 |
+| [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) | Easy | 1 |
 | [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) | Hard | 2 |
 
 ## Learning resources

@@ -27,14 +27,14 @@
 
 ## Most asked
 
+- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — **2×** · Easy
+  <a id="what-is-code-smell-in-sonarqube"></a>
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) — **1×** · Medium
   <a id="difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-"></a>
-- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — **1×** · Easy
-  <a id="what-is-code-smell-in-sonarqube"></a>
 
 ## Beginner
 
-- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — 1×
+- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — 2×
   <a id="what-is-code-smell-in-sonarqube"></a>
 
 ## Intermediate
@@ -73,7 +73,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) | Medium | 1 |
-| [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) | Easy | 1 |
+| [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) | Easy | 2 |
 
 ## Learning resources
 

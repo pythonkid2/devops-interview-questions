@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Capacity Planning**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 1 / 1 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 2 / 1 |
 | Companies | 0 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — **1×** · Hard · tags: `Prometheus`, `Kubernetes`, `HPA`
   <a id="hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s"></a>
+- [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — **1×** · Medium · tags: `Kubernetes`, `HPA`
+  <a id="why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue"></a>
 
 ## Beginner
 
@@ -40,6 +42,8 @@ _None in this band yet._
 
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — 1× · tags: `Kubernetes`, `HPA`
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
+- [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — 1× · tags: `Kubernetes`, `HPA`
+  <a id="why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue"></a>
 
 ## Advanced
 
@@ -52,6 +56,7 @@ _None in this band yet._
 
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — tags: `Kubernetes`, `HPA`
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — tags: `Prometheus`, `Kubernetes`, `HPA`
+- [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — tags: `Kubernetes`, `HPA`
 
 ## Companies asking
 
@@ -59,6 +64,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — 2026-07-17 · tags: `Kubernetes`, `HPA`
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — 2026-07-17 · tags: `Kubernetes`, `HPA`
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — 2026-07-17 · tags: `Prometheus`, `Kubernetes`, `HPA`
 
@@ -78,6 +84,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) | Medium | 1 |
 | [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) | Hard | 1 |
+| [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) | Medium | 1 |
 
 ## Learning resources
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **VPC**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,23 +21,30 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 1 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) — **2×** · Medium
   <a id="how-to-create-different-subnets-in-vpc"></a>
+- [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — **1×** · Medium · tags: `Networking`
+  <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
+- [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — **1×** · Easy
+  <a id="what-are-the-difference-between-these-two-private-and-public-subnet"></a>
 
 ## Beginner
 
-_None in this band yet._
+- [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — 1×
+  <a id="what-are-the-difference-between-these-two-private-and-public-subnet"></a>
 
 ## Intermediate
 
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) — 2×
   <a id="how-to-create-different-subnets-in-vpc"></a>
+- [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — 1× · tags: `Networking`
+  <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
 
 ## Advanced
 
@@ -47,7 +54,9 @@ _None in this band yet._
 
 ### Unspecified
 
+- [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — tags: `Networking`
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc)
+- [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet)
 
 ## Companies asking
 
@@ -55,6 +64,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — 2026-07-17 · tags: `Networking`
+- [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — 2026-07-17
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) — 2026-07-16
 
 ## Related topics
@@ -71,7 +82,9 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) | Medium | 1 |
 | [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) | Medium | 2 |
+| [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) | Easy | 1 |
 
 ## Learning resources
 

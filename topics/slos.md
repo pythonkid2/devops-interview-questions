@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — **4×** · Hard · tags: `Alerting`
+- [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — **5×** · Hard · tags: `Alerting`
   <a id="how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue"></a>
 - [How do you implement SLO-based alerting?](../topics/slos.md#how-do-you-implement-slo-based-alerting) — **1×** · Medium · tags: `Alerting`
   <a id="how-do-you-implement-slo-based-alerting"></a>
@@ -43,7 +43,7 @@ _None in this band yet._
 
 ## Advanced
 
-- [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — 4× · tags: `Alerting`
+- [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — 5× · tags: `Alerting`
   <a id="how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue"></a>
 
 ## By interview round
@@ -59,8 +59,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — 2026-07-17 · tags: `Alerting`
 - [How do you implement SLO-based alerting?](../topics/slos.md#how-do-you-implement-slo-based-alerting) — 2026-07-17 · tags: `Alerting`
-- [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — 2026-07-16 · tags: `Alerting`
 
 ## Related topics
 
@@ -76,7 +76,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) | Hard | 4 |
+| [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) | Hard | 5 |
 | [How do you implement SLO-based alerting?](../topics/slos.md#how-do-you-implement-slo-based-alerting) | Medium | 1 |
 
 ## Learning resources

@@ -27,23 +27,23 @@
 
 ## Most asked
 
+- [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — **3×** · Easy
+  <a id="what-is-an-ingress"></a>
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — **2×** · Easy · tags: `Load Balancing`
   <a id="difference-between-ingress-and-loadbalancer"></a>
 - [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) — **2×** · Easy
   <a id="difference-between-ingress-and-service"></a>
-- [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — **2×** · Easy
-  <a id="what-is-an-ingress"></a>
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — **1×** · Medium · tags: `Kubernetes`
   <a id="pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress"></a>
 
 ## Beginner
 
+- [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — 3×
+  <a id="what-is-an-ingress"></a>
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — 2× · tags: `Load Balancing`
   <a id="difference-between-ingress-and-loadbalancer"></a>
 - [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) — 2×
   <a id="difference-between-ingress-and-service"></a>
-- [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — 2×
-  <a id="what-is-an-ingress"></a>
 
 ## Intermediate
 
@@ -69,9 +69,9 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — 2026-07-17
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — 2026-07-17 · tags: `Kubernetes`
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — 2026-07-16 · tags: `Load Balancing`
-- [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — 2026-07-16
 - [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) — 2026-07-16
 
 ## Related topics
@@ -91,7 +91,7 @@ _None in this band yet._
 | [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) | Easy | 2 |
 | [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) | Easy | 2 |
 | [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) | Medium | 1 |
-| [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Easy | 2 |
+| [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Easy | 3 |
 
 ## Learning resources
 

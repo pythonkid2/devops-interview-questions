@@ -88,6 +88,7 @@
 
 - [CI/CD](./ci-cd.md)
 - [Jenkins](./jenkins.md)
+- [Azure DevOps](./azure-devops.md)
 - [Deployment Strategies](./deployment-strategies.md)
 
 ## All questions

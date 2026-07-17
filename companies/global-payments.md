@@ -21,7 +21,7 @@
 
 ## Most repeated
 
-- [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — 3× · Kubernetes
+- [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — 4× · Kubernetes
 - [Can you automate Kubernetes deployment?](../topics/kubernetes.md#can-you-automate-kubernetes-deployment) — 2× · Kubernetes
 - [For what purpose did you use Ansible?](../topics/ansible.md#for-what-purpose-did-you-use-ansible) — 2× · Ansible
 - [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) — 2× · Security
@@ -96,6 +96,7 @@
 
 ## Recently added
 
+- [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — 2026-07-17
 - [What is your last working day?](../topics/general.md#what-is-your-last-working-day) — 2026-07-16
 - [Are you serving your notice period?](../topics/general.md#are-you-serving-your-notice-period) — 2026-07-16
 - [What do you think our company can provide that your current company cannot?](../topics/general.md#what-do-you-think-our-company-can-provide-that-your-current-company-cannot) — 2026-07-16
@@ -105,6 +106,5 @@
 - [Are you working from the office or from home?](../topics/general.md#are-you-working-from-the-office-or-from-home) — 2026-07-16
 - [Where are you from?](../topics/general.md#where-are-you-from) — 2026-07-16
 - [What is the best way to save credentials? Where should credentials be stored?](../topics/security.md#what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored) — 2026-07-16
-- [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — 2026-07-16
 
 [← All companies](./README.md) · [Home](../README.md)

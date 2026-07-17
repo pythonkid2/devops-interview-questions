@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**67** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**71** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 67 |
-| Easy / Medium / Hard | 5 / 55 / 7 |
+| Questions | 71 |
+| Easy / Medium / Hard | 7 / 57 / 7 |
 | Companies | 8 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component"></a>
 - [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — **5×** · Medium
   <a id="you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state"></a>
+- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — **3×** · Medium
+  <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) — **2×** · Hard
   <a id="a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — **2×** · Medium
@@ -41,8 +43,6 @@
   <a id="i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la"></a>
 - [Usage of AWS CodePipeline and AWS infrastructure in CI/CD.](../topics/aws.md#usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd) — **2×** · Medium
   <a id="usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd"></a>
-- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — **2×** · Medium
-  <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [What are triggers in CI/CD and how do you set them up in AWS Cloud Environment?](../topics/aws.md#what-are-triggers-in-ci-cd-and-how-do-you-set-them-up-in-aws-cloud-environment) — **2×** · Medium
   <a id="what-are-triggers-in-ci-cd-and-how-do-you-set-them-up-in-aws-cloud-environment"></a>
 - [What AWS services are you currently using?](../topics/aws.md#what-aws-services-are-you-currently-using) — **2×** · Medium
@@ -61,6 +61,8 @@
   <a id="an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it"></a>
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — **1×** · Medium · tags: `Azure`
   <a id="aws-azure-cloud-services"></a>
+- [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — **1×** · Medium · tags: `Azure`
+  <a id="aws-azure-cloud-fundamentals"></a>
 - [Do you have experience with AWS Control Tower?](../topics/aws.md#do-you-have-experience-with-aws-control-tower) — **1×** · Medium
   <a id="do-you-have-experience-with-aws-control-tower"></a>
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) — **1×** · Medium
@@ -75,8 +77,6 @@
   <a id="explain-your-experience-designing-secure-aws-infrastructure"></a>
 - [Files are accidentally deleted from an S3 bucket. How would you recover them?](../topics/aws.md#files-are-accidentally-deleted-from-an-s3-bucket-how-would-you-recover-them) — **1×** · Medium
   <a id="files-are-accidentally-deleted-from-an-s3-bucket-how-would-you-recover-them"></a>
-- [Have you implemented governance guardrails in AWS Organizations?](../topics/aws.md#have-you-implemented-governance-guardrails-in-aws-organizations) — **1×** · Medium
-  <a id="have-you-implemented-governance-guardrails-in-aws-organizations"></a>
 
 ## Beginner
 
@@ -88,6 +88,10 @@
   <a id="have-you-worked-with-load-balancers"></a>
 - [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/aws.md#infrastructure-as-code-iac-terraform-cloudformation) — 1×
   <a id="infrastructure-as-code-iac-terraform-cloudformation"></a>
+- [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) — 1×
+  <a id="what-are-the-different-aws-services-you-used"></a>
+- [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) — 1×
+  <a id="what-are-the-limitations-of-lambda-functions"></a>
 - [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it) — 1×
   <a id="what-is-aws-and-why-do-companies-use-it"></a>
 
@@ -97,6 +101,8 @@
   <a id="how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component"></a>
 - [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — 5×
   <a id="you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state"></a>
+- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 3×
+  <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — 2×
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
 - [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) — 2×
@@ -105,8 +111,6 @@
   <a id="i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la"></a>
 - [Usage of AWS CodePipeline and AWS infrastructure in CI/CD.](../topics/aws.md#usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd) — 2×
   <a id="usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd"></a>
-- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 2×
-  <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [What are triggers in CI/CD and how do you set them up in AWS Cloud Environment?](../topics/aws.md#what-are-triggers-in-ci-cd-and-how-do-you-set-them-up-in-aws-cloud-environment) — 2×
   <a id="what-are-triggers-in-ci-cd-and-how-do-you-set-them-up-in-aws-cloud-environment"></a>
 - [What AWS services are you currently using?](../topics/aws.md#what-aws-services-are-you-currently-using) — 2×
@@ -123,6 +127,8 @@
   <a id="an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it"></a>
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — 1× · tags: `Azure`
   <a id="aws-azure-cloud-services"></a>
+- [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — 1× · tags: `Azure`
+  <a id="aws-azure-cloud-fundamentals"></a>
 - [Do you have experience with AWS Control Tower?](../topics/aws.md#do-you-have-experience-with-aws-control-tower) — 1×
   <a id="do-you-have-experience-with-aws-control-tower"></a>
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) — 1×
@@ -199,6 +205,8 @@
   <a id="which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-"></a>
 - [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work) — 1×
   <a id="why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work"></a>
+- [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) — 1×
+  <a id="write-a-lambda-function-for-any-of-the-use-cases-you-want"></a>
 - [Your AWS bill suddenly spikes. How would you find out why?](../topics/aws.md#your-aws-bill-suddenly-spikes-how-would-you-find-out-why) — 1×
   <a id="your-aws-bill-suddenly-spikes-how-would-you-find-out-why"></a>
 - [Your S3 bucket uploads suddenly start failing. What possible causes would you investigate?](../topics/aws.md#your-s3-bucket-uploads-suddenly-start-failing-what-possible-causes-would-you-inv) — 1×
@@ -265,6 +273,7 @@
 - [An EC2 instance is running at 100% CPU. How would you investigate the issue?](../topics/aws.md#an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue)
 - [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it)
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — tags: `Azure`
+- [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — tags: `Azure`
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda)
 - [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications)
 - [Explain your experience designing secure AWS infrastructure.](../topics/aws.md#explain-your-experience-designing-secure-aws-infrastructure)
@@ -291,6 +300,8 @@
 - [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi)
 - [What are AWS Regions and Availability Zones?](../topics/aws.md#what-are-aws-regions-and-availability-zones)
 - [What are Edge Locations?](../topics/aws.md#what-are-edge-locations)
+- [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used)
+- [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions)
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on)
 - [What checks would you perform before moving an EC2 instance from C5 to T3 family?](../topics/aws.md#what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family)
 - [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it)
@@ -300,6 +311,7 @@
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively)
 - [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them)
 - [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work)
+- [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want)
 - [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces)
 - [Your application needs to be deployed across multiple AWS Regions. What architecture and deployment considerations would you discuss?](../topics/aws.md#your-application-needs-to-be-deployed-across-multiple-aws-regions-what-architect) — tags: `System Design`
 - [Your AWS bill suddenly spikes. How would you find out why?](../topics/aws.md#your-aws-bill-suddenly-spikes-how-would-you-find-out-why)
@@ -318,6 +330,11 @@
 
 ## Recently added
 
+- [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) — 2026-07-17
+- [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) — 2026-07-17
+- [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) — 2026-07-17
+- [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — 2026-07-17 · tags: `Azure`
+- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 2026-07-17
 - [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) — 2026-07-17
 - [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) — 2026-07-17
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) — 2026-07-17
@@ -328,11 +345,6 @@
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2026-07-17
 - [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — 2026-07-17
 - [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../topics/aws.md#how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component) — 2026-07-17
-- [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — 2026-07-17
-- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 2026-07-17
-- [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) — 2026-07-17
-- [Explain your experience designing secure AWS infrastructure.](../topics/aws.md#explain-your-experience-designing-secure-aws-infrastructure) — 2026-07-17
-- [Your application needs to be deployed across multiple AWS Regions. What architecture and deployment considerations would you discuss?](../topics/aws.md#your-application-needs-to-be-deployed-across-multiple-aws-regions-what-architect) — 2026-07-17 · tags: `System Design`
 
 ## Related topics
 
@@ -350,6 +362,7 @@
 | [An EC2 instance is running at 100% CPU. How would you investigate the issue?](../topics/aws.md#an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue) | Medium | 1 |
 | [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it) | Medium | 1 |
 | [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) | Medium | 1 |
+| [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) | Medium | 1 |
 | [Do you have experience with AWS Control Tower?](../topics/aws.md#do-you-have-experience-with-aws-control-tower) | Medium | 1 |
 | [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) | Medium | 1 |
 | [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications) | Easy | 1 |
@@ -390,7 +403,9 @@
 | [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi) | Medium | 1 |
 | [What are AWS Regions and Availability Zones?](../topics/aws.md#what-are-aws-regions-and-availability-zones) | Medium | 1 |
 | [What are Edge Locations?](../topics/aws.md#what-are-edge-locations) | Medium | 1 |
-| [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | Medium | 2 |
+| [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) | Easy | 1 |
+| [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) | Easy | 1 |
+| [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | Medium | 3 |
 | [What are triggers in CI/CD and how do you set them up in AWS Cloud Environment?](../topics/aws.md#what-are-triggers-in-ci-cd-and-how-do-you-set-them-up-in-aws-cloud-environment) | Medium | 2 |
 | [What AWS services are you currently using?](../topics/aws.md#what-aws-services-are-you-currently-using) | Medium | 2 |
 | [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) | Medium | 2 |
@@ -405,6 +420,7 @@
 | [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) | Medium | 1 |
 | [Which VPC Interface Endpoints are required for AWS SSM to work without internet access?](../topics/aws.md#which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-) | Medium | 1 |
 | [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work) | Medium | 1 |
+| [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) | Medium | 1 |
 | [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces) | Easy | 2 |
 | [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) | Medium | 5 |
 | [Your application needs to be deployed across multiple AWS Regions. What architecture and deployment considerations would you discuss?](../topics/aws.md#your-application-needs-to-be-deployed-across-multiple-aws-regions-what-architect) | Hard | 1 |

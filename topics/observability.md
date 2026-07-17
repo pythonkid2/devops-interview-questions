@@ -123,6 +123,7 @@ _None in this band yet._
 ## Related topics
 
 - [Prometheus](./prometheus.md)
+- [Grafana](./grafana.md)
 - [Logging](./logging.md)
 - [Monitoring](./monitoring.md)
 

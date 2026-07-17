@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Incident Response**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,22 +21,24 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 0 / 5 / 3 |
+| Questions | 9 |
+| Easy / Medium / Hard | 0 / 5 / 4 |
 | Companies | 0 |
 
 ## Most asked
 
-- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — **5×** · Hard
+- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — **6×** · Hard
   <a id="how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident"></a>
+- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — **3×** · Hard
+  <a id="explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec"></a>
 - [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) — **2×** · Medium
   <a id="explain-one-challenging-production-incident-and-how-you-resolved-it"></a>
-- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — **2×** · Hard
-  <a id="explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec"></a>
 - [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) — **2×** · Medium
   <a id="tell-us-about-a-production-incident-and-how-you-resolved-it"></a>
 - [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) — **1×** · Medium · tags: `Kubernetes`
   <a id="any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and"></a>
+- [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) — **1×** · Hard
+  <a id="describe-a-production-incident-you-handled-from-detection-to-resolution"></a>
 - [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) — **1×** · Hard
   <a id="explain-your-production-incident-management-process"></a>
 - [How do you handle on-call support and incident management?](../topics/incident-response.md#how-do-you-handle-on-call-support-and-incident-management) — **1×** · Medium · tags: `On-Call`
@@ -63,10 +65,12 @@ _None in this band yet._
 
 ## Advanced
 
-- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 5×
+- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 6×
   <a id="how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident"></a>
-- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2×
+- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 3×
   <a id="explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec"></a>
+- [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) — 1×
+  <a id="describe-a-production-incident-you-handled-from-detection-to-resolution"></a>
 - [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) — 1×
   <a id="explain-your-production-incident-management-process"></a>
 
@@ -75,6 +79,7 @@ _None in this band yet._
 ### Unspecified
 
 - [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) — tags: `Kubernetes`
+- [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution)
 - [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it)
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec)
 - [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process)
@@ -89,13 +94,14 @@ _None in this band yet._
 
 ## Recently added
 
+- [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) — 2026-07-17
+- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2026-07-17
+- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 2026-07-17
 - [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) — 2026-07-17 · tags: `Kubernetes`
 - [How do you handle on-call support and incident management?](../topics/incident-response.md#how-do-you-handle-on-call-support-and-incident-management) — 2026-07-17 · tags: `On-Call`
 - [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) — 2026-07-17
-- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 2026-07-17
 - [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) — 2026-07-17
 - [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) — 2026-07-16
-- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2026-07-16
 - [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you) — 2026-07-15
 
 ## Related topics
@@ -113,10 +119,11 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) | Medium | 1 |
+| [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) | Hard | 1 |
 | [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) | Medium | 2 |
-| [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) | Hard | 2 |
+| [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) | Hard | 3 |
 | [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) | Hard | 1 |
-| [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) | Hard | 5 |
+| [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) | Hard | 6 |
 | [How do you handle on-call support and incident management?](../topics/incident-response.md#how-do-you-handle-on-call-support-and-incident-management) | Medium | 1 |
 | [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) | Medium | 2 |
 | [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you) | Medium | 1 |

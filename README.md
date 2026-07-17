@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-983-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-332-informational)
+![questions](https://img.shields.io/badge/questions-1109-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-362-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,25 +18,26 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 983 |
-| Posts processed | 332 |
-| Added this week | 983 |
+| Unique questions | 1109 |
+| Posts processed | 362 |
+| Added this week | 1109 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 119
-- [Terraform](./topics/terraform.md) — 88
-- [Docker](./topics/docker.md) — 72
-- [AWS](./topics/aws.md) — 67
-- [Jenkins](./topics/jenkins.md) — 60
-- [CI/CD](./topics/ci-cd.md) — 45
+- [Kubernetes](./topics/kubernetes.md) — 129
+- [Terraform](./topics/terraform.md) — 96
+- [Docker](./topics/docker.md) — 79
+- [AWS](./topics/aws.md) — 71
+- [Jenkins](./topics/jenkins.md) — 65
+- [CI/CD](./topics/ci-cd.md) — 50
 - [Security](./topics/security.md) — 24
-- [Monitoring](./topics/monitoring.md) — 13
-- [Observability](./topics/observability.md) — 11
-- [EKS](./topics/eks.md) — 10
+- [Monitoring](./topics/monitoring.md) — 14
+- [EKS](./topics/eks.md) — 13
+- [Azure DevOps](./topics/azure-devops.md) — 12
 
 ## Popular companies
 
+- [Accenture](./companies/accenture.md) — 33
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
 - [Deloitte](./companies/deloitte.md) — 25
@@ -46,7 +47,6 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 - [Infosys](./companies/infosys.md) — 12
 - [NVIDIA](./companies/nvidia.md) — 11
 - [Argyll Infotech](./companies/argyll-infotech.md) — 10
-- [DEVYNTECH](./companies/devyntech.md) — 9
 
 ## Repository map
 

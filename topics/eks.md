@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **EKS**
 
-**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**13** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,18 +21,18 @@
 
 | | |
 | --- | ---: |
-| Questions | 10 |
-| Easy / Medium / Hard | 0 / 9 / 1 |
-| Companies | 1 |
+| Questions | 13 |
+| Easy / Medium / Hard | 1 / 11 / 1 |
+| Companies | 2 |
 
 ## Most asked
 
+- [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — **2×** · Medium
+  <a id="how-did-you-deploy-eks-cluster-in-cloud"></a>
 - [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) — **1×** · Medium
   <a id="can-you-explain-how-did-you-tune-eks-cluster"></a>
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — **1×** · Medium
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
-- [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — **1×** · Medium
-  <a id="how-did-you-deploy-eks-cluster-in-cloud"></a>
 - [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) — **1×** · Hard
   <a id="how-did-you-design-your-eks-cluster"></a>
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — **1×** · Medium
@@ -41,6 +41,12 @@
   <a id="how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes"></a>
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — **1×** · Medium · tags: `AWS`
   <a id="how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs"></a>
+- [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster) — **1×** · Medium
+  <a id="how-your-auto-scaling-strategy-is-working-in-your-eks-cluster"></a>
+- [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) — **1×** · Medium · tags: `Kubernetes`
+  <a id="suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr"></a>
+- [What are the steps you will take in your upgrading EKS cluster?](../topics/eks.md#what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster) — **1×** · Easy
+  <a id="what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster"></a>
 - [What factors would you consider before choosing Amazon ECS instead of Amazon EKS for a new application?](../topics/eks.md#what-factors-would-you-consider-before-choosing-amazon-ecs-instead-of-amazon-eks) — **1×** · Medium
   <a id="what-factors-would-you-consider-before-choosing-amazon-ecs-instead-of-amazon-eks"></a>
 - [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) — **1×** · Medium · tags: `Linux`
@@ -50,22 +56,27 @@
 
 ## Beginner
 
-_None in this band yet._
+- [What are the steps you will take in your upgrading EKS cluster?](../topics/eks.md#what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster) — 1×
+  <a id="what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster"></a>
 
 ## Intermediate
 
+- [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — 2×
+  <a id="how-did-you-deploy-eks-cluster-in-cloud"></a>
 - [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) — 1×
   <a id="can-you-explain-how-did-you-tune-eks-cluster"></a>
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — 1×
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
-- [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — 1×
-  <a id="how-did-you-deploy-eks-cluster-in-cloud"></a>
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — 1×
   <a id="how-do-you-authenticate-to-eks-and-keep-secrets-safe"></a>
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — 1× · tags: `Kubernetes`
   <a id="how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes"></a>
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — 1× · tags: `AWS`
   <a id="how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs"></a>
+- [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster) — 1×
+  <a id="how-your-auto-scaling-strategy-is-working-in-your-eks-cluster"></a>
+- [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) — 1× · tags: `Kubernetes`
+  <a id="suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr"></a>
 - [What factors would you consider before choosing Amazon ECS instead of Amazon EKS for a new application?](../topics/eks.md#what-factors-would-you-consider-before-choosing-amazon-ecs-instead-of-amazon-eks) — 1×
   <a id="what-factors-would-you-consider-before-choosing-amazon-ecs-instead-of-amazon-eks"></a>
 - [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) — 1× · tags: `Linux`
@@ -89,21 +100,28 @@ _None in this band yet._
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe)
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — tags: `Kubernetes`
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — tags: `AWS`
+- [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster)
+- [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) — tags: `Kubernetes`
+- [What are the steps you will take in your upgrading EKS cluster?](../topics/eks.md#what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster)
 - [What factors would you consider before choosing Amazon ECS instead of Amazon EKS for a new application?](../topics/eks.md#what-factors-would-you-consider-before-choosing-amazon-ecs-instead-of-amazon-eks)
 - [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) — tags: `Linux`
 - [What should be checked before upgrading an EKS cluster?](../topics/eks.md#what-should-be-checked-before-upgrading-an-eks-cluster)
 
 ## Companies asking
 
+- [Accenture](../companies/accenture.md)
 - [Deloitte](../companies/deloitte.md)
 
 ## Recently added
 
+- [What are the steps you will take in your upgrading EKS cluster?](../topics/eks.md#what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster) — 2026-07-17
+- [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster) — 2026-07-17
+- [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) — 2026-07-17 · tags: `Kubernetes`
+- [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — 2026-07-17
 - [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) — 2026-07-17
 - [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) — 2026-07-17 · tags: `Linux`
 - [What should be checked before upgrading an EKS cluster?](../topics/eks.md#what-should-be-checked-before-upgrading-an-eks-cluster) — 2026-07-17
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — 2026-07-17
-- [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — 2026-07-17
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — 2026-07-17 · tags: `Kubernetes`
 - [What factors would you consider before choosing Amazon ECS instead of Amazon EKS for a new application?](../topics/eks.md#what-factors-would-you-consider-before-choosing-amazon-ecs-instead-of-amazon-eks) — 2026-07-17
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — 2026-07-17
@@ -123,11 +141,14 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) | Medium | 1 |
 | [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) | Medium | 1 |
-| [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) | Medium | 1 |
+| [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) | Medium | 2 |
 | [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) | Hard | 1 |
 | [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) | Medium | 1 |
 | [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) | Medium | 1 |
 | [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) | Medium | 1 |
+| [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster) | Medium | 1 |
+| [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) | Medium | 1 |
+| [What are the steps you will take in your upgrading EKS cluster?](../topics/eks.md#what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster) | Easy | 1 |
 | [What factors would you consider before choosing Amazon ECS instead of Amazon EKS for a new application?](../topics/eks.md#what-factors-would-you-consider-before-choosing-amazon-ecs-instead-of-amazon-eks) | Medium | 1 |
 | [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) | Medium | 1 |
 | [What should be checked before upgrading an EKS cluster?](../topics/eks.md#what-should-be-checked-before-upgrading-an-eks-cluster) | Medium | 1 |

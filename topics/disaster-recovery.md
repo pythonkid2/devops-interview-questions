@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — **2×** · Hard
+- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — **3×** · Hard
   <a id="how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem"></a>
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — **2×** · Hard
   <a id="how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes"></a>
@@ -65,7 +65,7 @@ _None in this band yet._
 
 ## Advanced
 
-- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 2×
+- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 3×
   <a id="how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem"></a>
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — 2×
   <a id="how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes"></a>
@@ -98,10 +98,10 @@ _None in this band yet._
 
 ## Recently added
 
+- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 2026-07-17
 - [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — 2026-07-17 · tags: `DNS`
 - [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — 2026-07-17
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) — 2026-07-17
-- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 2026-07-16
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) — 2026-07-16
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — 2026-07-15
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — 2026-07-15
@@ -123,7 +123,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) | Hard | 1 |
-| [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Hard | 2 |
+| [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Hard | 3 |
 | [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) | Hard | 1 |
 | [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) | Hard | 2 |
 | [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) | Medium | 2 |

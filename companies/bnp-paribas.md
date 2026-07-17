@@ -21,7 +21,7 @@
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — 8× · Terraform
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 4× · Terraform
-- [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 3× · Terraform
+- [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 4× · Terraform
 - [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) — 2× · Observability
 - [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) — 2× · Kafka
 - [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) — 2× · Observability

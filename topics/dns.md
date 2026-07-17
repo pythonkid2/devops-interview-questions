@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **DNS**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 2 / 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 3 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="how-does-dns-resolution-work-step-by-step"></a>
 - [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) — **1×** · Medium
   <a id="how-would-you-troubleshoot-a-dns-issue"></a>
+- [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) — **1×** · Medium
+  <a id="in-route-53-what-do-you-mean-by-a-record-and-ac-name-record"></a>
 
 ## Beginner
 
@@ -42,6 +44,8 @@ _None in this band yet._
   <a id="how-does-dns-resolution-work-step-by-step"></a>
 - [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) — 1×
   <a id="how-would-you-troubleshoot-a-dns-issue"></a>
+- [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) — 1×
+  <a id="in-route-53-what-do-you-mean-by-a-record-and-ac-name-record"></a>
 
 ## Advanced
 
@@ -53,6 +57,7 @@ _None in this band yet._
 
 - [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step)
 - [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue)
+- [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record)
 
 ## Companies asking
 
@@ -60,6 +65,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) — 2026-07-17
 - [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) — 2026-07-17
 - [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) — 2026-07-17
 
@@ -79,6 +85,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) | Medium | 1 |
 | [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) | Medium | 1 |
+| [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) | Medium | 1 |
 
 ## Learning resources
 

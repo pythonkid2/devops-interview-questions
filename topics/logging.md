@@ -60,6 +60,7 @@ _None in this band yet._
 ## Related topics
 
 - [Prometheus](./prometheus.md)
+- [Grafana](./grafana.md)
 - [Monitoring](./monitoring.md)
 - [Observability](./observability.md)
 

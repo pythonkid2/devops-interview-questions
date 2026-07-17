@@ -6,6 +6,7 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Company | Questions |
 | --- | ---: |
+| [Accenture](./accenture.md) | 33 |
 | [BNP Paribas](./bnp-paribas.md) | 28 |
 | [Mirafra](./mirafra.md) | 28 |
 | [Deloitte](./deloitte.md) | 25 |
@@ -30,6 +31,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 766 |
+| [Unknown Company](./unknown-company.md) | 859 |
 
 [← Home](../README.md)

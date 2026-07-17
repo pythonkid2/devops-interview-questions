@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Networking**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 1 / 7 / 0 |
+| Questions | 9 |
+| Easy / Medium / Hard | 1 / 8 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -43,6 +43,8 @@
   <a id="how-does-dns-resolution-work-internally"></a>
 - [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall) — **2×** · Medium
   <a id="what-is-the-difference-between-a-load-balancer-and-an-application-firewall"></a>
+- [Where you will attach your NAT gateway?](../topics/networking.md#where-you-will-attach-your-nat-gateway) — **1×** · Medium
+  <a id="where-you-will-attach-your-nat-gateway"></a>
 
 ## Beginner
 
@@ -65,6 +67,8 @@
   <a id="how-does-dns-resolution-work-internally"></a>
 - [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall) — 2×
   <a id="what-is-the-difference-between-a-load-balancer-and-an-application-firewall"></a>
+- [Where you will attach your NAT gateway?](../topics/networking.md#where-you-will-attach-your-nat-gateway) — 1×
+  <a id="where-you-will-attach-your-nat-gateway"></a>
 
 ## Advanced
 
@@ -85,6 +89,7 @@ _None in this band yet._
 - [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/networking.md#explain-vpc-subnets-nat-gateway-and-internet-gateway)
 - [How does DNS resolution work internally?](../topics/networking.md#how-does-dns-resolution-work-internally)
 - [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall)
+- [Where you will attach your NAT gateway?](../topics/networking.md#where-you-will-attach-your-nat-gateway)
 
 ## Companies asking
 
@@ -92,6 +97,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Where you will attach your NAT gateway?](../topics/networking.md#where-you-will-attach-your-nat-gateway) — 2026-07-17
 - [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/networking.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — 2026-07-17
 - [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/networking.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — 2026-07-17
 - [How does DNS resolution work internally?](../topics/networking.md#how-does-dns-resolution-work-internally) — 2026-07-17
@@ -122,6 +128,7 @@ _None in this band yet._
 | [How does DNS resolution work internally?](../topics/networking.md#how-does-dns-resolution-work-internally) | Medium | 2 |
 | [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) | Medium | 5 |
 | [What is the difference between a load balancer and an application firewall?](../topics/networking.md#what-is-the-difference-between-a-load-balancer-and-an-application-firewall) | Medium | 2 |
+| [Where you will attach your NAT gateway?](../topics/networking.md#where-you-will-attach-your-nat-gateway) | Medium | 1 |
 | [Your application is reachable internally but inaccessible from the internet after deployment. How would you isolate whether the issue is with the ALB, Security Groups, Route Tables, or NACLs?](../topics/networking.md#your-application-is-reachable-internally-but-inaccessible-from-the-internet-afte) | Medium | 5 |
 
 ## Learning resources
