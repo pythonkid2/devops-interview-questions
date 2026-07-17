@@ -59,9 +59,13 @@ _None in this band yet._
 
 ## Related topics
 
+- [DNS](./dns.md)
 - [Load Balancing](./load-balancing.md)
+- [CDN](./cdn.md)
 - [Networking](./networking.md)
+- [Service Mesh](./service-mesh.md)
 - [Ingress](./ingress.md)
+- [API Gateway](./api-gateway.md)
 
 ## All questions
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **FinOps**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — **2×** · Medium
   <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — **1×** · Medium
+  <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 
 ## Beginner
 
@@ -38,6 +40,8 @@ _None in this band yet._
 
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — 2×
   <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 1×
+  <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 
 ## Advanced
 
@@ -47,6 +51,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer)
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance)
 
 ## Companies asking
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 2026-07-17
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — 2026-07-15
 
 ## Related topics
@@ -66,6 +72,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) | Medium | 1 |
 | [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) | Medium | 2 |
 
 ## Learning resources

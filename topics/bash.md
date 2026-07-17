@@ -105,6 +105,7 @@ _None in this band yet._
 ## Related topics
 
 - [Linux](./linux.md)
+- [Shell Scripting](./shell-scripting.md)
 
 ## All questions
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Disaster Recovery**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 0 / 4 / 4 |
+| Questions | 9 |
+| Easy / Medium / Hard | 0 / 5 / 4 |
 | Companies | 2 |
 
 ## Most asked
@@ -31,18 +31,20 @@
   <a id="how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem"></a>
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — **2×** · Hard
   <a id="how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes"></a>
+- [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — **2×** · Medium
+  <a id="how-would-you-design-a-disaster-recovery-strategy"></a>
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) — **2×** · Medium
   <a id="youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou"></a>
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) — **1×** · Hard
   <a id="design-a-disaster-recovery-strategy-rto-rpo"></a>
 - [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) — **1×** · Hard
   <a id="how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure"></a>
-- [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — **1×** · Medium
-  <a id="how-would-you-design-a-disaster-recovery-strategy"></a>
 - [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — **1×** · Medium
   <a id="how-would-you-structure-the-failover-process-during-a-regional-outage"></a>
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — **1×** · Medium
   <a id="if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app"></a>
+- [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — **1×** · Medium · tags: `DNS`
+  <a id="youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your"></a>
 
 ## Beginner
 
@@ -50,14 +52,16 @@ _None in this band yet._
 
 ## Intermediate
 
+- [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — 2×
+  <a id="how-would-you-design-a-disaster-recovery-strategy"></a>
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) — 2×
   <a id="youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou"></a>
-- [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — 1×
-  <a id="how-would-you-design-a-disaster-recovery-strategy"></a>
 - [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 1×
   <a id="how-would-you-structure-the-failover-process-during-a-regional-outage"></a>
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — 1×
   <a id="if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app"></a>
+- [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — 1× · tags: `DNS`
+  <a id="youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your"></a>
 
 ## Advanced
 
@@ -84,6 +88,7 @@ _None in this band yet._
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes)
 - [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy)
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app)
+- [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — tags: `DNS`
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou)
 
 ## Companies asking
@@ -93,6 +98,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — 2026-07-17 · tags: `DNS`
+- [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — 2026-07-17
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) — 2026-07-17
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 2026-07-16
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) — 2026-07-16
@@ -100,13 +107,14 @@ _None in this band yet._
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — 2026-07-15
 - [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) — 2026-07-15
 - [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 2026-07-15
-- [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — 2026-07-15
 
 ## Related topics
 
 - [SRE](./sre.md)
 - [Incident Response](./incident-response.md)
 - [High Availability](./high-availability.md)
+- [Chaos Engineering](./chaos-engineering.md)
+- [Capacity Planning](./capacity-planning.md)
 - [On-Call](./on-call.md)
 - [SLOs](./slos.md)
 
@@ -118,9 +126,10 @@ _None in this band yet._
 | [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Hard | 2 |
 | [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) | Hard | 1 |
 | [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) | Hard | 2 |
-| [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) | Medium | 1 |
+| [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) | Medium | 2 |
 | [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) | Medium | 1 |
 | [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) | Medium | 1 |
+| [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) | Medium | 1 |
 | [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) | Medium | 2 |
 
 ## Learning resources

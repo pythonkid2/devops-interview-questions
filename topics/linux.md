@@ -31,12 +31,12 @@
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — **2×** · Medium
   <a id="for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events"></a>
+- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — **2×** · Medium
+  <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — **2×** · Medium
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
 - [What is systemd?](../topics/linux.md#what-is-systemd) — **2×** · Easy
   <a id="what-is-systemd"></a>
-- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — **1×** · Medium
-  <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — **1×** · Medium
   <a id="linux-administration-networking-basics"></a>
 
@@ -51,10 +51,10 @@
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — 2×
   <a id="for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events"></a>
+- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2×
+  <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — 2×
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
-- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 1×
-  <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 1×
   <a id="linux-administration-networking-basics"></a>
 
@@ -79,16 +79,17 @@ _None in this band yet._
 
 ## Recently added
 
+- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2026-07-17
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 2026-07-15
 - [What is systemd?](../topics/linux.md#what-is-systemd) — 2026-07-15
 - [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) — 2026-07-15
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — 2026-07-15
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — 2026-07-15
-- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2026-07-15
 
 ## Related topics
 
 - [Bash](./bash.md)
+- [Shell Scripting](./shell-scripting.md)
 
 ## All questions
 
@@ -96,7 +97,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) | Medium | 2 |
 | [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) | Medium | 2 |
-| [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) | Medium | 1 |
+| [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) | Medium | 2 |
 | [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) | Medium | 2 |
 | [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) | Medium | 1 |
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |

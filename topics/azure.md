@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Azure**
 
-**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,20 +21,24 @@
 
 | | |
 | --- | ---: |
-| Questions | 4 |
-| Easy / Medium / Hard | 0 / 2 / 2 |
+| Questions | 6 |
+| Easy / Medium / Hard | 0 / 4 / 2 |
 | Companies | 4 |
 
 ## Most asked
 
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — **2×** · Medium
   <a id="azure-azure-devops"></a>
+- [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — **2×** · Medium
+  <a id="how-will-you-troubleshoot-connectivity-issues-in-azure"></a>
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — **2×** · Hard
   <a id="when-would-you-choose-an-azure-function-over-power-automate"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — **1×** · Medium
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — **1×** · Hard
   <a id="implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code"></a>
+- [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — **1×** · Medium
+  <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
 
 ## Beginner
 
@@ -44,8 +48,12 @@ _None in this band yet._
 
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — 2×
   <a id="azure-azure-devops"></a>
+- [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — 2×
+  <a id="how-will-you-troubleshoot-connectivity-issues-in-azure"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — 1×
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
+- [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — 1×
+  <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
 
 ## Advanced
 
@@ -60,7 +68,9 @@ _None in this band yet._
 
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops)
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t)
+- [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure)
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code)
+- [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it)
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate)
 
 ## Companies asking
@@ -72,6 +82,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — 2026-07-17
+- [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — 2026-07-17
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — 2026-07-15
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — 2026-07-15
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — 2026-07-15
@@ -88,7 +100,9 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) | Medium | 2 |
 | [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) | Medium | 1 |
+| [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) | Medium | 2 |
 | [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) | Hard | 1 |
+| [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) | Medium | 1 |
 | [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) | Hard | 2 |
 
 ## Learning resources

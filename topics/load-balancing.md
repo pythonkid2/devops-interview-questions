@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Load Balancing**
 
-**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,18 @@
 
 | | |
 | --- | ---: |
-| Questions | 3 |
-| Easy / Medium / Hard | 0 / 2 / 1 |
+| Questions | 5 |
+| Easy / Medium / Hard | 1 / 3 / 1 |
 | Companies | 0 |
 
 ## Most asked
 
+- [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — **2×** · Easy · tags: `Azure`
+  <a id="difference-between-azure-load-balancer-and-azure-application-gateway"></a>
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) — **2×** · Medium
   <a id="explain-clusterip-nodeport-and-loadbalancer"></a>
+- [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — **1×** · Medium · tags: `AWS`
+  <a id="how-does-aws-load-balancer-route-traffic"></a>
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — **1×** · Medium
   <a id="how-load-balancer-elb-alb-distributes-traffic"></a>
 - [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — **1×** · Hard · tags: `VPC`, `System Design`
@@ -36,12 +40,15 @@
 
 ## Beginner
 
-_None in this band yet._
+- [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — 2× · tags: `Azure`
+  <a id="difference-between-azure-load-balancer-and-azure-application-gateway"></a>
 
 ## Intermediate
 
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) — 2×
   <a id="explain-clusterip-nodeport-and-loadbalancer"></a>
+- [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — 1× · tags: `AWS`
+  <a id="how-does-aws-load-balancer-route-traffic"></a>
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — 1×
   <a id="how-load-balancer-elb-alb-distributes-traffic"></a>
 
@@ -54,7 +61,9 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — tags: `Azure`
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer)
+- [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — tags: `AWS`
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic)
 - [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — tags: `VPC`, `System Design`
 
@@ -64,21 +73,29 @@ _None in this band yet._
 
 ## Recently added
 
+- [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — 2026-07-17 · tags: `AWS`
+- [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — 2026-07-17 · tags: `Azure`
 - [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — 2026-07-17 · tags: `VPC`, `System Design`
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — 2026-07-16
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) — 2026-07-16
 
 ## Related topics
 
+- [DNS](./dns.md)
+- [CDN](./cdn.md)
 - [Networking](./networking.md)
 - [VPC](./vpc.md)
+- [Service Mesh](./service-mesh.md)
 - [Ingress](./ingress.md)
+- [API Gateway](./api-gateway.md)
 
 ## All questions
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) | Easy | 2 |
 | [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) | Medium | 2 |
+| [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) | Medium | 1 |
 | [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) | Medium | 1 |
 | [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) | Hard | 1 |
 

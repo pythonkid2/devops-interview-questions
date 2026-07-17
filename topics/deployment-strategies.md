@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Deployment Strategies**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) — **2×** · Medium
   <a id="how-do-you-perform-a-rolling-update"></a>
+- [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — **1×** · Medium · tags: `Blue-Green`, `Canary`
+  <a id="difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-"></a>
 
 ## Beginner
 
@@ -38,6 +40,8 @@ _None in this band yet._
 
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) — 2×
   <a id="how-do-you-perform-a-rolling-update"></a>
+- [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — 1× · tags: `Blue-Green`, `Canary`
+  <a id="difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-"></a>
 
 ## Advanced
 
@@ -47,6 +51,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — tags: `Blue-Green`, `Canary`
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update)
 
 ## Companies asking
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — 2026-07-17 · tags: `Blue-Green`, `Canary`
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) — 2026-07-16
 
 ## Related topics
@@ -67,6 +73,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) | Medium | 1 |
 | [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) | Medium | 2 |
 
 ## Learning resources

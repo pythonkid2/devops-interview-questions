@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Observability**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 0 / 8 / 1 |
+| Questions | 11 |
+| Easy / Medium / Hard | 0 / 10 / 1 |
 | Companies | 2 |
 
 ## Most asked
@@ -43,6 +43,10 @@
   <a id="what-is-the-difference-between-grafana-and-the-elk-stack"></a>
 - [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) — **2×** · Medium
   <a id="what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project"></a>
+- [How do logs, metrics, and traces work together in observability?](../topics/observability.md#how-do-logs-metrics-and-traces-work-together-in-observability) — **1×** · Medium
+  <a id="how-do-logs-metrics-and-traces-work-together-in-observability"></a>
+- [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — **1×** · Medium · tags: `Monitoring`
+  <a id="how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection"></a>
 - [How would you configure cross-account IAM roles for centralized logging?](../topics/observability.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) — **1×** · Medium
   <a id="how-would-you-configure-cross-account-iam-roles-for-centralized-logging"></a>
 
@@ -66,6 +70,10 @@ _None in this band yet._
   <a id="what-is-the-difference-between-grafana-and-the-elk-stack"></a>
 - [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) — 2×
   <a id="what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project"></a>
+- [How do logs, metrics, and traces work together in observability?](../topics/observability.md#how-do-logs-metrics-and-traces-work-together-in-observability) — 1×
+  <a id="how-do-logs-metrics-and-traces-work-together-in-observability"></a>
+- [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — 1× · tags: `Monitoring`
+  <a id="how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection"></a>
 - [How would you configure cross-account IAM roles for centralized logging?](../topics/observability.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) — 1×
   <a id="how-would-you-configure-cross-account-iam-roles-for-centralized-logging"></a>
 
@@ -88,7 +96,9 @@ _None in this band yet._
 
 ### Unspecified
 
+- [How do logs, metrics, and traces work together in observability?](../topics/observability.md#how-do-logs-metrics-and-traces-work-together-in-observability)
 - [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi)
+- [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — tags: `Monitoring`
 - [What are NCCL logs, and why are they important in distributed training?](../topics/observability.md#what-are-nccl-logs-and-why-are-they-important-in-distributed-training)
 
 ## Companies asking
@@ -98,6 +108,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [How do logs, metrics, and traces work together in observability?](../topics/observability.md#how-do-logs-metrics-and-traces-work-together-in-observability) — 2026-07-17
+- [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — 2026-07-17 · tags: `Monitoring`
 - [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi) — 2026-07-16
 - [What are NCCL logs, and why are they important in distributed training?](../topics/observability.md#what-are-nccl-logs-and-why-are-they-important-in-distributed-training) — 2026-07-16
 - [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack) — 2026-07-15
@@ -120,8 +132,10 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) | Medium | 2 |
 | [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) | Medium | 2 |
+| [How do logs, metrics, and traces work together in observability?](../topics/observability.md#how-do-logs-metrics-and-traces-work-together-in-observability) | Medium | 1 |
 | [How do you integrate Ansible with the ELK Stack?](../topics/observability.md#how-do-you-integrate-ansible-with-the-elk-stack) | Medium | 2 |
 | [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi) | Hard | 2 |
+| [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) | Medium | 1 |
 | [How would you configure cross-account IAM roles for centralized logging?](../topics/observability.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) | Medium | 1 |
 | [What are NCCL logs, and why are they important in distributed training?](../topics/observability.md#what-are-nccl-logs-and-why-are-they-important-in-distributed-training) | Medium | 2 |
 | [What are the components of the ELK Stack?](../topics/observability.md#what-are-the-components-of-the-elk-stack) | Medium | 2 |

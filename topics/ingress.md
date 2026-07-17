@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Ingress**
 
-**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 3 |
-| Easy / Medium / Hard | 3 / 0 / 0 |
+| Questions | 4 |
+| Easy / Medium / Hard | 3 / 1 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -33,6 +33,8 @@
   <a id="difference-between-ingress-and-service"></a>
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — **2×** · Easy
   <a id="what-is-an-ingress"></a>
+- [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — **1×** · Medium · tags: `Kubernetes`
+  <a id="pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress"></a>
 
 ## Beginner
 
@@ -45,7 +47,8 @@
 
 ## Intermediate
 
-_None in this band yet._
+- [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — 1× · tags: `Kubernetes`
+  <a id="pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress"></a>
 
 ## Advanced
 
@@ -57,6 +60,7 @@ _None in this band yet._
 
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — tags: `Load Balancing`
 - [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service)
+- [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — tags: `Kubernetes`
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress)
 
 ## Companies asking
@@ -65,15 +69,20 @@ _None in this band yet._
 
 ## Recently added
 
+- [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — 2026-07-17 · tags: `Kubernetes`
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — 2026-07-16 · tags: `Load Balancing`
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — 2026-07-16
 - [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) — 2026-07-16
 
 ## Related topics
 
+- [DNS](./dns.md)
 - [Load Balancing](./load-balancing.md)
+- [CDN](./cdn.md)
 - [Networking](./networking.md)
 - [VPC](./vpc.md)
+- [Service Mesh](./service-mesh.md)
+- [API Gateway](./api-gateway.md)
 
 ## All questions
 
@@ -81,6 +90,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) | Easy | 2 |
 | [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) | Easy | 2 |
+| [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) | Medium | 1 |
 | [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Easy | 2 |
 
 ## Learning resources
