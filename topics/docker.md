@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**45** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**47** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 45 |
-| Easy / Medium / Hard | 13 / 31 / 1 |
+| Questions | 47 |
+| Easy / Medium / Hard | 13 / 33 / 1 |
 | Companies | 0 |
 
 ## Most asked
@@ -55,6 +55,8 @@
   <a id="docker-architectures"></a>
 - [Docker layers](../topics/docker.md#docker-layers) — **1×** · Medium
   <a id="docker-layers"></a>
+- [docker zero](../topics/docker.md#docker-zero) — **1×** · Medium
+  <a id="docker-zero"></a>
 - [Explain about docker networking more](../topics/docker.md#explain-about-docker-networking-more) — **1×** · Medium
   <a id="explain-about-docker-networking-more"></a>
 - [Explain Bridge, Host, and Overlay networks.](../topics/docker.md#explain-bridge-host-and-overlay-networks) — **1×** · Medium
@@ -75,8 +77,6 @@
   <a id="how-do-you-troubleshoot-high-cpu-usage-in-a-docker-container"></a>
 - [How does Docker help with environment consistency?](../topics/docker.md#how-does-docker-help-with-environment-consistency) — **1×** · Medium
   <a id="how-does-docker-help-with-environment-consistency"></a>
-- [How does Docker's containerization work?](../topics/docker.md#how-does-docker-s-containerization-work) — **1×** · Easy
-  <a id="how-does-docker-s-containerization-work"></a>
 
 ## Beginner
 
@@ -125,6 +125,8 @@
   <a id="docker-architectures"></a>
 - [Docker layers](../topics/docker.md#docker-layers) — 1×
   <a id="docker-layers"></a>
+- [docker zero](../topics/docker.md#docker-zero) — 1×
+  <a id="docker-zero"></a>
 - [Explain about docker networking more](../topics/docker.md#explain-about-docker-networking-more) — 1×
   <a id="explain-about-docker-networking-more"></a>
 - [Explain Bridge, Host, and Overlay networks.](../topics/docker.md#explain-bridge-host-and-overlay-networks) — 1×
@@ -167,6 +169,8 @@
   <a id="why-use-copy-app-jar-app-jar-instead-of-copy"></a>
 - [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction) — 1×
   <a id="write-a-simple-dockerfile-and-explain-each-instruction"></a>
+- [Write the docker file to create a httpd container and copy a config file and place in container and that config file data should be shown when the container port and IP address is hit.](../topics/docker.md#write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla) — 1×
+  <a id="write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla"></a>
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) — 1×
   <a id="your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr"></a>
 - [Your Docker image builds successfully, but the container exits immediately. How would you troubleshoot it?](../topics/docker.md#your-docker-image-builds-successfully-but-the-container-exits-immediately-how-wo) — 1×
@@ -193,6 +197,7 @@
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint)
 - [Docker architectures](../topics/docker.md#docker-architectures)
 - [Docker layers](../topics/docker.md#docker-layers)
+- [docker zero](../topics/docker.md#docker-zero)
 - [Explain about docker networking more](../topics/docker.md#explain-about-docker-networking-more)
 - [Explain Bridge, Host, and Overlay networks.](../topics/docker.md#explain-bridge-host-and-overlay-networks)
 - [Explain how Docker fits into your CI/CD pipeline project.](../topics/docker.md#explain-how-docker-fits-into-your-ci-cd-pipeline-project)
@@ -227,6 +232,7 @@
 - [Why should containers not run as the root user?](../topics/docker.md#why-should-containers-not-run-as-the-root-user)
 - [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy)
 - [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction)
+- [Write the docker file to create a httpd container and copy a config file and place in container and that config file data should be shown when the container port and IP address is hit.](../topics/docker.md#write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla)
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr)
 - [Your Docker image builds successfully, but the container exits immediately. How would you troubleshoot it?](../topics/docker.md#your-docker-image-builds-successfully-but-the-container-exits-immediately-how-wo)
 
@@ -236,6 +242,8 @@
 
 ## Recently added
 
+- [docker zero](../topics/docker.md#docker-zero) — 2026-07-17
+- [Write the docker file to create a httpd container and copy a config file and place in container and that config file data should be shown when the container port and IP address is hit.](../topics/docker.md#write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla) — 2026-07-17
 - [Understand images vs containers, Dockerfile basics, logs, and common commands.](../topics/docker.md#understand-images-vs-containers-dockerfile-basics-logs-and-common-commands) — 2026-07-15
 - [Explain how Docker fits into your CI/CD pipeline project.](../topics/docker.md#explain-how-docker-fits-into-your-ci-cd-pipeline-project) — 2026-07-15
 - [What best practices do you follow while writing a production-ready Dockerfile?](../topics/docker.md#what-best-practices-do-you-follow-while-writing-a-production-ready-dockerfile) — 2026-07-15
@@ -249,12 +257,11 @@
 - [What is the purpose of depends_on in Docker Compose?](../topics/docker.md#what-is-the-purpose-of-depends-on-in-docker-compose) — 2026-07-15
 - [What is Docker Compose?](../topics/docker.md#what-is-docker-compose) — 2026-07-15
 - [Explain Bridge, Host, and Overlay networks.](../topics/docker.md#explain-bridge-host-and-overlay-networks) — 2026-07-15
-- [What is Docker Networking?](../topics/docker.md#what-is-docker-networking) — 2026-07-15
-- [What are Docker Volumes, and why are they used?](../topics/docker.md#what-are-docker-volumes-and-why-are-they-used) — 2026-07-15
 
 ## Related topics
 
 - [Kubernetes](./kubernetes.md)
+- [EKS](./eks.md)
 - [ArgoCD](./argocd.md)
 
 ## All questions
@@ -269,6 +276,7 @@
 | [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Easy | 2 |
 | [Docker architectures](../topics/docker.md#docker-architectures) | Medium | 1 |
 | [Docker layers](../topics/docker.md#docker-layers) | Medium | 1 |
+| [docker zero](../topics/docker.md#docker-zero) | Medium | 1 |
 | [Explain about docker networking more](../topics/docker.md#explain-about-docker-networking-more) | Medium | 1 |
 | [Explain Bridge, Host, and Overlay networks.](../topics/docker.md#explain-bridge-host-and-overlay-networks) | Medium | 1 |
 | [Explain how Docker fits into your CI/CD pipeline project.](../topics/docker.md#explain-how-docker-fits-into-your-ci-cd-pipeline-project) | Medium | 1 |
@@ -304,6 +312,7 @@
 | [Why should containers not run as the root user?](../topics/docker.md#why-should-containers-not-run-as-the-root-user) | Medium | 1 |
 | [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy) | Medium | 1 |
 | [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction) | Medium | 1 |
+| [Write the docker file to create a httpd container and copy a config file and place in container and that config file data should be shown when the container port and IP address is hit.](../topics/docker.md#write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla) | Medium | 1 |
 | [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) | Medium | 1 |
 | [Your Docker image builds successfully, but the container exits immediately. How would you troubleshoot it?](../topics/docker.md#your-docker-image-builds-successfully-but-the-container-exits-immediately-how-wo) | Medium | 1 |
 

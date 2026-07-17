@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **IAM**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 2 / 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 3 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — **1×** · Medium · tags: `AWS`
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
+- [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — **1×** · Medium
+  <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — **1×** · Medium · tags: `RBAC`
   <a id="rbac-security"></a>
 
@@ -40,6 +42,8 @@ _None in this band yet._
 
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — 1× · tags: `AWS`
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
+- [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — 1×
+  <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — 1× · tags: `RBAC`
   <a id="rbac-security"></a>
 
@@ -52,6 +56,7 @@ _None in this band yet._
 ### Unspecified
 
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — tags: `AWS`
+- [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles)
 - [RBAC & Security](../topics/iam.md#rbac-security) — tags: `RBAC`
 
 ## Companies asking
@@ -60,12 +65,14 @@ _None in this band yet._
 
 ## Recently added
 
+- [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — 2026-07-17
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — 2026-07-16 · tags: `AWS`
 - [RBAC & Security](../topics/iam.md#rbac-security) — 2026-07-16 · tags: `RBAC`
 
 ## Related topics
 
 - [Security](./security.md)
+- [DevSecOps](./devsecops.md)
 - [Network Security](./network-security.md)
 
 ## All questions
@@ -73,6 +80,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) | Medium | 1 |
+| [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) | Medium | 1 |
 | [RBAC & Security](../topics/iam.md#rbac-security) | Medium | 1 |
 
 ## Learning resources

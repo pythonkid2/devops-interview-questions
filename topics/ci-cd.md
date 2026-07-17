@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **CI/CD**
 
-**38** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**39** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 38 |
-| Easy / Medium / Hard | 7 / 24 / 7 |
+| Questions | 39 |
+| Easy / Medium / Hard | 7 / 25 / 7 |
 | Companies | 6 |
 
 ## Most asked
@@ -71,12 +71,12 @@
   <a id="explain-your-ci-cd-pipeline-from-code-commit-to-production"></a>
 - [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — **1×** · Hard
   <a id="how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-"></a>
+- [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you) — **1×** · Medium
+  <a id="how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you"></a>
 - [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments) — **1×** · Medium
   <a id="how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments"></a>
 - [How do you implement rollback if deployment fails?](../topics/ci-cd.md#how-do-you-implement-rollback-if-deployment-fails) — **1×** · Medium
   <a id="how-do-you-implement-rollback-if-deployment-fails"></a>
-- [How do you implement zero-downtime deployments?](../topics/ci-cd.md#how-do-you-implement-zero-downtime-deployments) — **1×** · Medium
-  <a id="how-do-you-implement-zero-downtime-deployments"></a>
 
 ## Beginner
 
@@ -119,6 +119,8 @@
   <a id="can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project"></a>
 - [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — 1×
   <a id="explain-your-ci-cd-pipeline-from-code-commit-to-production"></a>
+- [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you) — 1×
+  <a id="how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you"></a>
 - [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments) — 1×
   <a id="how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments"></a>
 - [How do you implement rollback if deployment fails?](../topics/ci-cd.md#how-do-you-implement-rollback-if-deployment-fails) — 1×
@@ -194,6 +196,7 @@
 - [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](../topics/ci-cd.md#explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s)
 - [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production)
 - [For a production e-commerce application, which deployment strategy would you recommend—Rolling Update, Blue-Green, or Canary Deployment? What factors would influence your decision?](../topics/ci-cd.md#for-a-production-e-commerce-application-which-deployment-strategy-would-you-reco)
+- [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you)
 - [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments)
 - [How do you implement rollback if deployment fails?](../topics/ci-cd.md#how-do-you-implement-rollback-if-deployment-fails)
 - [How do you implement zero-downtime deployments?](../topics/ci-cd.md#how-do-you-implement-zero-downtime-deployments)
@@ -226,6 +229,7 @@
 
 ## Recently added
 
+- [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you) — 2026-07-17
 - [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — 2026-07-16
 - [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 2026-07-16
 - [A corrupted pipeline deploys faulty code across multiple environments. How do you contain and recover?](../topics/ci-cd.md#a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you) — 2026-07-16
@@ -240,7 +244,6 @@
 - [When you perform a Git merge, what are the different options you use?](../topics/ci-cd.md#when-you-perform-a-git-merge-what-are-the-different-options-you-use) — 2026-07-15
 - [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) — 2026-07-15
 - [Understand the complete pipeline flow and what happens when a build fails.](../topics/ci-cd.md#understand-the-complete-pipeline-flow-and-what-happens-when-a-build-fails) — 2026-07-15
-- [How have you used artifact repositories in your CI/CD pipelines?](../topics/ci-cd.md#how-have-you-used-artifact-repositories-in-your-ci-cd-pipelines) — 2026-07-15
 
 ## Related topics
 
@@ -263,6 +266,7 @@
 | [Explain your role in setting up the CI/CD pipeline and the tasks for which the DevOps team needs to be approached.](../topics/ci-cd.md#explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d) | Medium | 2 |
 | [For a production e-commerce application, which deployment strategy would you recommend—Rolling Update, Blue-Green, or Canary Deployment? What factors would influence your decision?](../topics/ci-cd.md#for-a-production-e-commerce-application-which-deployment-strategy-would-you-reco) | Hard | 2 |
 | [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) | Hard | 1 |
+| [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you) | Medium | 1 |
 | [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments) | Medium | 1 |
 | [How do you implement rollback if deployment fails?](../topics/ci-cd.md#how-do-you-implement-rollback-if-deployment-fails) | Medium | 1 |
 | [How do you implement zero-downtime deployments?](../topics/ci-cd.md#how-do-you-implement-zero-downtime-deployments) | Medium | 1 |

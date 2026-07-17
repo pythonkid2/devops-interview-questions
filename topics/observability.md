@@ -111,6 +111,7 @@ _None in this band yet._
 ## Related topics
 
 - [Prometheus](./prometheus.md)
+- [Logging](./logging.md)
 - [Monitoring](./monitoring.md)
 
 ## All questions

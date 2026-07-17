@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **General**
 
-**152** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**172** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 152 |
-| Easy / Medium / Hard | 25 / 119 / 8 |
+| Questions | 172 |
+| Easy / Medium / Hard | 26 / 135 / 11 |
 | Companies | 11 |
 
 ## Most asked
@@ -128,6 +128,8 @@
   <a id="what-is-the-best-way-to-learn-devops"></a>
 - [What is the most important thing to focus on when preparing for DevOps interviews?](../topics/general.md#what-is-the-most-important-thing-to-focus-on-when-preparing-for-devops-interview) — 1×
   <a id="what-is-the-most-important-thing-to-focus-on-when-preparing-for-devops-interview"></a>
+- [What is your deployment strategy](../topics/general.md#what-is-your-deployment-strategy) — 1×
+  <a id="what-is-your-deployment-strategy"></a>
 - [What is your last working day?](../topics/general.md#what-is-your-last-working-day) — 1×
   <a id="what-is-your-last-working-day"></a>
 
@@ -231,6 +233,10 @@
   <a id="are-you-serving-your-notice-period"></a>
 - [Are you working from the office or from home?](../topics/general.md#are-you-working-from-the-office-or-from-home) — 1×
   <a id="are-you-working-from-the-office-or-from-home"></a>
+- [At what point would you decide to drain, replace, or terminate the node?](../topics/general.md#at-what-point-would-you-decide-to-drain-replace-or-terminate-the-node) — 1×
+  <a id="at-what-point-would-you-decide-to-drain-replace-or-terminate-the-node"></a>
+- [attach](../topics/general.md#attach) — 1×
+  <a id="attach"></a>
 - [Automation project overview and tools stack hands-on experience.](../topics/general.md#automation-project-overview-and-tools-stack-hands-on-experience) — 1×
   <a id="automation-project-overview-and-tools-stack-hands-on-experience"></a>
 - [Be ready to write a basic automation script, such as checking disk usage.](../topics/general.md#be-ready-to-write-a-basic-automation-script-such-as-checking-disk-usage) — 1×
@@ -255,6 +261,8 @@
   <a id="do-you-prefer-an-individual-contributor-role-or-a-technical-leadership-role"></a>
 - [Download complete DevOps tools note hand books](../topics/general.md#download-complete-devops-tools-note-hand-books) — 1×
   <a id="download-complete-devops-tools-note-hand-books"></a>
+- [exit](../topics/general.md#exit) — 1×
+  <a id="exit"></a>
 - [Explain @Transactional annotation.](../topics/general.md#explain-transactional-annotation) — 1×
   <a id="explain-transactional-annotation"></a>
 - [Explain HashMap internal working in detail.](../topics/general.md#explain-hashmap-internal-working-in-detail) — 1×
@@ -267,6 +275,10 @@
   <a id="explain-the-garbage-collection-lifecycle"></a>
 - [Explain the roles that need to be taken up.](../topics/general.md#explain-the-roles-that-need-to-be-taken-up) — 1×
   <a id="explain-the-roles-that-need-to-be-taken-up"></a>
+- [Have you configured?](../topics/general.md#have-you-configured) — 1×
+  <a id="have-you-configured"></a>
+- [Have you done any performance engineering to select R type instance?](../topics/general.md#have-you-done-any-performance-engineering-to-select-r-type-instance) — 1×
+  <a id="have-you-done-any-performance-engineering-to-select-r-type-instance"></a>
 - [How Auto Scaling Group (ASG) handles sudden spikes](../topics/general.md#how-auto-scaling-group-asg-handles-sudden-spikes) — 1×
   <a id="how-auto-scaling-group-asg-handles-sudden-spikes"></a>
 - [How can Singleton Pattern be broken?](../topics/general.md#how-can-singleton-pattern-be-broken) — 1×
@@ -287,14 +299,20 @@
   <a id="how-do-you-reduce-cloud-costs-without-affecting-availability"></a>
 - [How does an object become eligible for Garbage Collection?](../topics/general.md#how-does-an-object-become-eligible-for-garbage-collection) — 1×
   <a id="how-does-an-object-become-eligible-for-garbage-collection"></a>
+- [How does the control plane detect the failure?](../topics/general.md#how-does-the-control-plane-detect-the-failure) — 1×
+  <a id="how-does-the-control-plane-detect-the-failure"></a>
 - [How soon can you join us?](../topics/general.md#how-soon-can-you-join-us) — 1×
   <a id="how-soon-can-you-join-us"></a>
 - [How would you handle resistance from team members while adopting DevOps tools and practices?](../topics/general.md#how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an) — 1×
   <a id="how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an"></a>
 - [How would you measure the success of your automation initiative?](../topics/general.md#how-would-you-measure-the-success-of-your-automation-initiative) — 1×
   <a id="how-would-you-measure-the-success-of-your-automation-initiative"></a>
+- [How would you reduce API latency?](../topics/general.md#how-would-you-reduce-api-latency) — 1×
+  <a id="how-would-you-reduce-api-latency"></a>
 - [How would you review solutions proposed by other engineers?](../topics/general.md#how-would-you-review-solutions-proposed-by-other-engineers) — 1×
   <a id="how-would-you-review-solutions-proposed-by-other-engineers"></a>
+- [How would you secure your APIs which are accessible to users.](../topics/general.md#how-would-you-secure-your-apis-which-are-accessible-to-users) — 1×
+  <a id="how-would-you-secure-your-apis-which-are-accessible-to-users"></a>
 - [HR Screening](../topics/general.md#hr-screening) — 1×
   <a id="hr-screening"></a>
 - [If tasked with training a team of 60+ members from functional to automation using Gen AI, what would be your plan and approach?](../topics/general.md#if-tasked-with-training-a-team-of-60-members-from-functional-to-automation-using) — 1×
@@ -303,6 +321,10 @@
   <a id="networking"></a>
 - [Query Optimization Techniques.](../topics/general.md#query-optimization-techniques) — 1×
   <a id="query-optimization-techniques"></a>
+- [Shall we use both?](../topics/general.md#shall-we-use-both) — 1×
+  <a id="shall-we-use-both"></a>
+- [Shall we use CMD when ENTRYPOINT is there?](../topics/general.md#shall-we-use-cmd-when-entrypoint-is-there) — 1×
+  <a id="shall-we-use-cmd-when-entrypoint-is-there"></a>
 - [Technical Discussion](../topics/general.md#technical-discussion) — 1×
   <a id="technical-discussion"></a>
 - [Tell me about your roles and responsibilities in your current company.](../topics/general.md#tell-me-about-your-roles-and-responsibilities-in-your-current-company) — 1×
@@ -311,6 +333,8 @@
   <a id="tell-me-about-yourself"></a>
 - [Tell me one achievement in your 4+ years of experience that you are proud of.](../topics/general.md#tell-me-one-achievement-in-your-4-years-of-experience-that-you-are-proud-of) — 1×
   <a id="tell-me-one-achievement-in-your-4-years-of-experience-that-you-are-proud-of"></a>
+- [The query is doing a full table scan.](../topics/general.md#the-query-is-doing-a-full-table-scan) — 1×
+  <a id="the-query-is-doing-a-full-table-scan"></a>
 - [Troubleshooting Scenarios](../topics/general.md#troubleshooting-scenarios) — 1×
   <a id="troubleshooting-scenarios"></a>
 - [Walk me through a production issue you resolved.](../topics/general.md#walk-me-through-a-production-issue-you-resolved) — 1×
@@ -323,8 +347,12 @@
   <a id="what-do-you-think-our-company-can-provide-that-your-current-company-cannot"></a>
 - [What happens during HashMap resizing?](../topics/general.md#what-happens-during-hashmap-resizing) — 1×
   <a id="what-happens-during-hashmap-resizing"></a>
+- [What happens if we use only ENTRYPOINT?](../topics/general.md#what-happens-if-we-use-only-entrypoint) — 1×
+  <a id="what-happens-if-we-use-only-entrypoint"></a>
 - [What happens internally when @Transactional is used?](../topics/general.md#what-happens-internally-when-transactional-is-used) — 1×
   <a id="what-happens-internally-when-transactional-is-used"></a>
+- [What happens to the pods already running on that node?](../topics/general.md#what-happens-to-the-pods-already-running-on-that-node) — 1×
+  <a id="what-happens-to-the-pods-already-running-on-that-node"></a>
 - [What happens when two objects have the same hashCode?](../topics/general.md#what-happens-when-two-objects-have-the-same-hashcode) — 1×
   <a id="what-happens-when-two-objects-have-the-same-hashcode"></a>
 - [What happens when your application crashes due to multiple users or sudden high traffic?](../topics/general.md#what-happens-when-your-application-crashes-due-to-multiple-users-or-sudden-high-) — 1×
@@ -341,10 +369,16 @@
   <a id="what-is-your-experience-with-auto-scaling"></a>
 - [What real production issue made your team migrate from one instance family to another?](../topics/general.md#what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an) — 1×
   <a id="what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an"></a>
+- [What will you do if ETCD sever data is lost?](../topics/general.md#what-will-you-do-if-etcd-sever-data-is-lost) — 1×
+  <a id="what-will-you-do-if-etcd-sever-data-is-lost"></a>
+- [What would be your first troubleshooting steps?](../topics/general.md#what-would-be-your-first-troubleshooting-steps) — 1×
+  <a id="what-would-be-your-first-troubleshooting-steps"></a>
 - [What's the difference between IaaS, PaaS, and SaaS?](../topics/general.md#what-s-the-difference-between-iaas-paas-and-saas) — 1×
   <a id="what-s-the-difference-between-iaas-paas-and-saas"></a>
 - [What's the difference between Public, Private, Hybrid, and Multi-Cloud?](../topics/general.md#what-s-the-difference-between-public-private-hybrid-and-multi-cloud) — 1×
   <a id="what-s-the-difference-between-public-private-hybrid-and-multi-cloud"></a>
+- [What’s the best piece of interview advice you’ve ever received?](../topics/general.md#whats-the-best-piece-of-interview-advice-youve-ever-received) — 1×
+  <a id="whats-the-best-piece-of-interview-advice-youve-ever-received"></a>
 - [When would you choose Saga over distributed transactions?](../topics/general.md#when-would-you-choose-saga-over-distributed-transactions) — 1×
   <a id="when-would-you-choose-saga-over-distributed-transactions"></a>
 - [Where are you from?](../topics/general.md#where-are-you-from) — 1×
@@ -384,10 +418,16 @@
   <a id="how-do-you-modify-a-managed-solution-in-production-without-restarting-the-entire"></a>
 - [Persistent storage for AI datasets starts showing 200ms+ latency. How do you pinpoint whether it’s the storage backend, the network, or the GPU node?](../topics/general.md#persistent-storage-for-ai-datasets-starts-showing-200ms-latency-how-do-you-pinpo) — 2×
   <a id="persistent-storage-for-ai-datasets-starts-showing-200ms-latency-how-do-you-pinpo"></a>
+- [How do you design a rollback strategy for a failed production deployment?](../topics/general.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) — 1×
+  <a id="how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment"></a>
 - [How would you design an application that stays available even if an Availability Zone fails?](../topics/general.md#how-would-you-design-an-application-that-stays-available-even-if-an-availability) — 1×
   <a id="how-would-you-design-an-application-that-stays-available-even-if-an-availability"></a>
 - [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../topics/general.md#how-would-you-manage-data-consistency-and-transactions-across-microservices-depl) — 1×
   <a id="how-would-you-manage-data-consistency-and-transactions-across-microservices-depl"></a>
+- [If production data is deleted by mistake, how will you handle the situation.](../topics/general.md#if-production-data-is-deleted-by-mistake-how-will-you-handle-the-situation) — 1×
+  <a id="if-production-data-is-deleted-by-mistake-how-will-you-handle-the-situation"></a>
+- [There is a requirement to deploy an application across multiple cloud providers to improve availability. How would you design Deployment.](../topics/general.md#there-is-a-requirement-to-deploy-an-application-across-multiple-cloud-providers-) — 1×
+  <a id="there-is-a-requirement-to-deploy-an-application-across-multiple-cloud-providers-"></a>
 - [Your production cluster starts failing under peak traffic. How do you restore stability without major downtime?](../topics/general.md#your-production-cluster-starts-failing-under-peak-traffic-how-do-you-restore-sta) — 1×
   <a id="your-production-cluster-starts-failing-under-peak-traffic-how-do-you-restore-sta"></a>
 
@@ -442,6 +482,8 @@
 - [Are you comfortable with our hybrid work arrangement (2 weeks WFO + 2 weeks WFH)?](../topics/general.md#are-you-comfortable-with-our-hybrid-work-arrangement-2-weeks-wfo-2-weeks-wfh)
 - [Are you serving your notice period?](../topics/general.md#are-you-serving-your-notice-period)
 - [Are you working from the office or from home?](../topics/general.md#are-you-working-from-the-office-or-from-home)
+- [At what point would you decide to drain, replace, or terminate the node?](../topics/general.md#at-what-point-would-you-decide-to-drain-replace-or-terminate-the-node)
+- [attach](../topics/general.md#attach)
 - [Automation project overview and tools stack hands-on experience.](../topics/general.md#automation-project-overview-and-tools-stack-hands-on-experience)
 - [Be ready to write a basic automation script, such as checking disk usage.](../topics/general.md#be-ready-to-write-a-basic-automation-script-such-as-checking-disk-usage)
 - [Can you describe two production challenges you've faced and how you resolved them?](../topics/general.md#can-you-describe-two-production-challenges-you-ve-faced-and-how-you-resolved-the)
@@ -456,6 +498,7 @@
 - [Do you have any friends or colleagues working here? Did they give you any feedback about the company?](../topics/general.md#do-you-have-any-friends-or-colleagues-working-here-did-they-give-you-any-feedbac)
 - [Do you know what Global Payments is?](../topics/general.md#do-you-know-what-global-payments-is)
 - [Download complete DevOps tools note hand books](../topics/general.md#download-complete-devops-tools-note-hand-books)
+- [exit](../topics/general.md#exit)
 - [Explain @Transactional annotation.](../topics/general.md#explain-transactional-annotation)
 - [Explain HashMap internal working in detail.](../topics/general.md#explain-hashmap-internal-working-in-detail)
 - [Explain Saga Pattern with a real-world example.](../topics/general.md#explain-saga-pattern-with-a-real-world-example)
@@ -463,6 +506,8 @@
 - [Explain the email and enterprise involvement/escalation flow followed during a production issue.](../topics/general.md#explain-the-email-and-enterprise-involvement-escalation-flow-followed-during-a-p)
 - [Explain the Garbage Collection lifecycle.](../topics/general.md#explain-the-garbage-collection-lifecycle)
 - [Explain the roles that need to be taken up.](../topics/general.md#explain-the-roles-that-need-to-be-taken-up)
+- [Have you configured?](../topics/general.md#have-you-configured)
+- [Have you done any performance engineering to select R type instance?](../topics/general.md#have-you-done-any-performance-engineering-to-select-r-type-instance)
 - [High CPU usage is affecting application performance. Where do you start?](../topics/general.md#high-cpu-usage-is-affecting-application-performance-where-do-you-start)
 - [How Auto Scaling Group (ASG) handles sudden spikes](../topics/general.md#how-auto-scaling-group-asg-handles-sudden-spikes)
 - [How can I improve my chances of getting selected in a DevOps interview?](../topics/general.md#how-can-i-improve-my-chances-of-getting-selected-in-a-devops-interview)
@@ -477,6 +522,7 @@
 - [How did you trace requests across microservices?](../topics/general.md#how-did-you-trace-requests-across-microservices)
 - [How do I create a job profile and write what I learned in my own words?](../topics/general.md#how-do-i-create-a-job-profile-and-write-what-i-learned-in-my-own-words)
 - [How do you approach infrastructure as code?](../topics/general.md#how-do-you-approach-infrastructure-as-code)
+- [How do you design a rollback strategy for a failed production deployment?](../topics/general.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment)
 - [How do you ensure flows don't get disabled after 90 days?](../topics/general.md#how-do-you-ensure-flows-don-t-get-disabled-after-90-days)
 - [How do you handle application crashes under heavy load?](../topics/general.md#how-do-you-handle-application-crashes-under-heavy-load)
 - [How do you handle delegation when working with more than 100,000 records?](../topics/general.md#how-do-you-handle-delegation-when-working-with-more-than-100000-records)
@@ -491,21 +537,29 @@
 - [How do you reduce cloud costs without affecting availability?](../topics/general.md#how-do-you-reduce-cloud-costs-without-affecting-availability)
 - [How do you trouble shoot 403 errors on the application in DevOps](../topics/general.md#how-do-you-trouble-shoot-403-errors-on-the-application-in-devops)
 - [How does an object become eligible for Garbage Collection?](../topics/general.md#how-does-an-object-become-eligible-for-garbage-collection)
+- [How does the control plane detect the failure?](../topics/general.md#how-does-the-control-plane-detect-the-failure)
 - [How many days does it really take to become a DevOps engineer?](../topics/general.md#how-many-days-does-it-really-take-to-become-a-devops-engineer)
 - [How soon can you join us?](../topics/general.md#how-soon-can-you-join-us)
 - [How would you design an application that stays available even if an Availability Zone fails?](../topics/general.md#how-would-you-design-an-application-that-stays-available-even-if-an-availability)
 - [How would you handle cascading failures across multiple microservices?](../topics/general.md#how-would-you-handle-cascading-failures-across-multiple-microservices)
+- [How would you reduce API latency?](../topics/general.md#how-would-you-reduce-api-latency)
 - [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/general.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials)
+- [How would you secure your APIs which are accessible to users.](../topics/general.md#how-would-you-secure-your-apis-which-are-accessible-to-users)
 - [HR Screening](../topics/general.md#hr-screening)
 - [If a deployment fails, how do you identify and troubleshoot the issue?](../topics/general.md#if-a-deployment-fails-how-do-you-identify-and-troubleshoot-the-issue)
+- [If production data is deleted by mistake, how will you handle the situation.](../topics/general.md#if-production-data-is-deleted-by-mistake-how-will-you-handle-the-situation)
 - [If tasked with training a team of 60+ members from functional to automation using Gen AI, what would be your plan and approach?](../topics/general.md#if-tasked-with-training-a-team-of-60-members-from-functional-to-automation-using)
 - [Networking](../topics/general.md#networking)
 - [Persistent storage for AI datasets starts showing 200ms+ latency. How do you pinpoint whether it’s the storage backend, the network, or the GPU node?](../topics/general.md#persistent-storage-for-ai-datasets-starts-showing-200ms-latency-how-do-you-pinpo)
 - [Query Optimization Techniques.](../topics/general.md#query-optimization-techniques)
+- [Shall we use both?](../topics/general.md#shall-we-use-both)
+- [Shall we use CMD when ENTRYPOINT is there?](../topics/general.md#shall-we-use-cmd-when-entrypoint-is-there)
 - [Technical Discussion](../topics/general.md#technical-discussion)
 - [Tell me about your roles and responsibilities in your current company.](../topics/general.md#tell-me-about-your-roles-and-responsibilities-in-your-current-company)
 - [Tell me about yourself.](../topics/general.md#tell-me-about-yourself)
 - [Tell me one achievement in your 4+ years of experience that you are proud of.](../topics/general.md#tell-me-one-achievement-in-your-4-years-of-experience-that-you-are-proud-of)
+- [The query is doing a full table scan.](../topics/general.md#the-query-is-doing-a-full-table-scan)
+- [There is a requirement to deploy an application across multiple cloud providers to improve availability. How would you design Deployment.](../topics/general.md#there-is-a-requirement-to-deploy-an-application-across-multiple-cloud-providers-)
 - [Troubleshooting Scenarios](../topics/general.md#troubleshooting-scenarios)
 - [Users report a slow application, but the servers look healthy. How would you troubleshoot?](../topics/general.md#users-report-a-slow-application-but-the-servers-look-healthy-how-would-you-troub)
 - [Walk me through a production issue you resolved.](../topics/general.md#walk-me-through-a-production-issue-you-resolved)
@@ -514,7 +568,9 @@
 - [What are your daily activities as a DevOps Engineer?](../topics/general.md#what-are-your-daily-activities-as-a-devops-engineer)
 - [What do you think our company can provide that your current company cannot?](../topics/general.md#what-do-you-think-our-company-can-provide-that-your-current-company-cannot)
 - [What happens during HashMap resizing?](../topics/general.md#what-happens-during-hashmap-resizing)
+- [What happens if we use only ENTRYPOINT?](../topics/general.md#what-happens-if-we-use-only-entrypoint)
 - [What happens internally when @Transactional is used?](../topics/general.md#what-happens-internally-when-transactional-is-used)
+- [What happens to the pods already running on that node?](../topics/general.md#what-happens-to-the-pods-already-running-on-that-node)
 - [What happens when two objects have the same hashCode?](../topics/general.md#what-happens-when-two-objects-have-the-same-hashcode)
 - [What happens when your application crashes due to multiple users or sudden high traffic?](../topics/general.md#what-happens-when-your-application-crashes-due-to-multiple-users-or-sudden-high-)
 - [What is a Deployment?](../topics/general.md#what-is-a-deployment)
@@ -537,12 +593,16 @@
 - [What is the default initial capacity and load factor?](../topics/general.md#what-is-the-default-initial-capacity-and-load-factor)
 - [What is the difference between Spark and Hadoop?](../topics/general.md#what-is-the-difference-between-spark-and-hadoop)
 - [What is the most important thing to focus on when preparing for DevOps interviews?](../topics/general.md#what-is-the-most-important-thing-to-focus-on-when-preparing-for-devops-interview)
+- [What is your deployment strategy](../topics/general.md#what-is-your-deployment-strategy)
 - [What is your experience with Auto Scaling?](../topics/general.md#what-is-your-experience-with-auto-scaling)
 - [What is your last working day?](../topics/general.md#what-is-your-last-working-day)
 - [What issues you have seen in GitHub.](../topics/general.md#what-issues-you-have-seen-in-github)
 - [What real production issue made your team migrate from one instance family to another?](../topics/general.md#what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an)
+- [What will you do if ETCD sever data is lost?](../topics/general.md#what-will-you-do-if-etcd-sever-data-is-lost)
+- [What would be your first troubleshooting steps?](../topics/general.md#what-would-be-your-first-troubleshooting-steps)
 - [What's the difference between IaaS, PaaS, and SaaS?](../topics/general.md#what-s-the-difference-between-iaas-paas-and-saas)
 - [What's the difference between Public, Private, Hybrid, and Multi-Cloud?](../topics/general.md#what-s-the-difference-between-public-private-hybrid-and-multi-cloud)
+- [What’s the best piece of interview advice you’ve ever received?](../topics/general.md#whats-the-best-piece-of-interview-advice-youve-ever-received)
 - [When would you choose Saga over distributed transactions?](../topics/general.md#when-would-you-choose-saga-over-distributed-transactions)
 - [Where are you from?](../topics/general.md#where-are-you-from)
 - [Which production issues have you faced, and how did you troubleshoot them?](../topics/general.md#which-production-issues-have-you-faced-and-how-did-you-troubleshoot-them)
@@ -579,21 +639,21 @@
 
 ## Recently added
 
-- [How Auto Scaling Group (ASG) handles sudden spikes](../topics/general.md#how-auto-scaling-group-asg-handles-sudden-spikes) — 2026-07-16
-- [Why applications crash during high traffic](../topics/general.md#why-applications-crash-during-high-traffic) — 2026-07-16
-- [How do you handle application crashes under heavy load?](../topics/general.md#how-do-you-handle-application-crashes-under-heavy-load) — 2026-07-16
-- [What happens when your application crashes due to multiple users or sudden high traffic?](../topics/general.md#what-happens-when-your-application-crashes-due-to-multiple-users-or-sudden-high-) — 2026-07-16
-- [Production is down. Users are impacted. What will you do?](../topics/general.md#production-is-down-users-are-impacted-what-will-you-do) — 2026-07-16
-- [How would you design an application that stays available even if an Availability Zone fails?](../topics/general.md#how-would-you-design-an-application-that-stays-available-even-if-an-availability) — 2026-07-16
-- [Your application slows down after a traffic spike. What would you do to improve performance?](../topics/general.md#your-application-slows-down-after-a-traffic-spike-what-would-you-do-to-improve-p) — 2026-07-16
-- [What is your last working day?](../topics/general.md#what-is-your-last-working-day) — 2026-07-16
-- [Are you serving your notice period?](../topics/general.md#are-you-serving-your-notice-period) — 2026-07-16
-- [What do you think our company can provide that your current company cannot?](../topics/general.md#what-do-you-think-our-company-can-provide-that-your-current-company-cannot) — 2026-07-16
-- [Are you comfortable with our hybrid work arrangement (2 weeks WFO + 2 weeks WFH)?](../topics/general.md#are-you-comfortable-with-our-hybrid-work-arrangement-2-weeks-wfo-2-weeks-wfh) — 2026-07-16
-- [Do you have any friends or colleagues working here? Did they give you any feedback about the company?](../topics/general.md#do-you-have-any-friends-or-colleagues-working-here-did-they-give-you-any-feedbac) — 2026-07-16
-- [Do you know what Global Payments is?](../topics/general.md#do-you-know-what-global-payments-is) — 2026-07-16
-- [Are you working from the office or from home?](../topics/general.md#are-you-working-from-the-office-or-from-home) — 2026-07-16
-- [Where are you from?](../topics/general.md#where-are-you-from) — 2026-07-16
+- [Have you configured?](../topics/general.md#have-you-configured) — 2026-07-17
+- [What happens if we use only ENTRYPOINT?](../topics/general.md#what-happens-if-we-use-only-entrypoint) — 2026-07-17
+- [Shall we use both?](../topics/general.md#shall-we-use-both) — 2026-07-17
+- [Shall we use CMD when ENTRYPOINT is there?](../topics/general.md#shall-we-use-cmd-when-entrypoint-is-there) — 2026-07-17
+- [exit](../topics/general.md#exit) — 2026-07-17
+- [attach](../topics/general.md#attach) — 2026-07-17
+- [The query is doing a full table scan.](../topics/general.md#the-query-is-doing-a-full-table-scan) — 2026-07-17
+- [How would you reduce API latency?](../topics/general.md#how-would-you-reduce-api-latency) — 2026-07-17
+- [What is your deployment strategy](../topics/general.md#what-is-your-deployment-strategy) — 2026-07-17
+- [What will you do if ETCD sever data is lost?](../topics/general.md#what-will-you-do-if-etcd-sever-data-is-lost) — 2026-07-17
+- [Have you done any performance engineering to select R type instance?](../topics/general.md#have-you-done-any-performance-engineering-to-select-r-type-instance) — 2026-07-17
+- [There is a requirement to deploy an application across multiple cloud providers to improve availability. How would you design Deployment.](../topics/general.md#there-is-a-requirement-to-deploy-an-application-across-multiple-cloud-providers-) — 2026-07-17
+- [If production data is deleted by mistake, how will you handle the situation.](../topics/general.md#if-production-data-is-deleted-by-mistake-how-will-you-handle-the-situation) — 2026-07-17
+- [How would you secure your APIs which are accessible to users.](../topics/general.md#how-would-you-secure-your-apis-which-are-accessible-to-users) — 2026-07-17
+- [At what point would you decide to drain, replace, or terminate the node?](../topics/general.md#at-what-point-would-you-decide-to-drain-replace-or-terminate-the-node) — 2026-07-17
 
 ## Related topics
 
@@ -610,6 +670,8 @@ _See [all topics](./README.md)._
 | [Are you comfortable with our hybrid work arrangement (2 weeks WFO + 2 weeks WFH)?](../topics/general.md#are-you-comfortable-with-our-hybrid-work-arrangement-2-weeks-wfo-2-weeks-wfh) | Medium | 1 |
 | [Are you serving your notice period?](../topics/general.md#are-you-serving-your-notice-period) | Medium | 1 |
 | [Are you working from the office or from home?](../topics/general.md#are-you-working-from-the-office-or-from-home) | Medium | 1 |
+| [At what point would you decide to drain, replace, or terminate the node?](../topics/general.md#at-what-point-would-you-decide-to-drain-replace-or-terminate-the-node) | Medium | 1 |
+| [attach](../topics/general.md#attach) | Medium | 1 |
 | [Automation metrics for success, how would you calculate ROI?](../topics/general.md#automation-metrics-for-success-how-would-you-calculate-roi) | Medium | 2 |
 | [Automation project overview and tools stack hands-on experience.](../topics/general.md#automation-project-overview-and-tools-stack-hands-on-experience) | Medium | 1 |
 | [Be ready to write a basic automation script, such as checking disk usage.](../topics/general.md#be-ready-to-write-a-basic-automation-script-such-as-checking-disk-usage) | Medium | 1 |
@@ -628,6 +690,7 @@ _See [all topics](./README.md)._
 | [Do you know what Global Payments is?](../topics/general.md#do-you-know-what-global-payments-is) | Medium | 1 |
 | [Do you prefer an Individual Contributor role or a Technical Leadership role?](../topics/general.md#do-you-prefer-an-individual-contributor-role-or-a-technical-leadership-role) | Medium | 1 |
 | [Download complete DevOps tools note hand books](../topics/general.md#download-complete-devops-tools-note-hand-books) | Medium | 1 |
+| [exit](../topics/general.md#exit) | Medium | 1 |
 | [Explain @Transactional annotation.](../topics/general.md#explain-transactional-annotation) | Medium | 1 |
 | [Explain an integration you implemented in your project?](../topics/general.md#explain-an-integration-you-implemented-in-your-project) | Medium | 2 |
 | [Explain HashMap internal working in detail.](../topics/general.md#explain-hashmap-internal-working-in-detail) | Medium | 1 |
@@ -636,6 +699,8 @@ _See [all topics](./README.md)._
 | [Explain the email and enterprise involvement/escalation flow followed during a production issue.](../topics/general.md#explain-the-email-and-enterprise-involvement-escalation-flow-followed-during-a-p) | Medium | 2 |
 | [Explain the Garbage Collection lifecycle.](../topics/general.md#explain-the-garbage-collection-lifecycle) | Medium | 1 |
 | [Explain the roles that need to be taken up.](../topics/general.md#explain-the-roles-that-need-to-be-taken-up) | Medium | 1 |
+| [Have you configured?](../topics/general.md#have-you-configured) | Medium | 1 |
+| [Have you done any performance engineering to select R type instance?](../topics/general.md#have-you-done-any-performance-engineering-to-select-r-type-instance) | Medium | 1 |
 | [High CPU usage is affecting application performance. Where do you start?](../topics/general.md#high-cpu-usage-is-affecting-application-performance-where-do-you-start) | Medium | 2 |
 | [How Auto Scaling Group (ASG) handles sudden spikes](../topics/general.md#how-auto-scaling-group-asg-handles-sudden-spikes) | Medium | 1 |
 | [How can I improve my chances of getting selected in a DevOps interview?](../topics/general.md#how-can-i-improve-my-chances-of-getting-selected-in-a-devops-interview) | Easy | 1 |
@@ -651,6 +716,7 @@ _See [all topics](./README.md)._
 | [How did you trace requests across microservices?](../topics/general.md#how-did-you-trace-requests-across-microservices) | Medium | 2 |
 | [How do I create a job profile and write what I learned in my own words?](../topics/general.md#how-do-i-create-a-job-profile-and-write-what-i-learned-in-my-own-words) | Easy | 1 |
 | [How do you approach infrastructure as code?](../topics/general.md#how-do-you-approach-infrastructure-as-code) | Medium | 1 |
+| [How do you design a rollback strategy for a failed production deployment?](../topics/general.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) | Hard | 1 |
 | [How do you ensure flows don't get disabled after 90 days?](../topics/general.md#how-do-you-ensure-flows-don-t-get-disabled-after-90-days) | Medium | 2 |
 | [How do you handle application crashes under heavy load?](../topics/general.md#how-do-you-handle-application-crashes-under-heavy-load) | Medium | 1 |
 | [How do you handle delegation when working with more than 100,000 records?](../topics/general.md#how-do-you-handle-delegation-when-working-with-more-than-100000-records) | Medium | 2 |
@@ -666,6 +732,7 @@ _See [all topics](./README.md)._
 | [How do you trouble shoot 403 errors on the application in DevOps](../topics/general.md#how-do-you-trouble-shoot-403-errors-on-the-application-in-devops) | Medium | 2 |
 | [How do you validate infrastructure changes before executing them in production?](../topics/general.md#how-do-you-validate-infrastructure-changes-before-executing-them-in-production) | Medium | 4 |
 | [How does an object become eligible for Garbage Collection?](../topics/general.md#how-does-an-object-become-eligible-for-garbage-collection) | Medium | 1 |
+| [How does the control plane detect the failure?](../topics/general.md#how-does-the-control-plane-detect-the-failure) | Medium | 1 |
 | [How good are you in development?](../topics/general.md#how-good-are-you-in-development) | Medium | 2 |
 | [How many days does it really take to become a DevOps engineer?](../topics/general.md#how-many-days-does-it-really-take-to-become-a-devops-engineer) | Easy | 2 |
 | [How soon can you join us?](../topics/general.md#how-soon-can-you-join-us) | Medium | 1 |
@@ -675,21 +742,28 @@ _See [all topics](./README.md)._
 | [How would you handle resistance from team members while adopting DevOps tools and practices?](../topics/general.md#how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an) | Medium | 1 |
 | [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../topics/general.md#how-would-you-manage-data-consistency-and-transactions-across-microservices-depl) | Hard | 1 |
 | [How would you measure the success of your automation initiative?](../topics/general.md#how-would-you-measure-the-success-of-your-automation-initiative) | Medium | 1 |
+| [How would you reduce API latency?](../topics/general.md#how-would-you-reduce-api-latency) | Medium | 1 |
 | [How would you review solutions proposed by other engineers?](../topics/general.md#how-would-you-review-solutions-proposed-by-other-engineers) | Medium | 1 |
 | [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/general.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) | Medium | 4 |
+| [How would you secure your APIs which are accessible to users.](../topics/general.md#how-would-you-secure-your-apis-which-are-accessible-to-users) | Medium | 1 |
 | [How would you utilize Gen AI in automation? Please mention the pros and cons based on your experience.](../topics/general.md#how-would-you-utilize-gen-ai-in-automation-please-mention-the-pros-and-cons-base) | Medium | 2 |
 | [HR Screening](../topics/general.md#hr-screening) | Medium | 1 |
 | [If a deployment fails, how do you identify and troubleshoot the issue?](../topics/general.md#if-a-deployment-fails-how-do-you-identify-and-troubleshoot-the-issue) | Medium | 2 |
+| [If production data is deleted by mistake, how will you handle the situation.](../topics/general.md#if-production-data-is-deleted-by-mistake-how-will-you-handle-the-situation) | Hard | 1 |
 | [If tasked with training a team of 60+ members from functional to automation using Gen AI, what would be your plan and approach?](../topics/general.md#if-tasked-with-training-a-team-of-60-members-from-functional-to-automation-using) | Medium | 1 |
 | [Networking](../topics/general.md#networking) | Medium | 1 |
 | [Persistent storage for AI datasets starts showing 200ms+ latency. How do you pinpoint whether it’s the storage backend, the network, or the GPU node?](../topics/general.md#persistent-storage-for-ai-datasets-starts-showing-200ms-latency-how-do-you-pinpo) | Hard | 2 |
 | [Production is down. Users are impacted. What will you do?](../topics/general.md#production-is-down-users-are-impacted-what-will-you-do) | Medium | 2 |
 | [Query Optimization Techniques.](../topics/general.md#query-optimization-techniques) | Medium | 1 |
+| [Shall we use both?](../topics/general.md#shall-we-use-both) | Medium | 1 |
+| [Shall we use CMD when ENTRYPOINT is there?](../topics/general.md#shall-we-use-cmd-when-entrypoint-is-there) | Medium | 1 |
 | [Suppose you have a monolithic application and want to convert it into microservices. What would you do?](../topics/general.md#suppose-you-have-a-monolithic-application-and-want-to-convert-it-into-microservi) | Medium | 2 |
 | [Technical Discussion](../topics/general.md#technical-discussion) | Medium | 1 |
 | [Tell me about your roles and responsibilities in your current company.](../topics/general.md#tell-me-about-your-roles-and-responsibilities-in-your-current-company) | Medium | 1 |
 | [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) | Medium | 1 |
 | [Tell me one achievement in your 4+ years of experience that you are proud of.](../topics/general.md#tell-me-one-achievement-in-your-4-years-of-experience-that-you-are-proud-of) | Medium | 1 |
+| [The query is doing a full table scan.](../topics/general.md#the-query-is-doing-a-full-table-scan) | Medium | 1 |
+| [There is a requirement to deploy an application across multiple cloud providers to improve availability. How would you design Deployment.](../topics/general.md#there-is-a-requirement-to-deploy-an-application-across-multiple-cloud-providers-) | Hard | 1 |
 | [Troubleshooting Scenarios](../topics/general.md#troubleshooting-scenarios) | Medium | 1 |
 | [Users report a slow application, but the servers look healthy. How would you troubleshoot?](../topics/general.md#users-report-a-slow-application-but-the-servers-look-healthy-how-would-you-troub) | Medium | 2 |
 | [Walk me through a production issue you resolved.](../topics/general.md#walk-me-through-a-production-issue-you-resolved) | Medium | 1 |
@@ -701,7 +775,9 @@ _See [all topics](./README.md)._
 | [What do you think our company can provide that your current company cannot?](../topics/general.md#what-do-you-think-our-company-can-provide-that-your-current-company-cannot) | Medium | 1 |
 | [What happens during HashMap resizing?](../topics/general.md#what-happens-during-hashmap-resizing) | Medium | 1 |
 | [What happens if the port is already in use?](../topics/general.md#what-happens-if-the-port-is-already-in-use) | Medium | 2 |
+| [What happens if we use only ENTRYPOINT?](../topics/general.md#what-happens-if-we-use-only-entrypoint) | Medium | 1 |
 | [What happens internally when @Transactional is used?](../topics/general.md#what-happens-internally-when-transactional-is-used) | Medium | 1 |
+| [What happens to the pods already running on that node?](../topics/general.md#what-happens-to-the-pods-already-running-on-that-node) | Medium | 1 |
 | [What happens when two objects have the same hashCode?](../topics/general.md#what-happens-when-two-objects-have-the-same-hashcode) | Medium | 1 |
 | [What happens when your application crashes due to multiple users or sudden high traffic?](../topics/general.md#what-happens-when-your-application-crashes-due-to-multiple-users-or-sudden-high-) | Medium | 1 |
 | [What is a Deployment?](../topics/general.md#what-is-a-deployment) | Easy | 2 |
@@ -725,6 +801,7 @@ _See [all topics](./README.md)._
 | [What is the difference between Spark and Hadoop?](../topics/general.md#what-is-the-difference-between-spark-and-hadoop) | Medium | 1 |
 | [What is the most important thing to focus on when preparing for DevOps interviews?](../topics/general.md#what-is-the-most-important-thing-to-focus-on-when-preparing-for-devops-interview) | Easy | 1 |
 | [What is the usage of MCP in building Agentic AI solutions and LLM models you have used?](../topics/general.md#what-is-the-usage-of-mcp-in-building-agentic-ai-solutions-and-llm-models-you-hav) | Medium | 2 |
+| [What is your deployment strategy](../topics/general.md#what-is-your-deployment-strategy) | Easy | 1 |
 | [What is your experience with Auto Scaling?](../topics/general.md#what-is-your-experience-with-auto-scaling) | Medium | 1 |
 | [What is your last working day?](../topics/general.md#what-is-your-last-working-day) | Easy | 1 |
 | [What issues you have seen in GitHub.](../topics/general.md#what-issues-you-have-seen-in-github) | Medium | 2 |
@@ -732,8 +809,11 @@ _See [all topics](./README.md)._
 | [What real production issue made your team migrate from one instance family to another?](../topics/general.md#what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an) | Medium | 1 |
 | [What third-party integrations have you worked on?](../topics/general.md#what-third-party-integrations-have-you-worked-on) | Medium | 2 |
 | [What will be your approach when testing is incomplete and release slippage occurs?](../topics/general.md#what-will-be-your-approach-when-testing-is-incomplete-and-release-slippage-occur) | Medium | 2 |
+| [What will you do if ETCD sever data is lost?](../topics/general.md#what-will-you-do-if-etcd-sever-data-is-lost) | Medium | 1 |
+| [What would be your first troubleshooting steps?](../topics/general.md#what-would-be-your-first-troubleshooting-steps) | Medium | 1 |
 | [What's the difference between IaaS, PaaS, and SaaS?](../topics/general.md#what-s-the-difference-between-iaas-paas-and-saas) | Medium | 1 |
 | [What's the difference between Public, Private, Hybrid, and Multi-Cloud?](../topics/general.md#what-s-the-difference-between-public-private-hybrid-and-multi-cloud) | Medium | 1 |
+| [What’s the best piece of interview advice you’ve ever received?](../topics/general.md#whats-the-best-piece-of-interview-advice-youve-ever-received) | Medium | 1 |
 | [When would you choose Saga over distributed transactions?](../topics/general.md#when-would-you-choose-saga-over-distributed-transactions) | Medium | 1 |
 | [Where are you from?](../topics/general.md#where-are-you-from) | Medium | 1 |
 | [Which production issues have you faced, and how did you troubleshoot them?](../topics/general.md#which-production-issues-have-you-faced-and-how-did-you-troubleshoot-them) | Medium | 2 |

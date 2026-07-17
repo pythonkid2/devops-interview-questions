@@ -4,7 +4,7 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 412 |
+| [Unknown Company](../companies/unknown-company.md) | 462 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
 | [Global Payments](../companies/global-payments.md) | 24 |

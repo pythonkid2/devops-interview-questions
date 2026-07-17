@@ -61,6 +61,7 @@ _None in this band yet._
 
 - [IAM](./iam.md)
 - [Security](./security.md)
+- [DevSecOps](./devsecops.md)
 
 ## All questions
 

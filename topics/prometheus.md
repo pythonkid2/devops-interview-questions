@@ -59,6 +59,7 @@ _None in this band yet._
 
 ## Related topics
 
+- [Logging](./logging.md)
 - [Monitoring](./monitoring.md)
 - [Observability](./observability.md)
 

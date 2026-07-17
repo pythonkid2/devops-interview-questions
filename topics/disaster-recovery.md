@@ -101,6 +101,7 @@ _None in this band yet._
 - [SRE](./sre.md)
 - [Incident Response](./incident-response.md)
 - [High Availability](./high-availability.md)
+- [On-Call](./on-call.md)
 - [SLOs](./slos.md)
 
 ## All questions

@@ -8,20 +8,24 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 | Tag | Questions |
 | --- | ---: |
+| `System Design` | 3 |
 | `AWS` | 2 |
 | `CI/CD` | 2 |
 | `Docker` | 2 |
-| `System Design` | 2 |
+| `Kubernetes` | 2 |
 | `Alerting` | 1 |
 | `Azure` | 1 |
+| `FinOps` | 1 |
 | `Git` | 1 |
 | `GitOps` | 1 |
 | `Jenkins` | 1 |
-| `Kubernetes` | 1 |
 | `Load Balancing` | 1 |
+| `Monitoring` | 1 |
 | `PV` | 1 |
 | `PVC` | 1 |
 | `RBAC` | 1 |
+| `SRE` | 1 |
+| `VPC` | 1 |
 
 
 ## Alerting
@@ -47,6 +51,10 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Difference between Pod and Container?](../topics/kubernetes.md#difference-between-pod-and-container) — Kubernetes · tags: `Docker`
 - [Docker, Kubernetes & Jenkins](../topics/kubernetes.md#docker-kubernetes-jenkins) — Kubernetes · tags: `Docker`, `Jenkins`
 
+## FinOps
+
+- [Kubernetes Migration / Cost Optimization how have you done?](../topics/kubernetes.md#kubernetes-migration-cost-optimization-how-have-you-done) — Kubernetes · tags: `FinOps`
+
 ## Git
 
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — Jenkins · tags: `Git`
@@ -62,10 +70,15 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Kubernetes
 
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — High Availability · tags: `Kubernetes`, `System Design`
+- [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — On-Call · tags: `SRE`, `Kubernetes`
 
 ## Load Balancing
 
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — Ingress · tags: `Load Balancing`
+
+## Monitoring
+
+- [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — Logging · tags: `Monitoring`
 
 ## PV
 
@@ -79,9 +92,18 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 - [RBAC & Security](../topics/iam.md#rbac-security) — IAM · tags: `RBAC`
 
+## SRE
+
+- [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — On-Call · tags: `SRE`, `Kubernetes`
+
 ## System Design
 
 - [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) — Kubernetes · tags: `System Design`
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — High Availability · tags: `Kubernetes`, `System Design`
+- [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — Load Balancing · tags: `VPC`, `System Design`
+
+## VPC
+
+- [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — Load Balancing · tags: `VPC`, `System Design`
 
 [← Study guides](./README.md) · [Home](../README.md)

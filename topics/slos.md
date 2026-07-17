@@ -63,6 +63,7 @@ _None in this band yet._
 - [Incident Response](./incident-response.md)
 - [Disaster Recovery](./disaster-recovery.md)
 - [High Availability](./high-availability.md)
+- [On-Call](./on-call.md)
 
 ## All questions
 

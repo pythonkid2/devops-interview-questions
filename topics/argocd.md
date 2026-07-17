@@ -66,6 +66,7 @@ _None in this band yet._
 
 - [Docker](./docker.md)
 - [Kubernetes](./kubernetes.md)
+- [EKS](./eks.md)
 
 ## All questions
 

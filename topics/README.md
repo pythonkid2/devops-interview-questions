@@ -16,22 +16,23 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Kubernetes](./kubernetes.md) | 74 |
-| [Docker](./docker.md) | 45 |
+| [Kubernetes](./kubernetes.md) | 90 |
+| [Docker](./docker.md) | 47 |
 | [ArgoCD](./argocd.md) | 2 |
+| [EKS](./eks.md) | 1 |
 
 ## IaC
 
 | Topic | Questions |
 | --- | ---: |
-| [Terraform](./terraform.md) | 67 |
+| [Terraform](./terraform.md) | 70 |
 | [Ansible](./ansible.md) | 5 |
 
 ## CI/CD
 
 | Topic | Questions |
 | --- | ---: |
-| [CI/CD](./ci-cd.md) | 38 |
+| [CI/CD](./ci-cd.md) | 39 |
 | [Jenkins](./jenkins.md) | 34 |
 | [GitHub Actions](./github-actions.md) | 4 |
 | [Deployment Strategies](./deployment-strategies.md) | 1 |
@@ -42,6 +43,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | --- | ---: |
 | [Monitoring](./monitoring.md) | 10 |
 | [Observability](./observability.md) | 9 |
+| [Logging](./logging.md) | 1 |
 | [Prometheus](./prometheus.md) | 1 |
 
 ## Networking
@@ -50,7 +52,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | --- | ---: |
 | [Networking](./networking.md) | 8 |
 | [Ingress](./ingress.md) | 3 |
-| [Load Balancing](./load-balancing.md) | 2 |
+| [Load Balancing](./load-balancing.md) | 3 |
 | [VPC](./vpc.md) | 1 |
 
 ## Security
@@ -58,7 +60,8 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Security](./security.md) | 24 |
-| [IAM](./iam.md) | 2 |
+| [IAM](./iam.md) | 3 |
+| [DevSecOps](./devsecops.md) | 1 |
 | [Network Security](./network-security.md) | 1 |
 
 ## SRE
@@ -67,8 +70,9 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | --- | ---: |
 | [Disaster Recovery](./disaster-recovery.md) | 7 |
 | [Incident Response](./incident-response.md) | 5 |
-| [SRE](./sre.md) | 2 |
+| [SRE](./sre.md) | 3 |
 | [High Availability](./high-availability.md) | 1 |
+| [On-Call](./on-call.md) | 1 |
 | [SLOs](./slos.md) | 1 |
 
 ## Linux
@@ -83,6 +87,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Python](./python.md) | 9 |
+| [Git](./git.md) | 1 |
 
 ## Data & platforms
 
@@ -104,7 +109,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 152 |
+| [General](./general.md) | 172 |
 
 
 [← Home](../README.md)

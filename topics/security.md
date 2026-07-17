@@ -202,6 +202,7 @@
 ## Related topics
 
 - [IAM](./iam.md)
+- [DevSecOps](./devsecops.md)
 - [Network Security](./network-security.md)
 
 ## All questions

@@ -119,6 +119,7 @@
 ## Related topics
 
 - [Prometheus](./prometheus.md)
+- [Logging](./logging.md)
 - [Observability](./observability.md)
 
 ## All questions

@@ -3,7 +3,7 @@
 [Home](../README.md) > [Study guides](./README.md) > **Difficulty**
 
 
-## Easy (80)
+## Easy (81)
 
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) — CI/CD · 3×
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) — Docker · 2×
@@ -80,13 +80,14 @@
 - [What is the purpose of Azure DevOps?](../topics/ci-cd.md#what-is-the-purpose-of-azure-devops) — CI/CD · 1×
 - [What is the purpose of FROM in a Dockerfile?](../topics/docker.md#what-is-the-purpose-of-from-in-a-dockerfile) — Docker · 1×
 - [What is the purpose of WORKDIR?](../topics/docker.md#what-is-the-purpose-of-workdir) — Docker · 1×
+- [What is your deployment strategy](../topics/general.md#what-is-your-deployment-strategy) — General · 1×
 - [What is your experience with CI/CD pipelines?](../topics/ci-cd.md#what-is-your-experience-with-ci-cd-pipelines) — CI/CD · 1×
 - [What is your experience with containerization?](../topics/docker.md#what-is-your-experience-with-containerization) — Docker · 1×
 - [What is your last working day?](../topics/general.md#what-is-your-last-working-day) — General · 1×
 - [What problem does Docker solve?](../topics/docker.md#what-problem-does-docker-solve) — Docker · 1×
-- [Write YAML templates for Azure DevOps Pipelines.](../topics/ci-cd.md#write-yaml-templates-for-azure-devops-pipelines) — CI/CD · 1×
+_…and 1 more in topic pages._
 
-## Medium (458)
+## Medium (499)
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — Terraform · 8×
 - [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../topics/kubernetes.md#after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai) — Kubernetes · 4×
@@ -168,9 +169,9 @@
 - [For what purpose did you use Ansible?](../topics/ansible.md#for-what-purpose-did-you-use-ansible) — Ansible · 2×
 - [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) — Security · 2×
 - [High CPU usage is affecting application performance. Where do you start?](../topics/general.md#high-cpu-usage-is-affecting-application-performance-where-do-you-start) — General · 2×
-_…and 378 more in topic pages._
+_…and 419 more in topic pages._
 
-## Hard (57)
+## Hard (65)
 
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — ArgoCD · 4× · tags: `GitOps`
 - [Design a rollback strategy that works even if the deployment stage fails.](../topics/general.md#design-a-rollback-strategy-that-works-even-if-the-deployment-stage-fails) — General · 4×
@@ -207,8 +208,10 @@ _…and 378 more in topic pages._
 - [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — System Design · 1×
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — System Design · 1×
 - [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/ci-cd.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont) — CI/CD · 1×
+- [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) — EKS · 1×
 - [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — CI/CD · 1×
 - [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../topics/ansible.md#how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac) — Ansible · 1×
+- [How do you design a rollback strategy for a failed production deployment?](../topics/general.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) — General · 1×
 - [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) — Disaster Recovery · 1×
 - [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws) — AWS · 1×
 - [How do you troubleshoot high CPU usage in a Docker container?](../topics/docker.md#how-do-you-troubleshoot-high-cpu-usage-in-a-docker-container) — Docker · 1×
@@ -219,14 +222,20 @@ _…and 378 more in topic pages._
 - [How would you design Terraform code to manage a large number of similar resources (e.g., 100 Lambda functions) with varying configurations, without duplicating resource blocks?](../topics/terraform.md#how-would-you-design-terraform-code-to-manage-a-large-number-of-similar-resource) — Terraform · 1×
 - [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../topics/general.md#how-would-you-manage-data-consistency-and-transactions-across-microservices-depl) — General · 1×
 - [How would you troubleshoot an HTTPS Application Load Balancer that isn't serving traffic as expected?](../topics/aws.md#how-would-you-troubleshoot-an-https-application-load-balancer-that-isn-t-serving) — AWS · 1×
+- [If production data is deleted by mistake, how will you handle the situation.](../topics/general.md#if-production-data-is-deleted-by-mistake-how-will-you-handle-the-situation) — General · 1×
 - [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — Terraform · 1×
+- [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — On-Call · 1× · tags: `SRE`, `Kubernetes`
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — Azure · 1×
 - [Is there a safer alternative to directly modifying the Terraform state file in a production environment?](../topics/terraform.md#is-there-a-safer-alternative-to-directly-modifying-the-terraform-state-file-in-a) — Terraform · 1×
 - [Java Full Stack Developer (Java, Spring Boot, Microservices, React, AWS) – Can you explain the differences between microservices and monolithic architecture?](../topics/aws.md#java-full-stack-developer-java-spring-boot-microservices-react-aws-can-you-expla) — AWS · 1×
 - [Production error crashloopback of how do you troubleshoot.](../topics/kubernetes.md#production-error-crashloopback-of-how-do-you-troubleshoot) — Kubernetes · 1×
+- [There is a requirement to deploy an application across multiple cloud providers to improve availability. How would you design Deployment.](../topics/general.md#there-is-a-requirement-to-deploy-an-application-across-multiple-cloud-providers-) — General · 1×
 - [What are all your followed deployment strategy and when to use those and how to switch traffic and how do you decide traffic percentage](../topics/kubernetes.md#what-are-all-your-followed-deployment-strategy-and-when-to-use-those-and-how-to-) — Kubernetes · 1×
 - [What is Kubernetes and how do you use it in your projects?](../topics/kubernetes.md#what-is-kubernetes-and-how-do-you-use-it-in-your-projects) — Kubernetes · 1×
 - [What is statefile explain more about it and where to store and why if lost if doesn't have backup how do you regain statefile](../topics/terraform.md#what-is-statefile-explain-more-about-it-and-where-to-store-and-why-if-lost-if-do) — Terraform · 1×
+- [What is the recommended folder structure for a production‑grade Terraform project?](../topics/terraform.md#what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec) — Terraform · 1×
+- [What's the most challenging Kubernetes production issue you've faced? Share it in the comments your experience might help someone else.](../topics/kubernetes.md#what-s-the-most-challenging-kubernetes-production-issue-you-ve-faced-share-it-in) — Kubernetes · 1×
+- [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — Load Balancing · 1× · tags: `VPC`, `System Design`
 - [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — Bash · 1×
 - [Your production cluster starts failing under peak traffic. How do you restore stability without major downtime?](../topics/general.md#your-production-cluster-starts-failing-under-peak-traffic-how-do-you-restore-sta) — General · 1×
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Terraform**
 
-**67** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**70** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 67 |
-| Easy / Medium / Hard | 8 / 54 / 5 |
+| Questions | 70 |
+| Easy / Medium / Hard | 8 / 56 / 6 |
 | Companies | 6 |
 
 ## Most asked
@@ -151,6 +151,8 @@
   <a id="have-you-worked-on-terraform-recently-and-which-version-s"></a>
 - [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/terraform.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) — 1×
   <a id="how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-"></a>
+- [How do you call a Terraform module from another module or root module?](../topics/terraform.md#how-do-you-call-a-terraform-module-from-another-module-or-root-module) — 1×
+  <a id="how-do-you-call-a-terraform-module-from-another-module-or-root-module"></a>
 - [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources) — 1×
   <a id="how-do-you-migrate-terraform-state-without-recreating-resources"></a>
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — 1× · tags: `AWS`
@@ -173,6 +175,8 @@
   <a id="how-would-you-manage-terraform-state-across-multiple-accounts-and-environments"></a>
 - [How would you stop Terraform from managing a resource it currently manages?](../topics/terraform.md#how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages) — 1×
   <a id="how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages"></a>
+- [If two engineers run Terraform apply at the same time, what problem can occur and how do you prevent it?](../topics/terraform.md#if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and) — 1×
+  <a id="if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and"></a>
 - [If your Terraform State File is completely lost, how do you recover it?](../topics/terraform.md#if-your-terraform-state-file-is-completely-lost-how-do-you-recover-it) — 1×
   <a id="if-your-terraform-state-file-is-completely-lost-how-do-you-recover-it"></a>
 - [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 1×
@@ -220,6 +224,8 @@
   <a id="is-there-a-safer-alternative-to-directly-modifying-the-terraform-state-file-in-a"></a>
 - [What is statefile explain more about it and where to store and why if lost if doesn't have backup how do you regain statefile](../topics/terraform.md#what-is-statefile-explain-more-about-it-and-where-to-store-and-why-if-lost-if-do) — 1×
   <a id="what-is-statefile-explain-more-about-it-and-where-to-store-and-why-if-lost-if-do"></a>
+- [What is the recommended folder structure for a production‑grade Terraform project?](../topics/terraform.md#what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec) — 1×
+  <a id="what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec"></a>
 
 ## By interview round
 
@@ -266,6 +272,7 @@
 - [Explain your Terraform module structure for multiple environments.](../topics/terraform.md#explain-your-terraform-module-structure-for-multiple-environments)
 - [Have you worked on Terraform recently, and which version(s)?](../topics/terraform.md#have-you-worked-on-terraform-recently-and-which-version-s)
 - [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/terraform.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-)
+- [How do you call a Terraform module from another module or root module?](../topics/terraform.md#how-do-you-call-a-terraform-module-from-another-module-or-root-module)
 - [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources)
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — tags: `AWS`
 - [How does Terraform state locking work?](../topics/terraform.md#how-does-terraform-state-locking-work)
@@ -277,6 +284,7 @@
 - [How would you design Terraform code to manage a large number of similar resources (e.g., 100 Lambda functions) with varying configurations, without duplicating resource blocks?](../topics/terraform.md#how-would-you-design-terraform-code-to-manage-a-large-number-of-similar-resource)
 - [How would you rate your Terraform proficiency on a scale of 1–5?](../topics/terraform.md#how-would-you-rate-your-terraform-proficiency-on-a-scale-of-1-5)
 - [How would you stop Terraform from managing a resource it currently manages?](../topics/terraform.md#how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages)
+- [If two engineers run Terraform apply at the same time, what problem can occur and how do you prevent it?](../topics/terraform.md#if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and)
 - [If your Terraform State File is completely lost, how do you recover it?](../topics/terraform.md#if-your-terraform-state-file-is-completely-lost-how-do-you-recover-it)
 - [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac)
 - [Is there a safer alternative to directly modifying the Terraform state file in a production environment?](../topics/terraform.md#is-there-a-safer-alternative-to-directly-modifying-the-terraform-state-file-in-a)
@@ -292,6 +300,7 @@
 - [What is Terraform and how do you use it in your cloud infrastructure?](../topics/terraform.md#what-is-terraform-and-how-do-you-use-it-in-your-cloud-infrastructure)
 - [What is Terraform Drift? How do you detect it?](../topics/terraform.md#what-is-terraform-drift-how-do-you-detect-it)
 - [What is the purpose of Terraform in infrastructure as code?](../topics/terraform.md#what-is-the-purpose-of-terraform-in-infrastructure-as-code)
+- [What is the recommended folder structure for a production‑grade Terraform project?](../topics/terraform.md#what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec)
 - [Which IaC tool have you used for provisioning infrastructure?](../topics/terraform.md#which-iac-tool-have-you-used-for-provisioning-infrastructure)
 - [Which meta-arguments have you used in Terraform (e.g., count, for_each, depends_on, lifecycle)?](../topics/terraform.md#which-meta-arguments-have-you-used-in-terraform-e-g-count-for-each-depends-on-li)
 - [You accidentally deleted a resource from Terraform code but don't want it to be destroyed. What will you do?](../topics/terraform.md#you-accidentally-deleted-a-resource-from-terraform-code-but-don-t-want-it-to-be-)
@@ -313,6 +322,9 @@
 
 ## Recently added
 
+- [If two engineers run Terraform apply at the same time, what problem can occur and how do you prevent it?](../topics/terraform.md#if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and) — 2026-07-17
+- [How do you call a Terraform module from another module or root module?](../topics/terraform.md#how-do-you-call-a-terraform-module-from-another-module-or-root-module) — 2026-07-17
+- [What is the recommended folder structure for a production‑grade Terraform project?](../topics/terraform.md#what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec) — 2026-07-17
 - [What is the difference between a .tf file and variables in Terraform?](../topics/terraform.md#what-is-the-difference-between-a-tf-file-and-variables-in-terraform) — 2026-07-16
 - [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-) — 2026-07-16
 - [Terraform state is 300MB and planning takes 15 minutes. How would you optimize it?](../topics/terraform.md#terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it) — 2026-07-16
@@ -325,9 +337,6 @@
 - [What have you provisioned using Terraform ?](../topics/terraform.md#what-have-you-provisioned-using-terraform) — 2026-07-16
 - [How to define dependency in Terraform ?](../topics/terraform.md#how-to-define-dependency-in-terraform) — 2026-07-16
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — 2026-07-16
-- [What are null resources in Terraform and what is a state file?](../topics/terraform.md#what-are-null-resources-in-terraform-and-what-is-a-state-file) — 2026-07-16
-- [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2026-07-15
-- [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — 2026-07-15
 
 ## Related topics
 
@@ -349,6 +358,7 @@
 | [Explain your Terraform module structure for multiple environments.](../topics/terraform.md#explain-your-terraform-module-structure-for-multiple-environments) | Medium | 1 |
 | [Have you worked on Terraform recently, and which version(s)?](../topics/terraform.md#have-you-worked-on-terraform-recently-and-which-version-s) | Medium | 1 |
 | [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/terraform.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) | Medium | 1 |
+| [How do you call a Terraform module from another module or root module?](../topics/terraform.md#how-do-you-call-a-terraform-module-from-another-module-or-root-module) | Medium | 1 |
 | [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) | Medium | 2 |
 | [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources) | Medium | 1 |
 | [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) | Medium | 1 |
@@ -366,6 +376,7 @@
 | [How would you rate your Terraform proficiency on a scale of 1–5?](../topics/terraform.md#how-would-you-rate-your-terraform-proficiency-on-a-scale-of-1-5) | Easy | 1 |
 | [How would you stop Terraform from managing a resource it currently manages?](../topics/terraform.md#how-would-you-stop-terraform-from-managing-a-resource-it-currently-manages) | Medium | 1 |
 | [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) | Hard | 1 |
+| [If two engineers run Terraform apply at the same time, what problem can occur and how do you prevent it?](../topics/terraform.md#if-two-engineers-run-terraform-apply-at-the-same-time-what-problem-can-occur-and) | Medium | 1 |
 | [If your Terraform State File is completely lost, how do you recover it?](../topics/terraform.md#if-your-terraform-state-file-is-completely-lost-how-do-you-recover-it) | Medium | 1 |
 | [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) | Medium | 1 |
 | [Is there a safer alternative to directly modifying the Terraform state file in a production environment?](../topics/terraform.md#is-there-a-safer-alternative-to-directly-modifying-the-terraform-state-file-in-a) | Hard | 1 |
@@ -392,6 +403,7 @@
 | [What is the difference between a .tf file and variables in Terraform?](../topics/terraform.md#what-is-the-difference-between-a-tf-file-and-variables-in-terraform) | Medium | 2 |
 | [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) | Medium | 2 |
 | [What is the purpose of Terraform in infrastructure as code?](../topics/terraform.md#what-is-the-purpose-of-terraform-in-infrastructure-as-code) | Medium | 1 |
+| [What is the recommended folder structure for a production‑grade Terraform project?](../topics/terraform.md#what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec) | Hard | 1 |
 | [Which IaC tool have you used for provisioning infrastructure?](../topics/terraform.md#which-iac-tool-have-you-used-for-provisioning-infrastructure) | Medium | 1 |
 | [Which meta-arguments have you used in Terraform (e.g., count, for_each, depends_on, lifecycle)?](../topics/terraform.md#which-meta-arguments-have-you-used-in-terraform-e-g-count-for-each-depends-on-li) | Medium | 1 |
 | [Why do we use an S3 bucket and DynamoDB for Terraform state?](../topics/terraform.md#why-do-we-use-an-s3-bucket-and-dynamodb-for-terraform-state) | Medium | 2 |

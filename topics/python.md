@@ -115,7 +115,7 @@
 
 ## Related topics
 
-_See [all topics](./README.md)._
+- [Git](./git.md)
 
 ## All questions
 
