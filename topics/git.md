@@ -27,35 +27,35 @@
 
 ## Most asked
 
+- [What is Git?](../topics/git.md#what-is-git) — **3×** · Easy
+  <a id="what-is-git"></a>
 - [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — **2×** · Medium
   <a id="difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac"></a>
+- [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — **2×** · Easy
+  <a id="what-are-git-commands-you-know"></a>
 - [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — **2×** · Easy
   <a id="what-are-git-hooks-how-would-you-use-them"></a>
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — **2×** · Easy
   <a id="what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project"></a>
-- [What is Git?](../topics/git.md#what-is-git) — **2×** · Easy
-  <a id="what-is-git"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — **1×** · Medium
   <a id="git-github-branching-strategies"></a>
 - [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — **1×** · Medium
   <a id="how-does-git-merge-and-rebase-differ-internally"></a>
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — **1×** · Medium
   <a id="sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a"></a>
-- [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — **1×** · Easy
-  <a id="what-are-git-commands-you-know"></a>
 - [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — **1×** · Medium
   <a id="which-git-branching-strategy-have-you-used"></a>
 
 ## Beginner
 
+- [What is Git?](../topics/git.md#what-is-git) — 3×
+  <a id="what-is-git"></a>
+- [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — 2×
+  <a id="what-are-git-commands-you-know"></a>
 - [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — 2×
   <a id="what-are-git-hooks-how-would-you-use-them"></a>
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — 2×
   <a id="what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project"></a>
-- [What is Git?](../topics/git.md#what-is-git) — 2×
-  <a id="what-is-git"></a>
-- [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — 1×
-  <a id="what-are-git-commands-you-know"></a>
 
 ## Intermediate
 
@@ -116,10 +116,10 @@ _None in this band yet._
 | [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) | Medium | 1 |
 | [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) | Medium | 1 |
 | [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) | Medium | 1 |
-| [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) | Easy | 1 |
+| [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) | Easy | 2 |
 | [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) | Easy | 2 |
 | [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) | Easy | 2 |
-| [What is Git?](../topics/git.md#what-is-git) | Easy | 2 |
+| [What is Git?](../topics/git.md#what-is-git) | Easy | 3 |
 | [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) | Medium | 1 |
 
 ## Learning resources

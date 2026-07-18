@@ -15,15 +15,15 @@
 
 ## Most repeated
 
-- [Build Real Projects](../topics/general.md#build-real-projects) — 1× · General
-- [Earn Certifications](../topics/general.md#earn-certifications) — 1× · General
-- [Final Tip](../topics/general.md#final-tip) — 1× · General
-- [How to Prepare for a ServiceNow Developer Interview](../topics/general.md#how-to-prepare-for-a-servicenow-developer-interview) — 1× · General
-- [Learn Integrations](../topics/general.md#learn-integrations) — 1× · General
-- [Master the Fundamentals](../topics/general.md#master-the-fundamentals) — 1× · General
-- [Prepare for Scenario-Based Questions](../topics/general.md#prepare-for-scenario-based-questions) — 1× · General
-- [Strengthen Your Scripting Skills](../topics/general.md#strengthen-your-scripting-skills) — 1× · General
-- [Understand Core ITSM Modules](../topics/general.md#understand-core-itsm-modules) — 1× · General
+- [Build Real Projects](../topics/general.md#build-real-projects) — 2× · General
+- [Earn Certifications](../topics/general.md#earn-certifications) — 2× · General
+- [Final Tip](../topics/general.md#final-tip) — 2× · General
+- [How to Prepare for a ServiceNow Developer Interview](../topics/general.md#how-to-prepare-for-a-servicenow-developer-interview) — 2× · General
+- [Learn Integrations](../topics/general.md#learn-integrations) — 2× · General
+- [Master the Fundamentals](../topics/general.md#master-the-fundamentals) — 2× · General
+- [Prepare for Scenario-Based Questions](../topics/general.md#prepare-for-scenario-based-questions) — 2× · General
+- [Strengthen Your Scripting Skills](../topics/general.md#strengthen-your-scripting-skills) — 2× · General
+- [Understand Core ITSM Modules](../topics/general.md#understand-core-itsm-modules) — 2× · General
 
 ## By topic
 
@@ -41,14 +41,14 @@
 
 ## Recently added
 
-- [Final Tip](../topics/general.md#final-tip) — 2026-07-17
-- [Earn Certifications](../topics/general.md#earn-certifications) — 2026-07-17
-- [Prepare for Scenario-Based Questions](../topics/general.md#prepare-for-scenario-based-questions) — 2026-07-17
-- [Build Real Projects](../topics/general.md#build-real-projects) — 2026-07-17
-- [Learn Integrations](../topics/general.md#learn-integrations) — 2026-07-17
-- [Understand Core ITSM Modules](../topics/general.md#understand-core-itsm-modules) — 2026-07-17
-- [Strengthen Your Scripting Skills](../topics/general.md#strengthen-your-scripting-skills) — 2026-07-17
-- [Master the Fundamentals](../topics/general.md#master-the-fundamentals) — 2026-07-17
-- [How to Prepare for a ServiceNow Developer Interview](../topics/general.md#how-to-prepare-for-a-servicenow-developer-interview) — 2026-07-17
+- [Final Tip](../topics/general.md#final-tip) — 2026-07-18
+- [Earn Certifications](../topics/general.md#earn-certifications) — 2026-07-18
+- [Prepare for Scenario-Based Questions](../topics/general.md#prepare-for-scenario-based-questions) — 2026-07-18
+- [Build Real Projects](../topics/general.md#build-real-projects) — 2026-07-18
+- [Learn Integrations](../topics/general.md#learn-integrations) — 2026-07-18
+- [Understand Core ITSM Modules](../topics/general.md#understand-core-itsm-modules) — 2026-07-18
+- [Strengthen Your Scripting Skills](../topics/general.md#strengthen-your-scripting-skills) — 2026-07-18
+- [Master the Fundamentals](../topics/general.md#master-the-fundamentals) — 2026-07-18
+- [How to Prepare for a ServiceNow Developer Interview](../topics/general.md#how-to-prepare-for-a-servicenow-developer-interview) — 2026-07-18
 
 [← All companies](./README.md) · [Home](../README.md)

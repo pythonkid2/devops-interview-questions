@@ -80,10 +80,10 @@
 
 ## Beginner
 
+- [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — 2×
+  <a id="what-is-jenkins"></a>
 - [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) — 1×
   <a id="what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them"></a>
-- [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — 1×
-  <a id="what-is-jenkins"></a>
 
 ## Intermediate
 
@@ -388,7 +388,7 @@
 | [What is a Jenkins Pipeline?](../topics/jenkins.md#what-is-a-jenkins-pipeline) | Medium | 2 |
 | [What is a Jenkinsfile?](../topics/jenkins.md#what-is-a-jenkinsfile) | Medium | 2 |
 | [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) | Medium | 3 |
-| [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) | Easy | 1 |
+| [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) | Easy | 2 |
 | [What is master-agent architecture and how does it work in Jenkins?](../topics/jenkins.md#what-is-master-agent-architecture-and-how-does-it-work-in-jenkins) | Hard | 1 |
 | [What is the difference between a Freestyle Job and a Pipeline Job?](../topics/jenkins.md#what-is-the-difference-between-a-freestyle-job-and-a-pipeline-job) | Medium | 2 |
 | [What is the difference between a Jenkins Controller (Master) and an Agent?](../topics/jenkins.md#what-is-the-difference-between-a-jenkins-controller-master-and-an-agent) | Medium | 2 |

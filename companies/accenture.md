@@ -24,8 +24,8 @@
 
 ## Most repeated
 
+- [Do you have any questions for me?](../topics/general.md#do-you-have-any-questions-for-me) — 3× · General
 - [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) — 3× · Kubernetes · tags: `System Design`
-- [Do you have any questions for me?](../topics/general.md#do-you-have-any-questions-for-me) — 2× · General
 - [At which stages do you place scan validations and how do you block builds on failures?](../topics/general.md#at-which-stages-do-you-place-scan-validations-and-how-do-you-block-builds-on-fai) — 1× · General
 - [Can you write a multi-stage Dockerfile?](../topics/docker.md#can-you-write-a-multi-stage-dockerfile) — 1× · Docker
 - [Explain a rolling deployment strategy in Kubernetes. How do you define "maxSurge" and "maxUnavailable"?](../topics/kubernetes.md#explain-a-rolling-deployment-strategy-in-kubernetes-how-do-you-define-maxsurge-a) — 1× · Kubernetes

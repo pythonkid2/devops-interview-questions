@@ -29,19 +29,19 @@
 
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) — **2×** · Medium
   <a id="how-to-create-different-subnets-in-vpc"></a>
+- [What is VPC?](../topics/vpc.md#what-is-vpc) — **2×** · Easy
+  <a id="what-is-vpc"></a>
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — **1×** · Medium · tags: `Networking`
   <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — **1×** · Easy
   <a id="what-are-the-difference-between-these-two-private-and-public-subnet"></a>
-- [What is VPC?](../topics/vpc.md#what-is-vpc) — **1×** · Easy
-  <a id="what-is-vpc"></a>
 
 ## Beginner
 
+- [What is VPC?](../topics/vpc.md#what-is-vpc) — 2×
+  <a id="what-is-vpc"></a>
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — 1×
   <a id="what-are-the-difference-between-these-two-private-and-public-subnet"></a>
-- [What is VPC?](../topics/vpc.md#what-is-vpc) — 1×
-  <a id="what-is-vpc"></a>
 
 ## Intermediate
 
@@ -91,7 +91,7 @@ _None in this band yet._
 | [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) | Medium | 1 |
 | [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) | Medium | 2 |
 | [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) | Easy | 1 |
-| [What is VPC?](../topics/vpc.md#what-is-vpc) | Easy | 1 |
+| [What is VPC?](../topics/vpc.md#what-is-vpc) | Easy | 2 |
 
 ## Learning resources
 

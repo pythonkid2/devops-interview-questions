@@ -4,7 +4,7 @@
 
 | Topic | Questions |
 | --- | ---: |
-| [General](../topics/general.md) | 396 |
+| [General](../topics/general.md) | 411 |
 | [Kubernetes](../topics/kubernetes.md) | 146 |
 | [Terraform](../topics/terraform.md) | 96 |
 | [Docker](../topics/docker.md) | 83 |

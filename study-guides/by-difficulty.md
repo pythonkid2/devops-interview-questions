@@ -3,15 +3,17 @@
 [Home](../README.md) > [Study guides](./README.md) > **Difficulty**
 
 
-## Easy (181)
+## Easy (182)
 
+- [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes · 5×
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — Docker · 4×
-- [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes · 4×
+- [What is a repository?](../topics/general.md#what-is-a-repository) — General · 4×
+- [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — Azure DevOps · 4× · tags: `Azure`
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) — CI/CD · 3×
 - [Difference between count and for_each.](../topics/terraform.md#difference-between-count-and-for-each) — Terraform · 3×
 - [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) — Security · 3×
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — Ingress · 3×
-- [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — Azure DevOps · 3× · tags: `Azure`
+- [What is Git?](../topics/git.md#what-is-git) — Git · 3×
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) — Docker · 2×
 - [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — Terraform · 2×
 - [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — Load Balancing · 2× · tags: `Azure`
@@ -30,64 +32,62 @@
 - [How many days does it really take to become a DevOps engineer?](../topics/general.md#how-many-days-does-it-really-take-to-become-a-devops-engineer) — General · 2×
 - [How would you check if a GPU pod in Kubernetes is using the GPU assigned to it?](../topics/kubernetes.md#how-would-you-check-if-a-gpu-pod-in-kubernetes-is-using-the-gpu-assigned-to-it) — Kubernetes · 2×
 - [How would you create the same infrastructure for Development, QA, UAT, and Production without duplicating code using Terraform?](../topics/terraform.md#how-would-you-create-the-same-infrastructure-for-development-qa-uat-and-producti) — Terraform · 2×
+- [What are common Docker commands?](../topics/docker.md#what-are-common-docker-commands) — Docker · 2×
 - [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — General · 2×
 - [What are Docker volumes used for?](../topics/docker.md#what-are-docker-volumes-used-for) — Docker · 2×
+- [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — Git · 2×
 - [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — Git · 2×
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — Git · 2×
 - [What are modules and how to refer it in a script.](../topics/general.md#what-are-modules-and-how-to-refer-it-in-a-script) — General · 2×
 - [What are null resources in Terraform and what is a state file?](../topics/terraform.md#what-are-null-resources-in-terraform-and-what-is-a-state-file) — Terraform · 2×
 - [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions) — GitHub Actions · 2×
+- [What are the phases of the DevOps lifecycle?](../topics/general.md#what-are-the-phases-of-the-devops-lifecycle) — General · 2×
 - [What are the troubleshooting steps for CrashLoopBackOff?](../topics/general.md#what-are-the-troubleshooting-steps-for-crashloopbackoff) — General · 2×
 - [What branching strategy do you follow in your projects?](../topics/ci-cd.md#what-branching-strategy-do-you-follow-in-your-projects) — CI/CD · 2×
+- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — CI/CD · 2×
 - [What is a Deployment in Kubernetes?](../topics/kubernetes.md#what-is-a-deployment-in-kubernetes) — Kubernetes · 2×
 - [What is a Deployment?](../topics/general.md#what-is-a-deployment) — General · 2×
+- [What is a Docker container?](../topics/docker.md#what-is-a-docker-container) — Docker · 2×
+- [What is a Docker image?](../topics/docker.md#what-is-a-docker-image) — Docker · 2×
 - [What is a Namespace?](../topics/general.md#what-is-a-namespace) — General · 2×
 - [What is a Pod?](../topics/kubernetes.md#what-is-a-pod) — Kubernetes · 2×
 - [What is a ReplicaSet?](../topics/general.md#what-is-a-replicaset) — General · 2×
-- [What is a repository?](../topics/general.md#what-is-a-repository) — General · 2×
 - [What is a rolling rollback?](../topics/general.md#what-is-a-rolling-rollback) — General · 2×
 - [What is ACL, and how do you modify it?](../topics/general.md#what-is-acl-and-how-do-you-modify-it) — General · 2×
+- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — AWS · 2×
+- [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) — Load Balancing · 2×
+- [What is Auto Scaling?](../topics/general.md#what-is-auto-scaling) — General · 2×
+- [What is AWS?](../topics/aws.md#what-is-aws) — AWS · 2×
 - [What is Branching Strategy?](../topics/general.md#what-is-branching-strategy) — General · 2×
 - [What is CDR ?](../topics/general.md#what-is-cdr) — General · 2×
 - [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — DevSecOps · 2×
 - [What is Docker and how does it work?](../topics/docker.md#what-is-docker-and-how-does-it-work) — Docker · 2×
+- [What is Docker?](../topics/docker.md#what-is-docker) — Docker · 2×
+- [What is EC2?](../topics/aws.md#what-is-ec2) — AWS · 2×
 - [What is etcd?](../topics/general.md#what-is-etcd) — General · 2×
-- [What is Git?](../topics/git.md#what-is-git) — Git · 2×
+- [What is IAM?](../topics/iam.md#what-is-iam) — IAM · 2×
+- [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — Jenkins · 2×
 - [What is kube-proxy?](../topics/general.md#what-is-kube-proxy) — General · 2×
 - [What is kubelet?](../topics/general.md#what-is-kubelet) — General · 2×
 - [What is Kubernetes, and why is it used?](../topics/kubernetes.md#what-is-kubernetes-and-why-is-it-used) — Kubernetes · 2×
+- [What is Kubernetes?](../topics/kubernetes.md#what-is-kubernetes) — Kubernetes · 2×
+- [What is Linux?](../topics/linux.md#what-is-linux) — Linux · 2×
+- [What is SSH?](../topics/general.md#what-is-ssh) — General · 2×
 - [What is systemd?](../topics/linux.md#what-is-systemd) — Linux · 2×
 - [What is Terraformgrunt ?](../topics/general.md#what-is-terraformgrunt) — General · 2×
+- [What is the chmod command?](../topics/general.md#what-is-the-chmod-command) — General · 2×
+- [What is the default SSH port number?](../topics/general.md#what-is-the-default-ssh-port-number) — General · 2×
+- [What is the difference between chmod and chown?](../topics/general.md#what-is-the-difference-between-chmod-and-chown) — General · 2×
+- [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — Kubernetes · 2× · tags: `Docker`
 - [What is the Docker daemon?](../topics/docker.md#what-is-the-docker-daemon) — Docker · 2×
 - [What is the ideal pipeline would look in your mind ? explain strategies ?](../topics/ci-cd.md#what-is-the-ideal-pipeline-would-look-in-your-mind-explain-strategies) — CI/CD · 2×
 - [What is the purpose of a Docker image?](../topics/docker.md#what-is-the-purpose-of-a-docker-image) — Docker · 2×
+- [What is VPC?](../topics/vpc.md#what-is-vpc) — VPC · 2×
 - [When you perform a Git merge, what are the different options you use?](../topics/ci-cd.md#when-you-perform-a-git-merge-what-are-the-different-options-you-use) — CI/CD · 2×
 - [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces) — AWS · 2×
-- [You need to provision 100 EC2 instances with different configurations across Development, QA, UAT, and Production environments using Terraform. What would you use, and why?](../topics/terraform.md#you-need-to-provision-100-ec2-instances-with-different-configurations-across-dev) — Terraform · 2×
-- [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — Kubernetes · 1×
-- [Can you explain NLP in Python?](../topics/python.md#can-you-explain-nlp-in-python) — Python · 1×
-- [Can you explain the concept of Docker and how do you use it in your projects?](../topics/docker.md#can-you-explain-the-concept-of-docker-and-how-do-you-use-it-in-your-projects) — Docker · 1×
-- [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) — API Gateway · 1× · tags: `Load Balancing`
-- [Difference between Terraform Refresh, Import, State File, and Remote State?](../topics/terraform.md#difference-between-terraform-refresh-import-state-file-and-remote-state) — Terraform · 1×
-- [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications) — AWS · 1×
-- [Have you worked with Load Balancers?](../topics/aws.md#have-you-worked-with-load-balancers) — AWS · 1×
-- [How can I improve my chances of getting selected in a DevOps interview?](../topics/general.md#how-can-i-improve-my-chances-of-getting-selected-in-a-devops-interview) — General · 1×
-- [How do I create a job profile and write what I learned in my own words?](../topics/general.md#how-do-i-create-a-job-profile-and-write-what-i-learned-in-my-own-words) — General · 1×
-- [How does Docker's containerization work?](../topics/docker.md#how-does-docker-s-containerization-work) — Docker · 1×
-- [How does RAG work?](../topics/storage.md#how-does-rag-work) — Storage · 1×
-- [How would you rate your Terraform proficiency on a scale of 1–5?](../topics/terraform.md#how-would-you-rate-your-terraform-proficiency-on-a-scale-of-1-5) — Terraform · 1×
-- [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/aws.md#infrastructure-as-code-iac-terraform-cloudformation) — AWS · 1×
-- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — Monitoring · 1×
-- [Networking: DNS, Firewall Rules, Virtual Networks](../topics/network-security.md#networking-dns-firewall-rules-virtual-networks) — Network Security · 1×
-- [Scripting & Automation: Python, Bash (or equivalent)](../topics/python.md#scripting-automation-python-bash-or-equivalent) — Python · 1×
-- [What are Branch Policies?](../topics/general.md#what-are-branch-policies) — General · 1×
-- [What are Build Artifacts?](../topics/general.md#what-are-build-artifacts) — General · 1×
-- [What are common Docker commands?](../topics/docker.md#what-are-common-docker-commands) — Docker · 1×
-- [What are Dashboards in Azure DevOps?](../topics/azure-devops.md#what-are-dashboards-in-azure-devops) — Azure DevOps · 1× · tags: `Azure`
-- [What are Docker registries and how do they work?](../topics/docker.md#what-are-docker-registries-and-how-do-they-work) — Docker · 1×
-_…and 101 more in topic pages._
+_…and 102 more in topic pages._
 
-## Medium (891)
+## Medium (901)
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — Terraform · 8×
 - [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — Kubernetes · 6×
@@ -122,11 +122,13 @@ _…and 101 more in topic pages._
 - [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — Docker · 4×
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — CI/CD · 4×
 - [A deployment succeeds, but latency increases from 80 ms to 2 seconds. Walk me through your debugging approach.](../topics/general.md#a-deployment-succeeds-but-latency-increases-from-80-ms-to-2-seconds-walk-me-thro) — General · 3×
+- [Do you have any questions for me?](../topics/general.md#do-you-have-any-questions-for-me) — General · 3×
 - [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — Terraform · 3×
 - [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) — Kubernetes · 3×
 - [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — Jenkins · 3×
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — Kubernetes · 3×
 - [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — Kubernetes · 3×
+- [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) — General · 3×
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — AWS · 3×
 - [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) — Jenkins · 3×
 - [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — GitHub Actions · 3×
@@ -159,19 +161,17 @@ _…and 101 more in topic pages._
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — AWS · 2×
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — IAM · 2× · tags: `AWS`
 - [Architecture of kubernetes](../topics/kubernetes.md#architecture-of-kubernetes) — Kubernetes · 2×
+- [Are you willing to relocate or work in shifts?](../topics/general.md#are-you-willing-to-relocate-or-work-in-shifts) — General · 2×
 - [Automation metrics for success, how would you calculate ROI?](../topics/general.md#automation-metrics-for-success-how-would-you-calculate-roi) — General · 2×
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — Azure · 2×
+- [Build Real Projects](../topics/general.md#build-real-projects) — General · 2×
 - [Can adhering strictly to the Single Responsibility Principle in large distributed systems increase overall system complexity and make maintenance more difficult?](../topics/general.md#can-adhering-strictly-to-the-single-responsibility-principle-in-large-distribute) — General · 2×
 - [Can you automate Kubernetes deployment?](../topics/kubernetes.md#can-you-automate-kubernetes-deployment) — Kubernetes · 2×
 - [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) — Observability · 2×
 - [Can you explain how Kubernetes scheduling works?](../topics/kubernetes.md#can-you-explain-how-kubernetes-scheduling-works) — Kubernetes · 2×
-- [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) — Kafka · 2×
-- [ConfigMap vs Secret?](../topics/general.md#configmap-vs-secret) — General · 2×
-- [Describe the real-time project migration strategy and success metrics.](../topics/general.md#describe-the-real-time-project-migration-strategy-and-success-metrics) — General · 2×
-- [Did you generate SonarQube or Checkmarx reports every day?](../topics/security.md#did-you-generate-sonarqube-or-checkmarx-reports-every-day) — Security · 2×
-_…and 811 more in topic pages._
+_…and 821 more in topic pages._
 
-## Hard (121)
+## Hard (125)
 
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response · 7×
 - [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — Kubernetes · 6×
@@ -235,6 +235,7 @@ _…and 811 more in topic pages._
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — System Design · 1×
 - [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/ci-cd.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont) — CI/CD · 1×
 - [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) — Azure DevOps · 1× · tags: `Azure`
+- [Explain end to end Zoning process through MDS Cisco Switch?](../topics/general.md#explain-end-to-end-zoning-process-through-mds-cisco-switch) — General · 1×
 - [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) — Incident Response · 1×
 - [Have you used Terraform Import in production? Explain the use case.](../topics/terraform.md#have-you-used-terraform-import-in-production-explain-the-use-case) — Terraform · 1×
 - [Have you worked in a production environment?](../topics/general.md#have-you-worked-in-a-production-environment) — General · 1×
@@ -252,7 +253,6 @@ _…and 811 more in topic pages._
 - [How do you monitor AWS resources, Kubernetes workloads, SLAs, and production systems?](../topics/kubernetes.md#how-do-you-monitor-aws-resources-kubernetes-workloads-slas-and-production-system) — Kubernetes · 1× · tags: `AWS`
 - [How do you scale pods while maintaining minimum replicas?](../topics/general.md#how-do-you-scale-pods-while-maintaining-minimum-replicas) — General · 1×
 - [How do you secure Jenkins in production?](../topics/jenkins.md#how-do-you-secure-jenkins-in-production) — Jenkins · 1×
-- [How do you troubleshoot high CPU usage in a Docker container?](../topics/docker.md#how-do-you-troubleshoot-high-cpu-usage-in-a-docker-container) — Docker · 1×
-_…and 41 more in topic pages._
+_…and 45 more in topic pages._
 
 [← Study guides](./README.md)

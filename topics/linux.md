@@ -35,25 +35,25 @@
   <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — **2×** · Medium
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
+- [What is Linux?](../topics/linux.md#what-is-linux) — **2×** · Easy
+  <a id="what-is-linux"></a>
 - [What is systemd?](../topics/linux.md#what-is-systemd) — **2×** · Easy
   <a id="what-is-systemd"></a>
+- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — **2×** · Medium
+  <a id="which-linux-commands-do-you-know"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — **1×** · Medium
   <a id="linux-administration-networking-basics"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
   <a id="what-are-the-linux-boot-processes"></a>
-- [What is Linux?](../topics/linux.md#what-is-linux) — **1×** · Easy
-  <a id="what-is-linux"></a>
-- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — **1×** · Medium
-  <a id="which-linux-commands-do-you-know"></a>
 
 ## Beginner
 
+- [What is Linux?](../topics/linux.md#what-is-linux) — 2×
+  <a id="what-is-linux"></a>
 - [What is systemd?](../topics/linux.md#what-is-systemd) — 2×
   <a id="what-is-systemd"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — 1×
   <a id="what-are-the-linux-boot-processes"></a>
-- [What is Linux?](../topics/linux.md#what-is-linux) — 1×
-  <a id="what-is-linux"></a>
 
 ## Intermediate
 
@@ -65,10 +65,10 @@
   <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — 2×
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
+- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 2×
+  <a id="which-linux-commands-do-you-know"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 1×
   <a id="linux-administration-networking-basics"></a>
-- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 1×
-  <a id="which-linux-commands-do-you-know"></a>
 
 ## Advanced
 
@@ -119,9 +119,9 @@ _None in this band yet._
 | [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) | Medium | 2 |
 | [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) | Medium | 1 |
 | [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) | Easy | 1 |
-| [What is Linux?](../topics/linux.md#what-is-linux) | Easy | 1 |
+| [What is Linux?](../topics/linux.md#what-is-linux) | Easy | 2 |
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |
-| [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) | Medium | 1 |
+| [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) | Medium | 2 |
 
 ## Learning resources
 

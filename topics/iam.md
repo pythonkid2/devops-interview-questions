@@ -31,18 +31,18 @@
   <a id="an-iam-user-has-admin-access-but-s3-access-is-denied-why"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — **2×** · Medium · tags: `RBAC`
   <a id="rbac-security"></a>
+- [What is IAM?](../topics/iam.md#what-is-iam) — **2×** · Easy
+  <a id="what-is-iam"></a>
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — **1×** · Medium · tags: `AWS`
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — **1×** · Medium
   <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — **1×** · Medium · tags: `ArgoCD`, `Terraform`, `RBAC`
   <a id="terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all"></a>
-- [What is IAM?](../topics/iam.md#what-is-iam) — **1×** · Easy
-  <a id="what-is-iam"></a>
 
 ## Beginner
 
-- [What is IAM?](../topics/iam.md#what-is-iam) — 1×
+- [What is IAM?](../topics/iam.md#what-is-iam) — 2×
   <a id="what-is-iam"></a>
 
 ## Intermediate
@@ -79,9 +79,9 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is IAM?](../topics/iam.md#what-is-iam) — 2026-07-18
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — 2026-07-18 · tags: `ArgoCD`, `Terraform`, `RBAC`
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — 2026-07-18 · tags: `AWS`
-- [What is IAM?](../topics/iam.md#what-is-iam) — 2026-07-18
 - [RBAC & Security](../topics/iam.md#rbac-security) — 2026-07-18 · tags: `RBAC`
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — 2026-07-17
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — 2026-07-16 · tags: `AWS`
@@ -101,7 +101,7 @@ _None in this band yet._
 | [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) | Medium | 1 |
 | [RBAC & Security](../topics/iam.md#rbac-security) | Medium | 2 |
 | [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) | Medium | 1 |
-| [What is IAM?](../topics/iam.md#what-is-iam) | Easy | 1 |
+| [What is IAM?](../topics/iam.md#what-is-iam) | Easy | 2 |
 
 ## Learning resources
 

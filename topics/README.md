@@ -122,7 +122,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 396 |
+| [General](./general.md) | 411 |
 
 
 [← Home](../README.md)

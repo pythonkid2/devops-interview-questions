@@ -4,7 +4,7 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 943 |
+| [Unknown Company](../companies/unknown-company.md) | 948 |
 | [Accenture](../companies/accenture.md) | 33 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
@@ -15,6 +15,7 @@
 | [Infosys](../companies/infosys.md) | 12 |
 | [NVIDIA](../companies/nvidia.md) | 11 |
 | [Argyll Infotech](../companies/argyll-infotech.md) | 10 |
+| [DBS Bank](../companies/dbs-bank.md) | 10 |
 | [DEVYNTECH](../companies/devyntech.md) | 9 |
 | [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md) | 8 |
 | [TCS](../companies/tcs.md) | 8 |

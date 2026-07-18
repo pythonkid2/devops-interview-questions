@@ -31,12 +31,12 @@
   <a id="difference-between-azure-load-balancer-and-azure-application-gateway"></a>
 - [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) — **2×** · Medium
   <a id="explain-clusterip-nodeport-and-loadbalancer"></a>
+- [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) — **2×** · Easy
+  <a id="what-is-an-elastic-load-balancer-elb"></a>
 - [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — **1×** · Medium · tags: `AWS`
   <a id="how-does-aws-load-balancer-route-traffic"></a>
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — **1×** · Medium
   <a id="how-load-balancer-elb-alb-distributes-traffic"></a>
-- [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) — **1×** · Easy
-  <a id="what-is-an-elastic-load-balancer-elb"></a>
 - [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — **1×** · Hard · tags: `VPC`, `System Design`
   <a id="when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s"></a>
 
@@ -44,7 +44,7 @@
 
 - [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — 2× · tags: `Azure`
   <a id="difference-between-azure-load-balancer-and-azure-application-gateway"></a>
-- [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) — 1×
+- [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) — 2×
   <a id="what-is-an-elastic-load-balancer-elb"></a>
 
 ## Intermediate
@@ -103,7 +103,7 @@
 | [Explain ClusterIP, NodePort, and LoadBalancer.](../topics/load-balancing.md#explain-clusterip-nodeport-and-loadbalancer) | Medium | 2 |
 | [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) | Medium | 1 |
 | [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) | Medium | 1 |
-| [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) | Easy | 1 |
+| [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) | Easy | 2 |
 | [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) | Hard | 1 |
 
 ## Learning resources

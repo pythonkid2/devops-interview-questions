@@ -16,6 +16,7 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [Infosys](./infosys.md) | 12 |
 | [NVIDIA](./nvidia.md) | 11 |
 | [Argyll Infotech](./argyll-infotech.md) | 10 |
+| [DBS Bank](./dbs-bank.md) | 10 |
 | [DEVYNTECH](./devyntech.md) | 9 |
 | [Fineshift Software Pvt. Ltd.](./fineshift-software-pvt-ltd.md) | 8 |
 | [TCS](./tcs.md) | 8 |
@@ -31,6 +32,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 943 |
+| [Unknown Company](./unknown-company.md) | 948 |
 
 [← Home](../README.md)
