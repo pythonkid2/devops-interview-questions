@@ -62,6 +62,7 @@ _None in this band yet._
 - [Prometheus](./prometheus.md)
 - [Grafana](./grafana.md)
 - [Monitoring](./monitoring.md)
+- [Alerting](./alerting.md)
 - [Observability](./observability.md)
 
 ## All questions

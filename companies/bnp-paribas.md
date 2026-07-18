@@ -20,8 +20,8 @@
 ## Most repeated
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — 8× · Terraform
-- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 4× · Terraform
-- [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 4× · Terraform
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 5× · Terraform
+- [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 5× · Terraform
 - [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) — 2× · Observability
 - [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) — 2× · Kafka
 - [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) — 2× · Observability
@@ -92,8 +92,8 @@
 
 ## Recently added
 
-- [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 2026-07-17
-- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-16
+- [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 2026-07-18
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-18
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — 2026-07-16
 - [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack) — 2026-07-15
 - [What are the components of the ELK Stack?](../topics/observability.md#what-are-the-components-of-the-elk-stack) — 2026-07-15

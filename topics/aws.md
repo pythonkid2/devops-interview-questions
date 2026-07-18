@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**71** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**76** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 71 |
-| Easy / Medium / Hard | 7 / 57 / 7 |
+| Questions | 76 |
+| Easy / Medium / Hard | 10 / 59 / 7 |
 | Companies | 8 |
 
 ## Most asked
@@ -37,10 +37,14 @@
   <a id="a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — **2×** · Medium
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
+- [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — **2×** · Medium
+  <a id="how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions"></a>
 - [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) — **2×** · Medium
   <a id="how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho"></a>
 - [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la) — **2×** · Medium
   <a id="i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la"></a>
+- [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — **2×** · Medium
+  <a id="unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check"></a>
 - [Usage of AWS CodePipeline and AWS infrastructure in CI/CD.](../topics/aws.md#usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd) — **2×** · Medium
   <a id="usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd"></a>
 - [What are triggers in CI/CD and how do you set them up in AWS Cloud Environment?](../topics/aws.md#what-are-triggers-in-ci-cd-and-how-do-you-set-them-up-in-aws-cloud-environment) — **2×** · Medium
@@ -49,6 +53,8 @@
   <a id="what-aws-services-are-you-currently-using"></a>
 - [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) — **2×** · Medium
   <a id="what-aws-services-have-you-used-explain-your-experience-in-detail"></a>
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — **2×** · Medium
+  <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces) — **2×** · Easy
   <a id="you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces"></a>
 - [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) — **1×** · Medium
@@ -71,12 +77,6 @@
   <a id="do-you-hold-any-aws-certifications"></a>
 - [Does AWS WAF logging capture all requests? Explain.](../topics/aws.md#does-aws-waf-logging-capture-all-requests-explain) — **1×** · Medium
   <a id="does-aws-waf-logging-capture-all-requests-explain"></a>
-- [Explain your cloud migration experience from On-Premises to AWS.](../topics/aws.md#explain-your-cloud-migration-experience-from-on-premises-to-aws) — **1×** · Medium
-  <a id="explain-your-cloud-migration-experience-from-on-premises-to-aws"></a>
-- [Explain your experience designing secure AWS infrastructure.](../topics/aws.md#explain-your-experience-designing-secure-aws-infrastructure) — **1×** · Medium
-  <a id="explain-your-experience-designing-secure-aws-infrastructure"></a>
-- [Files are accidentally deleted from an S3 bucket. How would you recover them?](../topics/aws.md#files-are-accidentally-deleted-from-an-s3-bucket-how-would-you-recover-them) — **1×** · Medium
-  <a id="files-are-accidentally-deleted-from-an-s3-bucket-how-would-you-recover-them"></a>
 
 ## Beginner
 
@@ -92,8 +92,14 @@
   <a id="what-are-the-different-aws-services-you-used"></a>
 - [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) — 1×
   <a id="what-are-the-limitations-of-lambda-functions"></a>
+- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — 1×
+  <a id="what-is-amazon-s3"></a>
 - [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it) — 1×
   <a id="what-is-aws-and-why-do-companies-use-it"></a>
+- [What is AWS?](../topics/aws.md#what-is-aws) — 1×
+  <a id="what-is-aws"></a>
+- [What is EC2?](../topics/aws.md#what-is-ec2) — 1×
+  <a id="what-is-ec2"></a>
 
 ## Intermediate
 
@@ -105,10 +111,14 @@
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — 2×
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
+- [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2×
+  <a id="how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions"></a>
 - [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) — 2×
   <a id="how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho"></a>
 - [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la) — 2×
   <a id="i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la"></a>
+- [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — 2×
+  <a id="unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check"></a>
 - [Usage of AWS CodePipeline and AWS infrastructure in CI/CD.](../topics/aws.md#usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd) — 2×
   <a id="usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd"></a>
 - [What are triggers in CI/CD and how do you set them up in AWS Cloud Environment?](../topics/aws.md#what-are-triggers-in-ci-cd-and-how-do-you-set-them-up-in-aws-cloud-environment) — 2×
@@ -117,6 +127,8 @@
   <a id="what-aws-services-are-you-currently-using"></a>
 - [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) — 2×
   <a id="what-aws-services-have-you-used-explain-your-experience-in-detail"></a>
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 2×
+  <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) — 1×
   <a id="an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st"></a>
 - [An EC2 instance is marked healthy, but users cannot access the application. How would you troubleshoot the issue?](../topics/aws.md#an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo) — 1×
@@ -145,10 +157,10 @@
   <a id="have-you-implemented-governance-guardrails-in-aws-organizations"></a>
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — 1× · tags: `FinOps`
   <a id="how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources"></a>
+- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 1×
+  <a id="how-do-you-connect-to-an-ec2-instance-using-ssh"></a>
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 1×
   <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
-- [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 1×
-  <a id="how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions"></a>
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) — 1×
   <a id="how-good-are-you-in-aws-self-rating-question"></a>
 - [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services) — 1×
@@ -177,8 +189,6 @@
   <a id="scaling-ec2-instances-automatically"></a>
 - [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) — 1×
   <a id="suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r"></a>
-- [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — 1×
-  <a id="unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check"></a>
 - [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi) — 1×
   <a id="users-report-random-application-failures-which-aws-tools-would-you-use-to-identi"></a>
 - [What are AWS Regions and Availability Zones?](../topics/aws.md#what-are-aws-regions-and-availability-zones) — 1×
@@ -193,10 +203,10 @@
   <a id="what-is-the-aws-shared-responsibility-model"></a>
 - [What is User Data in EC2?](../topics/aws.md#what-is-user-data-in-ec2) — 1×
   <a id="what-is-user-data-in-ec2"></a>
-- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 1×
-  <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads) — 1×
   <a id="which-aws-pricing-model-should-you-choose-for-different-workloads"></a>
+- [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — 1×
+  <a id="which-aws-services-do-you-know"></a>
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) — 1×
   <a id="which-aws-services-have-you-used-extensively"></a>
 - [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) — 1×
@@ -280,6 +290,7 @@
 - [Files are accidentally deleted from an S3 bucket. How would you recover them?](../topics/aws.md#files-are-accidentally-deleted-from-an-s3-bucket-how-would-you-recover-them)
 - [Have you worked with Load Balancers?](../topics/aws.md#have-you-worked-with-load-balancers)
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — tags: `FinOps`
+- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh)
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts)
 - [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws)
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions)
@@ -304,10 +315,14 @@
 - [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions)
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on)
 - [What checks would you perform before moving an EC2 instance from C5 to T3 family?](../topics/aws.md#what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family)
+- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3)
 - [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it)
+- [What is AWS?](../topics/aws.md#what-is-aws)
+- [What is EC2?](../topics/aws.md#what-is-ec2)
 - [What is the AWS Shared Responsibility Model?](../topics/aws.md#what-is-the-aws-shared-responsibility-model)
 - [What is User Data in EC2?](../topics/aws.md#what-is-user-data-in-ec2)
 - [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads)
+- [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know)
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively)
 - [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them)
 - [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work)
@@ -330,6 +345,14 @@
 
 ## Recently added
 
+- [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2026-07-18
+- [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — 2026-07-18
+- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 2026-07-18
+- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — 2026-07-18
+- [What is EC2?](../topics/aws.md#what-is-ec2) — 2026-07-18
+- [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — 2026-07-18
+- [What is AWS?](../topics/aws.md#what-is-aws) — 2026-07-18
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 2026-07-18
 - [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) — 2026-07-17
 - [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) — 2026-07-17
 - [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) — 2026-07-17
@@ -337,14 +360,6 @@
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 2026-07-17
 - [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) — 2026-07-17
 - [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) — 2026-07-17
-- [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) — 2026-07-17
-- [How would you protect applications against DDoS attacks in AWS?](../topics/aws.md#how-would-you-protect-applications-against-ddos-attacks-in-aws) — 2026-07-17
-- [What checks would you perform before moving an EC2 instance from C5 to T3 family?](../topics/aws.md#what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family) — 2026-07-17
-- [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — 2026-07-17 · tags: `FinOps`
-- [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) — 2026-07-17
-- [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2026-07-17
-- [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — 2026-07-17
-- [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../topics/aws.md#how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component) — 2026-07-17
 
 ## Related topics
 
@@ -373,9 +388,10 @@
 | [Have you implemented governance guardrails in AWS Organizations?](../topics/aws.md#have-you-implemented-governance-guardrails-in-aws-organizations) | Medium | 1 |
 | [Have you worked with Load Balancers?](../topics/aws.md#have-you-worked-with-load-balancers) | Easy | 1 |
 | [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) | Medium | 1 |
+| [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) | Medium | 1 |
 | [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) | Medium | 1 |
 | [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws) | Hard | 1 |
-| [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 1 |
+| [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 2 |
 | [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) | Medium | 1 |
 | [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services) | Medium | 1 |
 | [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) | Medium | 2 |
@@ -398,7 +414,7 @@
 | [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) | Medium | 1 |
 | [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically) | Medium | 1 |
 | [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) | Medium | 1 |
-| [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) | Medium | 1 |
+| [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) | Medium | 2 |
 | [Usage of AWS CodePipeline and AWS infrastructure in CI/CD.](../topics/aws.md#usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd) | Medium | 2 |
 | [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi) | Medium | 1 |
 | [What are AWS Regions and Availability Zones?](../topics/aws.md#what-are-aws-regions-and-availability-zones) | Medium | 1 |
@@ -410,12 +426,16 @@
 | [What AWS services are you currently using?](../topics/aws.md#what-aws-services-are-you-currently-using) | Medium | 2 |
 | [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) | Medium | 2 |
 | [What checks would you perform before moving an EC2 instance from C5 to T3 family?](../topics/aws.md#what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family) | Medium | 1 |
+| [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) | Easy | 1 |
 | [What is AWS WAF and what is your experience with it?](../topics/aws.md#what-is-aws-waf-and-what-is-your-experience-with-it) | Medium | 1 |
 | [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it) | Easy | 1 |
+| [What is AWS?](../topics/aws.md#what-is-aws) | Easy | 1 |
+| [What is EC2?](../topics/aws.md#what-is-ec2) | Easy | 1 |
 | [What is the AWS Shared Responsibility Model?](../topics/aws.md#what-is-the-aws-shared-responsibility-model) | Medium | 1 |
 | [What is User Data in EC2?](../topics/aws.md#what-is-user-data-in-ec2) | Medium | 1 |
-| [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) | Medium | 1 |
+| [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) | Medium | 2 |
 | [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads) | Medium | 1 |
+| [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) | Medium | 1 |
 | [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) | Medium | 1 |
 | [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) | Medium | 1 |
 | [Which VPC Interface Endpoints are required for AWS SSM to work without internet access?](../topics/aws.md#which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-) | Medium | 1 |

@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — **2×** · Easy · tags: `Azure`
+- [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — **3×** · Easy · tags: `Azure`
   <a id="what-is-azure-devops"></a>
 - [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) — **1×** · Hard · tags: `Azure`
   <a id="explain-an-end-to-end-azure-devops-alm-process"></a>
@@ -54,7 +54,7 @@
 
 ## Beginner
 
-- [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — 2× · tags: `Azure`
+- [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — 3× · tags: `Azure`
   <a id="what-is-azure-devops"></a>
 - [What are Dashboards in Azure DevOps?](../topics/azure-devops.md#what-are-dashboards-in-azure-devops) — 1× · tags: `Azure`
   <a id="what-are-dashboards-in-azure-devops"></a>
@@ -108,7 +108,7 @@
 
 ## Recently added
 
-- [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — 2026-07-17 · tags: `Azure`
+- [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — 2026-07-18 · tags: `Azure`
 - [Why is Azure DevOps considered an ALM platform?](../topics/azure-devops.md#why-is-azure-devops-considered-an-alm-platform) — 2026-07-17 · tags: `Azure`
 - [How would you design an enterprise Azure DevOps ALM process?](../topics/azure-devops.md#how-would-you-design-an-enterprise-azure-devops-alm-process) — 2026-07-17 · tags: `Azure`
 - [How do you achieve traceability in Azure DevOps?](../topics/azure-devops.md#how-do-you-achieve-traceability-in-azure-devops) — 2026-07-17 · tags: `Azure`
@@ -141,7 +141,7 @@
 | [What are Dashboards in Azure DevOps?](../topics/azure-devops.md#what-are-dashboards-in-azure-devops) | Easy | 1 |
 | [What are the main components of Azure DevOps?](../topics/azure-devops.md#what-are-the-main-components-of-azure-devops) | Easy | 1 |
 | [What are Work Items in Azure DevOps?](../topics/azure-devops.md#what-are-work-items-in-azure-devops) | Easy | 1 |
-| [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) | Easy | 2 |
+| [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) | Easy | 3 |
 | [What is Azure Pipeline?](../topics/azure-devops.md#what-is-azure-pipeline) | Easy | 1 |
 | [Why is Azure DevOps considered an ALM platform?](../topics/azure-devops.md#why-is-azure-devops-considered-an-alm-platform) | Medium | 1 |
 

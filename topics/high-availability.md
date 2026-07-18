@@ -29,12 +29,12 @@
 
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — **6×** · Hard · tags: `Kubernetes`, `System Design`
   <a id="how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit"></a>
-- [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — **1×** · Medium · tags: `System Design`
+- [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — **2×** · Medium · tags: `System Design`
   <a id="high-availability-vs-read-scalability"></a>
+- [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — **2×** · Medium
+  <a id="why-are-multi-az-and-replicas-used-for-databases"></a>
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — **1×** · Medium · tags: `Alerting`, `Monitoring`
   <a id="how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and"></a>
-- [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — **1×** · Medium
-  <a id="why-are-multi-az-and-replicas-used-for-databases"></a>
 
 ## Beginner
 
@@ -42,12 +42,12 @@ _None in this band yet._
 
 ## Intermediate
 
-- [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — 1× · tags: `System Design`
+- [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — 2× · tags: `System Design`
   <a id="high-availability-vs-read-scalability"></a>
+- [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — 2×
+  <a id="why-are-multi-az-and-replicas-used-for-databases"></a>
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — 1× · tags: `Alerting`, `Monitoring`
   <a id="how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and"></a>
-- [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — 1×
-  <a id="why-are-multi-az-and-replicas-used-for-databases"></a>
 
 ## Advanced
 
@@ -69,10 +69,10 @@ _None in this band yet._
 
 ## Recently added
 
+- [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — 2026-07-18 · tags: `System Design`
+- [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — 2026-07-18
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — 2026-07-17 · tags: `Alerting`, `Monitoring`
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 2026-07-17 · tags: `Kubernetes`, `System Design`
-- [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — 2026-07-17 · tags: `System Design`
-- [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — 2026-07-17
 
 ## Related topics
 
@@ -88,10 +88,10 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) | Medium | 1 |
+| [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) | Medium | 2 |
 | [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) | Medium | 1 |
 | [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) | Hard | 6 |
-| [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) | Medium | 1 |
+| [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) | Medium | 2 |
 
 ## Learning resources
 

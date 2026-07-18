@@ -27,10 +27,10 @@
 
 ## Most asked
 
+- [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — **2×** · Medium
+  <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
 - [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) — **1×** · Medium
   <a id="break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it"></a>
-- [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — **1×** · Medium
-  <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — **1×** · Medium
   <a id="whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use"></a>
 
@@ -40,10 +40,10 @@ _None in this band yet._
 
 ## Intermediate
 
+- [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — 2×
+  <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
 - [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) — 1×
   <a id="break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it"></a>
-- [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — 1×
-  <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — 1×
   <a id="whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use"></a>
 
@@ -65,7 +65,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — 2026-07-17
+- [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — 2026-07-18
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — 2026-07-17
 - [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) — 2026-07-17
 
@@ -74,6 +74,7 @@ _None in this band yet._
 - [Docker](./docker.md)
 - [Kubernetes](./kubernetes.md)
 - [EKS](./eks.md)
+- [GKE](./gke.md)
 - [ArgoCD](./argocd.md)
 
 ## All questions
@@ -81,7 +82,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) | Medium | 1 |
-| [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) | Medium | 1 |
+| [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) | Medium | 2 |
 | [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) | Medium | 1 |
 
 ## Learning resources

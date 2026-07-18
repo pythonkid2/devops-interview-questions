@@ -25,9 +25,9 @@
 ## Most repeated
 
 - [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) — 3× · Kubernetes · tags: `System Design`
+- [Do you have any questions for me?](../topics/general.md#do-you-have-any-questions-for-me) — 2× · General
 - [At which stages do you place scan validations and how do you block builds on failures?](../topics/general.md#at-which-stages-do-you-place-scan-validations-and-how-do-you-block-builds-on-fai) — 1× · General
 - [Can you write a multi-stage Dockerfile?](../topics/docker.md#can-you-write-a-multi-stage-dockerfile) — 1× · Docker
-- [Do you have any questions for me?](../topics/general.md#do-you-have-any-questions-for-me) — 1× · General
 - [Explain a rolling deployment strategy in Kubernetes. How do you define "maxSurge" and "maxUnavailable"?](../topics/kubernetes.md#explain-a-rolling-deployment-strategy-in-kubernetes-how-do-you-define-maxsurge-a) — 1× · Kubernetes
 - [Explain the logic behind a multi-stage Docker build.](../topics/docker.md#explain-the-logic-behind-a-multi-stage-docker-build) — 1× · Docker
 - [Give a real-time example of "COPY" and "ADD".](../topics/general.md#give-a-real-time-example-of-copy-and-add) — 1× · General
@@ -112,8 +112,8 @@
 
 ## Recently added
 
+- [Do you have any questions for me?](../topics/general.md#do-you-have-any-questions-for-me) — 2026-07-18
 - [Which question do you find the most challenging?](../topics/general.md#which-question-do-you-find-the-most-challenging) — 2026-07-17
-- [Do you have any questions for me?](../topics/general.md#do-you-have-any-questions-for-me) — 2026-07-17
 - [At which stages do you place scan validations and how do you block builds on failures?](../topics/general.md#at-which-stages-do-you-place-scan-validations-and-how-do-you-block-builds-on-fai) — 2026-07-17
 - [Have you configured any code quality or security tools in Jenkins pipelines?](../topics/jenkins.md#have-you-configured-any-code-quality-or-security-tools-in-jenkins-pipelines) — 2026-07-17
 - [Have you worked on Terraform maturity model or infrastructure maturity practices?](../topics/terraform.md#have-you-worked-on-terraform-maturity-model-or-infrastructure-maturity-practices) — 2026-07-17

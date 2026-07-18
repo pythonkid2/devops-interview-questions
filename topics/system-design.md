@@ -27,14 +27,14 @@
 
 ## Most asked
 
+- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — **2×** · Hard
+  <a id="design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a"></a>
 - [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — **2×** · Medium
   <a id="explain-your-project-architecture-from-a-devops-perspective"></a>
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — **2×** · Medium
   <a id="what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar"></a>
 - [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — **1×** · Medium
   <a id="describe-a-software-project-where-you-significantly-improved-performance-scalabi"></a>
-- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — **1×** · Hard
-  <a id="design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a"></a>
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — **1×** · Hard
   <a id="designing-a-highly-available-architecture"></a>
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — **1×** · Medium
@@ -61,7 +61,7 @@ _None in this band yet._
 
 ## Advanced
 
-- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — 1×
+- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — 2×
   <a id="design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a"></a>
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — 1×
   <a id="designing-a-highly-available-architecture"></a>
@@ -91,13 +91,13 @@ _None in this band yet._
 
 ## Recently added
 
+- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — 2026-07-18
 - [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — 2026-07-17
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — 2026-07-16
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — 2026-07-15
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — 2026-07-15
 - [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — 2026-07-15
 - [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) — 2026-07-15
-- [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — 2026-07-15
 
 ## Related topics
 
@@ -109,7 +109,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) | Medium | 1 |
-| [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) | Hard | 1 |
+| [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) | Hard | 2 |
 | [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) | Hard | 1 |
 | [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) | Medium | 2 |
 | [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) | Medium | 1 |

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**65** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**66** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 65 |
-| Easy / Medium / Hard | 1 / 58 / 6 |
+| Questions | 66 |
+| Easy / Medium / Hard | 2 / 58 / 6 |
 | Companies | 5 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process"></a>
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — **2×** · Medium
   <a id="a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo"></a>
+- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — **2×** · Medium
+  <a id="explain-a-jenkins-pipeline-and-its-stages"></a>
 - [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) — **2×** · Medium · tags: `CI/CD`
   <a id="explain-flow-in-jenkins-pipeline"></a>
 - [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture) — **2×** · Medium
@@ -75,13 +77,13 @@
   <a id="what-happens-if-the-quality-gate-fails"></a>
 - [What is a Jenkins Pipeline?](../topics/jenkins.md#what-is-a-jenkins-pipeline) — **2×** · Medium
   <a id="what-is-a-jenkins-pipeline"></a>
-- [What is a Jenkinsfile?](../topics/jenkins.md#what-is-a-jenkinsfile) — **2×** · Medium
-  <a id="what-is-a-jenkinsfile"></a>
 
 ## Beginner
 
 - [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) — 1×
   <a id="what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them"></a>
+- [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — 1×
+  <a id="what-is-jenkins"></a>
 
 ## Intermediate
 
@@ -99,6 +101,8 @@
   <a id="a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process"></a>
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — 2×
   <a id="a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo"></a>
+- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2×
+  <a id="explain-a-jenkins-pipeline-and-its-stages"></a>
 - [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) — 2× · tags: `CI/CD`
   <a id="explain-flow-in-jenkins-pipeline"></a>
 - [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture) — 2×
@@ -147,8 +151,6 @@
   <a id="why-do-we-use-jenkins-agents"></a>
 - [Write jenkins pipeline syntax](../topics/jenkins.md#write-jenkins-pipeline-syntax) — 2×
   <a id="write-jenkins-pipeline-syntax"></a>
-- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 1×
-  <a id="explain-a-jenkins-pipeline-and-its-stages"></a>
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — 1× · tags: `CI/CD`
   <a id="explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages"></a>
 - [Explain your experience with Jenkins and GitLab CI/CD.](../topics/jenkins.md#explain-your-experience-with-jenkins-and-gitlab-ci-cd) — 1× · tags: `GitLab CI`, `CI/CD`
@@ -282,6 +284,7 @@
 - [What is a Jenkins Pipeline?](../topics/jenkins.md#what-is-a-jenkins-pipeline)
 - [What is a Jenkinsfile?](../topics/jenkins.md#what-is-a-jenkinsfile)
 - [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used)
+- [What is Jenkins?](../topics/jenkins.md#what-is-jenkins)
 - [What is master-agent architecture and how does it work in Jenkins?](../topics/jenkins.md#what-is-master-agent-architecture-and-how-does-it-work-in-jenkins) — tags: `System Design`
 - [What is the difference between a Freestyle Job and a Pipeline Job?](../topics/jenkins.md#what-is-the-difference-between-a-freestyle-job-and-a-pipeline-job)
 - [What is the difference between a Jenkins Controller (Master) and an Agent?](../topics/jenkins.md#what-is-the-difference-between-a-jenkins-controller-master-and-an-agent)
@@ -303,6 +306,8 @@
 
 ## Recently added
 
+- [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — 2026-07-18
+- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2026-07-18
 - [Have you configured any code quality or security tools in Jenkins pipelines?](../topics/jenkins.md#have-you-configured-any-code-quality-or-security-tools-in-jenkins-pipelines) — 2026-07-17
 - [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/jenkins.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-) — 2026-07-17
 - [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) — 2026-07-17 · tags: `CI/CD`
@@ -316,8 +321,6 @@
 - [How do you implement rollback strategy in Jenkins pipeline?](../topics/jenkins.md#how-do-you-implement-rollback-strategy-in-jenkins-pipeline) — 2026-07-17 · tags: `CI/CD`
 - [How do you handle parallel execution in Jenkins?](../topics/jenkins.md#how-do-you-handle-parallel-execution-in-jenkins) — 2026-07-17
 - [How do you optimize Jenkins pipeline performance?](../topics/jenkins.md#how-do-you-optimize-jenkins-pipeline-performance) — 2026-07-17 · tags: `CI/CD`
-- [How do you use shared libraries in Jenkins?](../topics/jenkins.md#how-do-you-use-shared-libraries-in-jenkins) — 2026-07-17
-- [How do you debug Jenkins build issues?](../topics/jenkins.md#how-do-you-debug-jenkins-build-issues) — 2026-07-17
 
 ## Related topics
 
@@ -335,7 +338,7 @@
 | [A Jenkins pipeline completed successfully, but the latest changes are not visible in production. What components would you verify before concluding the deployment failed?](../topics/jenkins.md#a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible) | Medium | 2 |
 | [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) | Medium | 2 |
 | [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) | Medium | 2 |
-| [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) | Medium | 1 |
+| [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) | Medium | 2 |
 | [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) | Medium | 1 |
 | [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) | Medium | 2 |
 | [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture) | Medium | 2 |
@@ -385,6 +388,7 @@
 | [What is a Jenkins Pipeline?](../topics/jenkins.md#what-is-a-jenkins-pipeline) | Medium | 2 |
 | [What is a Jenkinsfile?](../topics/jenkins.md#what-is-a-jenkinsfile) | Medium | 2 |
 | [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) | Medium | 3 |
+| [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) | Easy | 1 |
 | [What is master-agent architecture and how does it work in Jenkins?](../topics/jenkins.md#what-is-master-agent-architecture-and-how-does-it-work-in-jenkins) | Hard | 1 |
 | [What is the difference between a Freestyle Job and a Pipeline Job?](../topics/jenkins.md#what-is-the-difference-between-a-freestyle-job-and-a-pipeline-job) | Medium | 2 |
 | [What is the difference between a Jenkins Controller (Master) and an Agent?](../topics/jenkins.md#what-is-the-difference-between-a-jenkins-controller-master-and-an-agent) | Medium | 2 |

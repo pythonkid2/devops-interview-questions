@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 7 |
-| Easy / Medium / Hard | 2 / 5 / 0 |
+| Questions | 9 |
+| Easy / Medium / Hard | 3 / 6 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -41,6 +41,10 @@
   <a id="linux-administration-networking-basics"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
   <a id="what-are-the-linux-boot-processes"></a>
+- [What is Linux?](../topics/linux.md#what-is-linux) — **1×** · Easy
+  <a id="what-is-linux"></a>
+- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — **1×** · Medium
+  <a id="which-linux-commands-do-you-know"></a>
 
 ## Beginner
 
@@ -48,6 +52,8 @@
   <a id="what-is-systemd"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — 1×
   <a id="what-are-the-linux-boot-processes"></a>
+- [What is Linux?](../topics/linux.md#what-is-linux) — 1×
+  <a id="what-is-linux"></a>
 
 ## Intermediate
 
@@ -61,6 +67,8 @@
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 1×
   <a id="linux-administration-networking-basics"></a>
+- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 1×
+  <a id="which-linux-commands-do-you-know"></a>
 
 ## Advanced
 
@@ -76,7 +84,9 @@ _None in this band yet._
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi)
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics)
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes)
+- [What is Linux?](../topics/linux.md#what-is-linux)
 - [What is systemd?](../topics/linux.md#what-is-systemd)
+- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know)
 
 ## Companies asking
 
@@ -84,6 +94,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 2026-07-18
+- [What is Linux?](../topics/linux.md#what-is-linux) — 2026-07-18
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — 2026-07-17
 - [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2026-07-17
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 2026-07-15
@@ -107,7 +119,9 @@ _None in this band yet._
 | [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) | Medium | 2 |
 | [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) | Medium | 1 |
 | [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) | Easy | 1 |
+| [What is Linux?](../topics/linux.md#what-is-linux) | Easy | 1 |
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |
+| [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) | Medium | 1 |
 
 ## Learning resources
 

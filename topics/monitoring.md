@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**14** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**15** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 14 |
-| Easy / Medium / Hard | 2 / 11 / 1 |
+| Questions | 15 |
+| Easy / Medium / Hard | 2 / 11 / 2 |
 | Companies | 6 |
 
 ## Most asked
@@ -47,6 +47,8 @@
   <a id="monitoring-logging-cloudwatch-prometheus-elk-stack"></a>
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — **1×** · Medium
   <a id="monitoring-troubleshooting-production-support"></a>
+- [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — **1×** · Hard · tags: `System Design`
+  <a id="production-mein-monitoring-architecture-kaise-design-karoge"></a>
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — **1×** · Medium · tags: `CI/CD`
   <a id="what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated"></a>
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — **1×** · Medium · tags: `AWS`
@@ -92,6 +94,8 @@
 
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — 1×
   <a id="can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios"></a>
+- [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — 1× · tags: `System Design`
+  <a id="production-mein-monitoring-architecture-kaise-design-karoge"></a>
 
 ## By interview round
 
@@ -110,6 +114,7 @@
 - [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack)
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue)
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support)
+- [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — tags: `System Design`
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — tags: `CI/CD`
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — tags: `AWS`
 - [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool)
@@ -126,6 +131,7 @@
 
 ## Recently added
 
+- [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — 2026-07-18 · tags: `System Design`
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — 2026-07-17 · tags: `AWS`
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — 2026-07-17
 - [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — 2026-07-17
@@ -146,6 +152,7 @@
 - [Prometheus](./prometheus.md)
 - [Grafana](./grafana.md)
 - [Logging](./logging.md)
+- [Alerting](./alerting.md)
 - [Observability](./observability.md)
 
 ## All questions
@@ -161,6 +168,7 @@
 | [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) | Easy | 1 |
 | [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) | Medium | 2 |
 | [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) | Medium | 1 |
+| [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) | Hard | 1 |
 | [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) | Medium | 1 |
 | [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) | Medium | 1 |
 | [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) | Medium | 2 |

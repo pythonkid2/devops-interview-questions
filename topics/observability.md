@@ -126,6 +126,7 @@ _None in this band yet._
 - [Grafana](./grafana.md)
 - [Logging](./logging.md)
 - [Monitoring](./monitoring.md)
+- [Alerting](./alerting.md)
 
 ## All questions
 
