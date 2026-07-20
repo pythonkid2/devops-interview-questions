@@ -127,6 +127,7 @@ _None in this band yet._
 - [Logging](./logging.md)
 - [Monitoring](./monitoring.md)
 - [Alerting](./alerting.md)
+- [Tracing](./tracing.md)
 
 ## All questions
 

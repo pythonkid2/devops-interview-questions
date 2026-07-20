@@ -64,6 +64,7 @@ _None in this band yet._
 - [Monitoring](./monitoring.md)
 - [Alerting](./alerting.md)
 - [Observability](./observability.md)
+- [Tracing](./tracing.md)
 
 ## All questions
 

@@ -204,6 +204,7 @@
 - [IAM](./iam.md)
 - [DevSecOps](./devsecops.md)
 - [Network Security](./network-security.md)
+- [Certificate Management](./certificate-management.md)
 
 ## All questions
 

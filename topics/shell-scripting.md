@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Shell Scripting**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
-| Companies | 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
+| Companies | 1 |
 
 ## Most asked
 
+- [Write a shell script that checks whether five critical services are running and restarts only the failed services.](../topics/shell-scripting.md#write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-) — **1×** · Medium
+  <a id="write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-"></a>
 - [Write down a script shell script so that it would go and identify the dead or stuck pods in the system?](../topics/shell-scripting.md#write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st) — **1×** · Medium
   <a id="write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st"></a>
 
@@ -36,6 +38,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Write a shell script that checks whether five critical services are running and restarts only the failed services.](../topics/shell-scripting.md#write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-) — 1×
+  <a id="write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-"></a>
 - [Write down a script shell script so that it would go and identify the dead or stuck pods in the system?](../topics/shell-scripting.md#write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st) — 1×
   <a id="write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st"></a>
 
@@ -47,14 +51,16 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Write a shell script that checks whether five critical services are running and restarts only the failed services.](../topics/shell-scripting.md#write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-)
 - [Write down a script shell script so that it would go and identify the dead or stuck pods in the system?](../topics/shell-scripting.md#write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st)
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Mphasis](../companies/mphasis.md)
 
 ## Recently added
 
+- [Write a shell script that checks whether five critical services are running and restarts only the failed services.](../topics/shell-scripting.md#write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-) — 2026-07-20
 - [Write down a script shell script so that it would go and identify the dead or stuck pods in the system?](../topics/shell-scripting.md#write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st) — 2026-07-17
 
 ## Related topics
@@ -66,6 +72,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Write a shell script that checks whether five critical services are running and restarts only the failed services.](../topics/shell-scripting.md#write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-) | Medium | 1 |
 | [Write down a script shell script so that it would go and identify the dead or stuck pods in the system?](../topics/shell-scripting.md#write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st) | Medium | 1 |
 
 ## Learning resources

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **ArgoCD**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 0 / 3 / 3 |
+| Questions | 7 |
+| Easy / Medium / Hard | 0 / 4 / 3 |
 | Companies | 0 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="design-a-gitops-workflow-for-20-teams-with-independent-release-cycles"></a>
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — **1×** · Hard · tags: `Git`, `GitOps`
   <a id="a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w"></a>
+- [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — **1×** · Medium · tags: `GitOps`
+  <a id="argocd-gitops"></a>
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — **1×** · Medium · tags: `Databases`
   <a id="argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre"></a>
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — **1×** · Hard · tags: `GitOps`
@@ -46,6 +48,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — 1× · tags: `GitOps`
+  <a id="argocd-gitops"></a>
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — 1× · tags: `Databases`
   <a id="argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre"></a>
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — 1×
@@ -67,6 +71,7 @@ _None in this band yet._
 ### Unspecified
 
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — tags: `Git`, `GitOps`
+- [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — tags: `GitOps`
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — tags: `Databases`
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — tags: `GitOps`
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — tags: `GitOps`
@@ -79,6 +84,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — 2026-07-20 · tags: `GitOps`
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — 2026-07-18 · tags: `Git`, `GitOps`
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — 2026-07-18 · tags: `Databases`
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — 2026-07-17
@@ -99,6 +105,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) | Hard | 1 |
+| [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) | Medium | 1 |
 | [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) | Medium | 1 |
 | [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) | Hard | 5 |
 | [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) | Hard | 1 |

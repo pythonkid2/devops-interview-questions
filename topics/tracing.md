@@ -1,6 +1,6 @@
-# Alerting
+# Tracing
 
-[Home](../README.md) > [Topics](./README.md) > **Alerting**
+[Home](../README.md) > [Topics](./README.md) > **Tracing**
 
 **1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
@@ -27,8 +27,8 @@
 
 ## Most asked
 
-- [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — **1×** · Medium
-  <a id="alertmanager-ka-role"></a>
+- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — **1×** · Medium · tags: `Logging`
+  <a id="logging-metrics-distributed-tracing"></a>
 
 ## Beginner
 
@@ -36,8 +36,8 @@ _None in this band yet._
 
 ## Intermediate
 
-- [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — 1×
-  <a id="alertmanager-ka-role"></a>
+- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — 1× · tags: `Logging`
+  <a id="logging-metrics-distributed-tracing"></a>
 
 ## Advanced
 
@@ -47,7 +47,7 @@ _None in this band yet._
 
 ### Unspecified
 
-- [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role)
+- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — tags: `Logging`
 
 ## Companies asking
 
@@ -55,7 +55,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — 2026-07-18
+- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — 2026-07-20 · tags: `Logging`
 
 ## Related topics
 
@@ -63,14 +63,14 @@ _None in this band yet._
 - [Grafana](./grafana.md)
 - [Logging](./logging.md)
 - [Monitoring](./monitoring.md)
+- [Alerting](./alerting.md)
 - [Observability](./observability.md)
-- [Tracing](./tracing.md)
 
 ## All questions
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) | Medium | 1 |
+| [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) | Medium | 1 |
 
 ## Learning resources
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 3 / 6 / 0 |
+| Questions | 10 |
+| Easy / Medium / Hard | 3 / 7 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -45,6 +45,8 @@
   <a id="linux-administration-networking-basics"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
   <a id="what-are-the-linux-boot-processes"></a>
+- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — **1×** · Medium
+  <a id="what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux"></a>
 
 ## Beginner
 
@@ -69,6 +71,8 @@
   <a id="which-linux-commands-do-you-know"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 1×
   <a id="linux-administration-networking-basics"></a>
+- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 1×
+  <a id="what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux"></a>
 
 ## Advanced
 
@@ -86,6 +90,7 @@ _None in this band yet._
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes)
 - [What is Linux?](../topics/linux.md#what-is-linux)
 - [What is systemd?](../topics/linux.md#what-is-systemd)
+- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux)
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know)
 
 ## Companies asking
@@ -94,6 +99,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 2026-07-20
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 2026-07-18
 - [What is Linux?](../topics/linux.md#what-is-linux) — 2026-07-18
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — 2026-07-17
@@ -121,6 +127,7 @@ _None in this band yet._
 | [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) | Easy | 1 |
 | [What is Linux?](../topics/linux.md#what-is-linux) | Easy | 2 |
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |
+| [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) | Medium | 1 |
 | [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) | Medium | 2 |
 
 ## Learning resources

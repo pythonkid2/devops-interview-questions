@@ -11,6 +11,7 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [Mirafra](./mirafra.md) | 28 |
 | [Deloitte](./deloitte.md) | 25 |
 | [Global Payments](./global-payments.md) | 24 |
+| [Mphasis](./mphasis.md) | 19 |
 | [PwC](./pwc.md) | 13 |
 | [SpaceTech Inc.](./spacetech-inc.md) | 13 |
 | [Infosys](./infosys.md) | 12 |
@@ -32,6 +33,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 948 |
+| [Unknown Company](./unknown-company.md) | 998 |
 
 [← Home](../README.md)

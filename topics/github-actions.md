@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **GitHub Actions**
 
-**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 5 |
-| Easy / Medium / Hard | 1 / 3 / 1 |
+| Questions | 6 |
+| Easy / Medium / Hard | 1 / 4 / 1 |
 | Companies | 3 |
 
 ## Most asked
@@ -33,6 +33,8 @@
   <a id="what-are-runners-in-github-actions"></a>
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) — **1×** · Medium
   <a id="explain-github-webhooks-apis-and-github-actions"></a>
+- [GitHub Actions](../topics/github-actions.md#github-actions) — **1×** · Medium
+  <a id="github-actions"></a>
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — **1×** · Medium
   <a id="github-administration-repository-migration"></a>
 - [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions) — **1×** · Hard
@@ -49,6 +51,8 @@
   <a id="write-a-github-actions-workflow-for-ci-cd"></a>
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) — 1×
   <a id="explain-github-webhooks-apis-and-github-actions"></a>
+- [GitHub Actions](../topics/github-actions.md#github-actions) — 1×
+  <a id="github-actions"></a>
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 1×
   <a id="github-administration-repository-migration"></a>
 
@@ -66,6 +70,7 @@
 ### Unspecified
 
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions)
+- [GitHub Actions](../topics/github-actions.md#github-actions)
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration)
 - [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions)
 - [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions)
@@ -78,6 +83,7 @@
 
 ## Recently added
 
+- [GitHub Actions](../topics/github-actions.md#github-actions) — 2026-07-20
 - [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 2026-07-18
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) — 2026-07-17
 - [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions) — 2026-07-15
@@ -96,6 +102,7 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) | Medium | 1 |
+| [GitHub Actions](../topics/github-actions.md#github-actions) | Medium | 1 |
 | [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) | Medium | 1 |
 | [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions) | Hard | 1 |
 | [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions) | Easy | 2 |

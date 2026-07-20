@@ -85,6 +85,7 @@ _None in this band yet._
 - [IAM](./iam.md)
 - [Security](./security.md)
 - [DevSecOps](./devsecops.md)
+- [Certificate Management](./certificate-management.md)
 
 ## All questions
 

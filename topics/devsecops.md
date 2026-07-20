@@ -67,6 +67,7 @@ _None in this band yet._
 - [IAM](./iam.md)
 - [Security](./security.md)
 - [Network Security](./network-security.md)
+- [Certificate Management](./certificate-management.md)
 
 ## All questions
 

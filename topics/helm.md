@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Helm**
 
-**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 3 |
-| Easy / Medium / Hard | 0 / 3 / 0 |
+| Questions | 4 |
+| Easy / Medium / Hard | 0 / 4 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
 - [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) — **1×** · Medium
   <a id="break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it"></a>
+- [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) — **1×** · Medium · tags: `Kubernetes`
+  <a id="helm-kubernetes-deployments"></a>
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — **1×** · Medium
   <a id="whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use"></a>
 
@@ -44,6 +46,8 @@ _None in this band yet._
   <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
 - [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) — 1×
   <a id="break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it"></a>
+- [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) — 1× · tags: `Kubernetes`
+  <a id="helm-kubernetes-deployments"></a>
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — 1×
   <a id="whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use"></a>
 
@@ -56,6 +60,7 @@ _None in this band yet._
 ### Unspecified
 
 - [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it)
+- [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) — tags: `Kubernetes`
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm)
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use)
 
@@ -65,6 +70,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) — 2026-07-20 · tags: `Kubernetes`
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — 2026-07-18
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — 2026-07-17
 - [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) — 2026-07-17
@@ -82,6 +88,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) | Medium | 1 |
+| [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) | Medium | 1 |
 | [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) | Medium | 2 |
 | [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) | Medium | 1 |
 

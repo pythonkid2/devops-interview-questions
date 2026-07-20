@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**83** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**87** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,18 +21,18 @@
 
 | | |
 | --- | ---: |
-| Questions | 83 |
-| Easy / Medium / Hard | 27 / 53 / 3 |
+| Questions | 87 |
+| Easy / Medium / Hard | 27 / 56 / 4 |
 | Companies | 2 |
 
 ## Most asked
 
+- [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — **5×** · Medium
+  <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — **4×** · Easy
   <a id="difference-between-cmd-and-entrypoint"></a>
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — **4×** · Medium
   <a id="what-happens-internally-when-you-run-docker-run"></a>
-- [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — **4×** · Medium
-  <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
 - [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — **4×** · Medium
   <a id="what-is-the-difference-between-cmd-and-entrypoint"></a>
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) — **3×** · Medium
@@ -102,6 +102,8 @@
   <a id="what-is-the-docker-daemon"></a>
 - [What is the purpose of a Docker image?](../topics/docker.md#what-is-the-purpose-of-a-docker-image) — 2×
   <a id="what-is-the-purpose-of-a-docker-image"></a>
+- [What is the purpose of WORKDIR?](../topics/docker.md#what-is-the-purpose-of-workdir) — 2×
+  <a id="what-is-the-purpose-of-workdir"></a>
 - [Can you explain the concept of Docker and how do you use it in your projects?](../topics/docker.md#can-you-explain-the-concept-of-docker-and-how-do-you-use-it-in-your-projects) — 1×
   <a id="can-you-explain-the-concept-of-docker-and-how-do-you-use-it-in-your-projects"></a>
 - [How does Docker's containerization work?](../topics/docker.md#how-does-docker-s-containerization-work) — 1×
@@ -128,8 +130,6 @@
   <a id="what-is-the-difference-between-copy-and-add-in-docker-what-was-your-usage"></a>
 - [What is the purpose of FROM in a Dockerfile?](../topics/docker.md#what-is-the-purpose-of-from-in-a-dockerfile) — 1×
   <a id="what-is-the-purpose-of-from-in-a-dockerfile"></a>
-- [What is the purpose of WORKDIR?](../topics/docker.md#what-is-the-purpose-of-workdir) — 1×
-  <a id="what-is-the-purpose-of-workdir"></a>
 - [What is your experience with containerization?](../topics/docker.md#what-is-your-experience-with-containerization) — 1×
   <a id="what-is-your-experience-with-containerization"></a>
 - [What problem does Docker solve?](../topics/docker.md#what-problem-does-docker-solve) — 1×
@@ -137,10 +137,10 @@
 
 ## Intermediate
 
+- [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — 5×
+  <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 4×
   <a id="what-happens-internally-when-you-run-docker-run"></a>
-- [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — 4×
-  <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
 - [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 4×
   <a id="what-is-the-difference-between-cmd-and-entrypoint"></a>
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) — 3×
@@ -167,10 +167,18 @@
   <a id="how-does-docker-help-with-environment-consistency"></a>
 - [What are the benefits of containerization in Microservices architecture?](../topics/docker.md#what-are-the-benefits-of-containerization-in-microservices-architecture) — 2×
   <a id="what-are-the-benefits-of-containerization-in-microservices-architecture"></a>
+- [What is the purpose of depends_on in Docker Compose?](../topics/docker.md#what-is-the-purpose-of-depends-on-in-docker-compose) — 2×
+  <a id="what-is-the-purpose-of-depends-on-in-docker-compose"></a>
+- [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy) — 2×
+  <a id="why-use-copy-app-jar-app-jar-instead-of-copy"></a>
+- [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction) — 2×
+  <a id="write-a-simple-dockerfile-and-explain-each-instruction"></a>
 - [A Docker container exits immediately after starting. How would you identify the root cause?](../topics/docker.md#a-docker-container-exits-immediately-after-starting-how-would-you-identify-the-r) — 1×
   <a id="a-docker-container-exits-immediately-after-starting-how-would-you-identify-the-r"></a>
 - [Can you write a multi-stage Dockerfile?](../topics/docker.md#can-you-write-a-multi-stage-dockerfile) — 1×
   <a id="can-you-write-a-multi-stage-dockerfile"></a>
+- [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) — 1×
+  <a id="docker-fundamentals-for-net"></a>
 - [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines) — 1×
   <a id="docker-vs-virtual-machines"></a>
 - [docker zero](../topics/docker.md#docker-zero) — 1×
@@ -193,10 +201,14 @@
   <a id="how-do-you-debug-failed-docker-containers"></a>
 - [How do you deploy applications using Docker?](../topics/docker.md#how-do-you-deploy-applications-using-docker) — 1×
   <a id="how-do-you-deploy-applications-using-docker"></a>
+- [How do you deploy multiple microservices using Docker Compose?](../topics/docker.md#how-do-you-deploy-multiple-microservices-using-docker-compose) — 1×
+  <a id="how-do-you-deploy-multiple-microservices-using-docker-compose"></a>
 - [How do you inject environment variables during Docker builds and where do you store images?](../topics/docker.md#how-do-you-inject-environment-variables-during-docker-builds-and-where-do-you-st) — 1×
   <a id="how-do-you-inject-environment-variables-during-docker-builds-and-where-do-you-st"></a>
 - [How do you integrate Docker with CI/CD pipelines?](../topics/docker.md#how-do-you-integrate-docker-with-ci-cd-pipelines) — 1× · tags: `CI/CD`
   <a id="how-do-you-integrate-docker-with-ci-cd-pipelines"></a>
+- [How do you manage environment-specific configuration in Docker?](../topics/docker.md#how-do-you-manage-environment-specific-configuration-in-docker) — 1×
+  <a id="how-do-you-manage-environment-specific-configuration-in-docker"></a>
 - [How do you manage secrets in Docker?](../topics/docker.md#how-do-you-manage-secrets-in-docker) — 1×
   <a id="how-do-you-manage-secrets-in-docker"></a>
 - [How do you manage secrets inside Docker containers?](../topics/docker.md#how-do-you-manage-secrets-inside-docker-containers) — 1×
@@ -229,16 +241,10 @@
   <a id="what-is-docker-networking"></a>
 - [What is the difference between COPY and ADD?](../topics/docker.md#what-is-the-difference-between-copy-and-add) — 1×
   <a id="what-is-the-difference-between-copy-and-add"></a>
-- [What is the purpose of depends_on in Docker Compose?](../topics/docker.md#what-is-the-purpose-of-depends-on-in-docker-compose) — 1×
-  <a id="what-is-the-purpose-of-depends-on-in-docker-compose"></a>
 - [Which container registry do you trust for your images?](../topics/docker.md#which-container-registry-do-you-trust-for-your-images) — 1×
   <a id="which-container-registry-do-you-trust-for-your-images"></a>
 - [Why should containers not run as the root user?](../topics/docker.md#why-should-containers-not-run-as-the-root-user) — 1×
   <a id="why-should-containers-not-run-as-the-root-user"></a>
-- [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy) — 1×
-  <a id="why-use-copy-app-jar-app-jar-instead-of-copy"></a>
-- [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction) — 1×
-  <a id="write-a-simple-dockerfile-and-explain-each-instruction"></a>
 - [Write the docker file to create a httpd container and copy a config file and place in container and that config file data should be shown when the container port and IP address is hit.](../topics/docker.md#write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla) — 1×
   <a id="write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla"></a>
 - [Your Docker image builds successfully, but the container exits immediately. How would you troubleshoot it?](../topics/docker.md#your-docker-image-builds-successfully-but-the-container-exits-immediately-how-wo) — 1×
@@ -250,6 +256,8 @@
   <a id="what-are-best-practices-for-docker-in-production"></a>
 - [How do you troubleshoot high CPU usage in a Docker container?](../topics/docker.md#how-do-you-troubleshoot-high-cpu-usage-in-a-docker-container) — 1×
   <a id="how-do-you-troubleshoot-high-cpu-usage-in-a-docker-container"></a>
+- [Is your Dockerfile production-ready? What improvements would you make?](../topics/docker.md#is-your-dockerfile-production-ready-what-improvements-would-you-make) — 1×
+  <a id="is-your-dockerfile-production-ready-what-improvements-would-you-make"></a>
 - [What are common Docker production issues and fixes?](../topics/docker.md#what-are-common-docker-production-issues-and-fixes) — 1×
   <a id="what-are-common-docker-production-issues-and-fixes"></a>
 
@@ -270,6 +278,7 @@
 - [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy)
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint)
 - [Docker architectures](../topics/docker.md#docker-architectures)
+- [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net)
 - [Docker layers](../topics/docker.md#docker-layers)
 - [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines)
 - [docker zero](../topics/docker.md#docker-zero)
@@ -285,8 +294,10 @@
 - [How do you create, test, optimize, and deploy Docker images?](../topics/docker.md#how-do-you-create-test-optimize-and-deploy-docker-images)
 - [How do you debug failed Docker containers?](../topics/docker.md#how-do-you-debug-failed-docker-containers)
 - [How do you deploy applications using Docker?](../topics/docker.md#how-do-you-deploy-applications-using-docker)
+- [How do you deploy multiple microservices using Docker Compose?](../topics/docker.md#how-do-you-deploy-multiple-microservices-using-docker-compose)
 - [How do you inject environment variables during Docker builds and where do you store images?](../topics/docker.md#how-do-you-inject-environment-variables-during-docker-builds-and-where-do-you-st)
 - [How do you integrate Docker with CI/CD pipelines?](../topics/docker.md#how-do-you-integrate-docker-with-ci-cd-pipelines) — tags: `CI/CD`
+- [How do you manage environment-specific configuration in Docker?](../topics/docker.md#how-do-you-manage-environment-specific-configuration-in-docker)
 - [How do you manage secrets in Docker?](../topics/docker.md#how-do-you-manage-secrets-in-docker)
 - [How do you manage secrets inside Docker containers?](../topics/docker.md#how-do-you-manage-secrets-inside-docker-containers)
 - [How do you monitor Docker containers?](../topics/docker.md#how-do-you-monitor-docker-containers)
@@ -301,6 +312,7 @@
 - [How does Docker layer caching work?](../topics/docker.md#how-does-docker-layer-caching-work)
 - [How does Docker's containerization work?](../topics/docker.md#how-does-docker-s-containerization-work)
 - [In Docker, if you have to create a multi-stage Dockerfile for a Maven application, what actions do you perform?](../topics/docker.md#in-docker-if-you-have-to-create-a-multi-stage-dockerfile-for-a-maven-application)
+- [Is your Dockerfile production-ready? What improvements would you make?](../topics/docker.md#is-your-dockerfile-production-ready-what-improvements-would-you-make)
 - [Understand images vs containers, Dockerfile basics, logs, and common commands.](../topics/docker.md#understand-images-vs-containers-dockerfile-basics-logs-and-common-commands)
 - [What are best practices for Docker in production?](../topics/docker.md#what-are-best-practices-for-docker-in-production)
 - [What are common Docker commands?](../topics/docker.md#what-are-common-docker-commands)
@@ -351,21 +363,21 @@
 
 ## Recently added
 
+- [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) — 2026-07-20
+- [What is the purpose of depends_on in Docker Compose?](../topics/docker.md#what-is-the-purpose-of-depends-on-in-docker-compose) — 2026-07-20
+- [How do you deploy multiple microservices using Docker Compose?](../topics/docker.md#how-do-you-deploy-multiple-microservices-using-docker-compose) — 2026-07-20
+- [How do you manage environment-specific configuration in Docker?](../topics/docker.md#how-do-you-manage-environment-specific-configuration-in-docker) — 2026-07-20
+- [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy) — 2026-07-20
+- [What is the purpose of WORKDIR?](../topics/docker.md#what-is-the-purpose-of-workdir) — 2026-07-20
+- [Is your Dockerfile production-ready? What improvements would you make?](../topics/docker.md#is-your-dockerfile-production-ready-what-improvements-would-you-make) — 2026-07-20
+- [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction) — 2026-07-20
+- [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — 2026-07-20
 - [What are common Docker commands?](../topics/docker.md#what-are-common-docker-commands) — 2026-07-18
 - [What is a Docker container?](../topics/docker.md#what-is-a-docker-container) — 2026-07-18
 - [What is a Docker image?](../topics/docker.md#what-is-a-docker-image) — 2026-07-18
 - [What is Docker?](../topics/docker.md#what-is-docker) — 2026-07-18
 - [How do you access a running container?](../topics/docker.md#how-do-you-access-a-running-container) — 2026-07-18
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) — 2026-07-18
-- [What are the benefits of containerization in Microservices architecture?](../topics/docker.md#what-are-the-benefits-of-containerization-in-microservices-architecture) — 2026-07-18
-- [How does Docker help with environment consistency?](../topics/docker.md#how-does-docker-help-with-environment-consistency) — 2026-07-18
-- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 2026-07-17
-- [How do you manage secrets inside Docker containers?](../topics/docker.md#how-do-you-manage-secrets-inside-docker-containers) — 2026-07-17
-- [What is the difference between "COPY" and "ADD" in Docker? What was your usage?](../topics/docker.md#what-is-the-difference-between-copy-and-add-in-docker-what-was-your-usage) — 2026-07-17
-- [Explain the logic behind a multi-stage Docker build.](../topics/docker.md#explain-the-logic-behind-a-multi-stage-docker-build) — 2026-07-17
-- [Can you write a multi-stage Dockerfile?](../topics/docker.md#can-you-write-a-multi-stage-dockerfile) — 2026-07-17
-- [In Docker, if you have to create a multi-stage Dockerfile for a Maven application, what actions do you perform?](../topics/docker.md#in-docker-if-you-have-to-create-a-multi-stage-dockerfile-for-a-maven-application) — 2026-07-17
-- [Explain about docker mcvillen network more](../topics/docker.md#explain-about-docker-mcvillen-network-more) — 2026-07-17
 
 ## Related topics
 
@@ -388,6 +400,7 @@
 | [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy) | Medium | 2 |
 | [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Easy | 4 |
 | [Docker architectures](../topics/docker.md#docker-architectures) | Medium | 2 |
+| [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) | Medium | 1 |
 | [Docker layers](../topics/docker.md#docker-layers) | Medium | 2 |
 | [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines) | Medium | 1 |
 | [docker zero](../topics/docker.md#docker-zero) | Medium | 1 |
@@ -403,8 +416,10 @@
 | [How do you create, test, optimize, and deploy Docker images?](../topics/docker.md#how-do-you-create-test-optimize-and-deploy-docker-images) | Medium | 1 |
 | [How do you debug failed Docker containers?](../topics/docker.md#how-do-you-debug-failed-docker-containers) | Medium | 1 |
 | [How do you deploy applications using Docker?](../topics/docker.md#how-do-you-deploy-applications-using-docker) | Medium | 1 |
+| [How do you deploy multiple microservices using Docker Compose?](../topics/docker.md#how-do-you-deploy-multiple-microservices-using-docker-compose) | Medium | 1 |
 | [How do you inject environment variables during Docker builds and where do you store images?](../topics/docker.md#how-do-you-inject-environment-variables-during-docker-builds-and-where-do-you-st) | Medium | 1 |
 | [How do you integrate Docker with CI/CD pipelines?](../topics/docker.md#how-do-you-integrate-docker-with-ci-cd-pipelines) | Medium | 1 |
+| [How do you manage environment-specific configuration in Docker?](../topics/docker.md#how-do-you-manage-environment-specific-configuration-in-docker) | Medium | 1 |
 | [How do you manage secrets in Docker?](../topics/docker.md#how-do-you-manage-secrets-in-docker) | Medium | 1 |
 | [How do you manage secrets inside Docker containers?](../topics/docker.md#how-do-you-manage-secrets-inside-docker-containers) | Medium | 1 |
 | [How do you monitor Docker containers?](../topics/docker.md#how-do-you-monitor-docker-containers) | Medium | 1 |
@@ -420,6 +435,7 @@
 | [How does Docker's containerization work?](../topics/docker.md#how-does-docker-s-containerization-work) | Easy | 1 |
 | [If Docker images are built in Jenkins but security scanning must happen in GitHub Actions, how would you design the workflow?](../topics/docker.md#if-docker-images-are-built-in-jenkins-but-security-scanning-must-happen-in-githu) | Medium | 1 |
 | [In Docker, if you have to create a multi-stage Dockerfile for a Maven application, what actions do you perform?](../topics/docker.md#in-docker-if-you-have-to-create-a-multi-stage-dockerfile-for-a-maven-application) | Medium | 1 |
+| [Is your Dockerfile production-ready? What improvements would you make?](../topics/docker.md#is-your-dockerfile-production-ready-what-improvements-would-you-make) | Hard | 1 |
 | [Understand images vs containers, Dockerfile basics, logs, and common commands.](../topics/docker.md#understand-images-vs-containers-dockerfile-basics-logs-and-common-commands) | Medium | 1 |
 | [What are best practices for Docker in production?](../topics/docker.md#what-are-best-practices-for-docker-in-production) | Hard | 2 |
 | [What are common Docker commands?](../topics/docker.md#what-are-common-docker-commands) | Easy | 2 |
@@ -445,20 +461,20 @@
 | [What is Docker Networking?](../topics/docker.md#what-is-docker-networking) | Medium | 1 |
 | [What is Docker?](../topics/docker.md#what-is-docker) | Easy | 2 |
 | [What is the difference between "COPY" and "ADD" in Docker? What was your usage?](../topics/docker.md#what-is-the-difference-between-copy-and-add-in-docker-what-was-your-usage) | Easy | 1 |
-| [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) | Medium | 4 |
+| [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) | Medium | 5 |
 | [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) | Medium | 4 |
 | [What is the difference between COPY and ADD?](../topics/docker.md#what-is-the-difference-between-copy-and-add) | Medium | 1 |
 | [What is the Docker daemon?](../topics/docker.md#what-is-the-docker-daemon) | Easy | 2 |
 | [What is the purpose of a Docker image?](../topics/docker.md#what-is-the-purpose-of-a-docker-image) | Easy | 2 |
-| [What is the purpose of depends_on in Docker Compose?](../topics/docker.md#what-is-the-purpose-of-depends-on-in-docker-compose) | Medium | 1 |
+| [What is the purpose of depends_on in Docker Compose?](../topics/docker.md#what-is-the-purpose-of-depends-on-in-docker-compose) | Medium | 2 |
 | [What is the purpose of FROM in a Dockerfile?](../topics/docker.md#what-is-the-purpose-of-from-in-a-dockerfile) | Easy | 1 |
-| [What is the purpose of WORKDIR?](../topics/docker.md#what-is-the-purpose-of-workdir) | Easy | 1 |
+| [What is the purpose of WORKDIR?](../topics/docker.md#what-is-the-purpose-of-workdir) | Easy | 2 |
 | [What is your experience with containerization?](../topics/docker.md#what-is-your-experience-with-containerization) | Easy | 1 |
 | [What problem does Docker solve?](../topics/docker.md#what-problem-does-docker-solve) | Easy | 1 |
 | [Which container registry do you trust for your images?](../topics/docker.md#which-container-registry-do-you-trust-for-your-images) | Medium | 1 |
 | [Why should containers not run as the root user?](../topics/docker.md#why-should-containers-not-run-as-the-root-user) | Medium | 1 |
-| [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy) | Medium | 1 |
-| [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction) | Medium | 1 |
+| [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy) | Medium | 2 |
+| [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction) | Medium | 2 |
 | [Write the docker file to create a httpd container and copy a config file and place in container and that config file data should be shown when the container port and IP address is hit.](../topics/docker.md#write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla) | Medium | 1 |
 | [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) | Medium | 3 |
 | [Your Docker image builds successfully, but the container exits immediately. How would you troubleshoot it?](../topics/docker.md#your-docker-image-builds-successfully-but-the-container-exits-immediately-how-wo) | Medium | 1 |

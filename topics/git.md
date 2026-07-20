@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Git**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 4 / 5 / 0 |
+| Questions | 10 |
+| Easy / Medium / Hard | 4 / 6 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -45,6 +45,8 @@
   <a id="sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a"></a>
 - [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — **1×** · Medium
   <a id="which-git-branching-strategy-have-you-used"></a>
+- [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) — **1×** · Medium
+  <a id="why-did-you-choose-git-as-the-source-code-management-tool"></a>
 
 ## Beginner
 
@@ -69,6 +71,8 @@
   <a id="sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a"></a>
 - [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — 1×
   <a id="which-git-branching-strategy-have-you-used"></a>
+- [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) — 1×
+  <a id="why-did-you-choose-git-as-the-source-code-management-tool"></a>
 
 ## Advanced
 
@@ -87,6 +91,7 @@ _None in this band yet._
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project)
 - [What is Git?](../topics/git.md#what-is-git)
 - [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used)
+- [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool)
 
 ## Companies asking
 
@@ -94,6 +99,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) — 2026-07-20
 - [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — 2026-07-18
 - [What is Git?](../topics/git.md#what-is-git) — 2026-07-18
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — 2026-07-17
@@ -121,6 +127,7 @@ _None in this band yet._
 | [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) | Easy | 2 |
 | [What is Git?](../topics/git.md#what-is-git) | Easy | 3 |
 | [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) | Medium | 1 |
+| [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) | Medium | 1 |
 
 ## Learning resources
 
