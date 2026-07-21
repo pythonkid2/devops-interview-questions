@@ -4,7 +4,7 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 998 |
+| [Unknown Company](../companies/unknown-company.md) | 1047 |
 | [Accenture](../companies/accenture.md) | 33 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |

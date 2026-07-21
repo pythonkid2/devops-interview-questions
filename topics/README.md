@@ -8,7 +8,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [AWS](./aws.md) | 77 |
+| [AWS](./aws.md) | 80 |
 | [Azure](./azure.md) | 9 |
 | [GCP](./gcp.md) | 1 |
 
@@ -16,9 +16,9 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Kubernetes](./kubernetes.md) | 148 |
+| [Kubernetes](./kubernetes.md) | 149 |
 | [Docker](./docker.md) | 87 |
-| [EKS](./eks.md) | 13 |
+| [EKS](./eks.md) | 14 |
 | [ArgoCD](./argocd.md) | 7 |
 | [Helm](./helm.md) | 4 |
 | [GKE](./gke.md) | 1 |
@@ -34,8 +34,8 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Jenkins](./jenkins.md) | 73 |
-| [CI/CD](./ci-cd.md) | 54 |
+| [Jenkins](./jenkins.md) | 74 |
+| [CI/CD](./ci-cd.md) | 57 |
 | [Azure DevOps](./azure-devops.md) | 12 |
 | [GitHub Actions](./github-actions.md) | 6 |
 | [Deployment Strategies](./deployment-strategies.md) | 4 |
@@ -48,8 +48,8 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | [Observability](./observability.md) | 11 |
 | [Prometheus](./prometheus.md) | 8 |
 | [Grafana](./grafana.md) | 3 |
+| [Logging](./logging.md) | 2 |
 | [Alerting](./alerting.md) | 1 |
-| [Logging](./logging.md) | 1 |
 | [Tracing](./tracing.md) | 1 |
 
 ## Networking
@@ -58,7 +58,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | --- | ---: |
 | [Networking](./networking.md) | 9 |
 | [Ingress](./ingress.md) | 8 |
-| [Load Balancing](./load-balancing.md) | 6 |
+| [Load Balancing](./load-balancing.md) | 7 |
 | [DNS](./dns.md) | 4 |
 | [VPC](./vpc.md) | 4 |
 | [API Gateway](./api-gateway.md) | 2 |
@@ -79,11 +79,11 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
+| [Incident Response](./incident-response.md) | 12 |
 | [Disaster Recovery](./disaster-recovery.md) | 10 |
-| [Incident Response](./incident-response.md) | 10 |
-| [Capacity Planning](./capacity-planning.md) | 6 |
+| [Capacity Planning](./capacity-planning.md) | 7 |
 | [High Availability](./high-availability.md) | 4 |
-| [SRE](./sre.md) | 3 |
+| [SRE](./sre.md) | 4 |
 | [On-Call](./on-call.md) | 2 |
 | [SLOs](./slos.md) | 2 |
 | [Chaos Engineering](./chaos-engineering.md) | 1 |
@@ -92,9 +92,9 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Linux](./linux.md) | 10 |
+| [Linux](./linux.md) | 17 |
 | [Bash](./bash.md) | 8 |
-| [Shell Scripting](./shell-scripting.md) | 2 |
+| [Shell Scripting](./shell-scripting.md) | 3 |
 
 ## Programming
 
@@ -124,7 +124,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 449 |
+| [General](./general.md) | 475 |
 
 
 [← Home](../README.md)

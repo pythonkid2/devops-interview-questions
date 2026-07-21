@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-1277-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-459-informational)
+![questions](https://img.shields.io/badge/questions-1326-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-489-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,22 +18,22 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 1277 |
-| Posts processed | 459 |
-| Added this week | 1277 |
+| Unique questions | 1326 |
+| Posts processed | 489 |
+| Added this week | 1326 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 148
+- [Kubernetes](./topics/kubernetes.md) — 149
 - [Terraform](./topics/terraform.md) — 96
 - [Docker](./topics/docker.md) — 87
-- [AWS](./topics/aws.md) — 77
-- [Jenkins](./topics/jenkins.md) — 73
-- [CI/CD](./topics/ci-cd.md) — 54
+- [AWS](./topics/aws.md) — 80
+- [Jenkins](./topics/jenkins.md) — 74
+- [CI/CD](./topics/ci-cd.md) — 57
 - [Security](./topics/security.md) — 24
+- [Linux](./topics/linux.md) — 17
 - [Monitoring](./topics/monitoring.md) — 16
-- [EKS](./topics/eks.md) — 13
-- [Ansible](./topics/ansible.md) — 12
+- [EKS](./topics/eks.md) — 14
 
 ## Popular companies
 

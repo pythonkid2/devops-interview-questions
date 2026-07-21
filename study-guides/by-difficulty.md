@@ -3,7 +3,7 @@
 [Home](../README.md) > [Study guides](./README.md) > **Difficulty**
 
 
-## Easy (185)
+## Easy (192)
 
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes · 5×
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — Docker · 4×
@@ -14,6 +14,7 @@
 - [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) — Security · 3×
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — Ingress · 3×
 - [What is Git?](../topics/git.md#what-is-git) — Git · 3×
+- [What is Linux?](../topics/linux.md#what-is-linux) — Linux · 3×
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) — Docker · 2×
 - [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — Terraform · 2×
 - [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — Load Balancing · 2× · tags: `Azure`
@@ -71,7 +72,6 @@
 - [What is kubelet?](../topics/general.md#what-is-kubelet) — General · 2×
 - [What is Kubernetes, and why is it used?](../topics/kubernetes.md#what-is-kubernetes-and-why-is-it-used) — Kubernetes · 2×
 - [What is Kubernetes?](../topics/kubernetes.md#what-is-kubernetes) — Kubernetes · 2×
-- [What is Linux?](../topics/linux.md#what-is-linux) — Linux · 2×
 - [What is SSH?](../topics/general.md#what-is-ssh) — General · 2×
 - [What is systemd?](../topics/linux.md#what-is-systemd) — Linux · 2×
 - [What is Terraformgrunt ?](../topics/general.md#what-is-terraformgrunt) — General · 2×
@@ -85,9 +85,9 @@
 - [What is the purpose of WORKDIR?](../topics/docker.md#what-is-the-purpose-of-workdir) — Docker · 2×
 - [What is VPC?](../topics/vpc.md#what-is-vpc) — VPC · 2×
 - [When you perform a Git merge, what are the different options you use?](../topics/ci-cd.md#when-you-perform-a-git-merge-what-are-the-different-options-you-use) — CI/CD · 2×
-_…and 105 more in topic pages._
+_…and 112 more in topic pages._
 
-## Medium (957)
+## Medium (993)
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — Terraform · 8×
 - [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — Kubernetes · 6×
@@ -147,6 +147,7 @@ _…and 105 more in topic pages._
 - [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) — Jenkins · 2×
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — Jenkins · 2×
 - [A Kubernetes GPU pod requests 16GB VRAM but only gets 12GB due to fragmentation. How do you detect and fix it in real time?](../topics/kubernetes.md#a-kubernetes-gpu-pod-requests-16gb-vram-but-only-gets-12gb-due-to-fragmentation-) — Kubernetes · 2×
+- [A Kubernetes Pod is in CrashLoopBackOff. Walk me through your troubleshooting approach from start to finish.](../topics/kubernetes.md#a-kubernetes-pod-is-in-crashloopbackoff-walk-me-through-your-troubleshooting-app) — Kubernetes · 2×
 - [A Kubernetes pod keeps crashing. How do you investigate?](../topics/kubernetes.md#a-kubernetes-pod-keeps-crashing-how-do-you-investigate) — Kubernetes · 2×
 - [A Persistent Volume Claim remains in Pending state. What could be causing it?](../topics/storage.md#a-persistent-volume-claim-remains-in-pending-state-what-could-be-causing-it) — Storage · 2× · tags: `PV`
 - [A Pod cannot pull its Docker image. How do you troubleshoot an ImagePullBackOff error?](../topics/kubernetes.md#a-pod-cannot-pull-its-docker-image-how-do-you-troubleshoot-an-imagepullbackoff-e) — Kubernetes · 2× · tags: `Docker`
@@ -168,10 +169,9 @@ _…and 105 more in topic pages._
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — Azure · 2×
 - [Build Real Projects](../topics/general.md#build-real-projects) — General · 2×
 - [Can adhering strictly to the Single Responsibility Principle in large distributed systems increase overall system complexity and make maintenance more difficult?](../topics/general.md#can-adhering-strictly-to-the-single-responsibility-principle-in-large-distribute) — General · 2×
-- [Can you automate Kubernetes deployment?](../topics/kubernetes.md#can-you-automate-kubernetes-deployment) — Kubernetes · 2×
-_…and 877 more in topic pages._
+_…and 913 more in topic pages._
 
-## Hard (135)
+## Hard (141)
 
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response · 7×
 - [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — Kubernetes · 6×
@@ -218,19 +218,23 @@ _…and 877 more in topic pages._
 - [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/python.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) — Python · 2×
 - [You found a bug but cannot reproduce it consistently. How would you handle it?](../topics/general.md#you-found-a-bug-but-cannot-reproduce-it-consistently-how-would-you-handle-it) — General · 2×
 - [You missed a test case and a bug leaked to production. What would you do next?](../topics/general.md#you-missed-a-test-case-and-a-bug-leaked-to-production-what-would-you-do-next) — General · 2×
+- [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) — AWS · 2×
 - [A deployment failed in Production. How would you troubleshoot?](../topics/general.md#a-deployment-failed-in-production-how-would-you-troubleshoot) — General · 1×
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — ArgoCD · 1× · tags: `Git`, `GitOps`
 - [A Kubernetes Secret containing production credentials is accidentally committed to a public GitHub repository. What would you do during the first hour?](../topics/kubernetes.md#a-kubernetes-secret-containing-production-credentials-is-accidentally-committed-) — Kubernetes · 1×
 - [A production deployment failed, and users are impacted. What would your rollback strategy look like?](../topics/general.md#a-production-deployment-failed-and-users-are-impacted-what-would-your-rollback-s) — General · 1×
 - [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — SRE · 1×
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — Monitoring · 1×
+- [Can you read code and find the behavioral failure — not the naming inconsistency, the thing that produces a wrong answer silently in production?](../topics/general.md#can-you-read-code-and-find-the-behavioral-failure-not-the-naming-inconsistency-t) — General · 1×
 - [Cloud-native application design](../topics/general.md#cloud-native-application-design) — General · 1×
 - [Could you provide a detailed example of structuring variables/maps for dynamic resource creation?](../topics/terraform.md#could-you-provide-a-detailed-example-of-structuring-variables-maps-for-dynamic-r) — Terraform · 1×
 - [CPU usage suddenly spikes to 95% in production after a new release. There are no application errors. No infrastructure changes. What would be your step-by-step debugging approach?](../topics/general.md#cpu-usage-suddenly-spikes-to-95-in-production-after-a-new-release-there-are-no-a) — General · 1×
 - [Data mismatch is reported between UI → API → DB. Explain your end-to-end debugging approach.](../topics/general.md#data-mismatch-is-reported-between-ui-api-db-explain-your-end-to-end-debugging-ap) — General · 1×
 - [Describe a challenging bug you encountered in production. How did you investigate, resolve it, and prevent it from happening again?](../topics/general.md#describe-a-challenging-bug-you-encountered-in-production-how-did-you-investigate) — General · 1×
 - [Describe a critical production issue you handled and your troubleshooting approach.](../topics/general.md#describe-a-critical-production-issue-you-handled-and-your-troubleshooting-approa) — General · 1×
+- [Describe a production environment you manage(d). What are its scale, SLAs, and key components?](../topics/general.md#describe-a-production-environment-you-manage-d-what-are-its-scale-slas-and-key-c) — General · 1×
 - [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) — Incident Response · 1×
+- [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) — Incident Response · 1×
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) — Disaster Recovery · 1×
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — Disaster Recovery · 1× · tags: `Kubernetes`, `System Design`
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — Databases · 1× · tags: `System Design`
@@ -249,10 +253,6 @@ _…and 877 more in topic pages._
 - [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../topics/ansible.md#how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac) — Ansible · 1×
 - [How do you design a CI/CD pipeline for microservices using Jenkins?](../topics/jenkins.md#how-do-you-design-a-ci-cd-pipeline-for-microservices-using-jenkins) — Jenkins · 1× · tags: `CI/CD`
 - [How do you design a rollback strategy for a failed production deployment?](../topics/general.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) — General · 1×
-- [How do you design a scalable Jenkins architecture?](../topics/jenkins.md#how-do-you-design-a-scalable-jenkins-architecture) — Jenkins · 1× · tags: `System Design`
-- [How do you design zero-downtime deployments for stateful applications in Kubernetes?](../topics/kubernetes.md#how-do-you-design-zero-downtime-deployments-for-stateful-applications-in-kuberne) — Kubernetes · 1×
-- [How do you ensure code quality in a large development team? Discuss code reviews, unit testing, design patterns, static analysis, and documentation.](../topics/general.md#how-do-you-ensure-code-quality-in-a-large-development-team-discuss-code-reviews-) — General · 1×
-- [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) — Disaster Recovery · 1×
-_…and 55 more in topic pages._
+_…and 61 more in topic pages._
 
 [← Study guides](./README.md)

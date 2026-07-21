@@ -33,6 +33,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 998 |
+| [Unknown Company](./unknown-company.md) | 1047 |
 
 [← Home](../README.md)

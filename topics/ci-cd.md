@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **CI/CD**
 
-**54** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**57** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 54 |
-| Easy / Medium / Hard | 12 / 33 / 9 |
+| Questions | 57 |
+| Easy / Medium / Hard | 12 / 35 / 10 |
 | Companies | 8 |
 
 ## Most asked
@@ -143,6 +143,10 @@
   <a id="build-fails-even-though-the-pipeline-runs-what-usually-breaks"></a>
 - [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) — 1×
   <a id="can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project"></a>
+- [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha) — 1×
+  <a id="describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha"></a>
+- [How did you use Linux in your CI/CD pipeline?](../topics/ci-cd.md#how-did-you-use-linux-in-your-ci-cd-pipeline) — 1× · tags: `Linux`
+  <a id="how-did-you-use-linux-in-your-ci-cd-pipeline"></a>
 - [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you) — 1×
   <a id="how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you"></a>
 - [How do you ensure developers cannot merge code unless all mandatory pipeline stages are successful?](../topics/ci-cd.md#how-do-you-ensure-developers-cannot-merge-code-unless-all-mandatory-pipeline-sta) — 1×
@@ -194,6 +198,8 @@
   <a id="devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont"></a>
 - [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end) — 1×
   <a id="explain-your-ci-cd-pipeline-project-end-to-end"></a>
+- [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) — 1×
+  <a id="how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-"></a>
 
 ## By interview round
 
@@ -224,13 +230,16 @@
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — tags: `System Design`
 - [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro)
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow)
+- [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha)
 - [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/ci-cd.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont)
 - [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](../topics/ci-cd.md#explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s)
 - [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production)
 - [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end)
 - [For a production e-commerce application, which deployment strategy would you recommend—Rolling Update, Blue-Green, or Canary Deployment? What factors would influence your decision?](../topics/ci-cd.md#for-a-production-e-commerce-application-which-deployment-strategy-would-you-reco)
 - [Have you optimized CI/CD pipeline ? what problem you have faced ?](../topics/ci-cd.md#have-you-optimized-ci-cd-pipeline-what-problem-you-have-faced)
+- [How did you use Linux in your CI/CD pipeline?](../topics/ci-cd.md#how-did-you-use-linux-in-your-ci-cd-pipeline) — tags: `Linux`
 - [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you)
+- [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-)
 - [How do you ensure developers cannot merge code unless all mandatory pipeline stages are successful?](../topics/ci-cd.md#how-do-you-ensure-developers-cannot-merge-code-unless-all-mandatory-pipeline-sta)
 - [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments)
 - [How do you implement rollback if deployment fails?](../topics/ci-cd.md#how-do-you-implement-rollback-if-deployment-fails)
@@ -276,6 +285,9 @@
 
 ## Recently added
 
+- [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) — 2026-07-21
+- [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha) — 2026-07-21
+- [How did you use Linux in your CI/CD pipeline?](../topics/ci-cd.md#how-did-you-use-linux-in-your-ci-cd-pipeline) — 2026-07-21 · tags: `Linux`
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — 2026-07-20 · tags: `System Design`
 - [How do you ensure developers cannot merge code unless all mandatory pipeline stages are successful?](../topics/ci-cd.md#how-do-you-ensure-developers-cannot-merge-code-unless-all-mandatory-pipeline-sta) — 2026-07-20
 - [Your GitLab pipeline is triggered successfully, but no jobs are executed. What would you check first?](../topics/ci-cd.md#your-gitlab-pipeline-is-triggered-successfully-but-no-jobs-are-executed-what-wou) — 2026-07-20
@@ -288,9 +300,6 @@
 - [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) — 2026-07-17
 - [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro) — 2026-07-17
 - [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — 2026-07-17
-- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 2026-07-17
-- [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) — 2026-07-17
-- [What is the ideal pipeline would look in your mind ? explain strategies ?](../topics/ci-cd.md#what-is-the-ideal-pipeline-would-look-in-your-mind-explain-strategies) — 2026-07-17
 
 ## Related topics
 
@@ -309,6 +318,7 @@
 | [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) | Hard | 3 |
 | [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro) | Hard | 2 |
 | [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) | Easy | 3 |
+| [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha) | Medium | 1 |
 | [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/ci-cd.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont) | Hard | 1 |
 | [Explain the complete CI/CD flow that you built end-to-end.](../topics/ci-cd.md#explain-the-complete-ci-cd-flow-that-you-built-end-to-end) | Medium | 2 |
 | [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](../topics/ci-cd.md#explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s) | Easy | 2 |
@@ -317,8 +327,10 @@
 | [Explain your role in setting up the CI/CD pipeline and the tasks for which the DevOps team needs to be approached.](../topics/ci-cd.md#explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d) | Medium | 2 |
 | [For a production e-commerce application, which deployment strategy would you recommend—Rolling Update, Blue-Green, or Canary Deployment? What factors would influence your decision?](../topics/ci-cd.md#for-a-production-e-commerce-application-which-deployment-strategy-would-you-reco) | Hard | 2 |
 | [Have you optimized CI/CD pipeline ? what problem you have faced ?](../topics/ci-cd.md#have-you-optimized-ci-cd-pipeline-what-problem-you-have-faced) | Medium | 2 |
+| [How did you use Linux in your CI/CD pipeline?](../topics/ci-cd.md#how-did-you-use-linux-in-your-ci-cd-pipeline) | Medium | 1 |
 | [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) | Hard | 2 |
 | [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you) | Medium | 1 |
+| [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) | Hard | 1 |
 | [How do you ensure developers cannot merge code unless all mandatory pipeline stages are successful?](../topics/ci-cd.md#how-do-you-ensure-developers-cannot-merge-code-unless-all-mandatory-pipeline-sta) | Medium | 1 |
 | [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments) | Medium | 1 |
 | [How do you implement rollback if deployment fails?](../topics/ci-cd.md#how-do-you-implement-rollback-if-deployment-fails) | Medium | 2 |

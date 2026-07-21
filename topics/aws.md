@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**77** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**80** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 77 |
-| Easy / Medium / Hard | 10 / 60 / 7 |
+| Questions | 80 |
+| Easy / Medium / Hard | 10 / 62 / 8 |
 | Companies | 8 |
 
 ## Most asked
@@ -67,16 +67,16 @@
   <a id="which-aws-services-do-you-know"></a>
 - [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces) — **2×** · Easy
   <a id="you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces"></a>
+- [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) — **2×** · Hard
+  <a id="you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-"></a>
+- [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) — **1×** · Medium
+  <a id="an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl"></a>
 - [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) — **1×** · Medium
   <a id="an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st"></a>
 - [An EC2 instance is marked healthy, but users cannot access the application. How would you troubleshoot the issue?](../topics/aws.md#an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo) — **1×** · Medium
   <a id="an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo"></a>
 - [An EC2 instance is running at 100% CPU. How would you investigate the issue?](../topics/aws.md#an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue) — **1×** · Medium
   <a id="an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue"></a>
-- [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it) — **1×** · Medium
-  <a id="an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it"></a>
-- [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — **1×** · Medium · tags: `Azure`
-  <a id="aws-azure-cloud-services"></a>
 
 ## Beginner
 
@@ -133,6 +133,8 @@
   <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — 2×
   <a id="which-aws-services-do-you-know"></a>
+- [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) — 1×
+  <a id="an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl"></a>
 - [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) — 1×
   <a id="an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st"></a>
 - [An EC2 instance is marked healthy, but users cannot access the application. How would you troubleshoot the issue?](../topics/aws.md#an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo) — 1×
@@ -165,6 +167,8 @@
   <a id="how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources"></a>
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 1×
   <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
+- [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) — 1×
+  <a id="how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid"></a>
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) — 1×
   <a id="how-good-are-you-in-aws-self-rating-question"></a>
 - [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services) — 1×
@@ -228,6 +232,8 @@
 
 - [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) — 2×
   <a id="a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r"></a>
+- [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) — 2×
+  <a id="you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-"></a>
 - [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws) — 1×
   <a id="how-do-you-implement-microservices-with-react-and-aws"></a>
 - [How would you debug a failing User Data script without repeatedly relaunching the instance?](../topics/aws.md#how-would-you-debug-a-failing-user-data-script-without-repeatedly-relaunching-th) — 1×
@@ -279,6 +285,7 @@
 ### Unspecified
 
 - [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r)
+- [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl)
 - [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st)
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan)
 - [An EC2 instance is marked healthy, but users cannot access the application. How would you troubleshoot the issue?](../topics/aws.md#an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo)
@@ -296,6 +303,7 @@
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh)
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts)
 - [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws)
+- [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid)
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions)
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question)
 - [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services)
@@ -331,6 +339,7 @@
 - [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work)
 - [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want)
 - [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces)
+- [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-)
 - [Your application needs to be deployed across multiple AWS Regions. What architecture and deployment considerations would you discuss?](../topics/aws.md#your-application-needs-to-be-deployed-across-multiple-aws-regions-what-architect) — tags: `System Design`
 - [Your AWS bill suddenly spikes. How would you find out why?](../topics/aws.md#your-aws-bill-suddenly-spikes-how-would-you-find-out-why)
 - [Your S3 bucket uploads suddenly start failing. What possible causes would you investigate?](../topics/aws.md#your-s3-bucket-uploads-suddenly-start-failing-what-possible-causes-would-you-inv)
@@ -348,6 +357,9 @@
 
 ## Recently added
 
+- [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) — 2026-07-21
+- [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) — 2026-07-21
+- [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) — 2026-07-21
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) — 2026-07-20
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 2026-07-20
 - [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — 2026-07-18
@@ -360,9 +372,6 @@
 - [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) — 2026-07-17
 - [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) — 2026-07-17
 - [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) — 2026-07-17
-- [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — 2026-07-17 · tags: `Azure`
-- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 2026-07-17
-- [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) — 2026-07-17
 
 ## Related topics
 
@@ -374,6 +383,7 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) | Hard | 2 |
+| [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) | Medium | 1 |
 | [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) | Medium | 1 |
 | [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) | Medium | 2 |
 | [An EC2 instance is marked healthy, but users cannot access the application. How would you troubleshoot the issue?](../topics/aws.md#an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo) | Medium | 1 |
@@ -395,6 +405,7 @@
 | [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) | Medium | 3 |
 | [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) | Medium | 1 |
 | [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws) | Hard | 1 |
+| [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) | Medium | 1 |
 | [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 2 |
 | [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) | Medium | 1 |
 | [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services) | Medium | 1 |
@@ -446,6 +457,7 @@
 | [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work) | Medium | 1 |
 | [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) | Medium | 1 |
 | [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces) | Easy | 2 |
+| [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) | Hard | 2 |
 | [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) | Medium | 5 |
 | [Your application needs to be deployed across multiple AWS Regions. What architecture and deployment considerations would you discuss?](../topics/aws.md#your-application-needs-to-be-deployed-across-multiple-aws-regions-what-architect) | Hard | 1 |
 | [Your AWS bill suddenly spikes. How would you find out why?](../topics/aws.md#your-aws-bill-suddenly-spikes-how-would-you-find-out-why) | Medium | 1 |

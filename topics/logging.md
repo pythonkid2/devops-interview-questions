@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Logging**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — **1×** · Medium · tags: `Observability`, `Monitoring`
+  <a id="explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito"></a>
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — **1×** · Medium · tags: `Monitoring`
   <a id="how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s"></a>
 
@@ -36,6 +38,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — 1× · tags: `Observability`, `Monitoring`
+  <a id="explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito"></a>
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — 1× · tags: `Monitoring`
   <a id="how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s"></a>
 
@@ -47,6 +51,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — tags: `Observability`, `Monitoring`
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — tags: `Monitoring`
 
 ## Companies asking
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — 2026-07-21 · tags: `Observability`, `Monitoring`
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — 2026-07-17 · tags: `Monitoring`
 
 ## Related topics
@@ -70,6 +76,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) | Medium | 1 |
 | [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) | Medium | 1 |
 
 ## Learning resources

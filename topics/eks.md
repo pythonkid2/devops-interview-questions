@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **EKS**
 
-**13** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**14** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 13 |
-| Easy / Medium / Hard | 1 / 11 / 1 |
+| Questions | 14 |
+| Easy / Medium / Hard | 1 / 12 / 1 |
 | Companies | 2 |
 
 ## Most asked
@@ -33,6 +33,8 @@
   <a id="can-you-explain-how-did-you-tune-eks-cluster"></a>
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — **1×** · Medium
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
+- [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — **1×** · Medium · tags: `Kubernetes`
+  <a id="explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f"></a>
 - [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) — **1×** · Hard
   <a id="how-did-you-design-your-eks-cluster"></a>
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — **1×** · Medium
@@ -67,6 +69,8 @@
   <a id="can-you-explain-how-did-you-tune-eks-cluster"></a>
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — 1×
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
+- [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — 1× · tags: `Kubernetes`
+  <a id="explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f"></a>
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — 1×
   <a id="how-do-you-authenticate-to-eks-and-keep-secrets-safe"></a>
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — 1× · tags: `Kubernetes`
@@ -95,6 +99,7 @@
 
 - [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster)
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step)
+- [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — tags: `Kubernetes`
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud)
 - [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster)
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe)
@@ -114,6 +119,7 @@
 
 ## Recently added
 
+- [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — 2026-07-21 · tags: `Kubernetes`
 - [What are the steps you will take in your upgrading EKS cluster?](../topics/eks.md#what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster) — 2026-07-17
 - [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster) — 2026-07-17
 - [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) — 2026-07-17 · tags: `Kubernetes`
@@ -142,6 +148,7 @@
 | --- | --- | ---: |
 | [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) | Medium | 1 |
 | [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) | Medium | 1 |
+| [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) | Medium | 1 |
 | [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) | Medium | 2 |
 | [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) | Hard | 1 |
 | [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) | Medium | 1 |

@@ -8,13 +8,13 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 | Tag | Questions |
 | --- | ---: |
-| `CI/CD` | 18 |
+| `CI/CD` | 19 |
 | `Azure` | 16 |
-| `Kubernetes` | 15 |
+| `Kubernetes` | 16 |
+| `AWS` | 12 |
 | `System Design` | 12 |
-| `AWS` | 11 |
 | `Docker` | 10 |
-| `Monitoring` | 7 |
+| `Monitoring` | 8 |
 | `DNS` | 5 |
 | `Grafana` | 5 |
 | `HPA` | 5 |
@@ -24,21 +24,23 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `CNI` | 3 |
 | `Databases` | 3 |
 | `Git` | 3 |
+| `Linux` | 3 |
 | `PV` | 3 |
 | `Canary` | 2 |
 | `FinOps` | 2 |
 | `Jenkins` | 2 |
-| `Linux` | 2 |
 | `Load Balancing` | 2 |
 | `PVC` | 2 |
 | `RBAC` | 2 |
 | `Terraform` | 2 |
 | `Ansible` | 1 |
 | `ArgoCD` | 1 |
+| `DevSecOps` | 1 |
 | `GitLab CI` | 1 |
 | `Logging` | 1 |
 | `Microservices` | 1 |
 | `Networking` | 1 |
+| `Observability` | 1 |
 | `On-Call` | 1 |
 | `PDB` | 1 |
 | `Prometheus` | 1 |
@@ -69,6 +71,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Have you worked with CloudFront, ECR, ECR Lifecycle Policies, and AWS Tags? Explain real-world use cases.](../topics/cdn.md#have-you-worked-with-cloudfront-ecr-ecr-lifecycle-policies-and-aws-tags-explain-) — CDN · tags: `AWS`
 - [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — Kubernetes · tags: `AWS`
 - [How do you monitor AWS resources, Kubernetes workloads, SLAs, and production systems?](../topics/kubernetes.md#how-do-you-monitor-aws-resources-kubernetes-workloads-slas-and-production-system) — Kubernetes · tags: `AWS`
+- [How do you securely manage secrets, credentials, and sensitive configuration in AWS and Kubernetes?](../topics/kubernetes.md#how-do-you-securely-manage-secrets-credentials-and-sensitive-configuration-in-aw) — Kubernetes · tags: `AWS`
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — EKS · tags: `AWS`
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — Terraform · tags: `AWS`
 - [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — Load Balancing · tags: `AWS`
@@ -124,6 +127,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — Jenkins · tags: `CI/CD`
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — Monitoring · tags: `CI/CD`
 - [What is Azure Pipeline?](../topics/azure-devops.md#what-is-azure-pipeline) — Azure DevOps · tags: `CI/CD`, `Azure`
+- [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — Jenkins · tags: `CI/CD`
 - [Your Jenkins pipeline suddenly starts failing after months of successful deployments, even though no code changes were made. What would you check first?](../topics/jenkins.md#your-jenkins-pipeline-suddenly-starts-failing-after-months-of-successful-deploym) — Jenkins · tags: `CI/CD`
 
 ## CNI
@@ -137,6 +141,10 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — ArgoCD · tags: `Databases`
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — Kubernetes · tags: `Databases`
 - [Terraform plan suddenly wants to recreate your production database. What do you do?](../topics/terraform.md#terraform-plan-suddenly-wants-to-recreate-your-production-database-what-do-you-d) — Terraform · tags: `Databases`
+
+## DevSecOps
+
+- [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — SRE · tags: `DevSecOps`
 
 ## DNS
 
@@ -207,6 +215,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) — Incident Response · tags: `Kubernetes`
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — Disaster Recovery · tags: `Kubernetes`, `System Design`
 - [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) — Ingress · tags: `Kubernetes`, `Docker`
+- [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — EKS · tags: `Kubernetes`
 - [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) — Helm · tags: `Kubernetes`
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — EKS · tags: `Kubernetes`
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — Prometheus · tags: `Grafana`, `Monitoring`, `Kubernetes`
@@ -222,6 +231,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 ## Linux
 
+- [How did you use Linux in your CI/CD pipeline?](../topics/ci-cd.md#how-did-you-use-linux-in-your-ci-cd-pipeline) — CI/CD · tags: `Linux`
 - [How do you establish connectivity between two Linux servers using Ansible?](../topics/ansible.md#how-do-you-establish-connectivity-between-two-linux-servers-using-ansible) — Ansible · tags: `Linux`
 - [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) — EKS · tags: `Linux`
 
@@ -241,6 +251,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Monitoring
 
 - [Compare CloudWatch, Prometheus, Grafana, and Dynatrace.](../topics/prometheus.md#compare-cloudwatch-prometheus-grafana-and-dynatrace) — Prometheus · tags: `Grafana`, `Monitoring`
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — Logging · tags: `Observability`, `Monitoring`
 - [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — High Availability · tags: `Alerting`, `Monitoring`
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — Prometheus · tags: `Grafana`, `Monitoring`, `Kubernetes`
@@ -251,6 +262,10 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Networking
 
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — VPC · tags: `Networking`
+
+## Observability
+
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — Logging · tags: `Observability`, `Monitoring`
 
 ## On-Call
 

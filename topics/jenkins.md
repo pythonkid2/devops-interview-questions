@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**73** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**74** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 73 |
-| Easy / Medium / Hard | 2 / 65 / 6 |
+| Questions | 74 |
+| Easy / Medium / Hard | 2 / 66 / 6 |
 | Companies | 6 |
 
 ## Most asked
@@ -213,6 +213,8 @@
   <a id="which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y"></a>
 - [You mentioned maintaining separate CI and CD pipelines in Jenkins. How did you separate them and what triggers were configured at each stage?](../topics/jenkins.md#you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se) — 1×
   <a id="you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se"></a>
+- [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — 1× · tags: `CI/CD`
+  <a id="your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de"></a>
 - [Your Jenkins pipeline suddenly starts failing after months of successful deployments, even though no code changes were made. What would you check first?](../topics/jenkins.md#your-jenkins-pipeline-suddenly-starts-failing-after-months-of-successful-deploym) — 1× · tags: `CI/CD`
   <a id="your-jenkins-pipeline-suddenly-starts-failing-after-months-of-successful-deploym"></a>
 - [Your Jenkins workspace keeps consuming disk space every day. How would you automate workspace cleanup?](../topics/jenkins.md#your-jenkins-workspace-keeps-consuming-disk-space-every-day-how-would-you-automa) — 1×
@@ -314,6 +316,7 @@
 - [Why do we use Jenkins Agents?](../topics/jenkins.md#why-do-we-use-jenkins-agents)
 - [Write jenkins pipeline syntax](../topics/jenkins.md#write-jenkins-pipeline-syntax)
 - [You mentioned maintaining separate CI and CD pipelines in Jenkins. How did you separate them and what triggers were configured at each stage?](../topics/jenkins.md#you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se)
+- [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — tags: `CI/CD`
 - [Your Jenkins pipeline suddenly starts failing after months of successful deployments, even though no code changes were made. What would you check first?](../topics/jenkins.md#your-jenkins-pipeline-suddenly-starts-failing-after-months-of-successful-deploym) — tags: `CI/CD`
 - [Your Jenkins workspace keeps consuming disk space every day. How would you automate workspace cleanup?](../topics/jenkins.md#your-jenkins-workspace-keeps-consuming-disk-space-every-day-how-would-you-automa)
 
@@ -328,6 +331,7 @@
 
 ## Recently added
 
+- [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — 2026-07-21 · tags: `CI/CD`
 - [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks) — 2026-07-20
 - [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) — 2026-07-20 · tags: `Shell Scripting`
 - [A Jenkins agent frequently disconnects during deployments. What would you investigate?](../topics/jenkins.md#a-jenkins-agent-frequently-disconnects-during-deployments-what-would-you-investi) — 2026-07-20
@@ -342,7 +346,6 @@
 - [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) — 2026-07-17 · tags: `CI/CD`
 - [You mentioned maintaining separate CI and CD pipelines in Jenkins. How did you separate them and what triggers were configured at each stage?](../topics/jenkins.md#you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se) — 2026-07-17
 - [Write jenkins pipeline syntax](../topics/jenkins.md#write-jenkins-pipeline-syntax) — 2026-07-17
-- [How do you maintain jenkins backup](../topics/jenkins.md#how-do-you-maintain-jenkins-backup) — 2026-07-17
 
 ## Related topics
 
@@ -426,6 +429,7 @@
 | [Why do we use Jenkins Agents?](../topics/jenkins.md#why-do-we-use-jenkins-agents) | Medium | 2 |
 | [Write jenkins pipeline syntax](../topics/jenkins.md#write-jenkins-pipeline-syntax) | Medium | 2 |
 | [You mentioned maintaining separate CI and CD pipelines in Jenkins. How did you separate them and what triggers were configured at each stage?](../topics/jenkins.md#you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se) | Medium | 1 |
+| [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) | Medium | 1 |
 | [Your Jenkins pipeline suddenly starts failing after months of successful deployments, even though no code changes were made. What would you check first?](../topics/jenkins.md#your-jenkins-pipeline-suddenly-starts-failing-after-months-of-successful-deploym) | Medium | 1 |
 | [Your Jenkins workspace keeps consuming disk space every day. How would you automate workspace cleanup?](../topics/jenkins.md#your-jenkins-workspace-keeps-consuming-disk-space-every-day-how-would-you-automa) | Medium | 1 |
 

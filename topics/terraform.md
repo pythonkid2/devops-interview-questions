@@ -65,6 +65,8 @@
   <a id="if-the-terraform-state-file-is-lost-how-can-it-be-recovered"></a>
 - [Terraform changes accidentally modify production resources. How would you recover?](../topics/terraform.md#terraform-changes-accidentally-modify-production-resources-how-would-you-recover) — **2×** · Medium
   <a id="terraform-changes-accidentally-modify-production-resources-how-would-you-recover"></a>
+- [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) — **2×** · Medium
+  <a id="terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves"></a>
 - [Terraform project architecture](../topics/terraform.md#terraform-project-architecture) — **2×** · Medium
   <a id="terraform-project-architecture"></a>
 - [What are null resources in Terraform and what is a state file?](../topics/terraform.md#what-are-null-resources-in-terraform-and-what-is-a-state-file) — **2×** · Easy
@@ -75,8 +77,6 @@
   <a id="what-are-variables-and-outputs-in-terraform"></a>
 - [What have you provisioned using Terraform ?](../topics/terraform.md#what-have-you-provisioned-using-terraform) — **2×** · Medium
   <a id="what-have-you-provisioned-using-terraform"></a>
-- [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — **2×** · Medium
-  <a id="what-is-a-terraform-backend-explain-the-backend-configuration"></a>
 
 ## Beginner
 
@@ -131,6 +131,8 @@
   <a id="how-to-define-dependency-in-terraform"></a>
 - [Terraform changes accidentally modify production resources. How would you recover?](../topics/terraform.md#terraform-changes-accidentally-modify-production-resources-how-would-you-recover) — 2×
   <a id="terraform-changes-accidentally-modify-production-resources-how-would-you-recover"></a>
+- [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) — 2×
+  <a id="terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves"></a>
 - [Terraform project architecture](../topics/terraform.md#terraform-project-architecture) — 2×
   <a id="terraform-project-architecture"></a>
 - [What are Terraform modules?](../topics/terraform.md#what-are-terraform-modules) — 2×
@@ -233,8 +235,6 @@
   <a id="infrastructure-as-code-iac"></a>
 - [Infrastructure as Code (Terraform)](../topics/terraform.md#infrastructure-as-code-terraform) — 1×
   <a id="infrastructure-as-code-terraform"></a>
-- [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) — 1×
-  <a id="terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves"></a>
 - [Terraform remote_state backend suddenly times out. What’s your recovery and damage containment strategy?](../topics/terraform.md#terraform-remote-state-backend-suddenly-times-out-whats-your-recovery-and-damage) — 1×
   <a id="terraform-remote-state-backend-suddenly-times-out-whats-your-recovery-and-damage"></a>
 - [We know drift happens when resources are changed outside Terraform, So how to detect, what command can be used to detect the drift and how to prevent that?](../topics/terraform.md#we-know-drift-happens-when-resources-are-changed-outside-terraform-so-how-to-det) — 1×
@@ -401,6 +401,7 @@
 
 ## Recently added
 
+- [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) — 2026-07-21
 - [Explain the Terraform project structure you have worked with.](../topics/terraform.md#explain-the-terraform-project-structure-you-have-worked-with) — 2026-07-18
 - [What Terraform modules have you used?](../topics/terraform.md#what-terraform-modules-have-you-used) — 2026-07-18
 - [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 2026-07-18
@@ -415,7 +416,6 @@
 - [In terraform, what is a state file?](../topics/terraform.md#in-terraform-what-is-a-state-file) — 2026-07-17
 - [Have you worked on Terraform maturity model or infrastructure maturity practices?](../topics/terraform.md#have-you-worked-on-terraform-maturity-model-or-infrastructure-maturity-practices) — 2026-07-17
 - [Have you worked with Terraform state locking and drift handling? Explain your approach.](../topics/terraform.md#have-you-worked-with-terraform-state-locking-and-drift-handling-explain-your-app) — 2026-07-17
-- [What is drift detection](../topics/terraform.md#what-is-drift-detection) — 2026-07-17
 
 ## Related topics
 
@@ -479,7 +479,7 @@
 | [Infrastructure as Code (Terraform)](../topics/terraform.md#infrastructure-as-code-terraform) | Medium | 1 |
 | [Is there a safer alternative to directly modifying the Terraform state file in a production environment?](../topics/terraform.md#is-there-a-safer-alternative-to-directly-modifying-the-terraform-state-file-in-a) | Hard | 1 |
 | [Terraform changes accidentally modify production resources. How would you recover?](../topics/terraform.md#terraform-changes-accidentally-modify-production-resources-how-would-you-recover) | Medium | 2 |
-| [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) | Medium | 1 |
+| [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) | Medium | 2 |
 | [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-) | Medium | 5 |
 | [Terraform plan suddenly wants to recreate your production database. What do you do?](../topics/terraform.md#terraform-plan-suddenly-wants-to-recreate-your-production-database-what-do-you-d) | Hard | 1 |
 | [Terraform project architecture](../topics/terraform.md#terraform-project-architecture) | Medium | 2 |

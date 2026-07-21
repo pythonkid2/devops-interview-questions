@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Capacity Planning**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 0 / 3 / 3 |
+| Questions | 7 |
+| Easy / Medium / Hard | 0 / 4 / 3 |
 | Companies | 0 |
 
 ## Most asked
 
 - [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits) — **1×** · Medium
   <a id="autoscaling-resource-limits"></a>
+- [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) — **1×** · Medium
+  <a id="describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos"></a>
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — **1×** · Hard · tags: `HPA`
   <a id="design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike"></a>
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — **1×** · Medium · tags: `Kubernetes`, `HPA`
@@ -48,6 +50,8 @@ _None in this band yet._
 
 - [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits) — 1×
   <a id="autoscaling-resource-limits"></a>
+- [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) — 1×
+  <a id="describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos"></a>
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — 1× · tags: `Kubernetes`, `HPA`
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
 - [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — 1× · tags: `Kubernetes`, `HPA`
@@ -67,6 +71,7 @@ _None in this band yet._
 ### Unspecified
 
 - [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits)
+- [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos)
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — tags: `HPA`
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — tags: `Kubernetes`, `HPA`
 - [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) — tags: `HPA`
@@ -79,6 +84,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) — 2026-07-21
 - [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits) — 2026-07-20
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — 2026-07-18 · tags: `HPA`
 - [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) — 2026-07-18 · tags: `HPA`
@@ -101,6 +107,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits) | Medium | 1 |
+| [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) | Medium | 1 |
 | [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) | Hard | 1 |
 | [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) | Medium | 1 |
 | [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) | Hard | 1 |
