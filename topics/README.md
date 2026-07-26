@@ -17,7 +17,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Kubernetes](./kubernetes.md) | 159 |
+| [Kubernetes](./kubernetes.md) | 186 |
 | [Docker](./docker.md) | 94 |
 | [EKS](./eks.md) | 17 |
 | [ArgoCD](./argocd.md) | 8 |
@@ -38,8 +38,8 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | [Jenkins](./jenkins.md) | 80 |
 | [CI/CD](./ci-cd.md) | 62 |
 | [Azure DevOps](./azure-devops.md) | 12 |
+| [Deployment Strategies](./deployment-strategies.md) | 10 |
 | [GitHub Actions](./github-actions.md) | 7 |
-| [Deployment Strategies](./deployment-strategies.md) | 4 |
 
 ## Observability
 
@@ -72,7 +72,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Security](./security.md) | 24 |
+| [Security](./security.md) | 25 |
 | [IAM](./iam.md) | 9 |
 | [Network Security](./network-security.md) | 5 |
 | [DevSecOps](./devsecops.md) | 3 |
@@ -120,15 +120,15 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [System Design](./system-design.md) | 12 |
-| [FinOps](./finops.md) | 3 |
-| [Microservices](./microservices.md) | 2 |
+| [System Design](./system-design.md) | 16 |
+| [FinOps](./finops.md) | 6 |
+| [Microservices](./microservices.md) | 4 |
 
 ## Other
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 560 |
+| [General](./general.md) | 509 |
 
 
 [← Home](../README.md)

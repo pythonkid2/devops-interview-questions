@@ -19,21 +19,21 @@ Top questions by how often they appeared across LinkedIn interview posts.
 | 11 | [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../topics/kubernetes.md#after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai) | Kubernetes | 5 |
 | 12 | [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) | Networking | 5 |
 | 13 | [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) | ArgoCD | 5 |
-| 14 | [Design a rollback strategy that works even if the deployment stage fails.](../topics/general.md#design-a-rollback-strategy-that-works-even-if-the-deployment-stage-fails) | General | 5 |
-| 15 | [Design a self-healing platform for critical production services.](../topics/general.md#design-a-self-healing-platform-for-critical-production-services) | General | 5 |
+| 14 | [Design a rollback strategy that works even if the deployment stage fails.](../topics/deployment-strategies.md#design-a-rollback-strategy-that-works-even-if-the-deployment-stage-fails) | Deployment Strategies | 5 |
+| 15 | [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) | System Design | 5 |
 | 16 | [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Docker | 5 |
 | 17 | [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../topics/kubernetes.md#during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep) | Kubernetes | 5 |
 | 18 | [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) | Security | 5 |
 | 19 | [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) | AWS | 5 |
 | 20 | [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) | SLOs | 5 |
-| 21 | [How do you implement runtime security beyond image vulnerability scanning?](../topics/general.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) | General | 5 |
+| 21 | [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) | Security | 5 |
 | 22 | [How do you validate infrastructure changes before executing them in production?](../topics/general.md#how-do-you-validate-infrastructure-changes-before-executing-them-in-production) | General | 5 |
 | 23 | [How would you automate environment provisioning while allowing environment-specific configurations?](../topics/general.md#how-would-you-automate-environment-provisioning-while-allowing-environment-speci) | General | 5 |
 | 24 | [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/networking.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) | Networking | 5 |
 | 25 | [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../topics/kubernetes.md#how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne) | Kubernetes | 5 |
-| 26 | [How would you handle cascading failures across multiple microservices?](../topics/general.md#how-would-you-handle-cascading-failures-across-multiple-microservices) | General | 5 |
+| 26 | [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) | System Design | 5 |
 | 27 | [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) | CI/CD | 5 |
-| 28 | [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/general.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) | General | 5 |
+| 28 | [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) | Microservices | 5 |
 | 29 | [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../topics/aws.md#how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component) | AWS | 5 |
 | 30 | [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) | Security | 5 |
 | 31 | [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-) | Terraform | 5 |
@@ -64,47 +64,47 @@ Top questions by how often they appeared across LinkedIn interview posts.
 | 56 | [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) | Capacity Planning | 3 |
 | 57 | [Difference between count and for_each.](../topics/terraform.md#difference-between-count-and-for-each) | Terraform | 3 |
 | 58 | [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) | Security | 3 |
-| 59 | [Do you have any questions for me?](../topics/general.md#do-you-have-any-questions-for-me) | General | 3 |
-| 60 | [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) | Logging | 3 |
-| 61 | [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) | Kubernetes | 3 |
-| 62 | [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) | Incident Response | 3 |
-| 63 | [Give an example of a performance bottleneck you identified and resolved in a cloud-native environment.](../topics/general.md#give-an-example-of-a-performance-bottleneck-you-identified-and-resolved-in-a-clo) | General | 3 |
-| 64 | [How do you collaborate with development teams to improve application reliability, deployment speed, and operational excellence?](../topics/general.md#how-do-you-collaborate-with-development-teams-to-improve-application-reliability) | General | 3 |
-| 65 | [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Disaster Recovery | 3 |
-| 66 | [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) | CI/CD | 3 |
-| 67 | [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) | SRE | 3 |
-| 68 | [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) | Kubernetes | 3 |
-| 69 | [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) | Terraform | 3 |
-| 70 | [How do you manage different configurations for Dev, QA, and Production?](../topics/general.md#how-do-you-manage-different-configurations-for-dev-qa-and-production) | General | 3 |
-| 71 | [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) | CI/CD | 3 |
-| 72 | [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) | Kubernetes | 3 |
-| 73 | [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) | Kubernetes | 3 |
-| 74 | [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) | Incident Response | 3 |
-| 75 | [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | AWS | 3 |
-| 76 | [What happened?](../topics/general.md#what-happened) | General | 3 |
-| 77 | [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Ingress | 3 |
-| 78 | [What is Git?](../topics/git.md#what-is-git) | Git | 3 |
-| 79 | [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) | Jenkins | 3 |
-| 80 | [What is Linux?](../topics/linux.md#what-is-linux) | Linux | 3 |
-| 81 | [What is your approach to Infrastructure as Code (IaC)? Which tools do you use, and why?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-do-you-use-and-w) | General | 3 |
-| 82 | [What Service Level Objectives (SLOs), Service Level Indicators (SLIs), and error budgets have you managed, and how did they influence engineering decisions?](../topics/general.md#what-service-level-objectives-slos-service-level-indicators-slis-and-error-budge) | General | 3 |
-| 83 | [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/general.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) | General | 3 |
-| 84 | [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) | Docker | 3 |
-| 85 | [A bug occurs only during peak traffic. How would you capture and investigate it?](../topics/general.md#a-bug-occurs-only-during-peak-traffic-how-would-you-capture-and-investigate-it) | General | 2 |
-| 86 | [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) | General | 2 |
-| 87 | [A deployment failed in Production. How would you troubleshoot?](../topics/general.md#a-deployment-failed-in-production-how-would-you-troubleshoot) | General | 2 |
-| 88 | [A deployment fails during a critical business release. What is your communication and escalation plan?](../topics/general.md#a-deployment-fails-during-a-critical-business-release-what-is-your-communication) | General | 2 |
-| 89 | [A Deployment has 5 replicas, but only 3 Pods are running. How would you identify the root cause?](../topics/general.md#a-deployment-has-5-replicas-but-only-3-pods-are-running-how-would-you-identify-t) | General | 2 |
-| 90 | [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](../topics/docker.md#a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou) | Docker | 2 |
-| 91 | [A Docker container works locally but fails in production. Why?](../topics/docker.md#a-docker-container-works-locally-but-fails-in-production-why) | Docker | 2 |
-| 92 | [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) | Docker | 2 |
-| 93 | [A Jenkins Agent is offline. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-is-offline-how-would-you-troubleshoot-it) | Jenkins | 2 |
-| 94 | [A Jenkins build is stuck in the queue. What could be the reasons?](../topics/jenkins.md#a-jenkins-build-is-stuck-in-the-queue-what-could-be-the-reasons) | Jenkins | 2 |
-| 95 | [A Jenkins pipeline completed successfully, but the latest changes are not visible in production. What components would you verify before concluding the deployment failed?](../topics/jenkins.md#a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible) | Jenkins | 2 |
-| 96 | [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) | Jenkins | 2 |
-| 97 | [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) | Jenkins | 2 |
-| 98 | [A Kubernetes GPU pod requests 16GB VRAM but only gets 12GB due to fragmentation. How do you detect and fix it in real time?](../topics/kubernetes.md#a-kubernetes-gpu-pod-requests-16gb-vram-but-only-gets-12gb-due-to-fragmentation-) | Kubernetes | 2 |
-| 99 | [A Kubernetes Pod is in CrashLoopBackOff. Walk me through your troubleshooting approach from start to finish.](../topics/kubernetes.md#a-kubernetes-pod-is-in-crashloopbackoff-walk-me-through-your-troubleshooting-app) | Kubernetes | 2 |
-| 100 | [A Kubernetes pod keeps crashing. How do you investigate?](../topics/kubernetes.md#a-kubernetes-pod-keeps-crashing-how-do-you-investigate) | Kubernetes | 2 |
+| 59 | [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) | Logging | 3 |
+| 60 | [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) | Kubernetes | 3 |
+| 61 | [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) | Incident Response | 3 |
+| 62 | [Give an example of a performance bottleneck you identified and resolved in a cloud-native environment.](../topics/general.md#give-an-example-of-a-performance-bottleneck-you-identified-and-resolved-in-a-clo) | General | 3 |
+| 63 | [How do you collaborate with development teams to improve application reliability, deployment speed, and operational excellence?](../topics/general.md#how-do-you-collaborate-with-development-teams-to-improve-application-reliability) | General | 3 |
+| 64 | [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Disaster Recovery | 3 |
+| 65 | [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) | CI/CD | 3 |
+| 66 | [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) | SRE | 3 |
+| 67 | [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) | Kubernetes | 3 |
+| 68 | [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) | Terraform | 3 |
+| 69 | [How do you manage different configurations for Dev, QA, and Production?](../topics/general.md#how-do-you-manage-different-configurations-for-dev-qa-and-production) | General | 3 |
+| 70 | [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) | CI/CD | 3 |
+| 71 | [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) | Kubernetes | 3 |
+| 72 | [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) | Kubernetes | 3 |
+| 73 | [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) | Incident Response | 3 |
+| 74 | [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | AWS | 3 |
+| 75 | [What happened?](../topics/general.md#what-happened) | General | 3 |
+| 76 | [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Ingress | 3 |
+| 77 | [What is Git?](../topics/git.md#what-is-git) | Git | 3 |
+| 78 | [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) | Jenkins | 3 |
+| 79 | [What is Linux?](../topics/linux.md#what-is-linux) | Linux | 3 |
+| 80 | [What is your approach to Infrastructure as Code (IaC)? Which tools do you use, and why?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-do-you-use-and-w) | General | 3 |
+| 81 | [What Service Level Objectives (SLOs), Service Level Indicators (SLIs), and error budgets have you managed, and how did they influence engineering decisions?](../topics/general.md#what-service-level-objectives-slos-service-level-indicators-slis-and-error-budge) | General | 3 |
+| 82 | [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) | FinOps | 3 |
+| 83 | [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) | Docker | 3 |
+| 84 | [A bug occurs only during peak traffic. How would you capture and investigate it?](../topics/general.md#a-bug-occurs-only-during-peak-traffic-how-would-you-capture-and-investigate-it) | General | 2 |
+| 85 | [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) | General | 2 |
+| 86 | [A deployment failed in Production. How would you troubleshoot?](../topics/general.md#a-deployment-failed-in-production-how-would-you-troubleshoot) | General | 2 |
+| 87 | [A deployment fails during a critical business release. What is your communication and escalation plan?](../topics/general.md#a-deployment-fails-during-a-critical-business-release-what-is-your-communication) | General | 2 |
+| 88 | [A Deployment has 5 replicas, but only 3 Pods are running. How would you identify the root cause?](../topics/kubernetes.md#a-deployment-has-5-replicas-but-only-3-pods-are-running-how-would-you-identify-t) | Kubernetes | 2 |
+| 89 | [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](../topics/docker.md#a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou) | Docker | 2 |
+| 90 | [A Docker container works locally but fails in production. Why?](../topics/docker.md#a-docker-container-works-locally-but-fails-in-production-why) | Docker | 2 |
+| 91 | [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) | Docker | 2 |
+| 92 | [A Jenkins Agent is offline. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-is-offline-how-would-you-troubleshoot-it) | Jenkins | 2 |
+| 93 | [A Jenkins build is stuck in the queue. What could be the reasons?](../topics/jenkins.md#a-jenkins-build-is-stuck-in-the-queue-what-could-be-the-reasons) | Jenkins | 2 |
+| 94 | [A Jenkins pipeline completed successfully, but the latest changes are not visible in production. What components would you verify before concluding the deployment failed?](../topics/jenkins.md#a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible) | Jenkins | 2 |
+| 95 | [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) | Jenkins | 2 |
+| 96 | [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) | Jenkins | 2 |
+| 97 | [A Kubernetes GPU pod requests 16GB VRAM but only gets 12GB due to fragmentation. How do you detect and fix it in real time?](../topics/kubernetes.md#a-kubernetes-gpu-pod-requests-16gb-vram-but-only-gets-12gb-due-to-fragmentation-) | Kubernetes | 2 |
+| 98 | [A Kubernetes Pod is in CrashLoopBackOff. Walk me through your troubleshooting approach from start to finish.](../topics/kubernetes.md#a-kubernetes-pod-is-in-crashloopbackoff-walk-me-through-your-troubleshooting-app) | Kubernetes | 2 |
+| 99 | [A Kubernetes pod keeps crashing. How do you investigate?](../topics/kubernetes.md#a-kubernetes-pod-keeps-crashing-how-do-you-investigate) | Kubernetes | 2 |
+| 100 | [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) | AWS | 2 |
 
 [← Study guides](./README.md)

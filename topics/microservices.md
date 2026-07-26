@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Microservices**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,18 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 1 / 1 |
+| Questions | 4 |
+| Easy / Medium / Hard | 0 / 3 / 1 |
 | Companies | 0 |
 
 ## Most asked
 
+- [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) — **5×** · Medium
+  <a id="how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials"></a>
 - [How would you handle cascading microservice failures?](../topics/microservices.md#how-would-you-handle-cascading-microservice-failures) — **1×** · Hard
   <a id="how-would-you-handle-cascading-microservice-failures"></a>
+- [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices) — **1×** · Medium
+  <a id="how-would-you-manage-secrets-for-100-microservices"></a>
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — **1×** · Medium
   <a id="one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro"></a>
 
@@ -38,6 +42,10 @@ _None in this band yet._
 
 ## Intermediate
 
+- [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) — 5×
+  <a id="how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials"></a>
+- [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices) — 1×
+  <a id="how-would-you-manage-secrets-for-100-microservices"></a>
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — 1×
   <a id="one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro"></a>
 
@@ -51,6 +59,8 @@ _None in this band yet._
 ### Unspecified
 
 - [How would you handle cascading microservice failures?](../topics/microservices.md#how-would-you-handle-cascading-microservice-failures)
+- [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices)
+- [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials)
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro)
 
 ## Companies asking
@@ -59,8 +69,10 @@ _None in this band yet._
 
 ## Recently added
 
+- [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) — 2026-07-17
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — 2026-07-17
 - [How would you handle cascading microservice failures?](../topics/microservices.md#how-would-you-handle-cascading-microservice-failures) — 2026-07-17
+- [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices) — 2026-07-17
 
 ## Related topics
 
@@ -72,6 +84,8 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [How would you handle cascading microservice failures?](../topics/microservices.md#how-would-you-handle-cascading-microservice-failures) | Hard | 1 |
+| [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices) | Medium | 1 |
+| [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) | Medium | 5 |
 | [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) | Medium | 1 |
 
 ## Learning resources

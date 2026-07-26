@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-1531-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-579-informational)
+![questions](https://img.shields.io/badge/questions-1523-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-579-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,19 +18,19 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 1531 |
+| Unique questions | 1523 |
 | Posts processed | 579 |
 | Added this week | 323 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 159
+- [Kubernetes](./topics/kubernetes.md) — 186
 - [Terraform](./topics/terraform.md) — 111
 - [Docker](./topics/docker.md) — 94
 - [AWS](./topics/aws.md) — 84
 - [Jenkins](./topics/jenkins.md) — 80
 - [CI/CD](./topics/ci-cd.md) — 62
-- [Security](./topics/security.md) — 24
+- [Security](./topics/security.md) — 25
 - [Linux](./topics/linux.md) — 21
 - [Incident Response](./topics/incident-response.md) — 18
 - [Azure](./topics/azure.md) — 17
@@ -38,11 +38,11 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 ## Popular companies
 
 - [Mphasis](./companies/mphasis.md) — 43
-- [Accenture](./companies/accenture.md) — 33
+- [Accenture](./companies/accenture.md) — 32
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
 - [Deloitte](./companies/deloitte.md) — 25
-- [Global Payments](./companies/global-payments.md) — 24
+- [Global Payments](./companies/global-payments.md) — 23
 - [PwC](./companies/pwc.md) — 13
 - [SpaceTech Inc.](./companies/spacetech-inc.md) — 13
 - [Infosys](./companies/infosys.md) — 12

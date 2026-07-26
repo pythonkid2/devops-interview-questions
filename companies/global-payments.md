@@ -6,12 +6,12 @@
 
 | Metric | Value |
 | --- | ---: |
-| Questions | 24 |
+| Questions | 23 |
 | Topics covered | 7 |
 
 ## Topics asked
 
-- [General](../topics/general.md) — 12
+- [General](../topics/general.md) — 11
 - [Kubernetes](../topics/kubernetes.md) — 4
 - [AWS](../topics/aws.md) — 3
 - [Security](../topics/security.md) — 2
@@ -35,12 +35,12 @@
 - [What is the difference between a .tf file and variables in Terraform?](../topics/terraform.md#what-is-the-difference-between-a-tf-file-and-variables-in-terraform) — 2× · Terraform
 - [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../topics/python.md#you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-) — 2× · Python
 - [Are you comfortable with our hybrid work arrangement (2 weeks WFO + 2 weeks WFH)?](../topics/general.md#are-you-comfortable-with-our-hybrid-work-arrangement-2-weeks-wfo-2-weeks-wfh) — 1× · General
-- [Are you serving your notice period?](../topics/general.md#are-you-serving-your-notice-period) — 1× · General
 - [Are you working from the office or from home?](../topics/general.md#are-you-working-from-the-office-or-from-home) — 1× · General
 - [Do you have any friends or colleagues working here? Did they give you any feedback about the company?](../topics/general.md#do-you-have-any-friends-or-colleagues-working-here-did-they-give-you-any-feedbac) — 1× · General
 - [Do you know what Global Payments is?](../topics/general.md#do-you-know-what-global-payments-is) — 1× · General
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) — 1× · AWS
 - [Tell me about your roles and responsibilities in your current company.](../topics/general.md#tell-me-about-your-roles-and-responsibilities-in-your-current-company) — 1× · General
+- [Tell me one achievement in your 4+ years of experience that you are proud of.](../topics/general.md#tell-me-one-achievement-in-your-4-years-of-experience-that-you-are-proud-of) — 1× · General
 
 ## By topic
 
@@ -57,7 +57,6 @@
 ### General
 
 - [Are you comfortable with our hybrid work arrangement (2 weeks WFO + 2 weeks WFH)?](../topics/general.md#are-you-comfortable-with-our-hybrid-work-arrangement-2-weeks-wfo-2-weeks-wfh) — Medium
-- [Are you serving your notice period?](../topics/general.md#are-you-serving-your-notice-period) — Medium
 - [Are you working from the office or from home?](../topics/general.md#are-you-working-from-the-office-or-from-home) — Medium
 - [Do you have any friends or colleagues working here? Did they give you any feedback about the company?](../topics/general.md#do-you-have-any-friends-or-colleagues-working-here-did-they-give-you-any-feedbac) — Medium
 - [Do you know what Global Payments is?](../topics/general.md#do-you-know-what-global-payments-is) — Medium
@@ -91,14 +90,13 @@
 
 ## Interview rounds
 
-- Unspecified — 12
 - Other — 12
+- Unspecified — 11
 
 ## Recently added
 
 - [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — 2026-07-18
 - [What is your last working day?](../topics/general.md#what-is-your-last-working-day) — 2026-07-16
-- [Are you serving your notice period?](../topics/general.md#are-you-serving-your-notice-period) — 2026-07-16
 - [What do you think our company can provide that your current company cannot?](../topics/general.md#what-do-you-think-our-company-can-provide-that-your-current-company-cannot) — 2026-07-16
 - [Are you comfortable with our hybrid work arrangement (2 weeks WFO + 2 weeks WFH)?](../topics/general.md#are-you-comfortable-with-our-hybrid-work-arrangement-2-weeks-wfo-2-weeks-wfh) — 2026-07-16
 - [Do you have any friends or colleagues working here? Did they give you any feedback about the company?](../topics/general.md#do-you-have-any-friends-or-colleagues-working-here-did-they-give-you-any-feedbac) — 2026-07-16
@@ -106,5 +104,6 @@
 - [Are you working from the office or from home?](../topics/general.md#are-you-working-from-the-office-or-from-home) — 2026-07-16
 - [Where are you from?](../topics/general.md#where-are-you-from) — 2026-07-16
 - [What is the best way to save credentials? Where should credentials be stored?](../topics/security.md#what-is-the-best-way-to-save-credentials-where-should-credentials-be-stored) — 2026-07-16
+- [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/kubernetes.md#what-do-you-mean-by-rbac-iam-kubernetes-context) — 2026-07-16
 
 [← All companies](./README.md) · [Home](../README.md)

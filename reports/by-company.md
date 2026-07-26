@@ -4,25 +4,25 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1225 |
+| [Unknown Company](../companies/unknown-company.md) | 1222 |
 | [Mphasis](../companies/mphasis.md) | 43 |
-| [Accenture](../companies/accenture.md) | 33 |
+| [Accenture](../companies/accenture.md) | 32 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
 | [Deloitte](../companies/deloitte.md) | 25 |
-| [Global Payments](../companies/global-payments.md) | 24 |
+| [Global Payments](../companies/global-payments.md) | 23 |
 | [PwC](../companies/pwc.md) | 13 |
 | [SpaceTech Inc.](../companies/spacetech-inc.md) | 13 |
 | [Infosys](../companies/infosys.md) | 12 |
 | [NVIDIA](../companies/nvidia.md) | 11 |
 | [Argyll Infotech](../companies/argyll-infotech.md) | 10 |
 | [DBS Bank](../companies/dbs-bank.md) | 10 |
-| [DEVYNTECH](../companies/devyntech.md) | 9 |
-| [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md) | 8 |
 | [TCS](../companies/tcs.md) | 8 |
 | [zemoso technologies](../companies/zemoso-technologies.md) | 8 |
+| [DEVYNTECH](../companies/devyntech.md) | 7 |
 | [Elite Code Technologies](../companies/elite-code-technologies.md) | 7 |
 | [EY](../companies/ey.md) | 7 |
+| [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md) | 7 |
 | [Sri-Hire](../companies/sri-hire.md) | 5 |
 | [DPRSolutions](../companies/dprsolutions.md) | 4 |
 | [Infinity wave Inc](../companies/infinity-wave-inc.md) | 3 |

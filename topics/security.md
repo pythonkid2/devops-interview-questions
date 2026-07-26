@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Security**
 
-**24** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**25** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 24 |
-| Easy / Medium / Hard | 1 / 22 / 1 |
+| Questions | 25 |
+| Easy / Medium / Hard | 1 / 23 / 1 |
 | Companies | 4 |
 
 ## Most asked
 
 - [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — **5×** · Medium
   <a id="during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr"></a>
+- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — **5×** · Medium
+  <a id="how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning"></a>
 - [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — **5×** · Medium
   <a id="how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi"></a>
 - [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) — **4×** · Medium
@@ -85,6 +87,8 @@
 
 - [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — 5×
   <a id="during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr"></a>
+- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — 5×
+  <a id="how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning"></a>
 - [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/security.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — 5×
   <a id="how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi"></a>
 - [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) — 4×
@@ -169,6 +173,7 @@
 ### Unspecified
 
 - [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies)
+- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning)
 - [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps)
 - [How do you manage secrets in production?](../topics/security.md#how-do-you-manage-secrets-in-production)
 - [How do you secure container images before deployment?](../topics/security.md#how-do-you-secure-container-images-before-deployment)
@@ -183,6 +188,7 @@
 
 ## Recently added
 
+- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — 2026-07-17
 - [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) — 2026-07-17
 - [How do you manage secrets in production?](../topics/security.md#how-do-you-manage-secrets-in-production) — 2026-07-17
 - [How do you secure container images before deployment?](../topics/security.md#how-do-you-secure-container-images-before-deployment) — 2026-07-17
@@ -197,7 +203,6 @@
 - [How would you design IAM permissions and trust relationships for large-scale AWS Organizations environments?](../topics/security.md#how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws) — 2026-07-15
 - [Do you have experience building security pipelines?](../topics/security.md#do-you-have-experience-building-security-pipelines) — 2026-07-15
 - [What security-related activities have you performed in your projects?](../topics/security.md#what-security-related-activities-have-you-performed-in-your-projects) — 2026-07-15
-- [Have you integrated security tools into CI/CD pipelines?](../topics/security.md#have-you-integrated-security-tools-into-ci-cd-pipelines) — 2026-07-15
 
 ## Related topics
 
@@ -222,6 +227,7 @@
 | [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) | Medium | 4 |
 | [Have you integrated security tools into CI/CD pipelines?](../topics/security.md#have-you-integrated-security-tools-into-ci-cd-pipelines) | Medium | 1 |
 | [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) | Medium | 2 |
+| [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) | Medium | 5 |
 | [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps) | Hard | 2 |
 | [How do you manage secrets in production?](../topics/security.md#how-do-you-manage-secrets-in-production) | Medium | 2 |
 | [How do you review and coordinate security findings with development and security teams?](../topics/security.md#how-do-you-review-and-coordinate-security-findings-with-development-and-security) | Medium | 2 |
