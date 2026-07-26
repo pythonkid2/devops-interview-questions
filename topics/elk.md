@@ -1,6 +1,6 @@
-# Tracing
+# ELK
 
-[Home](../README.md) > [Topics](./README.md) > **Tracing**
+[Home](../README.md) > [Topics](./README.md) > **ELK**
 
 **1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
@@ -27,8 +27,8 @@
 
 ## Most asked
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — **1×** · Medium · tags: `Logging`
-  <a id="logging-metrics-distributed-tracing"></a>
+- [ELK](../topics/elk.md#elk) — **1×** · Medium
+  <a id="elk"></a>
 
 ## Beginner
 
@@ -36,8 +36,8 @@ _None in this band yet._
 
 ## Intermediate
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — 1× · tags: `Logging`
-  <a id="logging-metrics-distributed-tracing"></a>
+- [ELK](../topics/elk.md#elk) — 1×
+  <a id="elk"></a>
 
 ## Advanced
 
@@ -47,7 +47,7 @@ _None in this band yet._
 
 ### Unspecified
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — tags: `Logging`
+- [ELK](../topics/elk.md#elk)
 
 ## Companies asking
 
@@ -55,7 +55,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — 2026-07-20 · tags: `Logging`
+- [ELK](../topics/elk.md#elk) — 2026-07-26
 
 ## Related topics
 
@@ -63,16 +63,16 @@ _None in this band yet._
 - [Grafana](./grafana.md)
 - [OpenTelemetry](./opentelemetry.md)
 - [Logging](./logging.md)
-- [ELK](./elk.md)
 - [Monitoring](./monitoring.md)
 - [Alerting](./alerting.md)
 - [Observability](./observability.md)
+- [Tracing](./tracing.md)
 
 ## All questions
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) | Medium | 1 |
+| [ELK](../topics/elk.md#elk) | Medium | 1 |
 
 ## Learning resources
 

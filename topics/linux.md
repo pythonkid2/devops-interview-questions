@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**21** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 17 |
-| Easy / Medium / Hard | 3 / 14 / 0 |
+| Questions | 21 |
+| Easy / Medium / Hard | 3 / 18 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -37,8 +37,12 @@
   <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — **2×** · Medium
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
+- [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) — **2×** · Medium
+  <a id="learn-linux-until-debugging-becomes-instinctive"></a>
 - [What is systemd?](../topics/linux.md#what-is-systemd) — **2×** · Easy
   <a id="what-is-systemd"></a>
+- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — **2×** · Medium
+  <a id="what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux"></a>
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — **2×** · Medium
   <a id="which-linux-commands-do-you-know"></a>
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — **1×** · Medium
@@ -49,12 +53,16 @@
   <a id="how-do-you-deploy-applications-on-a-linux-server"></a>
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — **1×** · Medium
   <a id="how-do-you-manage-services-in-linux"></a>
+- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — **1×** · Medium
+  <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
+- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — **1×** · Medium
+  <a id="how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — **1×** · Medium
   <a id="linux-administration-networking-basics"></a>
+- [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) — **1×** · Medium
+  <a id="linux-administration-shell-scripting"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
   <a id="what-are-the-linux-boot-processes"></a>
-- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — **1×** · Medium
-  <a id="what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux"></a>
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — **1×** · Medium
   <a id="which-linux-commands-do-you-use-daily-in-your-project"></a>
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — **1×** · Medium
@@ -81,6 +89,10 @@
   <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — 2×
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
+- [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) — 2×
+  <a id="learn-linux-until-debugging-becomes-instinctive"></a>
+- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 2×
+  <a id="what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux"></a>
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 2×
   <a id="which-linux-commands-do-you-know"></a>
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — 1×
@@ -91,10 +103,14 @@
   <a id="how-do-you-deploy-applications-on-a-linux-server"></a>
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — 1×
   <a id="how-do-you-manage-services-in-linux"></a>
+- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 1×
+  <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
+- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 1×
+  <a id="how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 1×
   <a id="linux-administration-networking-basics"></a>
-- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 1×
-  <a id="what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux"></a>
+- [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) — 1×
+  <a id="linux-administration-shell-scripting"></a>
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — 1×
   <a id="which-linux-commands-do-you-use-daily-in-your-project"></a>
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — 1×
@@ -116,9 +132,13 @@ _None in this band yet._
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues)
 - [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server)
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux)
+- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux)
 - [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server)
+- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space)
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi)
+- [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive)
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics)
+- [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting)
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes)
 - [What is Linux?](../topics/linux.md#what-is-linux)
 - [What is systemd?](../topics/linux.md#what-is-systemd)
@@ -134,6 +154,11 @@ _None in this band yet._
 
 ## Recently added
 
+- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2026-07-26
+- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 2026-07-26
+- [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) — 2026-07-26
+- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 2026-07-26
+- [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) — 2026-07-26
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — 2026-07-21
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — 2026-07-21
 - [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) — 2026-07-21
@@ -142,13 +167,8 @@ _None in this band yet._
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — 2026-07-21
 - [Why is Linux preferred in DevOps?](../topics/linux.md#why-is-linux-preferred-in-devops) — 2026-07-21
 - [What is Linux?](../topics/linux.md#what-is-linux) — 2026-07-21
-- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 2026-07-20
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 2026-07-18
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — 2026-07-17
-- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2026-07-17
-- [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 2026-07-15
-- [What is systemd?](../topics/linux.md#what-is-systemd) — 2026-07-15
-- [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) — 2026-07-15
 
 ## Related topics
 
@@ -165,13 +185,17 @@ _None in this band yet._
 | [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) | Medium | 1 |
 | [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) | Medium | 1 |
 | [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) | Medium | 1 |
+| [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) | Medium | 1 |
 | [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) | Medium | 2 |
+| [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) | Medium | 1 |
 | [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) | Medium | 2 |
+| [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) | Medium | 2 |
 | [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) | Medium | 1 |
+| [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) | Medium | 1 |
 | [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) | Easy | 1 |
 | [What is Linux?](../topics/linux.md#what-is-linux) | Easy | 3 |
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |
-| [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) | Medium | 1 |
+| [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) | Medium | 2 |
 | [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) | Medium | 2 |
 | [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) | Medium | 1 |
 | [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) | Medium | 1 |

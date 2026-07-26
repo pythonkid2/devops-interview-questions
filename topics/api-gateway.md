@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **API Gateway**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 1 / 1 / 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 1 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="can-api-gateway-rate-limiting-prevent-ddos-attacks"></a>
 - [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) — **1×** · Easy · tags: `Load Balancing`
   <a id="difference-between-reverse-proxy-load-balancer-and-api-gateway"></a>
+- [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) — **1×** · Medium · tags: `Load Balancing`
+  <a id="explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-"></a>
 
 ## Beginner
 
@@ -41,6 +43,8 @@
 
 - [Can API Gateway Rate Limiting prevent DDoS attacks?](../topics/api-gateway.md#can-api-gateway-rate-limiting-prevent-ddos-attacks) — 1×
   <a id="can-api-gateway-rate-limiting-prevent-ddos-attacks"></a>
+- [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) — 1× · tags: `Load Balancing`
+  <a id="explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-"></a>
 
 ## Advanced
 
@@ -52,6 +56,7 @@ _None in this band yet._
 
 - [Can API Gateway Rate Limiting prevent DDoS attacks?](../topics/api-gateway.md#can-api-gateway-rate-limiting-prevent-ddos-attacks)
 - [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) — tags: `Load Balancing`
+- [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) — tags: `Load Balancing`
 
 ## Companies asking
 
@@ -59,6 +64,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) — 2026-07-26 · tags: `Load Balancing`
 - [Can API Gateway Rate Limiting prevent DDoS attacks?](../topics/api-gateway.md#can-api-gateway-rate-limiting-prevent-ddos-attacks) — 2026-07-17
 - [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) — 2026-07-17 · tags: `Load Balancing`
 
@@ -78,6 +84,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Can API Gateway Rate Limiting prevent DDoS attacks?](../topics/api-gateway.md#can-api-gateway-rate-limiting-prevent-ddos-attacks) | Medium | 1 |
 | [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) | Easy | 1 |
+| [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) | Medium | 1 |
 
 ## Learning resources
 

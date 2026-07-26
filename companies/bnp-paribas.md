@@ -20,14 +20,14 @@
 ## Most repeated
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — 8× · Terraform
-- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 5× · Terraform
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 6× · Terraform
 - [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 5× · Terraform
+- [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — 3× · Terraform
 - [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) — 2× · Observability
 - [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) — 2× · Kafka
 - [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) — 2× · Observability
 - [Explain the structure of an Ansible playbook.](../topics/ansible.md#explain-the-structure-of-an-ansible-playbook) — 2× · Ansible
 - [Explain the Terraform workflow.](../topics/terraform.md#explain-the-terraform-workflow) — 2× · Terraform
-- [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — 2× · Terraform
 - [How do you integrate Ansible with the ELK Stack?](../topics/observability.md#how-do-you-integrate-ansible-with-the-elk-stack) — 2× · Observability
 - [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) — 2× · Kafka
 - [How good are you in development?](../topics/general.md#how-good-are-you-in-development) — 2× · General
@@ -92,15 +92,15 @@
 
 ## Recently added
 
+- [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — 2026-07-26
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-26
 - [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 2026-07-18
-- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-18
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — 2026-07-16
 - [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack) — 2026-07-15
 - [What are the components of the ELK Stack?](../topics/observability.md#what-are-the-components-of-the-elk-stack) — 2026-07-15
 - [How do you integrate Ansible with the ELK Stack?](../topics/observability.md#how-do-you-integrate-ansible-with-the-elk-stack) — 2026-07-15
 - [What is the ansible.cfg file?](../topics/ansible.md#what-is-the-ansible-cfg-file) — 2026-07-15
 - [Explain the structure of an Ansible playbook.](../topics/ansible.md#explain-the-structure-of-an-ansible-playbook) — 2026-07-15
-- [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — 2026-07-15
 - [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) — 2026-07-15
 
 [← All companies](./README.md) · [Home](../README.md)

@@ -62,6 +62,7 @@ _None in this band yet._
 - [IAM](./iam.md)
 - [Security](./security.md)
 - [DevSecOps](./devsecops.md)
+- [Vault](./vault.md)
 - [Network Security](./network-security.md)
 
 ## All questions

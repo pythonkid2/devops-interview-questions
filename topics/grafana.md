@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Grafana**
 
-**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 3 |
-| Easy / Medium / Hard | 0 / 3 / 0 |
+| Questions | 4 |
+| Easy / Medium / Hard | 0 / 4 / 0 |
 | Companies | 1 |
 
 ## Most asked
 
+- [Grafana](../topics/grafana.md#grafana) — **1×** · Medium
+  <a id="grafana"></a>
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — **1×** · Medium
   <a id="grafana-ka-use-kyu-hota-hai"></a>
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) — **1×** · Medium
@@ -40,6 +42,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Grafana](../topics/grafana.md#grafana) — 1×
+  <a id="grafana"></a>
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — 1×
   <a id="grafana-ka-use-kyu-hota-hai"></a>
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) — 1×
@@ -55,6 +59,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Grafana](../topics/grafana.md#grafana)
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai)
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti)
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards)
@@ -65,6 +70,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Grafana](../topics/grafana.md#grafana) — 2026-07-26
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — 2026-07-18
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) — 2026-07-17
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) — 2026-07-17
@@ -72,7 +78,9 @@ _None in this band yet._
 ## Related topics
 
 - [Prometheus](./prometheus.md)
+- [OpenTelemetry](./opentelemetry.md)
 - [Logging](./logging.md)
+- [ELK](./elk.md)
 - [Monitoring](./monitoring.md)
 - [Alerting](./alerting.md)
 - [Observability](./observability.md)
@@ -82,6 +90,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Grafana](../topics/grafana.md#grafana) | Medium | 1 |
 | [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) | Medium | 1 |
 | [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) | Medium | 1 |
 | [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) | Medium | 1 |

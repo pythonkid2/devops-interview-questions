@@ -22,11 +22,11 @@
 ## Most repeated
 
 - [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2× · Terraform
+- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 2× · Terraform
 - [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — 1× · Kubernetes
 - [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/terraform.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — 1× · Terraform
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 1× · GitHub Actions
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — 1× · Azure
-- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 1× · Terraform
 - [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops) — 1× · CI/CD
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 1× · Monitoring
 - [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 1× · Bash
@@ -67,9 +67,9 @@
 
 ## Recently added
 
+- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 2026-07-26
 - [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2026-07-15
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 2026-07-15
-- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 2026-07-15
 - [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — 2026-07-15
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 2026-07-15
 - [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 2026-07-15

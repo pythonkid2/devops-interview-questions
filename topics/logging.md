@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Logging**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,16 +21,20 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 2 / 0 |
-| Companies | 0 |
+| Questions | 4 |
+| Easy / Medium / Hard | 0 / 2 / 2 |
+| Companies | 1 |
 
 ## Most asked
 
-- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — **1×** · Medium · tags: `Observability`, `Monitoring`
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — **3×** · Medium · tags: `Observability`, `Monitoring`
   <a id="explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito"></a>
+- [How do you handle errors and logging in production shell scripts?](../topics/logging.md#how-do-you-handle-errors-and-logging-in-production-shell-scripts) — **1×** · Hard
+  <a id="how-do-you-handle-errors-and-logging-in-production-shell-scripts"></a>
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — **1×** · Medium · tags: `Monitoring`
   <a id="how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s"></a>
+- [How would you design an exception logging framework for all custom applications?](../topics/logging.md#how-would-you-design-an-exception-logging-framework-for-all-custom-applications) — **1×** · Hard
+  <a id="how-would-you-design-an-exception-logging-framework-for-all-custom-applications"></a>
 
 ## Beginner
 
@@ -38,35 +42,44 @@ _None in this band yet._
 
 ## Intermediate
 
-- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — 1× · tags: `Observability`, `Monitoring`
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — 3× · tags: `Observability`, `Monitoring`
   <a id="explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito"></a>
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — 1× · tags: `Monitoring`
   <a id="how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s"></a>
 
 ## Advanced
 
-_None in this band yet._
+- [How do you handle errors and logging in production shell scripts?](../topics/logging.md#how-do-you-handle-errors-and-logging-in-production-shell-scripts) — 1×
+  <a id="how-do-you-handle-errors-and-logging-in-production-shell-scripts"></a>
+- [How would you design an exception logging framework for all custom applications?](../topics/logging.md#how-would-you-design-an-exception-logging-framework-for-all-custom-applications) — 1×
+  <a id="how-would-you-design-an-exception-logging-framework-for-all-custom-applications"></a>
 
 ## By interview round
 
 ### Unspecified
 
 - [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — tags: `Observability`, `Monitoring`
+- [How do you handle errors and logging in production shell scripts?](../topics/logging.md#how-do-you-handle-errors-and-logging-in-production-shell-scripts)
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — tags: `Monitoring`
+- [How would you design an exception logging framework for all custom applications?](../topics/logging.md#how-would-you-design-an-exception-logging-framework-for-all-custom-applications)
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Mphasis](../companies/mphasis.md)
 
 ## Recently added
 
-- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — 2026-07-21 · tags: `Observability`, `Monitoring`
+- [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — 2026-07-26 · tags: `Observability`, `Monitoring`
+- [How would you design an exception logging framework for all custom applications?](../topics/logging.md#how-would-you-design-an-exception-logging-framework-for-all-custom-applications) — 2026-07-26
+- [How do you handle errors and logging in production shell scripts?](../topics/logging.md#how-do-you-handle-errors-and-logging-in-production-shell-scripts) — 2026-07-26
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — 2026-07-17 · tags: `Monitoring`
 
 ## Related topics
 
 - [Prometheus](./prometheus.md)
 - [Grafana](./grafana.md)
+- [OpenTelemetry](./opentelemetry.md)
+- [ELK](./elk.md)
 - [Monitoring](./monitoring.md)
 - [Alerting](./alerting.md)
 - [Observability](./observability.md)
@@ -76,8 +89,10 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) | Medium | 1 |
+| [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) | Medium | 3 |
+| [How do you handle errors and logging in production shell scripts?](../topics/logging.md#how-do-you-handle-errors-and-logging-in-production-shell-scripts) | Hard | 1 |
 | [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) | Medium | 1 |
+| [How would you design an exception logging framework for all custom applications?](../topics/logging.md#how-would-you-design-an-exception-logging-framework-for-all-custom-applications) | Hard | 1 |
 
 ## Learning resources
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Alerting**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,18 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
-| Companies | 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 3 / 0 |
+| Companies | 1 |
 
 ## Most asked
 
+- [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — **1×** · Medium · tags: `Monitoring`
+  <a id="a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-"></a>
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — **1×** · Medium
   <a id="alertmanager-ka-role"></a>
+- [Write a shell script to monitor disk usage and send an alert if utilization exceeds 85%.](../topics/alerting.md#write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce) — **1×** · Medium · tags: `Shell Scripting`
+  <a id="write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce"></a>
 
 ## Beginner
 
@@ -36,8 +40,12 @@ _None in this band yet._
 
 ## Intermediate
 
+- [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — 1× · tags: `Monitoring`
+  <a id="a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-"></a>
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — 1×
   <a id="alertmanager-ka-role"></a>
+- [Write a shell script to monitor disk usage and send an alert if utilization exceeds 85%.](../topics/alerting.md#write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce) — 1× · tags: `Shell Scripting`
+  <a id="write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce"></a>
 
 ## Advanced
 
@@ -47,21 +55,27 @@ _None in this band yet._
 
 ### Unspecified
 
+- [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — tags: `Monitoring`
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role)
+- [Write a shell script to monitor disk usage and send an alert if utilization exceeds 85%.](../topics/alerting.md#write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce) — tags: `Shell Scripting`
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Mphasis](../companies/mphasis.md)
 
 ## Recently added
 
+- [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — 2026-07-26 · tags: `Monitoring`
+- [Write a shell script to monitor disk usage and send an alert if utilization exceeds 85%.](../topics/alerting.md#write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce) — 2026-07-26 · tags: `Shell Scripting`
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — 2026-07-18
 
 ## Related topics
 
 - [Prometheus](./prometheus.md)
 - [Grafana](./grafana.md)
+- [OpenTelemetry](./opentelemetry.md)
 - [Logging](./logging.md)
+- [ELK](./elk.md)
 - [Monitoring](./monitoring.md)
 - [Observability](./observability.md)
 - [Tracing](./tracing.md)
@@ -70,7 +84,9 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) | Medium | 1 |
 | [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) | Medium | 1 |
+| [Write a shell script to monitor disk usage and send an alert if utilization exceeds 85%.](../topics/alerting.md#write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce) | Medium | 1 |
 
 ## Learning resources
 

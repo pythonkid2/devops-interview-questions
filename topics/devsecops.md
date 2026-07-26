@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **DevSecOps**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 1 / 1 / 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 1 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="what-is-code-smell-in-sonarqube"></a>
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) — **1×** · Medium
   <a id="difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-"></a>
+- [SAST & DAST](../topics/devsecops.md#sast-dast) — **1×** · Medium
+  <a id="sast-dast"></a>
 
 ## Beginner
 
@@ -41,6 +43,8 @@
 
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) — 1×
   <a id="difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-"></a>
+- [SAST & DAST](../topics/devsecops.md#sast-dast) — 1×
+  <a id="sast-dast"></a>
 
 ## Advanced
 
@@ -51,6 +55,7 @@ _None in this band yet._
 ### Unspecified
 
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-)
+- [SAST & DAST](../topics/devsecops.md#sast-dast)
 - [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube)
 
 ## Companies asking
@@ -59,6 +64,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [SAST & DAST](../topics/devsecops.md#sast-dast) — 2026-07-26
 - [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — 2026-07-17
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) — 2026-07-17
 
@@ -66,6 +72,7 @@ _None in this band yet._
 
 - [IAM](./iam.md)
 - [Security](./security.md)
+- [Vault](./vault.md)
 - [Network Security](./network-security.md)
 - [Certificate Management](./certificate-management.md)
 
@@ -74,6 +81,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) | Medium | 1 |
+| [SAST & DAST](../topics/devsecops.md#sast-dast) | Medium | 1 |
 | [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) | Easy | 2 |
 
 ## Learning resources

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**80** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**84** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,30 +21,34 @@
 
 | | |
 | --- | ---: |
-| Questions | 80 |
-| Easy / Medium / Hard | 10 / 62 / 8 |
+| Questions | 84 |
+| Easy / Medium / Hard | 10 / 66 / 8 |
 | Companies | 8 |
 
 ## Most asked
 
+- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — **5×** · Medium
+  <a id="how-do-you-connect-to-an-ec2-instance-using-ssh"></a>
 - [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../topics/aws.md#how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component) — **5×** · Medium
   <a id="how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component"></a>
 - [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — **5×** · Medium
   <a id="you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state"></a>
-- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — **3×** · Medium
-  <a id="how-do-you-connect-to-an-ec2-instance-using-ssh"></a>
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — **3×** · Medium
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) — **2×** · Hard
   <a id="a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — **2×** · Medium
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
+- [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — **2×** · Medium
+  <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — **2×** · Medium
   <a id="how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions"></a>
 - [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) — **2×** · Medium
   <a id="how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho"></a>
 - [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la) — **2×** · Medium
   <a id="i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la"></a>
+- [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) — **2×** · Medium
+  <a id="tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio"></a>
 - [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — **2×** · Medium
   <a id="unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check"></a>
 - [Usage of AWS CodePipeline and AWS infrastructure in CI/CD.](../topics/aws.md#usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd) — **2×** · Medium
@@ -65,18 +69,14 @@
   <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — **2×** · Medium
   <a id="which-aws-services-do-you-know"></a>
+- [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — **2×** · Medium
+  <a id="which-cloud-are-you-using-which-aws-services-are-you-using"></a>
 - [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces) — **2×** · Easy
   <a id="you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces"></a>
 - [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) — **2×** · Hard
   <a id="you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-"></a>
 - [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) — **1×** · Medium
   <a id="an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl"></a>
-- [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) — **1×** · Medium
-  <a id="an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st"></a>
-- [An EC2 instance is marked healthy, but users cannot access the application. How would you troubleshoot the issue?](../topics/aws.md#an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo) — **1×** · Medium
-  <a id="an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo"></a>
-- [An EC2 instance is running at 100% CPU. How would you investigate the issue?](../topics/aws.md#an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue) — **1×** · Medium
-  <a id="an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue"></a>
 
 ## Beginner
 
@@ -103,22 +103,26 @@
 
 ## Intermediate
 
+- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 5×
+  <a id="how-do-you-connect-to-an-ec2-instance-using-ssh"></a>
 - [How would you split a monolithic CloudFormation template into reusable components without creating cross-stack dependency issues?](../topics/aws.md#how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component) — 5×
   <a id="how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component"></a>
 - [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — 5×
   <a id="you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state"></a>
-- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 3×
-  <a id="how-do-you-connect-to-an-ec2-instance-using-ssh"></a>
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 3×
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — 2×
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
+- [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 2×
+  <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2×
   <a id="how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions"></a>
 - [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) — 2×
   <a id="how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho"></a>
 - [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la) — 2×
   <a id="i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la"></a>
+- [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) — 2×
+  <a id="tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio"></a>
 - [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — 2×
   <a id="unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check"></a>
 - [Usage of AWS CodePipeline and AWS infrastructure in CI/CD.](../topics/aws.md#usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd) — 2×
@@ -133,6 +137,8 @@
   <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — 2×
   <a id="which-aws-services-do-you-know"></a>
+- [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — 2×
+  <a id="which-cloud-are-you-using-which-aws-services-are-you-using"></a>
 - [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) — 1×
   <a id="an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl"></a>
 - [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) — 1×
@@ -143,6 +149,8 @@
   <a id="an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue"></a>
 - [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it) — 1×
   <a id="an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it"></a>
+- [AWS](../topics/aws.md#aws) — 1×
+  <a id="aws"></a>
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — 1× · tags: `Azure`
   <a id="aws-azure-cloud-services"></a>
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) — 1×
@@ -165,8 +173,8 @@
   <a id="have-you-implemented-governance-guardrails-in-aws-organizations"></a>
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — 1× · tags: `FinOps`
   <a id="how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources"></a>
-- [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 1×
-  <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
+- [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) — 1×
+  <a id="how-do-you-handle-an-aws-networking-issue"></a>
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) — 1×
   <a id="how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid"></a>
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) — 1×
@@ -291,6 +299,7 @@
 - [An EC2 instance is marked healthy, but users cannot access the application. How would you troubleshoot the issue?](../topics/aws.md#an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo)
 - [An EC2 instance is running at 100% CPU. How would you investigate the issue?](../topics/aws.md#an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue)
 - [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it)
+- [AWS](../topics/aws.md#aws)
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — tags: `Azure`
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https)
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — tags: `Azure`
@@ -302,6 +311,7 @@
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — tags: `FinOps`
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh)
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts)
+- [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue)
 - [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws)
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid)
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions)
@@ -318,6 +328,7 @@
 - [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y)
 - [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically)
 - [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r)
+- [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio)
 - [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check)
 - [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi)
 - [What are AWS Regions and Availability Zones?](../topics/aws.md#what-are-aws-regions-and-availability-zones)
@@ -336,6 +347,7 @@
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know)
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively)
 - [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them)
+- [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using)
 - [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work)
 - [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want)
 - [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces)
@@ -357,26 +369,27 @@
 
 ## Recently added
 
+- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 2026-07-26
+- [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) — 2026-07-26
+- [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — 2026-07-26
+- [AWS](../topics/aws.md#aws) — 2026-07-26
+- [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) — 2026-07-26
+- [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 2026-07-26
 - [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) — 2026-07-21
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) — 2026-07-21
 - [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) — 2026-07-21
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) — 2026-07-20
-- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 2026-07-20
 - [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — 2026-07-18
 - [What is EC2?](../topics/aws.md#what-is-ec2) — 2026-07-18
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — 2026-07-18
 - [What is AWS?](../topics/aws.md#what-is-aws) — 2026-07-18
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2026-07-18
-- [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) — 2026-07-18
-- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 2026-07-18
-- [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) — 2026-07-17
-- [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) — 2026-07-17
-- [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) — 2026-07-17
 
 ## Related topics
 
 - [Azure](./azure.md)
 - [GCP](./gcp.md)
+- [CloudFormation](./cloudformation.md)
 
 ## All questions
 
@@ -389,6 +402,7 @@
 | [An EC2 instance is marked healthy, but users cannot access the application. How would you troubleshoot the issue?](../topics/aws.md#an-ec2-instance-is-marked-healthy-but-users-cannot-access-the-application-how-wo) | Medium | 1 |
 | [An EC2 instance is running at 100% CPU. How would you investigate the issue?](../topics/aws.md#an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue) | Medium | 1 |
 | [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it) | Medium | 1 |
+| [AWS](../topics/aws.md#aws) | Medium | 1 |
 | [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) | Medium | 1 |
 | [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) | Medium | 1 |
 | [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) | Medium | 1 |
@@ -402,8 +416,9 @@
 | [Have you implemented governance guardrails in AWS Organizations?](../topics/aws.md#have-you-implemented-governance-guardrails-in-aws-organizations) | Medium | 1 |
 | [Have you worked with Load Balancers?](../topics/aws.md#have-you-worked-with-load-balancers) | Easy | 1 |
 | [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) | Medium | 1 |
-| [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) | Medium | 3 |
-| [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) | Medium | 1 |
+| [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) | Medium | 5 |
+| [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) | Medium | 2 |
+| [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) | Medium | 1 |
 | [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws) | Hard | 1 |
 | [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) | Medium | 1 |
 | [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 2 |
@@ -429,6 +444,7 @@
 | [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) | Medium | 1 |
 | [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically) | Medium | 1 |
 | [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) | Medium | 1 |
+| [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) | Medium | 2 |
 | [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) | Medium | 2 |
 | [Usage of AWS CodePipeline and AWS infrastructure in CI/CD.](../topics/aws.md#usage-of-aws-codepipeline-and-aws-infrastructure-in-ci-cd) | Medium | 2 |
 | [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi) | Medium | 1 |
@@ -453,6 +469,7 @@
 | [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) | Medium | 2 |
 | [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) | Medium | 1 |
 | [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) | Medium | 1 |
+| [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) | Medium | 2 |
 | [Which VPC Interface Endpoints are required for AWS SSM to work without internet access?](../topics/aws.md#which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-) | Medium | 1 |
 | [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work) | Medium | 1 |
 | [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) | Medium | 1 |

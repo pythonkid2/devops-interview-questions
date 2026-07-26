@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Kafka**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 1 / 5 / 0 |
+| Questions | 7 |
+| Easy / Medium / Hard | 1 / 6 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does"></a>
 - [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) — **2×** · Medium
   <a id="how-does-kafka-handle-data-durability"></a>
+- [How have you integrated Kafka into your application?](../topics/kafka.md#how-have-you-integrated-kafka-into-your-application) — **2×** · Medium
+  <a id="how-have-you-integrated-kafka-into-your-application"></a>
 - [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) — **2×** · Medium
   <a id="what-is-the-purpose-of-the-replication-factor-in-kafka"></a>
 - [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka) — **2×** · Medium
@@ -51,6 +53,8 @@
   <a id="can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does"></a>
 - [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) — 2×
   <a id="how-does-kafka-handle-data-durability"></a>
+- [How have you integrated Kafka into your application?](../topics/kafka.md#how-have-you-integrated-kafka-into-your-application) — 2×
+  <a id="how-have-you-integrated-kafka-into-your-application"></a>
 - [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) — 2×
   <a id="what-is-the-purpose-of-the-replication-factor-in-kafka"></a>
 - [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka) — 2×
@@ -74,6 +78,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [How have you integrated Kafka into your application?](../topics/kafka.md#how-have-you-integrated-kafka-into-your-application)
 - [What is Kafka?](../topics/kafka.md#what-is-kafka)
 
 ## Companies asking
@@ -82,6 +87,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How have you integrated Kafka into your application?](../topics/kafka.md#how-have-you-integrated-kafka-into-your-application) — 2026-07-26
 - [What is Kafka?](../topics/kafka.md#what-is-kafka) — 2026-07-16
 - [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) — 2026-07-15
 - [When should an application consider using Kafka?](../topics/kafka.md#when-should-an-application-consider-using-kafka) — 2026-07-15
@@ -101,6 +107,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Can you tell me the core components of Kafka and what each component does?](../topics/kafka.md#can-you-tell-me-the-core-components-of-kafka-and-what-each-component-does) | Medium | 2 |
 | [How does Kafka handle data durability?](../topics/kafka.md#how-does-kafka-handle-data-durability) | Medium | 2 |
+| [How have you integrated Kafka into your application?](../topics/kafka.md#how-have-you-integrated-kafka-into-your-application) | Medium | 2 |
 | [What is Kafka?](../topics/kafka.md#what-is-kafka) | Easy | 1 |
 | [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) | Medium | 2 |
 | [What would be your day-to-day role when it comes to Kafka?](../topics/kafka.md#what-would-be-your-day-to-day-role-when-it-comes-to-kafka) | Medium | 2 |

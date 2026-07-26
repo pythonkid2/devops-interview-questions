@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Service Mesh**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 1 / 1 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 2 / 1 |
 | Companies | 0 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red"></a>
 - [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices) — **1×** · Hard
   <a id="how-would-you-implement-fine-grained-service-discovery-across-1000-microservices"></a>
+- [Service Mesh](../topics/service-mesh.md#service-mesh) — **1×** · Medium
+  <a id="service-mesh"></a>
 
 ## Beginner
 
@@ -40,6 +42,8 @@ _None in this band yet._
 
 - [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) — 1× · tags: `DNS`
   <a id="how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red"></a>
+- [Service Mesh](../topics/service-mesh.md#service-mesh) — 1×
+  <a id="service-mesh"></a>
 
 ## Advanced
 
@@ -52,6 +56,7 @@ _None in this band yet._
 
 - [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) — tags: `DNS`
 - [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices)
+- [Service Mesh](../topics/service-mesh.md#service-mesh)
 
 ## Companies asking
 
@@ -59,6 +64,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Service Mesh](../topics/service-mesh.md#service-mesh) — 2026-07-26
 - [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) — 2026-07-17 · tags: `DNS`
 - [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices) — 2026-07-17
 
@@ -78,6 +84,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) | Medium | 1 |
 | [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices) | Hard | 1 |
+| [Service Mesh](../topics/service-mesh.md#service-mesh) | Medium | 1 |
 
 ## Learning resources
 

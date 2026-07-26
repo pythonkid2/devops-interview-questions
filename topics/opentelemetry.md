@@ -1,6 +1,6 @@
-# Tracing
+# OpenTelemetry
 
-[Home](../README.md) > [Topics](./README.md) > **Tracing**
+[Home](../README.md) > [Topics](./README.md) > **OpenTelemetry**
 
 **1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
@@ -27,8 +27,8 @@
 
 ## Most asked
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — **1×** · Medium · tags: `Logging`
-  <a id="logging-metrics-distributed-tracing"></a>
+- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — **1×** · Medium
+  <a id="opentelemetry"></a>
 
 ## Beginner
 
@@ -36,8 +36,8 @@ _None in this band yet._
 
 ## Intermediate
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — 1× · tags: `Logging`
-  <a id="logging-metrics-distributed-tracing"></a>
+- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — 1×
+  <a id="opentelemetry"></a>
 
 ## Advanced
 
@@ -47,7 +47,7 @@ _None in this band yet._
 
 ### Unspecified
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — tags: `Logging`
+- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry)
 
 ## Companies asking
 
@@ -55,24 +55,24 @@ _None in this band yet._
 
 ## Recently added
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — 2026-07-20 · tags: `Logging`
+- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — 2026-07-26
 
 ## Related topics
 
 - [Prometheus](./prometheus.md)
 - [Grafana](./grafana.md)
-- [OpenTelemetry](./opentelemetry.md)
 - [Logging](./logging.md)
 - [ELK](./elk.md)
 - [Monitoring](./monitoring.md)
 - [Alerting](./alerting.md)
 - [Observability](./observability.md)
+- [Tracing](./tracing.md)
 
 ## All questions
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) | Medium | 1 |
+| [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) | Medium | 1 |
 
 ## Learning resources
 

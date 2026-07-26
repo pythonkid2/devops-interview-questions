@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**74** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**80** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,13 +21,13 @@
 
 | | |
 | --- | ---: |
-| Questions | 74 |
-| Easy / Medium / Hard | 2 / 66 / 6 |
+| Questions | 80 |
+| Easy / Medium / Hard | 2 / 72 / 6 |
 | Companies | 6 |
 
 ## Most asked
 
-- [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — **3×** · Medium
+- [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — **4×** · Medium
   <a id="how-do-you-securely-store-credentials-in-jenkins"></a>
 - [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) — **3×** · Medium
   <a id="what-is-jenkins-and-why-is-it-used"></a>
@@ -43,6 +43,8 @@
   <a id="a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo"></a>
 - [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — **2×** · Medium
   <a id="explain-a-jenkins-pipeline-and-its-stages"></a>
+- [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — **2×** · Medium · tags: `CI/CD`
+  <a id="explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages"></a>
 - [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) — **2×** · Medium · tags: `CI/CD`
   <a id="explain-flow-in-jenkins-pipeline"></a>
 - [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture) — **2×** · Medium
@@ -69,25 +71,23 @@
   <a id="if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t"></a>
 - [The build works locally but fails in Jenkins. What would you check first?](../topics/jenkins.md#the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first) — **2×** · Medium
   <a id="the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first"></a>
+- [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — **2×** · Medium
+  <a id="walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi"></a>
+- [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — **2×** · Medium · tags: `CI/CD`
+  <a id="walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in"></a>
 - [What are Build Triggers in Jenkins?](../topics/jenkins.md#what-are-build-triggers-in-jenkins) — **2×** · Medium
   <a id="what-are-build-triggers-in-jenkins"></a>
-- [What are Post Build Actions?](../topics/jenkins.md#what-are-post-build-actions) — **2×** · Medium
-  <a id="what-are-post-build-actions"></a>
-- [What happens if the Quality Gate fails?](../topics/jenkins.md#what-happens-if-the-quality-gate-fails) — **2×** · Medium
-  <a id="what-happens-if-the-quality-gate-fails"></a>
-- [What is a Jenkins Pipeline?](../topics/jenkins.md#what-is-a-jenkins-pipeline) — **2×** · Medium
-  <a id="what-is-a-jenkins-pipeline"></a>
 
 ## Beginner
 
+- [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) — 2×
+  <a id="what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them"></a>
 - [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — 2×
   <a id="what-is-jenkins"></a>
-- [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) — 1×
-  <a id="what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them"></a>
 
 ## Intermediate
 
-- [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — 3×
+- [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — 4×
   <a id="how-do-you-securely-store-credentials-in-jenkins"></a>
 - [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) — 3×
   <a id="what-is-jenkins-and-why-is-it-used"></a>
@@ -103,6 +103,8 @@
   <a id="a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo"></a>
 - [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2×
   <a id="explain-a-jenkins-pipeline-and-its-stages"></a>
+- [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — 2× · tags: `CI/CD`
+  <a id="explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages"></a>
 - [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) — 2× · tags: `CI/CD`
   <a id="explain-flow-in-jenkins-pipeline"></a>
 - [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture) — 2×
@@ -129,6 +131,10 @@
   <a id="if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t"></a>
 - [The build works locally but fails in Jenkins. What would you check first?](../topics/jenkins.md#the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first) — 2×
   <a id="the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first"></a>
+- [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 2×
+  <a id="walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi"></a>
+- [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — 2× · tags: `CI/CD`
+  <a id="walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in"></a>
 - [What are Build Triggers in Jenkins?](../topics/jenkins.md#what-are-build-triggers-in-jenkins) — 2×
   <a id="what-are-build-triggers-in-jenkins"></a>
 - [What are Post Build Actions?](../topics/jenkins.md#what-are-post-build-actions) — 2×
@@ -143,6 +149,8 @@
   <a id="what-is-the-difference-between-a-freestyle-job-and-a-pipeline-job"></a>
 - [What is the difference between a Jenkins Controller (Master) and an Agent?](../topics/jenkins.md#what-is-the-difference-between-a-jenkins-controller-master-and-an-agent) — 2×
   <a id="what-is-the-difference-between-a-jenkins-controller-master-and-an-agent"></a>
+- [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) — 2×
+  <a id="which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y"></a>
 - [Why do we integrate Nexus Repository with Jenkins?](../topics/jenkins.md#why-do-we-integrate-nexus-repository-with-jenkins) — 2×
   <a id="why-do-we-integrate-nexus-repository-with-jenkins"></a>
 - [Why do we integrate SonarQube with Jenkins?](../topics/jenkins.md#why-do-we-integrate-sonarqube-with-jenkins) — 2×
@@ -153,12 +161,14 @@
   <a id="write-jenkins-pipeline-syntax"></a>
 - [A Jenkins agent frequently disconnects during deployments. What would you investigate?](../topics/jenkins.md#a-jenkins-agent-frequently-disconnects-during-deployments-what-would-you-investi) — 1×
   <a id="a-jenkins-agent-frequently-disconnects-during-deployments-what-would-you-investi"></a>
+- [A Jenkins agent frequently goes offline during deployments. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble) — 1×
+  <a id="a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble"></a>
 - [A Jenkins pipeline completes successfully, but the application is not deployed. How would you identify where the deployment actually failed?](../topics/jenkins.md#a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho) — 1× · tags: `CI/CD`
   <a id="a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho"></a>
+- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — 1× · tags: `CI/CD`
+  <a id="a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha"></a>
 - [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) — 1× · tags: `Shell Scripting`
   <a id="a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can"></a>
-- [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — 1× · tags: `CI/CD`
-  <a id="explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages"></a>
 - [Explain your experience with Jenkins and GitLab CI/CD.](../topics/jenkins.md#explain-your-experience-with-jenkins-and-gitlab-ci-cd) — 1× · tags: `GitLab CI`, `CI/CD`
   <a id="explain-your-experience-with-jenkins-and-gitlab-ci-cd"></a>
 - [Have you configured any code quality or security tools in Jenkins pipelines?](../topics/jenkins.md#have-you-configured-any-code-quality-or-security-tools-in-jenkins-pipelines) — 1×
@@ -197,20 +207,22 @@
   <a id="if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you"></a>
 - [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) — 1× · tags: `CI/CD`
   <a id="if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger"></a>
+- [Jenkins](../topics/jenkins.md#jenkins) — 1×
+  <a id="jenkins"></a>
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — 1× · tags: `CI/CD`
   <a id="jenkins-pipeline-automation"></a>
+- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 1× · tags: `CI/CD`
+  <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
+- [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 1×
+  <a id="lost-the-jenkins-admin-password-how-do-you-recover-it"></a>
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — 1× · tags: `Git`
   <a id="memorize-this-jenkins-first-stage-is-always-git-checkout"></a>
-- [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 1×
-  <a id="walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi"></a>
-- [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — 1× · tags: `CI/CD`
-  <a id="walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in"></a>
+- [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — 1× · tags: `CI/CD`
+  <a id="walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment"></a>
 - [Was Jenkins deployed manually or through Infrastructure as Code?](../topics/jenkins.md#was-jenkins-deployed-manually-or-through-infrastructure-as-code) — 1×
   <a id="was-jenkins-deployed-manually-or-through-infrastructure-as-code"></a>
 - [What was your role in Jenkins?](../topics/jenkins.md#what-was-your-role-in-jenkins) — 1×
   <a id="what-was-your-role-in-jenkins"></a>
-- [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) — 1×
-  <a id="which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y"></a>
 - [You mentioned maintaining separate CI and CD pipelines in Jenkins. How did you separate them and what triggers were configured at each stage?](../topics/jenkins.md#you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se) — 1×
   <a id="you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se"></a>
 - [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — 1× · tags: `CI/CD`
@@ -253,11 +265,13 @@
 ### Unspecified
 
 - [A Jenkins agent frequently disconnects during deployments. What would you investigate?](../topics/jenkins.md#a-jenkins-agent-frequently-disconnects-during-deployments-what-would-you-investi)
+- [A Jenkins agent frequently goes offline during deployments. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble)
 - [A Jenkins Agent is offline. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-is-offline-how-would-you-troubleshoot-it)
 - [A Jenkins build is stuck in the queue. What could be the reasons?](../topics/jenkins.md#a-jenkins-build-is-stuck-in-the-queue-what-could-be-the-reasons)
 - [A Jenkins pipeline completed successfully, but the latest changes are not visible in production. What components would you verify before concluding the deployment failed?](../topics/jenkins.md#a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible)
 - [A Jenkins pipeline completes successfully, but the application is not deployed. How would you identify where the deployment actually failed?](../topics/jenkins.md#a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho) — tags: `CI/CD`
 - [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process)
+- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — tags: `CI/CD`
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo)
 - [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) — tags: `Shell Scripting`
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — tags: `CI/CD`
@@ -291,10 +305,14 @@
 - [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks)
 - [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) — tags: `CI/CD`
 - [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) — tags: `CI/CD`
+- [Jenkins](../topics/jenkins.md#jenkins)
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — tags: `CI/CD`
+- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — tags: `CI/CD`
+- [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it)
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — tags: `Git`
 - [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/jenkins.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-)
 - [The build works locally but fails in Jenkins. What would you check first?](../topics/jenkins.md#the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first)
+- [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — tags: `CI/CD`
 - [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi)
 - [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — tags: `CI/CD`
 - [Was Jenkins deployed manually or through Infrastructure as Code?](../topics/jenkins.md#was-jenkins-deployed-manually-or-through-infrastructure-as-code)
@@ -331,21 +349,21 @@
 
 ## Recently added
 
+- [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-26
+- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2026-07-26 · tags: `CI/CD`
+- [Jenkins](../topics/jenkins.md#jenkins) — 2026-07-26
+- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — 2026-07-26 · tags: `CI/CD`
+- [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 2026-07-26
+- [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) — 2026-07-26
+- [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) — 2026-07-26
+- [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — 2026-07-26 · tags: `CI/CD`
+- [A Jenkins agent frequently goes offline during deployments. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble) — 2026-07-26
+- [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — 2026-07-26
+- [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — 2026-07-26 · tags: `CI/CD`
+- [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — 2026-07-26 · tags: `CI/CD`
 - [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — 2026-07-21 · tags: `CI/CD`
 - [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks) — 2026-07-20
 - [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) — 2026-07-20 · tags: `Shell Scripting`
-- [A Jenkins agent frequently disconnects during deployments. What would you investigate?](../topics/jenkins.md#a-jenkins-agent-frequently-disconnects-during-deployments-what-would-you-investi) — 2026-07-20
-- [Your Jenkins workspace keeps consuming disk space every day. How would you automate workspace cleanup?](../topics/jenkins.md#your-jenkins-workspace-keeps-consuming-disk-space-every-day-how-would-you-automa) — 2026-07-20
-- [A Jenkins pipeline completes successfully, but the application is not deployed. How would you identify where the deployment actually failed?](../topics/jenkins.md#a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho) — 2026-07-20 · tags: `CI/CD`
-- [What was your role in Jenkins?](../topics/jenkins.md#what-was-your-role-in-jenkins) — 2026-07-20
-- [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) — 2026-07-20 · tags: `CI/CD`
-- [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — 2026-07-18
-- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2026-07-18
-- [Have you configured any code quality or security tools in Jenkins pipelines?](../topics/jenkins.md#have-you-configured-any-code-quality-or-security-tools-in-jenkins-pipelines) — 2026-07-17
-- [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/jenkins.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-) — 2026-07-17
-- [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) — 2026-07-17 · tags: `CI/CD`
-- [You mentioned maintaining separate CI and CD pipelines in Jenkins. How did you separate them and what triggers were configured at each stage?](../topics/jenkins.md#you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se) — 2026-07-17
-- [Write jenkins pipeline syntax](../topics/jenkins.md#write-jenkins-pipeline-syntax) — 2026-07-17
 
 ## Related topics
 
@@ -359,15 +377,17 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A Jenkins agent frequently disconnects during deployments. What would you investigate?](../topics/jenkins.md#a-jenkins-agent-frequently-disconnects-during-deployments-what-would-you-investi) | Medium | 1 |
+| [A Jenkins agent frequently goes offline during deployments. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble) | Medium | 1 |
 | [A Jenkins Agent is offline. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-is-offline-how-would-you-troubleshoot-it) | Medium | 2 |
 | [A Jenkins build is stuck in the queue. What could be the reasons?](../topics/jenkins.md#a-jenkins-build-is-stuck-in-the-queue-what-could-be-the-reasons) | Medium | 2 |
 | [A Jenkins pipeline completed successfully, but the latest changes are not visible in production. What components would you verify before concluding the deployment failed?](../topics/jenkins.md#a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible) | Medium | 2 |
 | [A Jenkins pipeline completes successfully, but the application is not deployed. How would you identify where the deployment actually failed?](../topics/jenkins.md#a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho) | Medium | 1 |
 | [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) | Medium | 2 |
+| [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) | Medium | 1 |
 | [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) | Medium | 2 |
 | [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) | Medium | 1 |
 | [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) | Medium | 2 |
-| [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) | Medium | 1 |
+| [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) | Medium | 2 |
 | [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) | Medium | 2 |
 | [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture) | Medium | 2 |
 | [Explain the Jenkins pipeline you worked on.](../topics/jenkins.md#explain-the-jenkins-pipeline-you-worked-on) | Medium | 2 |
@@ -396,24 +416,28 @@
 | [How do you pass environment variables in a Jenkins Pipeline?](../topics/jenkins.md#how-do-you-pass-environment-variables-in-a-jenkins-pipeline) | Medium | 2 |
 | [How do you roll back a failed deployment in Jenkins?](../topics/jenkins.md#how-do-you-roll-back-a-failed-deployment-in-jenkins) | Medium | 1 |
 | [How do you secure Jenkins in production?](../topics/jenkins.md#how-do-you-secure-jenkins-in-production) | Hard | 1 |
-| [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) | Medium | 3 |
+| [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) | Medium | 4 |
 | [How do you use shared libraries in Jenkins?](../topics/jenkins.md#how-do-you-use-shared-libraries-in-jenkins) | Medium | 1 |
 | [How does Jenkins trigger automatically after a GitHub push?](../topics/jenkins.md#how-does-jenkins-trigger-automatically-after-a-github-push) | Medium | 2 |
 | [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks) | Medium | 1 |
 | [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) | Medium | 1 |
 | [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) | Medium | 2 |
 | [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) | Medium | 1 |
+| [Jenkins](../topics/jenkins.md#jenkins) | Medium | 1 |
 | [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) | Medium | 1 |
+| [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) | Medium | 1 |
+| [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) | Medium | 1 |
 | [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) | Medium | 1 |
 | [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/jenkins.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-) | Hard | 1 |
 | [The build works locally but fails in Jenkins. What would you check first?](../topics/jenkins.md#the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first) | Medium | 2 |
-| [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) | Medium | 1 |
-| [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) | Medium | 1 |
+| [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) | Medium | 1 |
+| [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) | Medium | 2 |
+| [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) | Medium | 2 |
 | [Was Jenkins deployed manually or through Infrastructure as Code?](../topics/jenkins.md#was-jenkins-deployed-manually-or-through-infrastructure-as-code) | Medium | 1 |
 | [What are Build Triggers in Jenkins?](../topics/jenkins.md#what-are-build-triggers-in-jenkins) | Medium | 2 |
 | [What are common Jenkins production issues?](../topics/jenkins.md#what-are-common-jenkins-production-issues) | Hard | 1 |
 | [What are Post Build Actions?](../topics/jenkins.md#what-are-post-build-actions) | Medium | 2 |
-| [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) | Easy | 1 |
+| [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) | Easy | 2 |
 | [What happens if the Quality Gate fails?](../topics/jenkins.md#what-happens-if-the-quality-gate-fails) | Medium | 2 |
 | [What is a Jenkins Pipeline?](../topics/jenkins.md#what-is-a-jenkins-pipeline) | Medium | 2 |
 | [What is a Jenkinsfile?](../topics/jenkins.md#what-is-a-jenkinsfile) | Medium | 2 |
@@ -423,7 +447,7 @@
 | [What is the difference between a Freestyle Job and a Pipeline Job?](../topics/jenkins.md#what-is-the-difference-between-a-freestyle-job-and-a-pipeline-job) | Medium | 2 |
 | [What is the difference between a Jenkins Controller (Master) and an Agent?](../topics/jenkins.md#what-is-the-difference-between-a-jenkins-controller-master-and-an-agent) | Medium | 2 |
 | [What was your role in Jenkins?](../topics/jenkins.md#what-was-your-role-in-jenkins) | Medium | 1 |
-| [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) | Medium | 1 |
+| [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) | Medium | 2 |
 | [Why do we integrate Nexus Repository with Jenkins?](../topics/jenkins.md#why-do-we-integrate-nexus-repository-with-jenkins) | Medium | 2 |
 | [Why do we integrate SonarQube with Jenkins?](../topics/jenkins.md#why-do-we-integrate-sonarqube-with-jenkins) | Medium | 2 |
 | [Why do we use Jenkins Agents?](../topics/jenkins.md#why-do-we-use-jenkins-agents) | Medium | 2 |

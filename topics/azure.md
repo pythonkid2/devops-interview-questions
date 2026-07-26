@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Azure**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 3 / 4 / 2 |
+| Questions | 17 |
+| Easy / Medium / Hard | 7 / 8 / 2 |
 | Companies | 4 |
 
 ## Most asked
@@ -35,25 +35,49 @@
   <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — **2×** · Hard
   <a id="when-would-you-choose-an-azure-function-over-power-automate"></a>
+- [Azure](../topics/azure.md#azure) — **1×** · Medium
+  <a id="azure"></a>
+- [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — **1×** · Medium
+  <a id="azure-regions-availability-zones"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — **1×** · Medium
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — **1×** · Hard
   <a id="implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code"></a>
+- [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — **1×** · Medium
+  <a id="the-azure-shared-responsibility-model"></a>
+- [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — **1×** · Easy
+  <a id="what-is-an-azure-resource-group"></a>
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — **1×** · Easy
   <a id="what-is-azure-boards"></a>
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — **1×** · Easy
   <a id="what-is-azure-repos"></a>
+- [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — **1×** · Easy
+  <a id="what-is-azure-resource-manager-arm"></a>
 - [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — **1×** · Easy
   <a id="what-is-azure-test-plans"></a>
+- [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) — **1×** · Easy
+  <a id="what-is-microsoft-azure"></a>
+- [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions) — **1×** · Easy
+  <a id="what-is-the-difference-between-azure-app-service-and-azure-functions"></a>
+- [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) — **1×** · Medium
+  <a id="what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv"></a>
 
 ## Beginner
 
+- [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — 1×
+  <a id="what-is-an-azure-resource-group"></a>
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — 1×
   <a id="what-is-azure-boards"></a>
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — 1×
   <a id="what-is-azure-repos"></a>
+- [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — 1×
+  <a id="what-is-azure-resource-manager-arm"></a>
 - [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — 1×
   <a id="what-is-azure-test-plans"></a>
+- [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) — 1×
+  <a id="what-is-microsoft-azure"></a>
+- [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions) — 1×
+  <a id="what-is-the-difference-between-azure-app-service-and-azure-functions"></a>
 
 ## Intermediate
 
@@ -63,8 +87,16 @@
   <a id="how-will-you-troubleshoot-connectivity-issues-in-azure"></a>
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — 2×
   <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
+- [Azure](../topics/azure.md#azure) — 1×
+  <a id="azure"></a>
+- [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — 1×
+  <a id="azure-regions-availability-zones"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — 1×
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
+- [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — 1×
+  <a id="the-azure-shared-responsibility-model"></a>
+- [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) — 1×
+  <a id="what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv"></a>
 
 ## Advanced
 
@@ -77,14 +109,22 @@
 
 ### Unspecified
 
+- [Azure](../topics/azure.md#azure)
+- [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones)
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops)
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t)
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure)
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code)
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it)
+- [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model)
+- [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group)
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards)
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos)
+- [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm)
 - [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans)
+- [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure)
+- [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions)
+- [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv)
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate)
 
 ## Companies asking
@@ -96,6 +136,14 @@
 
 ## Recently added
 
+- [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — 2026-07-26
+- [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — 2026-07-26
+- [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — 2026-07-26
+- [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — 2026-07-26
+- [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) — 2026-07-26
+- [Azure](../topics/azure.md#azure) — 2026-07-26
+- [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) — 2026-07-26
+- [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions) — 2026-07-26
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — 2026-07-18
 - [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — 2026-07-17
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — 2026-07-17
@@ -103,26 +151,33 @@
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — 2026-07-17
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — 2026-07-15
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — 2026-07-15
-- [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — 2026-07-15
-- [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — 2026-07-15
 
 ## Related topics
 
 - [AWS](./aws.md)
 - [GCP](./gcp.md)
+- [CloudFormation](./cloudformation.md)
 
 ## All questions
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Azure](../topics/azure.md#azure) | Medium | 1 |
+| [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) | Medium | 1 |
 | [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) | Medium | 2 |
 | [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) | Medium | 1 |
 | [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) | Medium | 2 |
 | [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) | Hard | 1 |
 | [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) | Medium | 2 |
+| [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) | Medium | 1 |
+| [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) | Easy | 1 |
 | [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) | Easy | 1 |
 | [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) | Easy | 1 |
+| [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) | Easy | 1 |
 | [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) | Easy | 1 |
+| [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) | Easy | 1 |
+| [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions) | Easy | 1 |
+| [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) | Medium | 1 |
 | [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) | Hard | 2 |
 
 ## Learning resources

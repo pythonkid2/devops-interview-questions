@@ -1,6 +1,6 @@
-# Tracing
+# CloudFormation
 
-[Home](../README.md) > [Topics](./README.md) > **Tracing**
+[Home](../README.md) > [Topics](./README.md) > **CloudFormation**
 
 **1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
@@ -27,8 +27,8 @@
 
 ## Most asked
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — **1×** · Medium · tags: `Logging`
-  <a id="logging-metrics-distributed-tracing"></a>
+- [CloudFormation](../topics/cloudformation.md#cloudformation) — **1×** · Medium
+  <a id="cloudformation"></a>
 
 ## Beginner
 
@@ -36,8 +36,8 @@ _None in this band yet._
 
 ## Intermediate
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — 1× · tags: `Logging`
-  <a id="logging-metrics-distributed-tracing"></a>
+- [CloudFormation](../topics/cloudformation.md#cloudformation) — 1×
+  <a id="cloudformation"></a>
 
 ## Advanced
 
@@ -47,7 +47,7 @@ _None in this band yet._
 
 ### Unspecified
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — tags: `Logging`
+- [CloudFormation](../topics/cloudformation.md#cloudformation)
 
 ## Companies asking
 
@@ -55,24 +55,19 @@ _None in this band yet._
 
 ## Recently added
 
-- [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — 2026-07-20 · tags: `Logging`
+- [CloudFormation](../topics/cloudformation.md#cloudformation) — 2026-07-26
 
 ## Related topics
 
-- [Prometheus](./prometheus.md)
-- [Grafana](./grafana.md)
-- [OpenTelemetry](./opentelemetry.md)
-- [Logging](./logging.md)
-- [ELK](./elk.md)
-- [Monitoring](./monitoring.md)
-- [Alerting](./alerting.md)
-- [Observability](./observability.md)
+- [AWS](./aws.md)
+- [Azure](./azure.md)
+- [GCP](./gcp.md)
 
 ## All questions
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) | Medium | 1 |
+| [CloudFormation](../topics/cloudformation.md#cloudformation) | Medium | 1 |
 
 ## Learning resources
 

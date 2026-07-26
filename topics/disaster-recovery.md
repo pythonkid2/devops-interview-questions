@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Disaster Recovery**
 
-**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 10 |
-| Easy / Medium / Hard | 0 / 5 / 5 |
+| Questions | 11 |
+| Easy / Medium / Hard | 0 / 6 / 5 |
 | Companies | 2 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="design-a-disaster-recovery-strategy-rto-rpo"></a>
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — **1×** · Hard · tags: `Kubernetes`, `System Design`
   <a id="design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-"></a>
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — **1×** · Medium
+  <a id="disaster-recovery"></a>
 - [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) — **1×** · Hard
   <a id="how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure"></a>
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — **1×** · Medium
@@ -60,6 +62,8 @@ _None in this band yet._
   <a id="how-would-you-structure-the-failover-process-during-a-regional-outage"></a>
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) — 2×
   <a id="youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou"></a>
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 1×
+  <a id="disaster-recovery"></a>
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — 1×
   <a id="if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app"></a>
 - [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — 1× · tags: `DNS`
@@ -88,6 +92,7 @@ _None in this band yet._
 
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo)
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — tags: `Kubernetes`, `System Design`
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery)
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem)
 - [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure)
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes)
@@ -103,6 +108,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 2026-07-26
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — 2026-07-18 · tags: `Kubernetes`, `System Design`
 - [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 2026-07-18
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 2026-07-17
@@ -130,6 +136,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) | Hard | 1 |
 | [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) | Hard | 1 |
+| [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) | Medium | 1 |
 | [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Hard | 3 |
 | [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) | Hard | 1 |
 | [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) | Hard | 2 |

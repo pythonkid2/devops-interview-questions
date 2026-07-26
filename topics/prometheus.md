@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Prometheus**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 0 / 8 / 0 |
+| Questions | 9 |
+| Easy / Medium / Hard | 0 / 9 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -39,6 +39,8 @@
   <a id="how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana"></a>
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — **1×** · Medium · tags: `Grafana`, `Monitoring`
   <a id="monitoring-with-prometheus-grafana"></a>
+- [Prometheus](../topics/prometheus.md#prometheus) — **1×** · Medium
+  <a id="prometheus"></a>
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — **1×** · Medium
   <a id="prometheus-kya-karta-hai"></a>
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — **1×** · Medium
@@ -62,6 +64,8 @@ _None in this band yet._
   <a id="how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana"></a>
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — 1× · tags: `Grafana`, `Monitoring`
   <a id="monitoring-with-prometheus-grafana"></a>
+- [Prometheus](../topics/prometheus.md#prometheus) — 1×
+  <a id="prometheus"></a>
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — 1×
   <a id="prometheus-kya-karta-hai"></a>
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — 1×
@@ -81,6 +85,7 @@ _None in this band yet._
 - [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) — tags: `Grafana`, `Monitoring`
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — tags: `Grafana`, `Monitoring`, `Kubernetes`
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — tags: `Grafana`, `Monitoring`
+- [Prometheus](../topics/prometheus.md#prometheus)
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai)
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring)
 
@@ -90,6 +95,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Prometheus](../topics/prometheus.md#prometheus) — 2026-07-26
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — 2026-07-18
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) — 2026-07-18
 - [Have you configured alerts in Prometheus and Grafana? Explain the setup.](../topics/prometheus.md#have-you-configured-alerts-in-prometheus-and-grafana-explain-the-setup) — 2026-07-17 · tags: `Grafana`
@@ -102,7 +108,9 @@ _None in this band yet._
 ## Related topics
 
 - [Grafana](./grafana.md)
+- [OpenTelemetry](./opentelemetry.md)
 - [Logging](./logging.md)
+- [ELK](./elk.md)
 - [Monitoring](./monitoring.md)
 - [Alerting](./alerting.md)
 - [Observability](./observability.md)
@@ -118,6 +126,7 @@ _None in this band yet._
 | [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) | Medium | 1 |
 | [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) | Medium | 1 |
 | [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) | Medium | 1 |
+| [Prometheus](../topics/prometheus.md#prometheus) | Medium | 1 |
 | [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) | Medium | 1 |
 | [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) | Medium | 1 |
 

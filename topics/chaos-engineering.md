@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Chaos Engineering**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
+- [Chaos Engineering](../topics/chaos-engineering.md#chaos-engineering) — **1×** · Medium
+  <a id="chaos-engineering"></a>
 - [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin) — **1×** · Medium
   <a id="describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin"></a>
 
@@ -36,6 +38,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Chaos Engineering](../topics/chaos-engineering.md#chaos-engineering) — 1×
+  <a id="chaos-engineering"></a>
 - [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin) — 1×
   <a id="describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin"></a>
 
@@ -47,6 +51,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Chaos Engineering](../topics/chaos-engineering.md#chaos-engineering)
 - [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin)
 
 ## Companies asking
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Chaos Engineering](../topics/chaos-engineering.md#chaos-engineering) — 2026-07-26
 - [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin) — 2026-07-17
 
 ## Related topics
@@ -71,6 +77,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Chaos Engineering](../topics/chaos-engineering.md#chaos-engineering) | Medium | 1 |
 | [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin) | Medium | 1 |
 
 ## Learning resources
