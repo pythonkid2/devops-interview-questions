@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-1326-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-519-informational)
+![questions](https://img.shields.io/badge/questions-1326-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-549-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -19,8 +19,8 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 | Metric | Value |
 | --- | ---: |
 | Unique questions | 1326 |
-| Posts processed | 519 |
-| Added this week | 1326 |
+| Posts processed | 549 |
+| Added this week | 118 |
 
 ## Popular topics
 
