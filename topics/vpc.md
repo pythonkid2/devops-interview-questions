@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **VPC**
 
-**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 5 |
-| Easy / Medium / Hard | 3 / 2 / 0 |
+| Questions | 6 |
+| Easy / Medium / Hard | 3 / 3 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -35,6 +35,8 @@
   <a id="what-is-vpc"></a>
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — **1×** · Medium · tags: `Networking`
   <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
+- [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — **1×** · Medium
+  <a id="suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar"></a>
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — **1×** · Easy
   <a id="what-are-the-difference-between-these-two-private-and-public-subnet"></a>
 
@@ -53,6 +55,8 @@
   <a id="how-to-create-different-subnets-in-vpc"></a>
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — 1× · tags: `Networking`
   <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
+- [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — 1×
+  <a id="suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar"></a>
 
 ## Advanced
 
@@ -64,6 +68,7 @@ _None in this band yet._
 
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — tags: `Networking`
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc)
+- [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar)
 - [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet)
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet)
 - [What is VPC?](../topics/vpc.md#what-is-vpc)
@@ -74,6 +79,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — 2026-07-27
 - [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet) — 2026-07-26
 - [What is VPC?](../topics/vpc.md#what-is-vpc) — 2026-07-18
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — 2026-07-17 · tags: `Networking`
@@ -96,6 +102,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) | Medium | 1 |
 | [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) | Medium | 2 |
+| [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) | Medium | 1 |
 | [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet) | Easy | 2 |
 | [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) | Easy | 1 |
 | [What is VPC?](../topics/vpc.md#what-is-vpc) | Easy | 2 |

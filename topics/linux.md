@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**21** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**23** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 21 |
-| Easy / Medium / Hard | 3 / 18 / 0 |
+| Questions | 23 |
+| Easy / Medium / Hard | 3 / 20 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -45,6 +45,8 @@
   <a id="what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux"></a>
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — **2×** · Medium
   <a id="which-linux-commands-do-you-know"></a>
+- [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — **1×** · Medium
+  <a id="can-you-write-rule-for-setting-for-iptable-in-linux"></a>
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — **1×** · Medium
   <a id="explain-the-linux-file-system-hierarchy"></a>
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — **1×** · Medium
@@ -63,6 +65,8 @@
   <a id="linux-administration-shell-scripting"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
   <a id="what-are-the-linux-boot-processes"></a>
+- [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — **1×** · Medium
+  <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — **1×** · Medium
   <a id="which-linux-commands-do-you-use-daily-in-your-project"></a>
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — **1×** · Medium
@@ -95,6 +99,8 @@
   <a id="what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux"></a>
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 2×
   <a id="which-linux-commands-do-you-know"></a>
+- [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — 1×
+  <a id="can-you-write-rule-for-setting-for-iptable-in-linux"></a>
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — 1×
   <a id="explain-the-linux-file-system-hierarchy"></a>
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — 1×
@@ -111,6 +117,8 @@
   <a id="linux-administration-networking-basics"></a>
 - [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) — 1×
   <a id="linux-administration-shell-scripting"></a>
+- [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 1×
+  <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — 1×
   <a id="which-linux-commands-do-you-use-daily-in-your-project"></a>
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — 1×
@@ -127,6 +135,7 @@ _None in this band yet._
 ### Unspecified
 
 - [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-)
+- [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux)
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy)
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events)
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues)
@@ -143,6 +152,7 @@ _None in this band yet._
 - [What is Linux?](../topics/linux.md#what-is-linux)
 - [What is systemd?](../topics/linux.md#what-is-systemd)
 - [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux)
+- [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment)
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know)
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project)
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why)
@@ -154,6 +164,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — 2026-07-27
+- [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 2026-07-27
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2026-07-26
 - [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 2026-07-26
 - [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) — 2026-07-26
@@ -167,8 +179,6 @@ _None in this band yet._
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — 2026-07-21
 - [Why is Linux preferred in DevOps?](../topics/linux.md#why-is-linux-preferred-in-devops) — 2026-07-21
 - [What is Linux?](../topics/linux.md#what-is-linux) — 2026-07-21
-- [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — 2026-07-18
-- [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — 2026-07-17
 
 ## Related topics
 
@@ -180,6 +190,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) | Medium | 2 |
+| [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) | Medium | 1 |
 | [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) | Medium | 1 |
 | [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) | Medium | 2 |
 | [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) | Medium | 1 |
@@ -196,6 +207,7 @@ _None in this band yet._
 | [What is Linux?](../topics/linux.md#what-is-linux) | Easy | 3 |
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |
 | [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) | Medium | 2 |
+| [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) | Medium | 1 |
 | [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) | Medium | 2 |
 | [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) | Medium | 1 |
 | [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) | Medium | 1 |

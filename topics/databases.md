@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Databases**
 
-**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 10 |
-| Easy / Medium / Hard | 1 / 8 / 1 |
+| Questions | 11 |
+| Easy / Medium / Hard | 1 / 9 / 1 |
 | Companies | 0 |
 
 ## Most asked
@@ -45,6 +45,8 @@
   <a id="explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t"></a>
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — **1×** · Medium
   <a id="how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach"></a>
+- [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — **1×** · Medium
+  <a id="suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano"></a>
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — **1×** · Easy · tags: `Azure`
   <a id="what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm"></a>
 
@@ -71,6 +73,8 @@
   <a id="explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t"></a>
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — 1×
   <a id="how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach"></a>
+- [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — 1×
+  <a id="suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano"></a>
 
 ## Advanced
 
@@ -90,6 +94,7 @@
 - [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do)
 - [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — tags: `AWS`
 - [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-)
+- [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano)
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — tags: `Azure`
 
 ## Companies asking
@@ -98,6 +103,7 @@
 
 ## Recently added
 
+- [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — 2026-07-27
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — 2026-07-26 · tags: `Azure`
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — 2026-07-18
 - [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — 2026-07-17
@@ -128,6 +134,7 @@
 | [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) | Medium | 2 |
 | [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) | Medium | 2 |
 | [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) | Medium | 2 |
+| [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) | Medium | 1 |
 | [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) | Easy | 1 |
 
 ## Learning resources

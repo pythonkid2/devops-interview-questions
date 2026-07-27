@@ -3,15 +3,17 @@
 [Home](../README.md) > [Study guides](./README.md) > **Difficulty**
 
 
-## Easy (215)
+## Easy (223)
 
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes · 7×
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — Docker · 5×
 - [What is a repository?](../topics/general.md#what-is-a-repository) — General · 4×
 - [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — Azure DevOps · 4× · tags: `Azure`
+- [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — Kubernetes · 4× · tags: `Docker`
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) — CI/CD · 3×
 - [Difference between count and for_each.](../topics/terraform.md#difference-between-count-and-for-each) — Terraform · 3×
 - [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) — Security · 3×
+- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — CI/CD · 3×
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — Ingress · 3×
 - [What is Git?](../topics/git.md#what-is-git) — Git · 3×
 - [What is Linux?](../topics/linux.md#what-is-linux) — Linux · 3×
@@ -29,6 +31,7 @@
 - [Difference between terraform.tfvars file and variables.tf file ?](../topics/terraform.md#difference-between-terraform-tfvars-file-and-variables-tf-file) — Terraform · 2×
 - [Do I need to take a course from a reputed institution?](../topics/general.md#do-i-need-to-take-a-course-from-a-reputed-institution) — General · 2×
 - [Explain the difference between HashMap and ConcurrentHashMap.](../topics/general.md#explain-the-difference-between-hashmap-and-concurrenthashmap) — General · 2×
+- [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — Deployment Strategies · 2× · tags: `Blue-Green`, `Canary`
 - [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](../topics/ci-cd.md#explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s) — CI/CD · 2×
 - [How do you check Docker container logs?](../topics/docker.md#how-do-you-check-docker-container-logs) — Docker · 2×
 - [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) — FinOps · 2×
@@ -53,7 +56,6 @@
 - [What are the troubleshooting steps for CrashLoopBackOff?](../topics/general.md#what-are-the-troubleshooting-steps-for-crashloopbackoff) — General · 2×
 - [What are Virtual Threads, and what are their advantages?](../topics/general.md#what-are-virtual-threads-and-what-are-their-advantages) — General · 2×
 - [What branching strategy do you follow in your projects?](../topics/ci-cd.md#what-branching-strategy-do-you-follow-in-your-projects) — CI/CD · 2×
-- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — CI/CD · 2×
 - [What is a Deployment in Kubernetes?](../topics/kubernetes.md#what-is-a-deployment-in-kubernetes) — Kubernetes · 2×
 - [What is a Deployment?](../topics/general.md#what-is-a-deployment) — General · 2×
 - [What is a Docker container?](../topics/docker.md#what-is-a-docker-container) — Docker · 2×
@@ -83,11 +85,9 @@
 - [What is Kubernetes, and why is it used?](../topics/kubernetes.md#what-is-kubernetes-and-why-is-it-used) — Kubernetes · 2×
 - [What is Kubernetes?](../topics/kubernetes.md#what-is-kubernetes) — Kubernetes · 2×
 - [What is PVC?](../topics/storage.md#what-is-pvc) — Storage · 2× · tags: `PVC`
-- [What is SSH?](../topics/general.md#what-is-ssh) — General · 2×
-- [What is systemd?](../topics/linux.md#what-is-systemd) — Linux · 2×
-_…and 135 more in topic pages._
+_…and 143 more in topic pages._
 
-## Medium (1141)
+## Medium (1222)
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — Terraform · 8×
 - [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — Kubernetes · 6×
@@ -137,6 +137,7 @@ _…and 135 more in topic pages._
 - [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — Terraform · 3×
 - [How do you manage different configurations for Dev, QA, and Production?](../topics/general.md#how-do-you-manage-different-configurations-for-dev-qa-and-production) — General · 3×
 - [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) — CI/CD · 3×
+- [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) — CI/CD · 3×
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — Kubernetes · 3×
 - [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — Kubernetes · 3×
 - [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) — Incident Response · 3×
@@ -168,10 +169,9 @@ _…and 135 more in topic pages._
 - [A Pod is stuck in Pending state. Can you explain the possible reasons and how you'd troubleshoot it?](../topics/kubernetes.md#a-pod-is-stuck-in-pending-state-can-you-explain-the-possible-reasons-and-how-you) — Kubernetes · 2×
 - [A Pod keeps restarting. How would you investigate it?](../topics/kubernetes.md#a-pod-keeps-restarting-how-would-you-investigate-it) — Kubernetes · 2×
 - [A Service exists, but traffic never reaches the Pods. Which Kubernetes objects would you verify first?](../topics/kubernetes.md#a-service-exists-but-traffic-never-reaches-the-pods-which-kubernetes-objects-wou) — Kubernetes · 2×
-- [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) — Linux · 2×
-_…and 1061 more in topic pages._
+_…and 1142 more in topic pages._
 
-## Hard (167)
+## Hard (192)
 
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response · 7×
 - [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — Kubernetes · 6×
@@ -186,6 +186,7 @@ _…and 1061 more in topic pages._
 - [Describe a production environment you manage(d). What are its scale, SLAs, and key components?](../topics/general.md#describe-a-production-environment-you-manage-d-what-are-its-scale-slas-and-key-c) — General · 3×
 - [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) — Kubernetes · 3× · tags: `System Design`
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — Incident Response · 3×
+- [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end) — CI/CD · 3×
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — Disaster Recovery · 3×
 - [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) — CI/CD · 3×
 - [A deployment failed in Production. How would you troubleshoot?](../topics/general.md#a-deployment-failed-in-production-how-would-you-troubleshoot) — General · 2×
@@ -198,6 +199,7 @@ _…and 1061 more in topic pages._
 - [Experience production failures yourself.](../topics/general.md#experience-production-failures-yourself) — General · 2×
 - [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on) — System Design · 2×
 - [Explain your Kubernetes project end-to-end.](../topics/kubernetes.md#explain-your-kubernetes-project-end-to-end) — Kubernetes · 2×
+- [Explain your rollback strategy during production deployments.](../topics/deployment-strategies.md#explain-your-rollback-strategy-during-production-deployments) — Deployment Strategies · 2×
 - [For a production e-commerce application, which deployment strategy would you recommend—Rolling Update, Blue-Green, or Canary Deployment? What factors would influence your decision?](../topics/ci-cd.md#for-a-production-e-commerce-application-which-deployment-strategy-would-you-reco) — CI/CD · 2×
 - [Have you worked on Terraform? How do you manage the state file? What is the Terraform architecture you are using?](../topics/terraform.md#have-you-worked-on-terraform-how-do-you-manage-the-state-file-what-is-the-terraf) — Terraform · 2× · tags: `System Design`
 - [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — CI/CD · 2×
@@ -220,6 +222,7 @@ _…and 1061 more in topic pages._
 - [What are all your followed deployment strategy and when to use those and how to switch traffic and how do you decide traffic percentage](../topics/kubernetes.md#what-are-all-your-followed-deployment-strategy-and-when-to-use-those-and-how-to-) — Kubernetes · 2×
 - [What are best practices for Docker in production?](../topics/docker.md#what-are-best-practices-for-docker-in-production) — Docker · 2×
 - [What branching strategy keeps your release branch clean and how do you hotfix production?](../topics/general.md#what-branching-strategy-keeps-your-release-branch-clean-and-how-do-you-hotfix-pr) — General · 2×
+- [What challenges have you faced during production incidents, and how did you resolve them?](../topics/general.md#what-challenges-have-you-faced-during-production-incidents-and-how-did-you-resol) — General · 2×
 - [What is statefile explain more about it and where to store and why if lost if doesn't have backup how do you regain statefile](../topics/terraform.md#what-is-statefile-explain-more-about-it-and-where-to-store-and-why-if-lost-if-do) — Terraform · 2×
 - [What is the difference between Jenkins, GitHub Actions, and Bitbucket Pipelines?](../topics/ci-cd.md#what-is-the-difference-between-jenkins-github-actions-and-bitbucket-pipelines) — CI/CD · 2×
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — Azure · 2×
@@ -228,10 +231,16 @@ _…and 1061 more in topic pages._
 - [You found a bug but cannot reproduce it consistently. How would you handle it?](../topics/general.md#you-found-a-bug-but-cannot-reproduce-it-consistently-how-would-you-handle-it) — General · 2×
 - [You missed a test case and a bug leaked to production. What would you do next?](../topics/general.md#you-missed-a-test-case-and-a-bug-leaked-to-production-what-would-you-do-next) — General · 2×
 - [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) — AWS · 2×
+- [A critical production deployment fails during a global release, affecting 80 million users and resulting in an estimated ₹350 Crore business impact. How would you investigate the root cause, coordinate incident response, perform rollback or recovery, and implement preventive controls to eliminate similar failures in future releases?](../topics/incident-response.md#a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill) — Incident Response · 1×
+- [A critical vulnerability is discovered in production. What is your approach?](../topics/general.md#a-critical-vulnerability-is-discovered-in-production-what-is-your-approach) — General · 1×
+- [A deployment introduced a production issue. How would you roll it back?](../topics/general.md#a-deployment-introduced-a-production-issue-how-would-you-roll-it-back) — General · 1×
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — ArgoCD · 1× · tags: `Git`, `GitOps`
+- [A failed production deployment across 1,200 microservices impacts 35 million customers within 30 minutes. What would be your incident response, rollback, and recovery strategy?](../topics/incident-response.md#a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust) — Incident Response · 1×
 - [A Kubernetes Secret containing production credentials is accidentally committed to a public GitHub repository. What would you do during the first hour?](../topics/kubernetes.md#a-kubernetes-secret-containing-production-credentials-is-accidentally-committed-) — Kubernetes · 1×
 - [A production deployment failed, and users are impacted. What would your rollback strategy look like?](../topics/deployment-strategies.md#a-production-deployment-failed-and-users-are-impacted-what-would-your-rollback-s) — Deployment Strategies · 1×
+- [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) — Disaster Recovery · 1×
 - [A trigger is causing CPU timeout exceptions in production. How would you troubleshoot it?](../topics/general.md#a-trigger-is-causing-cpu-timeout-exceptions-in-production-how-would-you-troubles) — General · 1×
+- [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) — System Design · 1×
 - [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — SRE · 1×
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — Monitoring · 1×
 - [Can you read code and find the behavioral failure — not the naming inconsistency, the thing that produces a wrong answer silently in production?](../topics/general.md#can-you-read-code-and-find-the-behavioral-failure-not-the-naming-inconsistency-t) — General · 1×
@@ -244,15 +253,6 @@ _…and 1061 more in topic pages._
 - [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) — Incident Response · 1×
 - [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) — Incident Response · 1×
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) — Disaster Recovery · 1×
-- [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — Disaster Recovery · 1× · tags: `Kubernetes`, `System Design`
-- [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — Databases · 1× · tags: `System Design`
-- [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) — System Design · 1×
-- [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — Capacity Planning · 1× · tags: `HPA`
-- [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — System Design · 1×
-- [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/ci-cd.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont) — CI/CD · 1×
-- [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) — Azure DevOps · 1× · tags: `Azure`
-- [Explain end to end Zoning process through MDS Cisco Switch?](../topics/general.md#explain-end-to-end-zoning-process-through-mds-cisco-switch) — General · 1×
-- [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end) — CI/CD · 1×
-_…and 87 more in topic pages._
+_…and 112 more in topic pages._
 
 [← Study guides](./README.md)

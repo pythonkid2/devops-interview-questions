@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Disaster Recovery**
 
-**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**12** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 11 |
-| Easy / Medium / Hard | 0 / 6 / 5 |
-| Companies | 2 |
+| Questions | 12 |
+| Easy / Medium / Hard | 0 / 6 / 6 |
+| Companies | 3 |
 
 ## Most asked
 
@@ -37,6 +37,8 @@
   <a id="how-would-you-structure-the-failover-process-during-a-regional-outage"></a>
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) — **2×** · Medium
   <a id="youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou"></a>
+- [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) — **1×** · Hard
+  <a id="a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis"></a>
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) — **1×** · Hard
   <a id="design-a-disaster-recovery-strategy-rto-rpo"></a>
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — **1×** · Hard · tags: `Kubernetes`, `System Design`
@@ -75,6 +77,8 @@ _None in this band yet._
   <a id="how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem"></a>
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — 2×
   <a id="how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes"></a>
+- [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) — 1×
+  <a id="a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis"></a>
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) — 1×
   <a id="design-a-disaster-recovery-strategy-rto-rpo"></a>
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — 1× · tags: `Kubernetes`, `System Design`
@@ -90,6 +94,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis)
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo)
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — tags: `Kubernetes`, `System Design`
 - [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery)
@@ -103,11 +108,13 @@ _None in this band yet._
 
 ## Companies asking
 
+- [Elite Code Technologies](../companies/elite-code-technologies.md)
 - [Infosys](../companies/infosys.md)
 - [NVIDIA](../companies/nvidia.md)
 
 ## Recently added
 
+- [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) — 2026-07-27
 - [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 2026-07-26
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — 2026-07-18 · tags: `Kubernetes`, `System Design`
 - [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 2026-07-18
@@ -134,6 +141,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) | Hard | 1 |
 | [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) | Hard | 1 |
 | [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) | Hard | 1 |
 | [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) | Medium | 1 |

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Azure**
 
-**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**20** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 17 |
-| Easy / Medium / Hard | 7 / 8 / 2 |
-| Companies | 4 |
+| Questions | 20 |
+| Easy / Medium / Hard | 7 / 11 / 2 |
+| Companies | 5 |
 
 ## Most asked
 
@@ -37,6 +37,12 @@
   <a id="when-would-you-choose-an-azure-function-over-power-automate"></a>
 - [Azure](../topics/azure.md#azure) — **1×** · Medium
   <a id="azure"></a>
+- [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — **1×** · Medium
+  <a id="azure-blob-storage-vs-adls-gen2"></a>
+- [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — **1×** · Medium
+  <a id="azure-data-factory-scenario-based-questions"></a>
+- [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — **1×** · Medium
+  <a id="azure-databricks-unity-catalog"></a>
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — **1×** · Medium
   <a id="azure-regions-availability-zones"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — **1×** · Medium
@@ -89,6 +95,12 @@
   <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
 - [Azure](../topics/azure.md#azure) — 1×
   <a id="azure"></a>
+- [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 1×
+  <a id="azure-blob-storage-vs-adls-gen2"></a>
+- [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — 1×
+  <a id="azure-data-factory-scenario-based-questions"></a>
+- [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — 1×
+  <a id="azure-databricks-unity-catalog"></a>
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — 1×
   <a id="azure-regions-availability-zones"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — 1×
@@ -110,6 +122,9 @@
 ### Unspecified
 
 - [Azure](../topics/azure.md#azure)
+- [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2)
+- [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions)
+- [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog)
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones)
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops)
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t)
@@ -133,9 +148,13 @@
 - [Deltassi](../companies/deltassi.md)
 - [EY](../companies/ey.md)
 - [Nexiva](../companies/nexiva.md)
+- [Wipro](../companies/wipro.md)
 
 ## Recently added
 
+- [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 2026-07-27
+- [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — 2026-07-27
+- [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — 2026-07-27
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — 2026-07-26
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — 2026-07-26
 - [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — 2026-07-26
@@ -148,9 +167,6 @@
 - [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — 2026-07-17
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — 2026-07-17
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — 2026-07-17
-- [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — 2026-07-17
-- [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — 2026-07-15
-- [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — 2026-07-15
 
 ## Related topics
 
@@ -163,6 +179,9 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Azure](../topics/azure.md#azure) | Medium | 1 |
+| [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) | Medium | 1 |
+| [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) | Medium | 1 |
+| [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) | Medium | 1 |
 | [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) | Medium | 1 |
 | [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) | Medium | 2 |
 | [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) | Medium | 1 |

@@ -8,44 +8,48 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 | Tag | Questions |
 | --- | ---: |
-| `CI/CD` | 23 |
-| `Azure` | 20 |
-| `Kubernetes` | 17 |
-| `AWS` | 15 |
-| `System Design` | 13 |
-| `Docker` | 10 |
-| `Monitoring` | 10 |
+| `CI/CD` | 24 |
+| `Azure` | 23 |
+| `AWS` | 19 |
+| `Kubernetes` | 19 |
+| `System Design` | 14 |
+| `Monitoring` | 13 |
+| `Docker` | 12 |
+| `GitOps` | 6 |
+| `Grafana` | 6 |
+| `HPA` | 6 |
 | `DNS` | 5 |
-| `GitOps` | 5 |
-| `Grafana` | 5 |
-| `HPA` | 5 |
-| `Jenkins` | 4 |
-| `Alerting` | 3 |
-| `Blue-Green` | 3 |
+| `Jenkins` | 5 |
+| `Alerting` | 4 |
+| `Blue-Green` | 4 |
+| `Linux` | 4 |
+| `Terraform` | 4 |
+| `Canary` | 3 |
 | `CNI` | 3 |
 | `Databases` | 3 |
 | `FinOps` | 3 |
 | `Git` | 3 |
-| `Linux` | 3 |
 | `Load Balancing` | 3 |
 | `PV` | 3 |
 | `PVC` | 3 |
 | `RBAC` | 3 |
-| `Canary` | 2 |
+| `ArgoCD` | 2 |
+| `Azure DevOps` | 2 |
+| `Logging` | 2 |
+| `Observability` | 2 |
+| `Prometheus` | 2 |
 | `Shell Scripting` | 2 |
-| `Terraform` | 2 |
 | `Ansible` | 1 |
-| `ArgoCD` | 1 |
-| `Azure DevOps` | 1 |
 | `DevSecOps` | 1 |
+| `ELK` | 1 |
+| `GCP` | 1 |
+| `GitHub Actions` | 1 |
 | `GitLab CI` | 1 |
-| `Logging` | 1 |
 | `Microservices` | 1 |
 | `Networking` | 1 |
-| `Observability` | 1 |
 | `On-Call` | 1 |
+| `OpenTelemetry` | 1 |
 | `PDB` | 1 |
-| `Prometheus` | 1 |
 | `SRE` | 1 |
 | `VPC` | 1 |
 
@@ -55,6 +59,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — High Availability · tags: `Alerting`, `Monitoring`
 - [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — SLOs · tags: `Alerting`
 - [How do you implement SLO-based alerting?](../topics/slos.md#how-do-you-implement-slo-based-alerting) — SLOs · tags: `Alerting`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## Ansible
 
@@ -63,6 +68,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## ArgoCD
 
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — IAM · tags: `ArgoCD`, `Terraform`, `RBAC`
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — DevSecOps · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 
 ## AWS
 
@@ -76,11 +82,15 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you securely manage secrets, credentials, and sensitive configuration in AWS and Kubernetes?](../topics/kubernetes.md#how-do-you-securely-manage-secrets-credentials-and-sensitive-configuration-in-aw) — Kubernetes · tags: `AWS`
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — EKS · tags: `AWS`
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — Terraform · tags: `AWS`
+- [How do your secure secrets in Kubernetes and AWS?](../topics/kubernetes.md#how-do-your-secure-secrets-in-kubernetes-and-aws) — Kubernetes · tags: `AWS`
 - [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — Load Balancing · tags: `AWS`
 - [How would you migrate existing AWS resources into Terraform without recreating them?](../topics/terraform.md#how-would-you-migrate-existing-aws-resources-into-terraform-without-recreating-t) — Terraform · tags: `AWS`
+- [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — Jenkins · tags: `AWS`
 - [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — Databases · tags: `AWS`
 - [Suppose you are working on a Terraform script for EC2 infrastructure creation. A team member makes changes in the AWS Console, but your Terraform template is different. How do you fetch those changes into your Terraform template?](../topics/terraform.md#suppose-you-are-working-on-a-terraform-script-for-ec2-infrastructure-creation-a-) — Terraform · tags: `AWS`
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — Monitoring · tags: `AWS`
+- [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — Kubernetes · tags: `AWS`, `Azure`, `GCP`
+- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
 ## Azure
 
@@ -104,21 +114,27 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [What is Azure Pipeline?](../topics/azure-devops.md#what-is-azure-pipeline) — Azure DevOps · tags: `CI/CD`, `Azure`
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — Databases · tags: `Azure`
 - [Why is Azure DevOps considered an ALM platform?](../topics/azure-devops.md#why-is-azure-devops-considered-an-alm-platform) — Azure DevOps · tags: `Azure`
+- [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — Kubernetes · tags: `AWS`, `Azure`, `GCP`
+- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## Azure DevOps
 
 - [How do you implement CI/CD for a .NET application using Azure DevOps or GitHub Actions?](../topics/github-actions.md#how-do-you-implement-ci-cd-for-a-net-application-using-azure-devops-or-github-ac) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `Azure`
+- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
 ## Blue-Green
 
 - [Blue-Green & Canary deployments](../topics/deployment-strategies.md#blue-green-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Explain Blue-Green Deployment](../topics/deployment-strategies.md#explain-blue-green-deployment) — Deployment Strategies · tags: `Blue-Green`
+- [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 
 ## Canary
 
 - [Blue-Green & Canary deployments](../topics/deployment-strategies.md#blue-green-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — Deployment Strategies · tags: `Blue-Green`, `Canary`
+- [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 
 ## CI/CD
 
@@ -139,6 +155,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) — Jenkins · tags: `CI/CD`
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — Jenkins · tags: `CI/CD`
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — Jenkins · tags: `CI/CD`
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — DevSecOps · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 - [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — Jenkins · tags: `CI/CD`
 - [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — Jenkins · tags: `CI/CD`
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — Monitoring · tags: `CI/CD`
@@ -180,8 +197,14 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Explain the complete request flow inside Kubernetes—from DNS until the request reaches the container.](../topics/kubernetes.md#explain-the-complete-request-flow-inside-kubernetes-from-dns-until-the-request-r) — Kubernetes · tags: `Docker`, `DNS`
 - [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) — Ingress · tags: `Kubernetes`, `Docker`
 - [How do you integrate Jenkins with Docker and Kubernetes?](../topics/kubernetes.md#how-do-you-integrate-jenkins-with-docker-and-kubernetes) — Kubernetes · tags: `Docker`, `Jenkins`
+- [How does docker use namespace and Cgroups?](../topics/kubernetes.md#how-does-docker-use-namespace-and-cgroups) — Kubernetes · tags: `Docker`
 - [Security reports that a Pod is making outbound calls to an unauthorized external IP. How would you handle a suspected compromised container?](../topics/kubernetes.md#security-reports-that-a-pod-is-making-outbound-calls-to-an-unauthorized-external) — Kubernetes · tags: `Docker`
 - [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — Kubernetes · tags: `Docker`
+- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
+
+## ELK
+
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## FinOps
 
@@ -189,11 +212,19 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — AWS · tags: `FinOps`
 - [Kubernetes Migration / Cost Optimization how have you done?](../topics/kubernetes.md#kubernetes-migration-cost-optimization-how-have-you-done) — Kubernetes · tags: `FinOps`
 
+## GCP
+
+- [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — Kubernetes · tags: `AWS`, `Azure`, `GCP`
+
 ## Git
 
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — ArgoCD · tags: `Git`, `GitOps`
 - [How would you securely manage secrets in a Kubernetes environment without storing them in Git?](../topics/kubernetes.md#how-would-you-securely-manage-secrets-in-a-kubernetes-environment-without-storin) — Kubernetes · tags: `Git`
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — Jenkins · tags: `Git`
+
+## GitHub Actions
+
+- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
 ## GitLab CI
 
@@ -206,6 +237,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — ArgoCD · tags: `GitOps`
 - [GitOps](../topics/argocd.md#gitops) — ArgoCD · tags: `GitOps`
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — ArgoCD · tags: `GitOps`
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — DevSecOps · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 
 ## Grafana
 
@@ -214,6 +246,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — Prometheus · tags: `Grafana`, `Monitoring`, `Kubernetes`
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## HPA
 
@@ -221,6 +254,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — Capacity Planning · tags: `Kubernetes`, `HPA`
 - [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) — Capacity Planning · tags: `HPA`
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — Capacity Planning · tags: `Prometheus`, `Kubernetes`, `HPA`
+- [What is HPA?](../topics/capacity-planning.md#what-is-hpa) — Capacity Planning · tags: `HPA`
 - [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — Capacity Planning · tags: `Kubernetes`, `HPA`
 
 ## Jenkins
@@ -229,6 +263,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you integrate Jenkins with Docker and Kubernetes?](../topics/kubernetes.md#how-do-you-integrate-jenkins-with-docker-and-kubernetes) — Kubernetes · tags: `Docker`, `Jenkins`
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — Helm · tags: `Jenkins`
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — Helm · tags: `Jenkins`
+- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
 ## Kubernetes
 
@@ -247,14 +282,17 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — IAM · tags: `Kubernetes`, `RBAC`
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — Ingress · tags: `Kubernetes`
 - [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) — EKS · tags: `Kubernetes`
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — DevSecOps · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 - [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — Capacity Planning · tags: `Kubernetes`, `HPA`
 - [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) — Ingress · tags: `Kubernetes`, `DNS`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## Linux
 
 - [How did you use Linux in your CI/CD pipeline?](../topics/ci-cd.md#how-did-you-use-linux-in-your-ci-cd-pipeline) — CI/CD · tags: `Linux`
 - [How do you establish connectivity between two Linux servers using Ansible?](../topics/ansible.md#how-do-you-establish-connectivity-between-two-linux-servers-using-ansible) — Ansible · tags: `Linux`
 - [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) — EKS · tags: `Linux`
+- [What is Cgroups and Namespace in Linux](../topics/kubernetes.md#what-is-cgroups-and-namespace-in-linux) — Kubernetes · tags: `Linux`
 
 ## Load Balancing
 
@@ -265,6 +303,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Logging
 
 - [Logging, Metrics & Distributed Tracing](../topics/tracing.md#logging-metrics-distributed-tracing) — Tracing · tags: `Logging`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## Microservices
 
@@ -277,11 +316,14 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — Logging · tags: `Observability`, `Monitoring`
 - [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — High Availability · tags: `Alerting`, `Monitoring`
+- [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — Grafana · tags: `Monitoring`
 - [How do you monitor a production system — and what's the difference between monitoring and observability?](../topics/observability.md#how-do-you-monitor-a-production-system-and-what-s-the-difference-between-monitor) — Observability · tags: `Monitoring`
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — Prometheus · tags: `Grafana`, `Monitoring`, `Kubernetes`
 - [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — Observability · tags: `Monitoring`
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — Logging · tags: `Monitoring`
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
+- [What tools do you use for logging and monitoring?](../topics/logging.md#what-tools-do-you-use-for-logging-and-monitoring) — Logging · tags: `Monitoring`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## Networking
 
@@ -290,10 +332,15 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Observability
 
 - [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — Logging · tags: `Observability`, `Monitoring`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## On-Call
 
 - [How do you handle on-call support and incident management?](../topics/incident-response.md#how-do-you-handle-on-call-support-and-incident-management) — Incident Response · tags: `On-Call`
+
+## OpenTelemetry
+
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## PDB
 
@@ -302,6 +349,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Prometheus
 
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — Capacity Planning · tags: `Prometheus`, `Kubernetes`, `HPA`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## PV
 
@@ -345,11 +393,14 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [What is master-agent architecture and how does it work in Jenkins?](../topics/jenkins.md#what-is-master-agent-architecture-and-how-does-it-work-in-jenkins) — Jenkins · tags: `System Design`
 - [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — Load Balancing · tags: `VPC`, `System Design`
 - [Your application needs to be deployed across multiple AWS Regions. What architecture and deployment considerations would you discuss?](../topics/aws.md#your-application-needs-to-be-deployed-across-multiple-aws-regions-what-architect) — AWS · tags: `System Design`
+- [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## Terraform
 
 - [How do you spin up Kubernetes clusters with Terraform and what do the master and worker nodes actually do?](../topics/kubernetes.md#how-do-you-spin-up-kubernetes-clusters-with-terraform-and-what-do-the-master-and) — Kubernetes · tags: `Terraform`
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — IAM · tags: `ArgoCD`, `Terraform`, `RBAC`
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — DevSecOps · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
+- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
 ## VPC
 

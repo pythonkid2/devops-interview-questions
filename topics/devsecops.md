@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **DevSecOps**
 
-**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 3 |
-| Easy / Medium / Hard | 1 / 2 / 0 |
-| Companies | 0 |
+| Questions | 4 |
+| Easy / Medium / Hard | 1 / 2 / 1 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -33,6 +33,8 @@
   <a id="difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-"></a>
 - [SAST & DAST](../topics/devsecops.md#sast-dast) — **1×** · Medium
   <a id="sast-dast"></a>
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — **1×** · Hard · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
+  <a id="the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern"></a>
 
 ## Beginner
 
@@ -48,7 +50,8 @@
 
 ## Advanced
 
-_None in this band yet._
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — 1× · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
+  <a id="the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern"></a>
 
 ## By interview round
 
@@ -56,14 +59,16 @@ _None in this band yet._
 
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-)
 - [SAST & DAST](../topics/devsecops.md#sast-dast)
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 - [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube)
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Elite Code Technologies](../companies/elite-code-technologies.md)
 
 ## Recently added
 
+- [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — 2026-07-27 · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 - [SAST & DAST](../topics/devsecops.md#sast-dast) — 2026-07-26
 - [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — 2026-07-17
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) — 2026-07-17
@@ -82,6 +87,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) | Medium | 1 |
 | [SAST & DAST](../topics/devsecops.md#sast-dast) | Medium | 1 |
+| [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) | Hard | 1 |
 | [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) | Easy | 2 |
 
 ## Learning resources

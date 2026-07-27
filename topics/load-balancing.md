@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Load Balancing**
 
-**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 7 |
-| Easy / Medium / Hard | 2 / 4 / 1 |
+| Questions | 8 |
+| Easy / Medium / Hard | 3 / 4 / 1 |
 | Companies | 0 |
 
 ## Most asked
@@ -39,6 +39,8 @@
   <a id="how-does-aws-load-balancer-route-traffic"></a>
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — **1×** · Medium
   <a id="how-load-balancer-elb-alb-distributes-traffic"></a>
+- [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer) — **1×** · Easy
+  <a id="what-is-the-purpose-of-a-load-balancer"></a>
 - [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — **1×** · Hard · tags: `VPC`, `System Design`
   <a id="when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s"></a>
 
@@ -48,6 +50,8 @@
   <a id="difference-between-azure-load-balancer-and-azure-application-gateway"></a>
 - [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) — 2×
   <a id="what-is-an-elastic-load-balancer-elb"></a>
+- [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer) — 1×
+  <a id="what-is-the-purpose-of-a-load-balancer"></a>
 
 ## Intermediate
 
@@ -75,6 +79,7 @@
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic)
 - [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb)
 - [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)? Why would you choose ALB? In which scenarios would NLB be a better choice? Why wouldn’t you use NLB for every application?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo)
+- [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer)
 - [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — tags: `VPC`, `System Design`
 
 ## Companies asking
@@ -83,6 +88,7 @@
 
 ## Recently added
 
+- [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer) — 2026-07-27
 - [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)? Why would you choose ALB? In which scenarios would NLB be a better choice? Why wouldn’t you use NLB for every application?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo) — 2026-07-21
 - [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) — 2026-07-18
 - [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — 2026-07-17 · tags: `AWS`
@@ -111,6 +117,7 @@
 | [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) | Medium | 1 |
 | [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) | Easy | 2 |
 | [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)? Why would you choose ALB? In which scenarios would NLB be a better choice? Why wouldn’t you use NLB for every application?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo) | Medium | 2 |
+| [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer) | Easy | 1 |
 | [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) | Hard | 1 |
 
 ## Learning resources

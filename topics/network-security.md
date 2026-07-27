@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Network Security**
 
-**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 5 |
-| Easy / Medium / Hard | 2 / 3 / 0 |
+| Questions | 6 |
+| Easy / Medium / Hard | 2 / 4 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -33,6 +33,8 @@
   <a id="how-would-you-troubleshoot-vm-health-nsg-routing-connectivity-and-ssh"></a>
 - [NACL vs Security Group?](../topics/network-security.md#nacl-vs-security-group) — **2×** · Medium
   <a id="nacl-vs-security-group"></a>
+- [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) — **1×** · Medium
+  <a id="is-the-security-group-configured"></a>
 - [Networking: DNS, Firewall Rules, Virtual Networks](../topics/network-security.md#networking-dns-firewall-rules-virtual-networks) — **1×** · Easy
   <a id="networking-dns-firewall-rules-virtual-networks"></a>
 - [What is the difference between security group and network ACL?](../topics/network-security.md#what-is-the-difference-between-security-group-and-network-acl) — **1×** · Easy
@@ -53,6 +55,8 @@
   <a id="how-would-you-troubleshoot-vm-health-nsg-routing-connectivity-and-ssh"></a>
 - [NACL vs Security Group?](../topics/network-security.md#nacl-vs-security-group) — 2×
   <a id="nacl-vs-security-group"></a>
+- [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) — 1×
+  <a id="is-the-security-group-configured"></a>
 
 ## Advanced
 
@@ -64,6 +68,7 @@ _None in this band yet._
 
 - [Explain NSG and how traffic flows in Azure.](../topics/network-security.md#explain-nsg-and-how-traffic-flows-in-azure) — tags: `Azure`
 - [How would you troubleshoot VM health, NSG, routing, connectivity, and SSH?](../topics/network-security.md#how-would-you-troubleshoot-vm-health-nsg-routing-connectivity-and-ssh)
+- [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured)
 - [NACL vs Security Group?](../topics/network-security.md#nacl-vs-security-group)
 - [Networking: DNS, Firewall Rules, Virtual Networks](../topics/network-security.md#networking-dns-firewall-rules-virtual-networks)
 - [What is the difference between security group and network ACL?](../topics/network-security.md#what-is-the-difference-between-security-group-and-network-acl)
@@ -74,6 +79,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) — 2026-07-27
 - [How would you troubleshoot VM health, NSG, routing, connectivity, and SSH?](../topics/network-security.md#how-would-you-troubleshoot-vm-health-nsg-routing-connectivity-and-ssh) — 2026-07-18
 - [NACL vs Security Group?](../topics/network-security.md#nacl-vs-security-group) — 2026-07-18
 - [Explain NSG and how traffic flows in Azure.](../topics/network-security.md#explain-nsg-and-how-traffic-flows-in-azure) — 2026-07-17 · tags: `Azure`
@@ -94,6 +100,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Explain NSG and how traffic flows in Azure.](../topics/network-security.md#explain-nsg-and-how-traffic-flows-in-azure) | Medium | 2 |
 | [How would you troubleshoot VM health, NSG, routing, connectivity, and SSH?](../topics/network-security.md#how-would-you-troubleshoot-vm-health-nsg-routing-connectivity-and-ssh) | Medium | 2 |
+| [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) | Medium | 1 |
 | [NACL vs Security Group?](../topics/network-security.md#nacl-vs-security-group) | Medium | 2 |
 | [Networking: DNS, Firewall Rules, Virtual Networks](../topics/network-security.md#networking-dns-firewall-rules-virtual-networks) | Easy | 1 |
 | [What is the difference between security group and network ACL?](../topics/network-security.md#what-is-the-difference-between-security-group-and-network-acl) | Easy | 1 |

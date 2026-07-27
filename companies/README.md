@@ -12,16 +12,17 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [Mirafra](./mirafra.md) | 28 |
 | [Deloitte](./deloitte.md) | 25 |
 | [Global Payments](./global-payments.md) | 23 |
+| [Elite Code Technologies](./elite-code-technologies.md) | 21 |
 | [PwC](./pwc.md) | 13 |
 | [SpaceTech Inc.](./spacetech-inc.md) | 13 |
 | [Infosys](./infosys.md) | 12 |
 | [NVIDIA](./nvidia.md) | 11 |
+| [Wipro](./wipro.md) | 11 |
 | [Argyll Infotech](./argyll-infotech.md) | 10 |
 | [DBS Bank](./dbs-bank.md) | 10 |
 | [TCS](./tcs.md) | 8 |
 | [zemoso technologies](./zemoso-technologies.md) | 8 |
 | [DEVYNTECH](./devyntech.md) | 7 |
-| [Elite Code Technologies](./elite-code-technologies.md) | 7 |
 | [EY](./ey.md) | 7 |
 | [Fineshift Software Pvt. Ltd.](./fineshift-software-pvt-ltd.md) | 7 |
 | [Sri-Hire](./sri-hire.md) | 5 |
@@ -34,6 +35,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 1222 |
+| [Unknown Company](./unknown-company.md) | 1311 |
 
 [← Home](../README.md)

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Prometheus**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 0 / 9 / 0 |
+| Questions | 10 |
+| Easy / Medium / Hard | 0 / 10 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="monitoring-with-prometheus-grafana"></a>
 - [Prometheus](../topics/prometheus.md#prometheus) — **1×** · Medium
   <a id="prometheus"></a>
+- [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) — **1×** · Medium
+  <a id="prometheus-is-running-out-of-storage-what-would-you-do"></a>
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — **1×** · Medium
   <a id="prometheus-kya-karta-hai"></a>
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — **1×** · Medium
@@ -66,6 +68,8 @@ _None in this band yet._
   <a id="monitoring-with-prometheus-grafana"></a>
 - [Prometheus](../topics/prometheus.md#prometheus) — 1×
   <a id="prometheus"></a>
+- [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) — 1×
+  <a id="prometheus-is-running-out-of-storage-what-would-you-do"></a>
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — 1×
   <a id="prometheus-kya-karta-hai"></a>
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — 1×
@@ -86,6 +90,7 @@ _None in this band yet._
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — tags: `Grafana`, `Monitoring`, `Kubernetes`
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — tags: `Grafana`, `Monitoring`
 - [Prometheus](../topics/prometheus.md#prometheus)
+- [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do)
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai)
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring)
 
@@ -95,6 +100,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) — 2026-07-27
 - [Prometheus](../topics/prometheus.md#prometheus) — 2026-07-26
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — 2026-07-18
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) — 2026-07-18
@@ -127,6 +133,7 @@ _None in this band yet._
 | [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) | Medium | 1 |
 | [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) | Medium | 1 |
 | [Prometheus](../topics/prometheus.md#prometheus) | Medium | 1 |
+| [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) | Medium | 1 |
 | [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) | Medium | 1 |
 | [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) | Medium | 1 |
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **EKS**
 
-**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**18** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 17 |
-| Easy / Medium / Hard | 1 / 15 / 1 |
+| Questions | 18 |
+| Easy / Medium / Hard | 1 / 16 / 1 |
 | Companies | 2 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="can-you-explain-how-did-you-tune-eks-cluster"></a>
 - [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) — **1×** · Medium
   <a id="eks-communication-networking-flow"></a>
+- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — **1×** · Medium
+  <a id="eks-nodes-are-unhealthy-how-would-you-investigate"></a>
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — **1×** · Medium
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
 - [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — **1×** · Medium · tags: `Kubernetes`
@@ -83,6 +85,8 @@
   <a id="can-you-explain-how-did-you-tune-eks-cluster"></a>
 - [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) — 1×
   <a id="eks-communication-networking-flow"></a>
+- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — 1×
+  <a id="eks-nodes-are-unhealthy-how-would-you-investigate"></a>
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — 1×
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
 - [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — 1× · tags: `Kubernetes`
@@ -112,6 +116,7 @@
 - [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check)
 - [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster)
 - [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow)
+- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate)
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step)
 - [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — tags: `Kubernetes`
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud)
@@ -134,6 +139,7 @@
 
 ## Recently added
 
+- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — 2026-07-27
 - [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — 2026-07-26
 - [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — 2026-07-26
 - [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) — 2026-07-26
@@ -148,7 +154,6 @@
 - [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) — 2026-07-17 · tags: `Linux`
 - [What should be checked before upgrading an EKS cluster?](../topics/eks.md#what-should-be-checked-before-upgrading-an-eks-cluster) — 2026-07-17
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — 2026-07-17
-- [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — 2026-07-17 · tags: `Kubernetes`
 
 ## Related topics
 
@@ -165,6 +170,7 @@
 | [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) | Medium | 1 |
 | [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) | Medium | 1 |
 | [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) | Medium | 1 |
+| [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) | Medium | 1 |
 | [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) | Medium | 1 |
 | [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) | Medium | 1 |
 | [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) | Medium | 2 |

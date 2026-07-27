@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-1523-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-609-informational)
+![questions](https://img.shields.io/badge/questions-1637-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-639-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,22 +18,22 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 1523 |
-| Posts processed | 609 |
-| Added this week | 254 |
+| Unique questions | 1637 |
+| Posts processed | 639 |
+| Added this week | 368 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 186
-- [Terraform](./topics/terraform.md) — 111
-- [Docker](./topics/docker.md) — 94
-- [AWS](./topics/aws.md) — 84
-- [Jenkins](./topics/jenkins.md) — 80
-- [CI/CD](./topics/ci-cd.md) — 62
+- [Kubernetes](./topics/kubernetes.md) — 199
+- [Terraform](./topics/terraform.md) — 114
+- [Docker](./topics/docker.md) — 99
+- [AWS](./topics/aws.md) — 86
+- [Jenkins](./topics/jenkins.md) — 82
+- [CI/CD](./topics/ci-cd.md) — 65
+- [Incident Response](./topics/incident-response.md) — 26
 - [Security](./topics/security.md) — 25
-- [Linux](./topics/linux.md) — 21
-- [Incident Response](./topics/incident-response.md) — 18
-- [Azure](./topics/azure.md) — 17
+- [Linux](./topics/linux.md) — 23
+- [Azure](./topics/azure.md) — 20
 
 ## Popular companies
 
@@ -43,10 +43,10 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 - [Mirafra](./companies/mirafra.md) — 28
 - [Deloitte](./companies/deloitte.md) — 25
 - [Global Payments](./companies/global-payments.md) — 23
+- [Elite Code Technologies](./companies/elite-code-technologies.md) — 21
 - [PwC](./companies/pwc.md) — 13
 - [SpaceTech Inc.](./companies/spacetech-inc.md) — 13
 - [Infosys](./companies/infosys.md) — 12
-- [NVIDIA](./companies/nvidia.md) — 11
 
 ## Repository map
 

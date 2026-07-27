@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**80** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**82** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 80 |
-| Easy / Medium / Hard | 2 / 72 / 6 |
+| Questions | 82 |
+| Easy / Medium / Hard | 2 / 74 / 6 |
 | Companies | 6 |
 
 ## Most asked
@@ -65,6 +65,8 @@
   <a id="how-do-you-maintain-jenkins-backup"></a>
 - [How do you pass environment variables in a Jenkins Pipeline?](../topics/jenkins.md#how-do-you-pass-environment-variables-in-a-jenkins-pipeline) — **2×** · Medium
   <a id="how-do-you-pass-environment-variables-in-a-jenkins-pipeline"></a>
+- [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) — **2×** · Medium
+  <a id="how-do-you-troubleshoot-a-failed-jenkins-build"></a>
 - [How does Jenkins trigger automatically after a GitHub push?](../topics/jenkins.md#how-does-jenkins-trigger-automatically-after-a-github-push) — **2×** · Medium
   <a id="how-does-jenkins-trigger-automatically-after-a-github-push"></a>
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi"></a>
 - [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — **2×** · Medium · tags: `CI/CD`
   <a id="walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in"></a>
-- [What are Build Triggers in Jenkins?](../topics/jenkins.md#what-are-build-triggers-in-jenkins) — **2×** · Medium
-  <a id="what-are-build-triggers-in-jenkins"></a>
 
 ## Beginner
 
@@ -125,6 +125,8 @@
   <a id="how-do-you-maintain-jenkins-backup"></a>
 - [How do you pass environment variables in a Jenkins Pipeline?](../topics/jenkins.md#how-do-you-pass-environment-variables-in-a-jenkins-pipeline) — 2×
   <a id="how-do-you-pass-environment-variables-in-a-jenkins-pipeline"></a>
+- [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) — 2×
+  <a id="how-do-you-troubleshoot-a-failed-jenkins-build"></a>
 - [How does Jenkins trigger automatically after a GitHub push?](../topics/jenkins.md#how-does-jenkins-trigger-automatically-after-a-github-push) — 2×
   <a id="how-does-jenkins-trigger-automatically-after-a-github-push"></a>
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — 2×
@@ -213,6 +215,8 @@
   <a id="jenkins-pipeline-automation"></a>
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 1× · tags: `CI/CD`
   <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
+- [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 1× · tags: `AWS`
+  <a id="launch-jenkins-on-an-ec2-instance"></a>
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 1×
   <a id="lost-the-jenkins-admin-password-how-do-you-recover-it"></a>
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — 1× · tags: `Git`
@@ -300,6 +304,7 @@
 - [How do you roll back a failed deployment in Jenkins?](../topics/jenkins.md#how-do-you-roll-back-a-failed-deployment-in-jenkins)
 - [How do you secure Jenkins in production?](../topics/jenkins.md#how-do-you-secure-jenkins-in-production)
 - [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins)
+- [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build)
 - [How do you use shared libraries in Jenkins?](../topics/jenkins.md#how-do-you-use-shared-libraries-in-jenkins)
 - [How does Jenkins trigger automatically after a GitHub push?](../topics/jenkins.md#how-does-jenkins-trigger-automatically-after-a-github-push)
 - [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks)
@@ -308,6 +313,7 @@
 - [Jenkins](../topics/jenkins.md#jenkins)
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — tags: `CI/CD`
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — tags: `CI/CD`
+- [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — tags: `AWS`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it)
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — tags: `Git`
 - [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/jenkins.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-)
@@ -349,6 +355,8 @@
 
 ## Recently added
 
+- [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) — 2026-07-27
+- [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 2026-07-27 · tags: `AWS`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-26
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2026-07-26 · tags: `CI/CD`
 - [Jenkins](../topics/jenkins.md#jenkins) — 2026-07-26
@@ -362,8 +370,6 @@
 - [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — 2026-07-26 · tags: `CI/CD`
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — 2026-07-26 · tags: `CI/CD`
 - [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — 2026-07-21 · tags: `CI/CD`
-- [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks) — 2026-07-20
-- [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) — 2026-07-20 · tags: `Shell Scripting`
 
 ## Related topics
 
@@ -417,6 +423,7 @@
 | [How do you roll back a failed deployment in Jenkins?](../topics/jenkins.md#how-do-you-roll-back-a-failed-deployment-in-jenkins) | Medium | 1 |
 | [How do you secure Jenkins in production?](../topics/jenkins.md#how-do-you-secure-jenkins-in-production) | Hard | 1 |
 | [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) | Medium | 4 |
+| [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) | Medium | 2 |
 | [How do you use shared libraries in Jenkins?](../topics/jenkins.md#how-do-you-use-shared-libraries-in-jenkins) | Medium | 1 |
 | [How does Jenkins trigger automatically after a GitHub push?](../topics/jenkins.md#how-does-jenkins-trigger-automatically-after-a-github-push) | Medium | 2 |
 | [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks) | Medium | 1 |
@@ -426,6 +433,7 @@
 | [Jenkins](../topics/jenkins.md#jenkins) | Medium | 1 |
 | [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) | Medium | 1 |
 | [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) | Medium | 1 |
+| [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) | Medium | 1 |
 | [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) | Medium | 1 |
 | [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) | Medium | 1 |
 | [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/jenkins.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-) | Hard | 1 |

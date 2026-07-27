@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**84** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**86** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 84 |
-| Easy / Medium / Hard | 10 / 66 / 8 |
+| Questions | 86 |
+| Easy / Medium / Hard | 10 / 68 / 8 |
 | Companies | 8 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — **2×** · Medium
   <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
+- [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) — **2×** · Medium
+  <a id="how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable"></a>
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — **2×** · Medium
   <a id="how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions"></a>
 - [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces"></a>
 - [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) — **2×** · Hard
   <a id="you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-"></a>
-- [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) — **1×** · Medium
-  <a id="an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl"></a>
 
 ## Beginner
 
@@ -115,6 +115,8 @@
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 2×
   <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
+- [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) — 2×
+  <a id="how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable"></a>
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2×
   <a id="how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions"></a>
 - [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) — 2×
@@ -157,6 +159,8 @@
   <a id="aws-provides-an-http-endpoint-how-would-you-enable-https"></a>
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — 1× · tags: `Azure`
   <a id="aws-azure-cloud-fundamentals"></a>
+- [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage) — 1×
+  <a id="can-you-tell-me-the-types-of-s3-storage"></a>
 - [Do you have experience with AWS Control Tower?](../topics/aws.md#do-you-have-experience-with-aws-control-tower) — 1×
   <a id="do-you-have-experience-with-aws-control-tower"></a>
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) — 1×
@@ -303,6 +307,7 @@
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — tags: `Azure`
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https)
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — tags: `Azure`
+- [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage)
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda)
 - [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications)
 - [Explain your experience designing secure AWS infrastructure.](../topics/aws.md#explain-your-experience-designing-secure-aws-infrastructure)
@@ -314,6 +319,7 @@
 - [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue)
 - [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws)
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid)
+- [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable)
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions)
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question)
 - [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services)
@@ -369,6 +375,8 @@
 
 ## Recently added
 
+- [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage) — 2026-07-27
+- [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) — 2026-07-27
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 2026-07-26
 - [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) — 2026-07-26
 - [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — 2026-07-26
@@ -382,8 +390,6 @@
 - [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — 2026-07-18
 - [What is EC2?](../topics/aws.md#what-is-ec2) — 2026-07-18
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — 2026-07-18
-- [What is AWS?](../topics/aws.md#what-is-aws) — 2026-07-18
-- [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2026-07-18
 
 ## Related topics
 
@@ -406,6 +412,7 @@
 | [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) | Medium | 1 |
 | [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) | Medium | 1 |
 | [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) | Medium | 1 |
+| [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage) | Medium | 1 |
 | [Do you have experience with AWS Control Tower?](../topics/aws.md#do-you-have-experience-with-aws-control-tower) | Medium | 1 |
 | [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) | Medium | 1 |
 | [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications) | Easy | 1 |
@@ -421,6 +428,7 @@
 | [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) | Medium | 1 |
 | [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws) | Hard | 1 |
 | [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) | Medium | 1 |
+| [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) | Medium | 2 |
 | [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 2 |
 | [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) | Medium | 1 |
 | [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services) | Medium | 1 |

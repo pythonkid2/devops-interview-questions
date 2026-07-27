@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Git**
 
-**16** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 16 |
-| Easy / Medium / Hard | 5 / 11 / 0 |
+| Questions | 17 |
+| Easy / Medium / Hard | 5 / 12 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -47,6 +47,8 @@
   <a id="git-fetch-vs-git-pull"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — **1×** · Medium
   <a id="git-github-branching-strategies"></a>
+- [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — **1×** · Medium
+  <a id="how-do-you-manage-version-control-with-git"></a>
 - [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — **1×** · Medium
   <a id="how-does-git-merge-and-rebase-differ-internally"></a>
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — **1×** · Medium
@@ -87,6 +89,8 @@
   <a id="git-fetch-vs-git-pull"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — 1×
   <a id="git-github-branching-strategies"></a>
+- [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — 1×
+  <a id="how-do-you-manage-version-control-with-git"></a>
 - [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — 1×
   <a id="how-does-git-merge-and-rebase-differ-internally"></a>
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — 1×
@@ -112,6 +116,7 @@ _None in this band yet._
 - [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash)
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull)
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies)
+- [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git)
 - [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally)
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a)
 - [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know)
@@ -129,6 +134,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — 2026-07-27
 - [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) — 2026-07-26
 - [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 2026-07-26
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — 2026-07-26
@@ -143,7 +149,6 @@ _None in this band yet._
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — 2026-07-17
 - [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — 2026-07-17
 - [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — 2026-07-17
-- [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — 2026-07-17
 
 ## Related topics
 
@@ -159,6 +164,7 @@ _None in this band yet._
 | [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) | Medium | 1 |
 | [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) | Medium | 1 |
 | [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) | Medium | 1 |
+| [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) | Medium | 1 |
 | [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) | Medium | 1 |
 | [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) | Medium | 1 |
 | [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) | Easy | 2 |
