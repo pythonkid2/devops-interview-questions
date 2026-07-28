@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **CI/CD**
 
-**66** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**67** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 66 |
-| Easy / Medium / Hard | 12 / 43 / 11 |
-| Companies | 9 |
+| Questions | 67 |
+| Easy / Medium / Hard | 12 / 44 / 11 |
+| Companies | 10 |
 
 ## Most asked
 
@@ -35,6 +35,8 @@
   <a id="how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d"></a>
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — **5×** · Medium
   <a id="what-is-the-difference-between-continuous-delivery-and-continuous-deployment"></a>
+- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — **4×** · Easy
+  <a id="what-is-a-ci-cd-pipeline"></a>
 - [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) — **4×** · Medium
   <a id="what-is-continuous-integration-ci"></a>
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) — **3×** · Easy
@@ -47,8 +49,6 @@
   <a id="how-do-you-manage-secrets-securely-in-ci-cd-pipelines"></a>
 - [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) — **3×** · Medium
   <a id="how-do-you-troubleshoot-a-failed-ci-cd-pipeline"></a>
-- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — **3×** · Easy
-  <a id="what-is-a-ci-cd-pipeline"></a>
 - [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks) — **2×** · Medium
   <a id="build-fails-even-though-the-pipeline-runs-what-usually-breaks"></a>
 - [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro) — **2×** · Hard
@@ -80,10 +80,10 @@
 
 ## Beginner
 
+- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — 4×
+  <a id="what-is-a-ci-cd-pipeline"></a>
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) — 3×
   <a id="complete-end-to-end-devops-ci-cd-pipeline-workflow"></a>
-- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — 3×
-  <a id="what-is-a-ci-cd-pipeline"></a>
 - [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](../topics/ci-cd.md#explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s) — 2×
   <a id="explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s"></a>
 - [What branching strategy do you follow in your projects?](../topics/ci-cd.md#what-branching-strategy-do-you-follow-in-your-projects) — 2×
@@ -145,6 +145,8 @@
   <a id="your-ci-cd-deployment-breaks-after-a-code-merge-how-do-you-identify-the-root-cau"></a>
 - [A corrupted pipeline deploys faulty code across multiple environments. How do you contain and recover?](../topics/ci-cd.md#a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you) — 1×
   <a id="a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you"></a>
+- [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) — 1×
+  <a id="can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod"></a>
 - [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) — 1×
   <a id="can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project"></a>
 - [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha) — 1×
@@ -244,6 +246,7 @@
 
 - [A corrupted pipeline deploys faulty code across multiple environments. How do you contain and recover?](../topics/ci-cd.md#a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you)
 - [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks)
+- [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod)
 - [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project)
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — tags: `System Design`
 - [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro)
@@ -301,6 +304,7 @@
 
 ## Companies asking
 
+- [Adesso](../companies/adesso.md)
 - [Argyll Infotech](../companies/argyll-infotech.md)
 - [Deloitte](../companies/deloitte.md)
 - [Elite Code Technologies](../companies/elite-code-technologies.md)
@@ -313,6 +317,8 @@
 
 ## Recently added
 
+- [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) — 2026-07-28
+- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — 2026-07-28
 - [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) — 2026-07-28
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — 2026-07-28 · tags: `System Design`
 - [What would you do if your data pipeline suddenly started producing incorrect results?](../topics/ci-cd.md#what-would-you-do-if-your-data-pipeline-suddenly-started-producing-incorrect-res) — 2026-07-27
@@ -320,14 +326,12 @@
 - [Your CI/CD platform executes 25,000 deployments per month, but deployment success has dropped from 99.5% to 91%. How would you identify and eliminate the root causes?](../topics/ci-cd.md#your-ci-cd-platform-executes-25000-deployments-per-month-but-deployment-success-) — 2026-07-27
 - [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end) — 2026-07-27
 - [Run a Hello World pipeline.](../topics/ci-cd.md#run-a-hello-world-pipeline) — 2026-07-27
-- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — 2026-07-27
 - [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) — 2026-07-26
 - [Which CI/CD tool are you using?](../topics/ci-cd.md#which-ci-cd-tool-are-you-using) — 2026-07-26
 - [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) — 2026-07-26
 - [What would you do if your pipeline suddenly takes 30 minutes instead of 5?](../topics/ci-cd.md#what-would-you-do-if-your-pipeline-suddenly-takes-30-minutes-instead-of-5) — 2026-07-26
 - [How would you design a CI/CD pipeline with an automatic rollback strategy?](../topics/ci-cd.md#how-would-you-design-a-ci-cd-pipeline-with-an-automatic-rollback-strategy) — 2026-07-26
 - [Your deployment pipeline succeeds, but the application fails after deployment. What would be your next steps?](../topics/ci-cd.md#your-deployment-pipeline-succeeds-but-the-application-fails-after-deployment-wha) — 2026-07-26
-- [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks) — 2026-07-26
 
 ## Related topics
 
@@ -342,6 +346,7 @@
 | --- | --- | ---: |
 | [A corrupted pipeline deploys faulty code across multiple environments. How do you contain and recover?](../topics/ci-cd.md#a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you) | Medium | 1 |
 | [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks) | Medium | 2 |
+| [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) | Medium | 1 |
 | [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) | Medium | 1 |
 | [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) | Hard | 5 |
 | [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro) | Hard | 2 |
@@ -383,7 +388,7 @@
 | [What are the different ways to create a pipeline?](../topics/ci-cd.md#what-are-the-different-ways-to-create-a-pipeline) | Easy | 1 |
 | [What branching strategy do you follow in your projects?](../topics/ci-cd.md#what-branching-strategy-do-you-follow-in-your-projects) | Easy | 2 |
 | [What happens internally in a CI/CD pipeline from commit → deploy?](../topics/ci-cd.md#what-happens-internally-in-a-ci-cd-pipeline-from-commit-deploy) | Medium | 1 |
-| [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) | Easy | 3 |
+| [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) | Easy | 4 |
 | [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) | Medium | 4 |
 | [What is pipeline as code and how do you implement it?](../topics/ci-cd.md#what-is-pipeline-as-code-and-how-do-you-implement-it) | Easy | 1 |
 | [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) | Medium | 5 |

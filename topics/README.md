@@ -8,10 +8,10 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [AWS](./aws.md) | 94 |
+| [AWS](./aws.md) | 101 |
 | [Azure](./azure.md) | 20 |
+| [CloudFormation](./cloudformation.md) | 2 |
 | [GCP](./gcp.md) | 2 |
-| [CloudFormation](./cloudformation.md) | 1 |
 
 ## Containers
 
@@ -36,7 +36,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Jenkins](./jenkins.md) | 84 |
-| [CI/CD](./ci-cd.md) | 66 |
+| [CI/CD](./ci-cd.md) | 67 |
 | [Deployment Strategies](./deployment-strategies.md) | 15 |
 | [Azure DevOps](./azure-devops.md) | 12 |
 | [GitHub Actions](./github-actions.md) | 7 |
@@ -45,7 +45,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Monitoring](./monitoring.md) | 18 |
+| [Monitoring](./monitoring.md) | 19 |
 | [Observability](./observability.md) | 14 |
 | [Prometheus](./prometheus.md) | 11 |
 | [Grafana](./grafana.md) | 6 |
@@ -63,8 +63,8 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | [Networking](./networking.md) | 10 |
 | [Load Balancing](./load-balancing.md) | 9 |
 | [VPC](./vpc.md) | 6 |
+| [API Gateway](./api-gateway.md) | 4 |
 | [DNS](./dns.md) | 4 |
-| [API Gateway](./api-gateway.md) | 3 |
 | [Service Mesh](./service-mesh.md) | 3 |
 | [CDN](./cdn.md) | 2 |
 
@@ -73,10 +73,11 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Security](./security.md) | 25 |
-| [IAM](./iam.md) | 10 |
+| [IAM](./iam.md) | 11 |
 | [Network Security](./network-security.md) | 6 |
 | [DevSecOps](./devsecops.md) | 5 |
 | [Certificate Management](./certificate-management.md) | 1 |
+| [Secrets](./secrets.md) | 1 |
 | [Vault](./vault.md) | 1 |
 
 ## SRE
@@ -120,7 +121,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [System Design](./system-design.md) | 20 |
+| [System Design](./system-design.md) | 22 |
 | [FinOps](./finops.md) | 6 |
 | [Microservices](./microservices.md) | 4 |
 
@@ -128,7 +129,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 592 |
+| [General](./general.md) | 609 |
 
 
 [← Home](../README.md)

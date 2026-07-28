@@ -4,7 +4,7 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1342 |
+| [Unknown Company](../companies/unknown-company.md) | 1362 |
 | [Mphasis](../companies/mphasis.md) | 43 |
 | [TCS](../companies/tcs.md) | 38 |
 | [Accenture](../companies/accenture.md) | 32 |
@@ -24,6 +24,8 @@
 | [DEVYNTECH](../companies/devyntech.md) | 7 |
 | [EY](../companies/ey.md) | 7 |
 | [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md) | 7 |
+| [Adesso](../companies/adesso.md) | 6 |
+| [Swageazy](../companies/swageazy.md) | 6 |
 | [Sri-Hire](../companies/sri-hire.md) | 5 |
 | [DPRSolutions](../companies/dprsolutions.md) | 4 |
 | [Infinity wave Inc](../companies/infinity-wave-inc.md) | 3 |

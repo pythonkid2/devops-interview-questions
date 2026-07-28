@@ -89,6 +89,7 @@ _None in this band yet._
 ## Related topics
 
 - [IAM](./iam.md)
+- [Secrets](./secrets.md)
 - [Security](./security.md)
 - [DevSecOps](./devsecops.md)
 - [Vault](./vault.md)

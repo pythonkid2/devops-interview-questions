@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **General**
 
-**592** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**609** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 592 |
-| Easy / Medium / Hard | 84 / 444 / 64 |
-| Companies | 19 |
+| Questions | 609 |
+| Easy / Medium / Hard | 85 / 459 / 65 |
+| Companies | 21 |
 
 ## Most asked
 
@@ -174,6 +174,8 @@
   <a id="what-are-the-exact-kubectl-commands-to-run-first-when-troubleshooting"></a>
 - [What are the issues faced after the ontap upgrade? How do you fix that?](../topics/general.md#what-are-the-issues-faced-after-the-ontap-upgrade-how-do-you-fix-that) — 1×
   <a id="what-are-the-issues-faced-after-the-ontap-upgrade-how-do-you-fix-that"></a>
+- [What are the key areas of focus for the DVA-C02 exam?](../topics/general.md#what-are-the-key-areas-of-focus-for-the-dva-c02-exam) — 1×
+  <a id="what-are-the-key-areas-of-focus-for-the-dva-c02-exam"></a>
 - [What are the key differences between IaaS, PaaS, and SaaS?](../topics/general.md#what-are-the-key-differences-between-iaas-paas-and-saas) — 1×
   <a id="what-are-the-key-differences-between-iaas-paas-and-saas"></a>
 - [What are YAML Pipelines?](../topics/general.md#what-are-yaml-pipelines) — 1×
@@ -519,6 +521,8 @@
   <a id="what-issues-you-have-seen-in-github"></a>
 - [What kind of automation have you done?](../topics/general.md#what-kind-of-automation-have-you-done) — 2×
   <a id="what-kind-of-automation-have-you-done"></a>
+- [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security) — 2×
+  <a id="what-percentage-of-the-exam-is-focused-on-security"></a>
 - [What SQL optimization techniques have you used in your projects?](../topics/general.md#what-sql-optimization-techniques-have-you-used-in-your-projects) — 2×
   <a id="what-sql-optimization-techniques-have-you-used-in-your-projects"></a>
 - [What third-party integrations have you worked on?](../topics/general.md#what-third-party-integrations-have-you-worked-on) — 2×
@@ -647,6 +651,8 @@
   <a id="auto-scaling"></a>
 - [Automation project overview and tools stack hands-on experience.](../topics/general.md#automation-project-overview-and-tools-stack-hands-on-experience) — 1×
   <a id="automation-project-overview-and-tools-stack-hands-on-experience"></a>
+- [Basic understanding or exposure to Machine Learning concepts is preferred](../topics/general.md#basic-understanding-or-exposure-to-machine-learning-concepts-is-preferred) — 1×
+  <a id="basic-understanding-or-exposure-to-machine-learning-concepts-is-preferred"></a>
 - [Be ready to write a basic automation script, such as checking disk usage.](../topics/general.md#be-ready-to-write-a-basic-automation-script-such-as-checking-disk-usage) — 1×
   <a id="be-ready-to-write-a-basic-automation-script-such-as-checking-disk-usage"></a>
 - [Benefits & culture](../topics/general.md#benefits-culture) — 1×
@@ -665,6 +671,10 @@
   <a id="can-you-describe-how-a-system-fails-specifically-the-input-that-breaks-it-the-lo"></a>
 - [Can you describe two production challenges you've faced and how you resolved them?](../topics/general.md#can-you-describe-two-production-challenges-you-ve-faced-and-how-you-resolved-the) — 1×
   <a id="can-you-describe-two-production-challenges-you-ve-faced-and-how-you-resolved-the"></a>
+- [Can you discuss caching strategies you have implemented?](../topics/general.md#can-you-discuss-caching-strategies-you-have-implemented) — 1×
+  <a id="can-you-discuss-caching-strategies-you-have-implemented"></a>
+- [Can you explain a service but not call it from code?](../topics/general.md#can-you-explain-a-service-but-not-call-it-from-code) — 1×
+  <a id="can-you-explain-a-service-but-not-call-it-from-code"></a>
 - [Can you explain one of your projects?](../topics/general.md#can-you-explain-one-of-your-projects) — 1×
   <a id="can-you-explain-one-of-your-projects"></a>
 - [Can you explain the concept of Infrastructure as Code (IaC)?](../topics/general.md#can-you-explain-the-concept-of-infrastructure-as-code-iac) — 1×
@@ -701,6 +711,8 @@
   <a id="delta-lake-vs-data-lake"></a>
 - [Describe a time a deployment went wrong. What did you learn?](../topics/general.md#describe-a-time-a-deployment-went-wrong-what-did-you-learn) — 1×
   <a id="describe-a-time-a-deployment-went-wrong-what-did-you-learn"></a>
+- [Develop and optimize RESTful APIs and microservices](../topics/general.md#develop-and-optimize-restful-apis-and-microservices) — 1×
+  <a id="develop-and-optimize-restful-apis-and-microservices"></a>
 - [Developer says requirement is not feasible - what will you do?](../topics/general.md#developer-says-requirement-is-not-feasible-what-will-you-do) — 1×
   <a id="developer-says-requirement-is-not-feasible-what-will-you-do"></a>
 - [Developers are overwriting each other's code. How would you solve it?](../topics/general.md#developers-are-overwriting-each-other-s-code-how-would-you-solve-it) — 1×
@@ -739,6 +751,8 @@
   <a id="explain-different-type-of-injection-in-spring-boot-with-example"></a>
 - [Explain how you’d leverage eBPF + Cilium to enforce network security policies at runtime, and what the advantages are over traditional CNIs?](../topics/general.md#explain-how-youd-leverage-ebpf-cilium-to-enforce-network-security-policies-at-ru) — 1×
   <a id="explain-how-youd-leverage-ebpf-cilium-to-enforce-network-security-policies-at-ru"></a>
+- [Explain Redux and Context API. When would you use one over the other?](../topics/general.md#explain-redux-and-context-api-when-would-you-use-one-over-the-other) — 1×
+  <a id="explain-redux-and-context-api-when-would-you-use-one-over-the-other"></a>
 - [Explain SOLID principles with real-world examples. Which principle do developers violate most often, and how do you avoid it?](../topics/general.md#explain-solid-principles-with-real-world-examples-which-principle-do-developers-) — 1×
   <a id="explain-solid-principles-with-real-world-examples-which-principle-do-developers-"></a>
 - [Explain the background process executed during the upgrade?](../topics/general.md#explain-the-background-process-executed-during-the-upgrade) — 1×
@@ -761,6 +775,8 @@
   <a id="give-me-a-scenario-where-you-made-a-wrong-decision-what-happened-and-what-did-yo"></a>
 - [Go beyond tools and think in systems](../topics/general.md#go-beyond-tools-and-think-in-systems) — 1×
   <a id="go-beyond-tools-and-think-in-systems"></a>
+- [Have you actually deployed something with SAM or CDK, or just read about it?](../topics/general.md#have-you-actually-deployed-something-with-sam-or-cdk-or-just-read-about-it) — 1×
+  <a id="have-you-actually-deployed-something-with-sam-or-cdk-or-just-read-about-it"></a>
 - [Have you configured?](../topics/general.md#have-you-configured) — 1×
   <a id="have-you-configured"></a>
 - [Have you done any performance engineering to select R type instance?](../topics/general.md#have-you-done-any-performance-engineering-to-select-r-type-instance) — 1×
@@ -849,10 +865,14 @@
   <a id="how-do-you-secure-infrastructure-beyond-image-scanning"></a>
 - [How do you squash multiple commits into one?](../topics/general.md#how-do-you-squash-multiple-commits-into-one) — 1×
   <a id="how-do-you-squash-multiple-commits-into-one"></a>
+- [How do you test your knowledge before the exam day?](../topics/general.md#how-do-you-test-your-knowledge-before-the-exam-day) — 1×
+  <a id="how-do-you-test-your-knowledge-before-the-exam-day"></a>
 - [How do you trigger pipelines using webhooks?](../topics/general.md#how-do-you-trigger-pipelines-using-webhooks) — 1×
   <a id="how-do-you-trigger-pipelines-using-webhooks"></a>
 - [How do you troubleshoot a failed deployment?](../topics/general.md#how-do-you-troubleshoot-a-failed-deployment) — 1×
   <a id="how-do-you-troubleshoot-a-failed-deployment"></a>
+- [How do you troubleshoot and optimize using X-Ray tracing?](../topics/general.md#how-do-you-troubleshoot-and-optimize-using-x-ray-tracing) — 1×
+  <a id="how-do-you-troubleshoot-and-optimize-using-x-ray-tracing"></a>
 - [How do you troubleshoot high CPU or memory usage?](../topics/general.md#how-do-you-troubleshoot-high-cpu-or-memory-usage) — 1×
   <a id="how-do-you-troubleshoot-high-cpu-or-memory-usage"></a>
 - [How do you troubleshoot repository access issues?](../topics/general.md#how-do-you-troubleshoot-repository-access-issues) — 1×
@@ -907,10 +927,14 @@
   <a id="if-tasked-with-training-a-team-of-60-members-from-functional-to-automation-using"></a>
 - [If the deployment rollout is stuck, what do you check in that situation?](../topics/general.md#if-the-deployment-rollout-is-stuck-what-do-you-check-in-that-situation) — 1×
   <a id="if-the-deployment-rollout-is-stuck-what-do-you-check-in-that-situation"></a>
+- [If you had to build an application handling 10,000 concurrent users, would you choose Angular or React, and why?](../topics/general.md#if-you-had-to-build-an-application-handling-10000-concurrent-users-would-you-cho) — 1×
+  <a id="if-you-had-to-build-an-application-handling-10000-concurrent-users-would-you-cho"></a>
 - [In Devops Life Cycle, where CI and CD will fit into?](../topics/general.md#in-devops-life-cycle-where-ci-and-cd-will-fit-into) — 1×
   <a id="in-devops-life-cycle-where-ci-and-cd-will-fit-into"></a>
 - [In your experience, what has been the most difficult skill to find?](../topics/general.md#in-your-experience-what-has-been-the-most-difficult-skill-to-find) — 1×
   <a id="in-your-experience-what-has-been-the-most-difficult-skill-to-find"></a>
+- [Integrate frontend applications with backend services and third-party APIs](../topics/general.md#integrate-frontend-applications-with-backend-services-and-third-party-apis) — 1×
+  <a id="integrate-frontend-applications-with-backend-services-and-third-party-apis"></a>
 - [Is it secure?](../topics/general.md#is-it-secure) — 1×
   <a id="is-it-secure"></a>
 - [Is the LUN and Volume the same in Netapp like Other Storage?](../topics/general.md#is-the-lun-and-volume-the-same-in-netapp-like-other-storage) — 1×
@@ -1047,6 +1071,8 @@
   <a id="what-if-you-don-t-have-access-to-the-target-server"></a>
 - [What if you don't have administrative access?](../topics/general.md#what-if-you-don-t-have-administrative-access) — 1×
   <a id="what-if-you-don-t-have-administrative-access"></a>
+- [What is event delegation, and how would you apply it in a scenario with multiple child elements under a parent?](../topics/general.md#what-is-event-delegation-and-how-would-you-apply-it-in-a-scenario-with-multiple-) — 1×
+  <a id="what-is-event-delegation-and-how-would-you-apply-it-in-a-scenario-with-multiple-"></a>
 - [What is the best way to prepare for DevOps interviews?](../topics/general.md#what-is-the-best-way-to-prepare-for-devops-interviews) — 1×
   <a id="what-is-the-best-way-to-prepare-for-devops-interviews"></a>
 - [What is the difference between active choice reactive parameter and active choice reactive reference parameter?](../topics/general.md#what-is-the-difference-between-active-choice-reactive-parameter-and-active-choic) — 1×
@@ -1059,6 +1085,10 @@
   <a id="what-is-your-experience-with-auto-scaling"></a>
 - [What kind of cleanup have you done with the script?](../topics/general.md#what-kind-of-cleanup-have-you-done-with-the-script) — 1×
   <a id="what-kind-of-cleanup-have-you-done-with-the-script"></a>
+- [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization) — 1×
+  <a id="what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization"></a>
+- [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with) — 1×
+  <a id="what-real-exam-style-questions-have-you-practiced-with"></a>
 - [What real production issue made your team migrate from one instance family to another?](../topics/general.md#what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an) — 1×
   <a id="what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an"></a>
 - [What role does etcd play, and how can its performance impact the entire cluster?](../topics/general.md#what-role-does-etcd-play-and-how-can-its-performance-impact-the-entire-cluster) — 1×
@@ -1087,6 +1117,8 @@
   <a id="where-are-you-from"></a>
 - [Where should SSH keys be generated, and why?](../topics/general.md#where-should-ssh-keys-be-generated-and-why) — 1×
   <a id="where-should-ssh-keys-be-generated-and-why"></a>
+- [Which cloud platforms have you worked with? Can you explain Infrastructure as a Service (IaaS) with an example?](../topics/general.md#which-cloud-platforms-have-you-worked-with-can-you-explain-infrastructure-as-a-s) — 1×
+  <a id="which-cloud-platforms-have-you-worked-with-can-you-explain-infrastructure-as-a-s"></a>
 - [Which dependencies are defined in your pom.xml?](../topics/general.md#which-dependencies-are-defined-in-your-pom-xml) — 1×
   <a id="which-dependencies-are-defined-in-your-pom-xml"></a>
 - [Which domain have you worked in? Banking, insurance, or something else?](../topics/general.md#which-domain-have-you-worked-in-banking-insurance-or-something-else) — 1×
@@ -1248,6 +1280,8 @@
   <a id="production-server-cpu-is-at-100-what-would-you-do"></a>
 - [Rollback techniques in production](../topics/general.md#rollback-techniques-in-production) — 1×
   <a id="rollback-techniques-in-production"></a>
+- [Suppose you have a profile page with multiple lists that need updates independently. How would you architect this?](../topics/general.md#suppose-you-have-a-profile-page-with-multiple-lists-that-need-updates-independen) — 1×
+  <a id="suppose-you-have-a-profile-page-with-multiple-lists-that-need-updates-independen"></a>
 - [Tell me about a production issue you resolved completely on your own.](../topics/general.md#tell-me-about-a-production-issue-you-resolved-completely-on-your-own) — 1×
   <a id="tell-me-about-a-production-issue-you-resolved-completely-on-your-own"></a>
 - [Tell me about a time your infrastructure decision didn't scale — what did you change?](../topics/general.md#tell-me-about-a-time-your-infrastructure-decision-didn-t-scale-what-did-you-chan) — 1×
@@ -1355,6 +1389,7 @@
 - [Auto Scaling](../topics/general.md#auto-scaling)
 - [Automation project overview and tools stack hands-on experience.](../topics/general.md#automation-project-overview-and-tools-stack-hands-on-experience)
 - [Basic behavioral questions.](../topics/general.md#basic-behavioral-questions)
+- [Basic understanding or exposure to Machine Learning concepts is preferred](../topics/general.md#basic-understanding-or-exposure-to-machine-learning-concepts-is-preferred)
 - [Be ready to write a basic automation script, such as checking disk usage.](../topics/general.md#be-ready-to-write-a-basic-automation-script-such-as-checking-disk-usage)
 - [Benefits & culture](../topics/general.md#benefits-culture)
 - [Branching strategies](../topics/general.md#branching-strategies)
@@ -1364,6 +1399,8 @@
 - [Can you create a empty file with 100mb](../topics/general.md#can-you-create-a-empty-file-with-100mb)
 - [Can you describe how a system fails? Specifically — the input that breaks it, the load condition that degrades it, the dependency assumption that won't hold.](../topics/general.md#can-you-describe-how-a-system-fails-specifically-the-input-that-breaks-it-the-lo)
 - [Can you describe two production challenges you've faced and how you resolved them?](../topics/general.md#can-you-describe-two-production-challenges-you-ve-faced-and-how-you-resolved-the)
+- [Can you discuss caching strategies you have implemented?](../topics/general.md#can-you-discuss-caching-strategies-you-have-implemented)
+- [Can you explain a service but not call it from code?](../topics/general.md#can-you-explain-a-service-but-not-call-it-from-code)
 - [Can you explain one of your projects?](../topics/general.md#can-you-explain-one-of-your-projects)
 - [Can you explain the concept of Infrastructure as Code (IaC)?](../topics/general.md#can-you-explain-the-concept-of-infrastructure-as-code-iac)
 - [Can you read code and find the behavioral failure — not the naming inconsistency, the thing that produces a wrong answer silently in production?](../topics/general.md#can-you-read-code-and-find-the-behavioral-failure-not-the-naming-inconsistency-t)
@@ -1394,6 +1431,7 @@
 - [Describe a situation where you disagreed with a developer or architect.](../topics/general.md#describe-a-situation-where-you-disagreed-with-a-developer-or-architect)
 - [Describe a time a deployment went wrong. What did you learn?](../topics/general.md#describe-a-time-a-deployment-went-wrong-what-did-you-learn)
 - [Design systems that scale reliably](../topics/general.md#design-systems-that-scale-reliably)
+- [Develop and optimize RESTful APIs and microservices](../topics/general.md#develop-and-optimize-restful-apis-and-microservices)
 - [Developer says requirement is not feasible - what will you do?](../topics/general.md#developer-says-requirement-is-not-feasible-what-will-you-do)
 - [Developers are overwriting each other's code. How would you solve it?](../topics/general.md#developers-are-overwriting-each-other-s-code-how-would-you-solve-it)
 - [DevOps Automation & Best Practices](../topics/general.md#devops-automation-best-practices)
@@ -1429,6 +1467,7 @@
 - [Explain Liveness, Readiness, and Startup Probes.](../topics/general.md#explain-liveness-readiness-and-startup-probes)
 - [Explain logs, metrics, and traces.](../topics/general.md#explain-logs-metrics-and-traces)
 - [Explain Optional and its use cases.](../topics/general.md#explain-optional-and-its-use-cases)
+- [Explain Redux and Context API. When would you use one over the other?](../topics/general.md#explain-redux-and-context-api-when-would-you-use-one-over-the-other)
 - [Explain Saga Pattern with a real-world example.](../topics/general.md#explain-saga-pattern-with-a-real-world-example)
 - [Explain Singleton Design Pattern.](../topics/general.md#explain-singleton-design-pattern)
 - [Explain SOLID principles with real-world examples. Which principle do developers violate most often, and how do you avoid it?](../topics/general.md#explain-solid-principles-with-real-world-examples-which-principle-do-developers-)
@@ -1448,6 +1487,7 @@
 - [Give an example of a performance bottleneck you identified and resolved in a cloud-native environment.](../topics/general.md#give-an-example-of-a-performance-bottleneck-you-identified-and-resolved-in-a-clo)
 - [Give me a scenario where YOU made a wrong decision. What happened and what did you learn?](../topics/general.md#give-me-a-scenario-where-you-made-a-wrong-decision-what-happened-and-what-did-yo)
 - [Go beyond tools and think in systems](../topics/general.md#go-beyond-tools-and-think-in-systems)
+- [Have you actually deployed something with SAM or CDK, or just read about it?](../topics/general.md#have-you-actually-deployed-something-with-sam-or-cdk-or-just-read-about-it)
 - [Have you configured?](../topics/general.md#have-you-configured)
 - [Have you done any performance engineering to select R type instance?](../topics/general.md#have-you-done-any-performance-engineering-to-select-r-type-instance)
 - [Have you worked in a production environment?](../topics/general.md#have-you-worked-in-a-production-environment)
@@ -1538,9 +1578,11 @@
 - [How do you squash multiple commits into one?](../topics/general.md#how-do-you-squash-multiple-commits-into-one)
 - [How do you test if the login process takes too long but eventually succeeds?](../topics/general.md#how-do-you-test-if-the-login-process-takes-too-long-but-eventually-succeeds)
 - [How do you test when an API returns partial data and the UI becomes unresponsive?](../topics/general.md#how-do-you-test-when-an-api-returns-partial-data-and-the-ui-becomes-unresponsive)
+- [How do you test your knowledge before the exam day?](../topics/general.md#how-do-you-test-your-knowledge-before-the-exam-day)
 - [How do you trigger pipelines using webhooks?](../topics/general.md#how-do-you-trigger-pipelines-using-webhooks)
 - [How do you trouble shoot 403 errors on the application in DevOps](../topics/general.md#how-do-you-trouble-shoot-403-errors-on-the-application-in-devops)
 - [How do you troubleshoot a failed deployment?](../topics/general.md#how-do-you-troubleshoot-a-failed-deployment)
+- [How do you troubleshoot and optimize using X-Ray tracing?](../topics/general.md#how-do-you-troubleshoot-and-optimize-using-x-ray-tracing)
 - [How do you troubleshoot high CPU or memory usage?](../topics/general.md#how-do-you-troubleshoot-high-cpu-or-memory-usage)
 - [How do you troubleshoot network connectivity layer by layer?](../topics/general.md#how-do-you-troubleshoot-network-connectivity-layer-by-layer)
 - [How do you troubleshoot node disk pressure?](../topics/general.md#how-do-you-troubleshoot-node-disk-pressure)
@@ -1595,9 +1637,11 @@
 - [If the deployment rollout is stuck, what do you check in that situation?](../topics/general.md#if-the-deployment-rollout-is-stuck-what-do-you-check-in-that-situation)
 - [If the issue is application-related, which team handles it?](../topics/general.md#if-the-issue-is-application-related-which-team-handles-it)
 - [If you encounter an issue where you know the technical resolution, but implementing it would require deviating from the established Standard Operating Procedure (SOP), how would you handle the situation?](../topics/general.md#if-you-encounter-an-issue-where-you-know-the-technical-resolution-but-implementi)
+- [If you had to build an application handling 10,000 concurrent users, would you choose Angular or React, and why?](../topics/general.md#if-you-had-to-build-an-application-handling-10000-concurrent-users-would-you-cho)
 - [If you joined tomorrow as a Senior DevOps Engineer with a ₹55 LPA package, what would your 100-day DevOps transformation roadmap look like, and what measurable engineering, operational, reliability, and business outcomes would you commit to delivering within your first year?](../topics/general.md#if-you-joined-tomorrow-as-a-senior-devops-engineer-with-a-55-lpa-package-what-wo)
 - [In Devops Life Cycle, where CI and CD will fit into?](../topics/general.md#in-devops-life-cycle-where-ci-and-cd-will-fit-into)
 - [In your experience, what has been the most difficult skill to find?](../topics/general.md#in-your-experience-what-has-been-the-most-difficult-skill-to-find)
+- [Integrate frontend applications with backend services and third-party APIs](../topics/general.md#integrate-frontend-applications-with-backend-services-and-third-party-apis)
 - [Is it secure?](../topics/general.md#is-it-secure)
 - [Is the LUN and Volume the same in Netapp like Other Storage?](../topics/general.md#is-the-lun-and-volume-the-same-in-netapp-like-other-storage)
 - [Is the port open?](../topics/general.md#is-the-port-open)
@@ -1647,6 +1691,7 @@
 - [Storage latency suddenly increases. How would you investigate?](../topics/general.md#storage-latency-suddenly-increases-how-would-you-investigate)
 - [Strengthen Your Scripting Skills](../topics/general.md#strengthen-your-scripting-skills)
 - [Suppose there are 5 , how would you connect them or allow them to communicate?](../topics/general.md#suppose-there-are-5-how-would-you-connect-them-or-allow-them-to-communicate)
+- [Suppose you have a profile page with multiple lists that need updates independently. How would you architect this?](../topics/general.md#suppose-you-have-a-profile-page-with-multiple-lists-that-need-updates-independen)
 - [System is showing wrong EMI for only 3 out of 5000 customers. Where do you start investigation?](../topics/general.md#system-is-showing-wrong-emi-for-only-3-out-of-5000-customers-where-do-you-start-)
 - [TCP vs UDP?](../topics/general.md#tcp-vs-udp)
 - [Teamwork and culture fit.](../topics/general.md#teamwork-and-culture-fit)
@@ -1698,6 +1743,7 @@
 - [What are the different parameter types you used?](../topics/general.md#what-are-the-different-parameter-types-you-used)
 - [What are the exact kubectl commands to run first when troubleshooting?](../topics/general.md#what-are-the-exact-kubectl-commands-to-run-first-when-troubleshooting)
 - [What are the issues faced after the ontap upgrade? How do you fix that?](../topics/general.md#what-are-the-issues-faced-after-the-ontap-upgrade-how-do-you-fix-that)
+- [What are the key areas of focus for the DVA-C02 exam?](../topics/general.md#what-are-the-key-areas-of-focus-for-the-dva-c02-exam)
 - [What are the key differences between IaaS, PaaS, and SaaS?](../topics/general.md#what-are-the-key-differences-between-iaas-paas-and-saas)
 - [What are the most common production mistakes in DevOps setups?](../topics/general.md#what-are-the-most-common-production-mistakes-in-devops-setups)
 - [What are the new features introduced in Java 21?](../topics/general.md#what-are-the-new-features-introduced-in-java-21)
@@ -1754,6 +1800,7 @@
 - [What is DevOps and its lifecycle?](../topics/general.md#what-is-devops-and-its-lifecycle)
 - [What is errors and examples.](../topics/general.md#what-is-errors-and-examples)
 - [What is etcd?](../topics/general.md#what-is-etcd)
+- [What is event delegation, and how would you apply it in a scenario with multiple child elements under a parent?](../topics/general.md#what-is-event-delegation-and-how-would-you-apply-it-in-a-scenario-with-multiple-)
 - [What is Infrastructure as Code, and why does it matter?](../topics/general.md#what-is-infrastructure-as-code-and-why-does-it-matter)
 - [What is journalctl?](../topics/general.md#what-is-journalctl)
 - [What is kube-proxy?](../topics/general.md#what-is-kube-proxy)
@@ -1800,6 +1847,9 @@
 - [What is your last working day?](../topics/general.md#what-is-your-last-working-day)
 - [What issues you have seen in GitHub.](../topics/general.md#what-issues-you-have-seen-in-github)
 - [What kind of cleanup have you done with the script?](../topics/general.md#what-kind-of-cleanup-have-you-done-with-the-script)
+- [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security)
+- [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization)
+- [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with)
 - [What real production issue made your team migrate from one instance family to another?](../topics/general.md#what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an)
 - [What role does etcd play, and how can its performance impact the entire cluster?](../topics/general.md#what-role-does-etcd-play-and-how-can-its-performance-impact-the-entire-cluster)
 - [What rollback strategies do you follow?](../topics/general.md#what-rollback-strategies-do-you-follow)
@@ -1829,6 +1879,7 @@
 - [When would you choose Saga over distributed transactions?](../topics/general.md#when-would-you-choose-saga-over-distributed-transactions)
 - [Where are you from?](../topics/general.md#where-are-you-from)
 - [Where should SSH keys be generated, and why?](../topics/general.md#where-should-ssh-keys-be-generated-and-why)
+- [Which cloud platforms have you worked with? Can you explain Infrastructure as a Service (IaaS) with an example?](../topics/general.md#which-cloud-platforms-have-you-worked-with-can-you-explain-infrastructure-as-a-s)
 - [Which dependencies are defined in your pom.xml?](../topics/general.md#which-dependencies-are-defined-in-your-pom-xml)
 - [Which domain have you worked in? Banking, insurance, or something else?](../topics/general.md#which-domain-have-you-worked-in-banking-insurance-or-something-else)
 - [Which ONTAP version are you currently working on? What are the key enhancements, new features, or improvements introduced in this version compared to the previous release?](../topics/general.md#which-ontap-version-are-you-currently-working-on-what-are-the-key-enhancements-n)
@@ -1886,6 +1937,7 @@
 ## Companies asking
 
 - [Accenture](../companies/accenture.md)
+- [Adesso](../companies/adesso.md)
 - [BNP Paribas](../companies/bnp-paribas.md)
 - [DBS Bank](../companies/dbs-bank.md)
 - [Deloitte](../companies/deloitte.md)
@@ -1902,26 +1954,27 @@
 - [PwC](../companies/pwc.md)
 - [SpaceTech Inc.](../companies/spacetech-inc.md)
 - [Sri-Hire](../companies/sri-hire.md)
+- [Swageazy](../companies/swageazy.md)
 - [TCS](../companies/tcs.md)
 - [Wipro](../companies/wipro.md)
 
 ## Recently added
 
-- [Explain how containerization eliminated environment inconsistencies and simplified deployments.](../topics/general.md#explain-how-containerization-eliminated-environment-inconsistencies-and-simplifi) — 2026-07-28
-- [Different type of concurrent collections used in project.](../topics/general.md#different-type-of-concurrent-collections-used-in-project) — 2026-07-28
-- [Comparable vs Comparator.](../topics/general.md#comparable-vs-comparator) — 2026-07-28
-- [Hibernate vs JPA.](../topics/general.md#hibernate-vs-jpa) — 2026-07-28
-- [What is errors and examples.](../topics/general.md#what-is-errors-and-examples) — 2026-07-28
-- [Explain volatile keyword.](../topics/general.md#explain-volatile-keyword) — 2026-07-28
-- [Explain different type of injection in spring boot with example.](../topics/general.md#explain-different-type-of-injection-in-spring-boot-with-example) — 2026-07-28
-- [Failfast vs fail safe iterators.](../topics/general.md#failfast-vs-fail-safe-iterators) — 2026-07-28
-- [Difference between wait and sleep.](../topics/general.md#difference-between-wait-and-sleep) — 2026-07-28
-- [What changes were made in hashmap after java 8.](../topics/general.md#what-changes-were-made-in-hashmap-after-java-8) — 2026-07-28
-- [How would you reduce deployment downtime for a critical application?](../topics/general.md#how-would-you-reduce-deployment-downtime-for-a-critical-application) — 2026-07-28
-- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/general.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — 2026-07-28
-- [How do you centralize application logs?](../topics/general.md#how-do-you-centralize-application-logs) — 2026-07-28
-- [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — 2026-07-28
-- [How do readiness and liveness probes work?](../topics/general.md#how-do-readiness-and-liveness-probes-work) — 2026-07-28
+- [How do you test your knowledge before the exam day?](../topics/general.md#how-do-you-test-your-knowledge-before-the-exam-day) — 2026-07-28
+- [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization) — 2026-07-28
+- [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security) — 2026-07-28
+- [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with) — 2026-07-28
+- [What are the key areas of focus for the DVA-C02 exam?](../topics/general.md#what-are-the-key-areas-of-focus-for-the-dva-c02-exam) — 2026-07-28
+- [Can you discuss caching strategies you have implemented?](../topics/general.md#can-you-discuss-caching-strategies-you-have-implemented) — 2026-07-28
+- [How do you troubleshoot and optimize using X-Ray tracing?](../topics/general.md#how-do-you-troubleshoot-and-optimize-using-x-ray-tracing) — 2026-07-28
+- [Can you explain a service but not call it from code?](../topics/general.md#can-you-explain-a-service-but-not-call-it-from-code) — 2026-07-28
+- [Have you actually deployed something with SAM or CDK, or just read about it?](../topics/general.md#have-you-actually-deployed-something-with-sam-or-cdk-or-just-read-about-it) — 2026-07-28
+- [Which cloud platforms have you worked with? Can you explain Infrastructure as a Service (IaaS) with an example?](../topics/general.md#which-cloud-platforms-have-you-worked-with-can-you-explain-infrastructure-as-a-s) — 2026-07-28
+- [Suppose you have a profile page with multiple lists that need updates independently. How would you architect this?](../topics/general.md#suppose-you-have-a-profile-page-with-multiple-lists-that-need-updates-independen) — 2026-07-28
+- [What is event delegation, and how would you apply it in a scenario with multiple child elements under a parent?](../topics/general.md#what-is-event-delegation-and-how-would-you-apply-it-in-a-scenario-with-multiple-) — 2026-07-28
+- [Explain Redux and Context API. When would you use one over the other?](../topics/general.md#explain-redux-and-context-api-when-would-you-use-one-over-the-other) — 2026-07-28
+- [If you had to build an application handling 10,000 concurrent users, would you choose Angular or React, and why?](../topics/general.md#if-you-had-to-build-an-application-handling-10000-concurrent-users-would-you-cho) — 2026-07-28
+- [Basic understanding or exposure to Machine Learning concepts is preferred](../topics/general.md#basic-understanding-or-exposure-to-machine-learning-concepts-is-preferred) — 2026-07-28
 
 ## Related topics
 
@@ -1972,6 +2025,7 @@ _See [all topics](./README.md)._
 | [Automation metrics for success, how would you calculate ROI?](../topics/general.md#automation-metrics-for-success-how-would-you-calculate-roi) | Medium | 2 |
 | [Automation project overview and tools stack hands-on experience.](../topics/general.md#automation-project-overview-and-tools-stack-hands-on-experience) | Medium | 1 |
 | [Basic behavioral questions.](../topics/general.md#basic-behavioral-questions) | Medium | 2 |
+| [Basic understanding or exposure to Machine Learning concepts is preferred](../topics/general.md#basic-understanding-or-exposure-to-machine-learning-concepts-is-preferred) | Medium | 1 |
 | [Be ready to write a basic automation script, such as checking disk usage.](../topics/general.md#be-ready-to-write-a-basic-automation-script-such-as-checking-disk-usage) | Medium | 1 |
 | [Benefits & culture](../topics/general.md#benefits-culture) | Medium | 1 |
 | [Branching strategies](../topics/general.md#branching-strategies) | Medium | 1 |
@@ -1982,6 +2036,8 @@ _See [all topics](./README.md)._
 | [Can you create a empty file with 100mb](../topics/general.md#can-you-create-a-empty-file-with-100mb) | Medium | 1 |
 | [Can you describe how a system fails? Specifically — the input that breaks it, the load condition that degrades it, the dependency assumption that won't hold.](../topics/general.md#can-you-describe-how-a-system-fails-specifically-the-input-that-breaks-it-the-lo) | Medium | 1 |
 | [Can you describe two production challenges you've faced and how you resolved them?](../topics/general.md#can-you-describe-two-production-challenges-you-ve-faced-and-how-you-resolved-the) | Medium | 1 |
+| [Can you discuss caching strategies you have implemented?](../topics/general.md#can-you-discuss-caching-strategies-you-have-implemented) | Medium | 1 |
+| [Can you explain a service but not call it from code?](../topics/general.md#can-you-explain-a-service-but-not-call-it-from-code) | Medium | 1 |
 | [Can you explain one of your projects?](../topics/general.md#can-you-explain-one-of-your-projects) | Medium | 1 |
 | [Can you explain the concept of Infrastructure as Code (IaC)?](../topics/general.md#can-you-explain-the-concept-of-infrastructure-as-code-iac) | Medium | 1 |
 | [Can you read code and find the behavioral failure — not the naming inconsistency, the thing that produces a wrong answer silently in production?](../topics/general.md#can-you-read-code-and-find-the-behavioral-failure-not-the-naming-inconsistency-t) | Hard | 1 |
@@ -2013,6 +2069,7 @@ _See [all topics](./README.md)._
 | [Describe a time a deployment went wrong. What did you learn?](../topics/general.md#describe-a-time-a-deployment-went-wrong-what-did-you-learn) | Medium | 1 |
 | [Describe the real-time project migration strategy and success metrics.](../topics/general.md#describe-the-real-time-project-migration-strategy-and-success-metrics) | Medium | 2 |
 | [Design systems that scale reliably](../topics/general.md#design-systems-that-scale-reliably) | Hard | 1 |
+| [Develop and optimize RESTful APIs and microservices](../topics/general.md#develop-and-optimize-restful-apis-and-microservices) | Medium | 1 |
 | [Developer says requirement is not feasible - what will you do?](../topics/general.md#developer-says-requirement-is-not-feasible-what-will-you-do) | Medium | 1 |
 | [Developers are overwriting each other's code. How would you solve it?](../topics/general.md#developers-are-overwriting-each-other-s-code-how-would-you-solve-it) | Medium | 1 |
 | [DevOps Automation & Best Practices](../topics/general.md#devops-automation-best-practices) | Medium | 1 |
@@ -2050,6 +2107,7 @@ _See [all topics](./README.md)._
 | [Explain Liveness, Readiness, and Startup Probes.](../topics/general.md#explain-liveness-readiness-and-startup-probes) | Medium | 2 |
 | [Explain logs, metrics, and traces.](../topics/general.md#explain-logs-metrics-and-traces) | Medium | 2 |
 | [Explain Optional and its use cases.](../topics/general.md#explain-optional-and-its-use-cases) | Medium | 2 |
+| [Explain Redux and Context API. When would you use one over the other?](../topics/general.md#explain-redux-and-context-api-when-would-you-use-one-over-the-other) | Medium | 1 |
 | [Explain Saga Pattern with a real-world example.](../topics/general.md#explain-saga-pattern-with-a-real-world-example) | Medium | 2 |
 | [Explain Singleton Design Pattern.](../topics/general.md#explain-singleton-design-pattern) | Medium | 2 |
 | [Explain SOLID principles with real-world examples. Which principle do developers violate most often, and how do you avoid it?](../topics/general.md#explain-solid-principles-with-real-world-examples-which-principle-do-developers-) | Medium | 1 |
@@ -2069,6 +2127,7 @@ _See [all topics](./README.md)._
 | [Give an example of a performance bottleneck you identified and resolved in a cloud-native environment.](../topics/general.md#give-an-example-of-a-performance-bottleneck-you-identified-and-resolved-in-a-clo) | Medium | 3 |
 | [Give me a scenario where YOU made a wrong decision. What happened and what did you learn?](../topics/general.md#give-me-a-scenario-where-you-made-a-wrong-decision-what-happened-and-what-did-yo) | Medium | 1 |
 | [Go beyond tools and think in systems](../topics/general.md#go-beyond-tools-and-think-in-systems) | Medium | 1 |
+| [Have you actually deployed something with SAM or CDK, or just read about it?](../topics/general.md#have-you-actually-deployed-something-with-sam-or-cdk-or-just-read-about-it) | Medium | 1 |
 | [Have you configured?](../topics/general.md#have-you-configured) | Medium | 1 |
 | [Have you done any performance engineering to select R type instance?](../topics/general.md#have-you-done-any-performance-engineering-to-select-r-type-instance) | Medium | 1 |
 | [Have you worked in a production environment?](../topics/general.md#have-you-worked-in-a-production-environment) | Hard | 1 |
@@ -2160,9 +2219,11 @@ _See [all topics](./README.md)._
 | [How do you squash multiple commits into one?](../topics/general.md#how-do-you-squash-multiple-commits-into-one) | Medium | 1 |
 | [How do you test if the login process takes too long but eventually succeeds?](../topics/general.md#how-do-you-test-if-the-login-process-takes-too-long-but-eventually-succeeds) | Medium | 2 |
 | [How do you test when an API returns partial data and the UI becomes unresponsive?](../topics/general.md#how-do-you-test-when-an-api-returns-partial-data-and-the-ui-becomes-unresponsive) | Medium | 2 |
+| [How do you test your knowledge before the exam day?](../topics/general.md#how-do-you-test-your-knowledge-before-the-exam-day) | Medium | 1 |
 | [How do you trigger pipelines using webhooks?](../topics/general.md#how-do-you-trigger-pipelines-using-webhooks) | Medium | 1 |
 | [How do you trouble shoot 403 errors on the application in DevOps](../topics/general.md#how-do-you-trouble-shoot-403-errors-on-the-application-in-devops) | Medium | 2 |
 | [How do you troubleshoot a failed deployment?](../topics/general.md#how-do-you-troubleshoot-a-failed-deployment) | Medium | 1 |
+| [How do you troubleshoot and optimize using X-Ray tracing?](../topics/general.md#how-do-you-troubleshoot-and-optimize-using-x-ray-tracing) | Medium | 1 |
 | [How do you troubleshoot high CPU or memory usage?](../topics/general.md#how-do-you-troubleshoot-high-cpu-or-memory-usage) | Medium | 1 |
 | [How do you troubleshoot network connectivity layer by layer?](../topics/general.md#how-do-you-troubleshoot-network-connectivity-layer-by-layer) | Medium | 2 |
 | [How do you troubleshoot node disk pressure?](../topics/general.md#how-do-you-troubleshoot-node-disk-pressure) | Medium | 2 |
@@ -2225,9 +2286,11 @@ _See [all topics](./README.md)._
 | [If the deployment rollout is stuck, what do you check in that situation?](../topics/general.md#if-the-deployment-rollout-is-stuck-what-do-you-check-in-that-situation) | Medium | 1 |
 | [If the issue is application-related, which team handles it?](../topics/general.md#if-the-issue-is-application-related-which-team-handles-it) | Medium | 2 |
 | [If you encounter an issue where you know the technical resolution, but implementing it would require deviating from the established Standard Operating Procedure (SOP), how would you handle the situation?](../topics/general.md#if-you-encounter-an-issue-where-you-know-the-technical-resolution-but-implementi) | Hard | 1 |
+| [If you had to build an application handling 10,000 concurrent users, would you choose Angular or React, and why?](../topics/general.md#if-you-had-to-build-an-application-handling-10000-concurrent-users-would-you-cho) | Medium | 1 |
 | [If you joined tomorrow as a Senior DevOps Engineer with a ₹55 LPA package, what would your 100-day DevOps transformation roadmap look like, and what measurable engineering, operational, reliability, and business outcomes would you commit to delivering within your first year?](../topics/general.md#if-you-joined-tomorrow-as-a-senior-devops-engineer-with-a-55-lpa-package-what-wo) | Medium | 2 |
 | [In Devops Life Cycle, where CI and CD will fit into?](../topics/general.md#in-devops-life-cycle-where-ci-and-cd-will-fit-into) | Medium | 1 |
 | [In your experience, what has been the most difficult skill to find?](../topics/general.md#in-your-experience-what-has-been-the-most-difficult-skill-to-find) | Medium | 1 |
+| [Integrate frontend applications with backend services and third-party APIs](../topics/general.md#integrate-frontend-applications-with-backend-services-and-third-party-apis) | Medium | 1 |
 | [Is it secure?](../topics/general.md#is-it-secure) | Medium | 1 |
 | [Is the LUN and Volume the same in Netapp like Other Storage?](../topics/general.md#is-the-lun-and-volume-the-same-in-netapp-like-other-storage) | Medium | 1 |
 | [Is the port open?](../topics/general.md#is-the-port-open) | Medium | 1 |
@@ -2279,6 +2342,7 @@ _See [all topics](./README.md)._
 | [Strengthen Your Scripting Skills](../topics/general.md#strengthen-your-scripting-skills) | Medium | 2 |
 | [Suppose there are 5 , how would you connect them or allow them to communicate?](../topics/general.md#suppose-there-are-5-how-would-you-connect-them-or-allow-them-to-communicate) | Medium | 1 |
 | [Suppose you have a monolithic application and want to convert it into microservices. What would you do?](../topics/general.md#suppose-you-have-a-monolithic-application-and-want-to-convert-it-into-microservi) | Medium | 2 |
+| [Suppose you have a profile page with multiple lists that need updates independently. How would you architect this?](../topics/general.md#suppose-you-have-a-profile-page-with-multiple-lists-that-need-updates-independen) | Hard | 1 |
 | [System is showing wrong EMI for only 3 out of 5000 customers. Where do you start investigation?](../topics/general.md#system-is-showing-wrong-emi-for-only-3-out-of-5000-customers-where-do-you-start-) | Medium | 1 |
 | [TCP vs UDP?](../topics/general.md#tcp-vs-udp) | Medium | 2 |
 | [Teamwork and culture fit.](../topics/general.md#teamwork-and-culture-fit) | Medium | 2 |
@@ -2330,6 +2394,7 @@ _See [all topics](./README.md)._
 | [What are the different parameter types you used?](../topics/general.md#what-are-the-different-parameter-types-you-used) | Easy | 1 |
 | [What are the exact kubectl commands to run first when troubleshooting?](../topics/general.md#what-are-the-exact-kubectl-commands-to-run-first-when-troubleshooting) | Easy | 1 |
 | [What are the issues faced after the ontap upgrade? How do you fix that?](../topics/general.md#what-are-the-issues-faced-after-the-ontap-upgrade-how-do-you-fix-that) | Easy | 1 |
+| [What are the key areas of focus for the DVA-C02 exam?](../topics/general.md#what-are-the-key-areas-of-focus-for-the-dva-c02-exam) | Easy | 1 |
 | [What are the key differences between IaaS, PaaS, and SaaS?](../topics/general.md#what-are-the-key-differences-between-iaas-paas-and-saas) | Easy | 1 |
 | [What are the most common production mistakes in DevOps setups?](../topics/general.md#what-are-the-most-common-production-mistakes-in-devops-setups) | Hard | 1 |
 | [What are the new features introduced in Java 21?](../topics/general.md#what-are-the-new-features-introduced-in-java-21) | Easy | 2 |
@@ -2389,6 +2454,7 @@ _See [all topics](./README.md)._
 | [What is DevOps and its lifecycle?](../topics/general.md#what-is-devops-and-its-lifecycle) | Easy | 1 |
 | [What is errors and examples.](../topics/general.md#what-is-errors-and-examples) | Easy | 1 |
 | [What is etcd?](../topics/general.md#what-is-etcd) | Easy | 2 |
+| [What is event delegation, and how would you apply it in a scenario with multiple child elements under a parent?](../topics/general.md#what-is-event-delegation-and-how-would-you-apply-it-in-a-scenario-with-multiple-) | Medium | 1 |
 | [What is Infrastructure as Code, and why does it matter?](../topics/general.md#what-is-infrastructure-as-code-and-why-does-it-matter) | Easy | 1 |
 | [What is journalctl?](../topics/general.md#what-is-journalctl) | Easy | 1 |
 | [What is kube-proxy?](../topics/general.md#what-is-kube-proxy) | Easy | 2 |
@@ -2437,6 +2503,9 @@ _See [all topics](./README.md)._
 | [What issues you have seen in GitHub.](../topics/general.md#what-issues-you-have-seen-in-github) | Medium | 2 |
 | [What kind of automation have you done?](../topics/general.md#what-kind-of-automation-have-you-done) | Medium | 2 |
 | [What kind of cleanup have you done with the script?](../topics/general.md#what-kind-of-cleanup-have-you-done-with-the-script) | Medium | 1 |
+| [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security) | Medium | 2 |
+| [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization) | Medium | 1 |
+| [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with) | Medium | 1 |
 | [What real production issue made your team migrate from one instance family to another?](../topics/general.md#what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an) | Medium | 1 |
 | [What role does etcd play, and how can its performance impact the entire cluster?](../topics/general.md#what-role-does-etcd-play-and-how-can-its-performance-impact-the-entire-cluster) | Medium | 1 |
 | [What rollback strategies do you follow?](../topics/general.md#what-rollback-strategies-do-you-follow) | Medium | 1 |
@@ -2468,6 +2537,7 @@ _See [all topics](./README.md)._
 | [When would you choose Saga over distributed transactions?](../topics/general.md#when-would-you-choose-saga-over-distributed-transactions) | Medium | 2 |
 | [Where are you from?](../topics/general.md#where-are-you-from) | Medium | 1 |
 | [Where should SSH keys be generated, and why?](../topics/general.md#where-should-ssh-keys-be-generated-and-why) | Medium | 1 |
+| [Which cloud platforms have you worked with? Can you explain Infrastructure as a Service (IaaS) with an example?](../topics/general.md#which-cloud-platforms-have-you-worked-with-can-you-explain-infrastructure-as-a-s) | Medium | 1 |
 | [Which dependencies are defined in your pom.xml?](../topics/general.md#which-dependencies-are-defined-in-your-pom-xml) | Medium | 1 |
 | [Which domain have you worked in? Banking, insurance, or something else?](../topics/general.md#which-domain-have-you-worked-in-banking-insurance-or-something-else) | Medium | 1 |
 | [Which ONTAP version are you currently working on? What are the key enhancements, new features, or improvements introduced in this version compared to the previous release?](../topics/general.md#which-ontap-version-are-you-currently-working-on-what-are-the-key-enhancements-n) | Medium | 1 |

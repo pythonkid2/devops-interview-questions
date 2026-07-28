@@ -207,6 +207,7 @@
 ## Related topics
 
 - [IAM](./iam.md)
+- [Secrets](./secrets.md)
 - [DevSecOps](./devsecops.md)
 - [Vault](./vault.md)
 - [Network Security](./network-security.md)

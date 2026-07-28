@@ -1,6 +1,6 @@
-# Vault
+# Secrets
 
-[Home](../README.md) > [Topics](./README.md) > **Vault**
+[Home](../README.md) > [Topics](./README.md) > **Secrets**
 
 **1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
@@ -27,8 +27,8 @@
 
 ## Most asked
 
-- [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — **1×** · Medium · tags: `Azure`
-  <a id="how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault"></a>
+- [What is your understanding of Cognito, KMS, and Secrets Manager from a developer's angle?](../topics/secrets.md#what-is-your-understanding-of-cognito-kms-and-secrets-manager-from-a-developer-s) — **1×** · Medium
+  <a id="what-is-your-understanding-of-cognito-kms-and-secrets-manager-from-a-developer-s"></a>
 
 ## Beginner
 
@@ -36,8 +36,8 @@ _None in this band yet._
 
 ## Intermediate
 
-- [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — 1× · tags: `Azure`
-  <a id="how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault"></a>
+- [What is your understanding of Cognito, KMS, and Secrets Manager from a developer's angle?](../topics/secrets.md#what-is-your-understanding-of-cognito-kms-and-secrets-manager-from-a-developer-s) — 1×
+  <a id="what-is-your-understanding-of-cognito-kms-and-secrets-manager-from-a-developer-s"></a>
 
 ## Advanced
 
@@ -47,7 +47,7 @@ _None in this band yet._
 
 ### Unspecified
 
-- [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — tags: `Azure`
+- [What is your understanding of Cognito, KMS, and Secrets Manager from a developer's angle?](../topics/secrets.md#what-is-your-understanding-of-cognito-kms-and-secrets-manager-from-a-developer-s)
 
 ## Companies asking
 
@@ -55,14 +55,14 @@ _None in this band yet._
 
 ## Recently added
 
-- [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — 2026-07-26 · tags: `Azure`
+- [What is your understanding of Cognito, KMS, and Secrets Manager from a developer's angle?](../topics/secrets.md#what-is-your-understanding-of-cognito-kms-and-secrets-manager-from-a-developer-s) — 2026-07-28
 
 ## Related topics
 
 - [IAM](./iam.md)
-- [Secrets](./secrets.md)
 - [Security](./security.md)
 - [DevSecOps](./devsecops.md)
+- [Vault](./vault.md)
 - [Network Security](./network-security.md)
 - [Certificate Management](./certificate-management.md)
 
@@ -70,7 +70,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) | Medium | 1 |
+| [What is your understanding of Cognito, KMS, and Secrets Manager from a developer's angle?](../topics/secrets.md#what-is-your-understanding-of-cognito-kms-and-secrets-manager-from-a-developer-s) | Medium | 1 |
 
 ## Learning resources
 

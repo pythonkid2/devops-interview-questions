@@ -82,6 +82,7 @@
 ## Related topics
 
 - [IAM](./iam.md)
+- [Secrets](./secrets.md)
 - [Security](./security.md)
 - [Vault](./vault.md)
 - [Network Security](./network-security.md)

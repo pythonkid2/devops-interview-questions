@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **API Gateway**
 
-**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 3 |
-| Easy / Medium / Hard | 1 / 2 / 0 |
+| Questions | 4 |
+| Easy / Medium / Hard | 2 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -33,11 +33,15 @@
   <a id="difference-between-reverse-proxy-load-balancer-and-api-gateway"></a>
 - [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) — **1×** · Medium · tags: `Load Balancing`
   <a id="explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-"></a>
+- [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — **1×** · Easy · tags: `Databases`, `AWS`
+  <a id="what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks"></a>
 
 ## Beginner
 
 - [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) — 1× · tags: `Load Balancing`
   <a id="difference-between-reverse-proxy-load-balancer-and-api-gateway"></a>
+- [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — 1× · tags: `Databases`, `AWS`
+  <a id="what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks"></a>
 
 ## Intermediate
 
@@ -57,6 +61,7 @@ _None in this band yet._
 - [Can API Gateway Rate Limiting prevent DDoS attacks?](../topics/api-gateway.md#can-api-gateway-rate-limiting-prevent-ddos-attacks)
 - [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) — tags: `Load Balancing`
 - [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) — tags: `Load Balancing`
+- [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — tags: `Databases`, `AWS`
 
 ## Companies asking
 
@@ -64,6 +69,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — 2026-07-28 · tags: `Databases`, `AWS`
 - [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) — 2026-07-26 · tags: `Load Balancing`
 - [Can API Gateway Rate Limiting prevent DDoS attacks?](../topics/api-gateway.md#can-api-gateway-rate-limiting-prevent-ddos-attacks) — 2026-07-17
 - [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) — 2026-07-17 · tags: `Load Balancing`
@@ -85,6 +91,7 @@ _None in this band yet._
 | [Can API Gateway Rate Limiting prevent DDoS attacks?](../topics/api-gateway.md#can-api-gateway-rate-limiting-prevent-ddos-attacks) | Medium | 1 |
 | [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) | Easy | 1 |
 | [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) | Medium | 1 |
+| [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) | Easy | 1 |
 
 ## Learning resources
 

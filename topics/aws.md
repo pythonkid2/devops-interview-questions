@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**94** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**101** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 94 |
-| Easy / Medium / Hard | 10 / 76 / 8 |
-| Companies | 9 |
+| Questions | 101 |
+| Easy / Medium / Hard | 11 / 82 / 8 |
+| Companies | 10 |
 
 ## Most asked
 
@@ -100,6 +100,8 @@
   <a id="what-are-the-limitations-of-lambda-functions"></a>
 - [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it) — 1×
   <a id="what-is-aws-and-why-do-companies-use-it"></a>
+- [What is the biggest domain in AWS Developer Associate exam?](../topics/aws.md#what-is-the-biggest-domain-in-aws-developer-associate-exam) — 1×
+  <a id="what-is-the-biggest-domain-in-aws-developer-associate-exam"></a>
 
 ## Intermediate
 
@@ -155,6 +157,8 @@
   <a id="aws"></a>
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — 1× · tags: `Azure`
   <a id="aws-azure-cloud-services"></a>
+- [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — 1×
+  <a id="aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh"></a>
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) — 1×
   <a id="aws-provides-an-http-endpoint-how-would-you-enable-https"></a>
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — 1× · tags: `Azure`
@@ -163,6 +167,8 @@
   <a id="aws-azure-gcp"></a>
 - [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage) — 1×
   <a id="can-you-tell-me-the-types-of-s3-storage"></a>
+- [Deploy and manage applications on AWS](../topics/aws.md#deploy-and-manage-applications-on-aws) — 1×
+  <a id="deploy-and-manage-applications-on-aws"></a>
 - [Do you have experience with AWS Control Tower?](../topics/aws.md#do-you-have-experience-with-aws-control-tower) — 1×
   <a id="do-you-have-experience-with-aws-control-tower"></a>
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) — 1×
@@ -181,10 +187,14 @@
   <a id="have-you-implemented-governance-guardrails-in-aws-organizations"></a>
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — 1× · tags: `FinOps`
   <a id="how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources"></a>
+- [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) — 1×
+  <a id="how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati"></a>
 - [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) — 1×
   <a id="how-do-you-handle-an-aws-networking-issue"></a>
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) — 1×
   <a id="how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid"></a>
+- [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) — 1×
+  <a id="how-do-you-prepare-for-the-aws-developer-associate-exam"></a>
 - [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 1×
   <a id="how-do-you-secure-an-s3-bucket"></a>
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) — 1×
@@ -233,10 +243,14 @@
   <a id="what-is-aws-waf-and-what-is-your-experience-with-it"></a>
 - [What is the AWS Shared Responsibility Model?](../topics/aws.md#what-is-the-aws-shared-responsibility-model) — 1×
   <a id="what-is-the-aws-shared-responsibility-model"></a>
+- [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-) — 1×
+  <a id="what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-"></a>
 - [What is User Data in EC2?](../topics/aws.md#what-is-user-data-in-ec2) — 1×
   <a id="what-is-user-data-in-ec2"></a>
 - [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance) — 1×
   <a id="what-metrics-would-you-monitor-for-an-ec2-instance"></a>
+- [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) — 1×
+  <a id="what-percentage-of-the-exam-is-focused-on-development-with-aws-services"></a>
 - [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads) — 1×
   <a id="which-aws-pricing-model-should-you-choose-for-different-workloads"></a>
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) — 1×
@@ -321,10 +335,12 @@
 - [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it)
 - [AWS](../topics/aws.md#aws)
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — tags: `Azure`
+- [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh)
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https)
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — tags: `Azure`
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — tags: `Azure`, `GCP`
 - [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage)
+- [Deploy and manage applications on AWS](../topics/aws.md#deploy-and-manage-applications-on-aws)
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda)
 - [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications)
 - [Explain how Auto Scaling works in AWS.](../topics/aws.md#explain-how-auto-scaling-works-in-aws)
@@ -334,9 +350,11 @@
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — tags: `FinOps`
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh)
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts)
+- [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati)
 - [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue)
 - [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws)
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid)
+- [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam)
 - [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket)
 - [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable)
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions)
@@ -370,8 +388,11 @@
 - [What is AWS?](../topics/aws.md#what-is-aws)
 - [What is EC2?](../topics/aws.md#what-is-ec2)
 - [What is the AWS Shared Responsibility Model?](../topics/aws.md#what-is-the-aws-shared-responsibility-model)
+- [What is the biggest domain in AWS Developer Associate exam?](../topics/aws.md#what-is-the-biggest-domain-in-aws-developer-associate-exam)
+- [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-)
 - [What is User Data in EC2?](../topics/aws.md#what-is-user-data-in-ec2)
 - [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance)
+- [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services)
 - [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads)
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know)
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively)
@@ -396,10 +417,18 @@
 - [NVIDIA](../companies/nvidia.md)
 - [PwC](../companies/pwc.md)
 - [SpaceTech Inc.](../companies/spacetech-inc.md)
+- [Swageazy](../companies/swageazy.md)
 - [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — 2026-07-28
+- [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-) — 2026-07-28
+- [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) — 2026-07-28
+- [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) — 2026-07-28
+- [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) — 2026-07-28
+- [What is the biggest domain in AWS Developer Associate exam?](../topics/aws.md#what-is-the-biggest-domain-in-aws-developer-associate-exam) — 2026-07-28
+- [Deploy and manage applications on AWS](../topics/aws.md#deploy-and-manage-applications-on-aws) — 2026-07-28
 - [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 2026-07-28
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — 2026-07-28 · tags: `Azure`, `GCP`
 - [How would you optimize AWS costs without impacting performance?](../topics/aws.md#how-would-you-optimize-aws-costs-without-impacting-performance) — 2026-07-28
@@ -408,13 +437,6 @@
 - [Explain how Auto Scaling works in AWS.](../topics/aws.md#explain-how-auto-scaling-works-in-aws) — 2026-07-28
 - [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3) — 2026-07-28
 - [How to provide access to an S3 bucket? Required permissions?](../topics/aws.md#how-to-provide-access-to-an-s3-bucket-required-permissions) — 2026-07-28
-- [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage) — 2026-07-27
-- [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) — 2026-07-27
-- [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 2026-07-26
-- [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) — 2026-07-26
-- [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — 2026-07-26
-- [AWS](../topics/aws.md#aws) — 2026-07-26
-- [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) — 2026-07-26
 
 ## Related topics
 
@@ -435,10 +457,12 @@
 | [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it) | Medium | 1 |
 | [AWS](../topics/aws.md#aws) | Medium | 1 |
 | [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) | Medium | 1 |
+| [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) | Medium | 1 |
 | [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) | Medium | 1 |
 | [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) | Medium | 1 |
 | [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) | Medium | 1 |
 | [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage) | Medium | 1 |
+| [Deploy and manage applications on AWS](../topics/aws.md#deploy-and-manage-applications-on-aws) | Medium | 1 |
 | [Do you have experience with AWS Control Tower?](../topics/aws.md#do-you-have-experience-with-aws-control-tower) | Medium | 1 |
 | [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) | Medium | 1 |
 | [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications) | Easy | 1 |
@@ -452,9 +476,11 @@
 | [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) | Medium | 1 |
 | [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) | Medium | 5 |
 | [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) | Medium | 2 |
+| [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) | Medium | 1 |
 | [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) | Medium | 1 |
 | [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws) | Hard | 1 |
 | [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) | Medium | 1 |
+| [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) | Medium | 1 |
 | [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) | Medium | 1 |
 | [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) | Medium | 2 |
 | [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 2 |
@@ -502,8 +528,11 @@
 | [What is AWS?](../topics/aws.md#what-is-aws) | Easy | 2 |
 | [What is EC2?](../topics/aws.md#what-is-ec2) | Easy | 2 |
 | [What is the AWS Shared Responsibility Model?](../topics/aws.md#what-is-the-aws-shared-responsibility-model) | Medium | 1 |
+| [What is the biggest domain in AWS Developer Associate exam?](../topics/aws.md#what-is-the-biggest-domain-in-aws-developer-associate-exam) | Easy | 1 |
+| [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-) | Medium | 1 |
 | [What is User Data in EC2?](../topics/aws.md#what-is-user-data-in-ec2) | Medium | 1 |
 | [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance) | Medium | 1 |
+| [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) | Medium | 1 |
 | [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/aws.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) | Medium | 2 |
 | [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads) | Medium | 1 |
 | [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) | Medium | 2 |

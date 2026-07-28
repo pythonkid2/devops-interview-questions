@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **System Design**
 
-**20** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**22** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 20 |
-| Easy / Medium / Hard | 0 / 7 / 13 |
-| Companies | 3 |
+| Questions | 22 |
+| Easy / Medium / Hard | 0 / 7 / 15 |
+| Companies | 4 |
 
 ## Most asked
 
@@ -47,6 +47,8 @@
   <a id="describe-a-software-project-where-you-significantly-improved-performance-scalabi"></a>
 - [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) — **1×** · Hard
   <a id="design-a-self-healing-production-platform"></a>
+- [Design and build scalable backend services using Node.js](../topics/system-design.md#design-and-build-scalable-backend-services-using-node-js) — **1×** · Hard
+  <a id="design-and-build-scalable-backend-services-using-node-js"></a>
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — **1×** · Hard
   <a id="designing-a-highly-available-architecture"></a>
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — **1×** · Medium
@@ -61,6 +63,8 @@
   <a id="how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications"></a>
 - [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) — **1×** · Medium
   <a id="scalability-vs-elasticity"></a>
+- [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) — **1×** · Hard
+  <a id="solid-understanding-of-data-structures-algorithms-dsa-and-system-design"></a>
 - [System Design](../topics/system-design.md#system-design) — **1×** · Hard
   <a id="system-design"></a>
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — **1×** · Hard
@@ -103,6 +107,8 @@ _None in this band yet._
   <a id="apache-spark-architecture-catalyst-optimizer"></a>
 - [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) — 1×
   <a id="design-a-self-healing-production-platform"></a>
+- [Design and build scalable backend services using Node.js](../topics/system-design.md#design-and-build-scalable-backend-services-using-node-js) — 1×
+  <a id="design-and-build-scalable-backend-services-using-node-js"></a>
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — 1×
   <a id="designing-a-highly-available-architecture"></a>
 - [How well you understand architecture](../topics/system-design.md#how-well-you-understand-architecture) — 1×
@@ -113,6 +119,8 @@ _None in this band yet._
   <a id="how-would-you-design-a-highly-available-and-scalable-devops-platform"></a>
 - [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications) — 1×
   <a id="how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications"></a>
+- [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) — 1×
+  <a id="solid-understanding-of-data-structures-algorithms-dsa-and-system-design"></a>
 - [System Design](../topics/system-design.md#system-design) — 1×
   <a id="system-design"></a>
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — 1×
@@ -134,6 +142,7 @@ _None in this band yet._
 - [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi)
 - [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services)
 - [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform)
+- [Design and build scalable backend services using Node.js](../topics/system-design.md#design-and-build-scalable-backend-services-using-node-js)
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture)
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region)
 - [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on)
@@ -144,6 +153,7 @@ _None in this band yet._
 - [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications)
 - [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices)
 - [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity)
+- [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design)
 - [System Design](../topics/system-design.md#system-design)
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations)
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar)
@@ -153,10 +163,13 @@ _None in this band yet._
 
 - [Infosys](../companies/infosys.md)
 - [Mirafra](../companies/mirafra.md)
+- [Swageazy](../companies/swageazy.md)
 - [Wipro](../companies/wipro.md)
 
 ## Recently added
 
+- [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) — 2026-07-28
+- [Design and build scalable backend services using Node.js](../topics/system-design.md#design-and-build-scalable-backend-services-using-node-js) — 2026-07-28
 - [System Design](../topics/system-design.md#system-design) — 2026-07-28
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — 2026-07-28
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — 2026-07-27
@@ -170,8 +183,6 @@ _None in this band yet._
 - [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 2026-07-17
 - [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — 2026-07-17
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) — 2026-07-17
-- [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — 2026-07-17
-- [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) — 2026-07-17
 
 ## Related topics
 
@@ -186,6 +197,7 @@ _None in this band yet._
 | [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) | Medium | 1 |
 | [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) | Hard | 5 |
 | [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) | Hard | 1 |
+| [Design and build scalable backend services using Node.js](../topics/system-design.md#design-and-build-scalable-backend-services-using-node-js) | Hard | 1 |
 | [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) | Hard | 2 |
 | [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) | Hard | 1 |
 | [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) | Medium | 2 |
@@ -198,6 +210,7 @@ _None in this band yet._
 | [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications) | Hard | 1 |
 | [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) | Hard | 5 |
 | [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) | Medium | 1 |
+| [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) | Hard | 1 |
 | [System Design](../topics/system-design.md#system-design) | Hard | 1 |
 | [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) | Hard | 1 |
 | [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) | Medium | 2 |

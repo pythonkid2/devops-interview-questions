@@ -3,10 +3,11 @@
 [Home](../README.md) > [Study guides](./README.md) > **Difficulty**
 
 
-## Easy (230)
+## Easy (235)
 
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes · 7×
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — Docker · 5×
+- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — CI/CD · 4×
 - [What is a repository?](../topics/general.md#what-is-a-repository) — General · 4×
 - [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — Azure DevOps · 4× · tags: `Azure`
 - [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — Kubernetes · 4× · tags: `Docker`
@@ -14,7 +15,6 @@
 - [Difference between count and for_each.](../topics/terraform.md#difference-between-count-and-for-each) — Terraform · 3×
 - [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) — Security · 3×
 - [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — General · 3×
-- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — CI/CD · 3×
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — Ingress · 3×
 - [What is Git?](../topics/git.md#what-is-git) — Git · 3×
 - [What is Linux?](../topics/linux.md#what-is-linux) — Linux · 3×
@@ -85,9 +85,9 @@
 - [What is Kubernetes, and why is it used?](../topics/kubernetes.md#what-is-kubernetes-and-why-is-it-used) — Kubernetes · 2×
 - [What is Kubernetes?](../topics/kubernetes.md#what-is-kubernetes) — Kubernetes · 2×
 - [What is PVC?](../topics/storage.md#what-is-pvc) — Storage · 2× · tags: `PVC`
-_…and 150 more in topic pages._
+_…and 155 more in topic pages._
 
-## Medium (1279)
+## Medium (1303)
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — Terraform · 8×
 - [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — Kubernetes · 6×
@@ -169,9 +169,9 @@ _…and 150 more in topic pages._
 - [A Pod is in CrashLoopBackOff. Where do you start your investigation?](../topics/kubernetes.md#a-pod-is-in-crashloopbackoff-where-do-you-start-your-investigation) — Kubernetes · 2×
 - [A Pod is stuck in Pending state. Can you explain the possible reasons and how you'd troubleshoot it?](../topics/kubernetes.md#a-pod-is-stuck-in-pending-state-can-you-explain-the-possible-reasons-and-how-you) — Kubernetes · 2×
 - [A Pod keeps restarting. How would you investigate it?](../topics/kubernetes.md#a-pod-keeps-restarting-how-would-you-investigate-it) — Kubernetes · 2×
-_…and 1199 more in topic pages._
+_…and 1223 more in topic pages._
 
-## Hard (200)
+## Hard (203)
 
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response · 7×
 - [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — Kubernetes · 6×
@@ -253,6 +253,6 @@ _…and 1199 more in topic pages._
 - [Data mismatch is reported between UI → API → DB. Explain your end-to-end debugging approach.](../topics/general.md#data-mismatch-is-reported-between-ui-api-db-explain-your-end-to-end-debugging-ap) — General · 1×
 - [Describe a challenging bug you encountered in production. How did you investigate, resolve it, and prevent it from happening again?](../topics/general.md#describe-a-challenging-bug-you-encountered-in-production-how-did-you-investigate) — General · 1×
 - [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — Incident Response · 1×
-_…and 120 more in topic pages._
+_…and 123 more in topic pages._
 
 [← Study guides](./README.md)

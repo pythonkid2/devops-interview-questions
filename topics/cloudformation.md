@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **CloudFormation**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,18 +21,21 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 1 / 1 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [CloudFormation](../topics/cloudformation.md#cloudformation) — **1×** · Medium
   <a id="cloudformation"></a>
+- [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with) — **1×** · Easy
+  <a id="what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with"></a>
 
 ## Beginner
 
-_None in this band yet._
+- [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with) — 1×
+  <a id="what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with"></a>
 
 ## Intermediate
 
@@ -48,6 +51,7 @@ _None in this band yet._
 ### Unspecified
 
 - [CloudFormation](../topics/cloudformation.md#cloudformation)
+- [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with)
 
 ## Companies asking
 
@@ -55,6 +59,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with) — 2026-07-28
 - [CloudFormation](../topics/cloudformation.md#cloudformation) — 2026-07-26
 
 ## Related topics
@@ -68,6 +73,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [CloudFormation](../topics/cloudformation.md#cloudformation) | Medium | 1 |
+| [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with) | Easy | 1 |
 
 ## Learning resources
 

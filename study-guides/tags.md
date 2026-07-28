@@ -10,7 +10,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | --- | ---: |
 | `CI/CD` | 25 |
 | `Azure` | 24 |
-| `AWS` | 22 |
+| `AWS` | 23 |
 | `Kubernetes` | 20 |
 | `System Design` | 14 |
 | `Docker` | 13 |
@@ -24,9 +24,9 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `Canary` | 5 |
 | `Terraform` | 5 |
 | `Alerting` | 4 |
+| `Databases` | 4 |
 | `Linux` | 4 |
 | `CNI` | 3 |
-| `Databases` | 3 |
 | `FinOps` | 3 |
 | `Git` | 3 |
 | `Load Balancing` | 3 |
@@ -94,6 +94,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — Databases · tags: `AWS`
 - [Suppose you are working on a Terraform script for EC2 infrastructure creation. A team member makes changes in the AWS Console, but your Terraform template is different. How do you fetch those changes into your Terraform template?](../topics/terraform.md#suppose-you-are-working-on-a-terraform-script-for-ec2-infrastructure-creation-a-) — Terraform · tags: `AWS`
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — Monitoring · tags: `AWS`
+- [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — API Gateway · tags: `Databases`, `AWS`
 - [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — Kubernetes · tags: `AWS`, `Azure`, `GCP`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
@@ -184,6 +185,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — ArgoCD · tags: `Databases`
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — Kubernetes · tags: `Databases`
 - [Terraform plan suddenly wants to recreate your production database. What do you do?](../topics/terraform.md#terraform-plan-suddenly-wants-to-recreate-your-production-database-what-do-you-d) — Terraform · tags: `Databases`
+- [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — API Gateway · tags: `Databases`, `AWS`
 
 ## Deployment Strategies
 

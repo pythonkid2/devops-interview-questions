@@ -25,6 +25,8 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [DEVYNTECH](./devyntech.md) | 7 |
 | [EY](./ey.md) | 7 |
 | [Fineshift Software Pvt. Ltd.](./fineshift-software-pvt-ltd.md) | 7 |
+| [Adesso](./adesso.md) | 6 |
+| [Swageazy](./swageazy.md) | 6 |
 | [Sri-Hire](./sri-hire.md) | 5 |
 | [DPRSolutions](./dprsolutions.md) | 4 |
 | [Infinity wave Inc](./infinity-wave-inc.md) | 3 |
@@ -35,6 +37,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 1342 |
+| [Unknown Company](./unknown-company.md) | 1362 |
 
 [← Home](../README.md)

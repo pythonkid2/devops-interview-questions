@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **IAM**
 
-**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 10 |
-| Easy / Medium / Hard | 2 / 8 / 0 |
+| Questions | 11 |
+| Easy / Medium / Hard | 2 / 9 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -39,6 +39,8 @@
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — **1×** · Medium · tags: `AWS`
   <a id="aws-iam-ec2-lambda-load-balancers"></a>
+- [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — **1×** · Medium
+  <a id="how-do-you-handle-iam-roles-for-applications"></a>
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — **1×** · Medium
   <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
 - [IAM](../topics/iam.md#iam) — **1×** · Medium
@@ -67,6 +69,8 @@
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — 1× · tags: `AWS`
   <a id="aws-iam-ec2-lambda-load-balancers"></a>
+- [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — 1×
+  <a id="how-do-you-handle-iam-roles-for-applications"></a>
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — 1×
   <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
 - [IAM](../topics/iam.md#iam) — 1×
@@ -85,6 +89,7 @@ _None in this band yet._
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — tags: `AWS`
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — tags: `AWS`
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — tags: `AWS`
+- [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications)
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles)
 - [IAM](../topics/iam.md#iam)
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — tags: `Kubernetes`, `RBAC`
@@ -99,6 +104,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — 2026-07-28
 - [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — 2026-07-28
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — 2026-07-26 · tags: `Kubernetes`, `RBAC`
 - [IAM](../topics/iam.md#iam) — 2026-07-26
@@ -112,6 +118,7 @@ _None in this band yet._
 
 ## Related topics
 
+- [Secrets](./secrets.md)
 - [Security](./security.md)
 - [DevSecOps](./devsecops.md)
 - [Vault](./vault.md)
@@ -125,6 +132,7 @@ _None in this band yet._
 | [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) | Medium | 1 |
 | [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) | Medium | 2 |
 | [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) | Medium | 1 |
+| [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) | Medium | 1 |
 | [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) | Medium | 1 |
 | [IAM](../topics/iam.md#iam) | Medium | 1 |
 | [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) | Medium | 2 |

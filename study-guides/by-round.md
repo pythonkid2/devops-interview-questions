@@ -3,7 +3,7 @@
 [Home](../README.md) > [Study guides](./README.md) > **Rounds**
 
 
-## Unspecified (1560)
+## Unspecified (1592)
 
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes
@@ -33,6 +33,7 @@
 - [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — Jenkins
 - [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) — General
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — Docker
+- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — CI/CD
 - [What is a repository?](../topics/general.md#what-is-a-repository) — General
 - [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — Azure DevOps · tags: `Azure`
 - [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) — CI/CD
@@ -44,7 +45,6 @@
 - [Describe a production environment you manage(d). What are its scale, SLAs, and key components?](../topics/general.md#describe-a-production-environment-you-manage-d-what-are-its-scale-slas-and-key-c) — General
 - [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) — Capacity Planning
 - [Difference between count and for_each.](../topics/terraform.md#difference-between-count-and-for-each) — Terraform
-- [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) — Security
 
 ## Technical Round 1 (74)
 

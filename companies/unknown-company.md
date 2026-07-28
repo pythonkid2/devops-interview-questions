@@ -6,16 +6,16 @@
 
 | Metric | Value |
 | --- | ---: |
-| Questions | 1342 |
-| Topics covered | 60 |
+| Questions | 1362 |
+| Topics covered | 61 |
 
 ## Topics asked
 
-- [General](../topics/general.md) — 469
+- [General](../topics/general.md) — 478
 - [Kubernetes](../topics/kubernetes.md) — 170
 - [Docker](../topics/docker.md) — 92
 - [Terraform](../topics/terraform.md) — 91
-- [AWS](../topics/aws.md) — 75
+- [AWS](../topics/aws.md) — 81
 - [Jenkins](../topics/jenkins.md) — 60
 - [CI/CD](../topics/ci-cd.md) — 51
 - [Linux](../topics/linux.md) — 23
@@ -28,10 +28,10 @@
 - [Azure DevOps](../topics/azure-devops.md) — 12
 - [Deployment Strategies](../topics/deployment-strategies.md) — 12
 - [Databases](../topics/databases.md) — 11
-- [Monitoring](../topics/monitoring.md) — 10
+- [Monitoring](../topics/monitoring.md) — 11
+- [IAM](../topics/iam.md) — 10
 - [Capacity Planning](../topics/capacity-planning.md) — 9
 - [Disaster Recovery](../topics/disaster-recovery.md) — 9
-- [IAM](../topics/iam.md) — 9
 - [Prometheus](../topics/prometheus.md) — 9
 - [ArgoCD](../topics/argocd.md) — 8
 - [Ingress](../topics/ingress.md) — 8
@@ -45,6 +45,7 @@
 - [Grafana](../topics/grafana.md) — 5
 - [Helm](../topics/helm.md) — 5
 - [Network Security](../topics/network-security.md) — 5
+- [API Gateway](../topics/api-gateway.md) — 4
 - [DevSecOps](../topics/devsecops.md) — 4
 - [DNS](../topics/dns.md) — 4
 - [High Availability](../topics/high-availability.md) — 4
@@ -52,23 +53,23 @@
 - [Microservices](../topics/microservices.md) — 4
 - [SRE](../topics/sre.md) — 4
 - [Storage](../topics/storage.md) — 4
-- [API Gateway](../topics/api-gateway.md) — 3
 - [On-Call](../topics/on-call.md) — 3
 - [Service Mesh](../topics/service-mesh.md) — 3
 - [Alerting](../topics/alerting.md) — 2
 - [CDN](../topics/cdn.md) — 2
 - [Chaos Engineering](../topics/chaos-engineering.md) — 2
+- [CloudFormation](../topics/cloudformation.md) — 2
 - [GCP](../topics/gcp.md) — 2
 - [Kafka](../topics/kafka.md) — 2
 - [Shell Scripting](../topics/shell-scripting.md) — 2
 - [SLOs](../topics/slos.md) — 2
 - [Certificate Management](../topics/certificate-management.md) — 1
-- [CloudFormation](../topics/cloudformation.md) — 1
 - [ELK](../topics/elk.md) — 1
 - [GKE](../topics/gke.md) — 1
 - [OpenTelemetry](../topics/opentelemetry.md) — 1
 - [Python](../topics/python.md) — 1
 - [Redis](../topics/redis.md) — 1
+- [Secrets](../topics/secrets.md) — 1
 - [Tracing](../topics/tracing.md) — 1
 - [Vault](../topics/vault.md) — 1
 
@@ -117,6 +118,7 @@
 - [Can API Gateway Rate Limiting prevent DDoS attacks?](../topics/api-gateway.md#can-api-gateway-rate-limiting-prevent-ddos-attacks) — Medium
 - [Difference between Reverse Proxy, Load Balancer, and API Gateway?](../topics/api-gateway.md#difference-between-reverse-proxy-load-balancer-and-api-gateway) — Easy · tags: `Load Balancing`
 - [Explain the difference between Load Balancer, Reverse Proxy, and API Gateway with a real-world example.](../topics/api-gateway.md#explain-the-difference-between-load-balancer-reverse-proxy-and-api-gateway-with-) — Medium · tags: `Load Balancing`
+- [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — Easy · tags: `Databases`, `AWS`
 
 ### ArgoCD
 
@@ -138,6 +140,7 @@
 - [An EC2 instance is running at 100% CPU. How would you investigate the issue?](../topics/aws.md#an-ec2-instance-is-running-at-100-cpu-how-would-you-investigate-the-issue) — Medium
 - [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it) — Medium
 - [AWS](../topics/aws.md#aws) — Medium
+- [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — Medium
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) — Medium
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — Medium · tags: `Azure`
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — Medium · tags: `Azure`, `GCP`
@@ -153,8 +156,10 @@
 - [Have you worked with Load Balancers?](../topics/aws.md#have-you-worked-with-load-balancers) — Easy
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — Medium · tags: `FinOps`
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — Medium
+- [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) — Medium
 - [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) — Medium
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) — Medium
+- [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) — Medium
 - [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) — Medium
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — Medium
 - [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services) — Medium
@@ -191,7 +196,10 @@
 - [What is AWS?](../topics/aws.md#what-is-aws) — Easy
 - [What is EC2?](../topics/aws.md#what-is-ec2) — Easy
 - [What is the AWS Shared Responsibility Model?](../topics/aws.md#what-is-the-aws-shared-responsibility-model) — Medium
+- [What is the biggest domain in AWS Developer Associate exam?](../topics/aws.md#what-is-the-biggest-domain-in-aws-developer-associate-exam) — Easy
+- [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-) — Medium
 - [What is User Data in EC2?](../topics/aws.md#what-is-user-data-in-ec2) — Medium
+- [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) — Medium
 - [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads) — Medium
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — Medium
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) — Medium
@@ -266,6 +274,7 @@
 
 ### CI/CD
 
+- [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) — Medium
 - [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) — Medium
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — Hard · tags: `System Design`
 - [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro) — Hard
@@ -300,7 +309,6 @@
 - [What are the different ways to create a pipeline?](../topics/ci-cd.md#what-are-the-different-ways-to-create-a-pipeline) — Easy
 - [What branching strategy do you follow in your projects?](../topics/ci-cd.md#what-branching-strategy-do-you-follow-in-your-projects) — Easy
 - [What happens internally in a CI/CD pipeline from commit → deploy?](../topics/ci-cd.md#what-happens-internally-in-a-ci-cd-pipeline-from-commit-deploy) — Medium
-- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — Easy
 - [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) — Medium
 - [What is pipeline as code and how do you implement it?](../topics/ci-cd.md#what-is-pipeline-as-code-and-how-do-you-implement-it) — Easy
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — Medium
@@ -321,6 +329,7 @@
 ### CloudFormation
 
 - [CloudFormation](../topics/cloudformation.md#cloudformation) — Medium
+- [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with) — Easy
 
 ### Databases
 
@@ -546,6 +555,8 @@
 - [Can you create a empty file with 100mb](../topics/general.md#can-you-create-a-empty-file-with-100mb) — Medium
 - [Can you describe how a system fails? Specifically — the input that breaks it, the load condition that degrades it, the dependency assumption that won't hold.](../topics/general.md#can-you-describe-how-a-system-fails-specifically-the-input-that-breaks-it-the-lo) — Medium
 - [Can you describe two production challenges you've faced and how you resolved them?](../topics/general.md#can-you-describe-two-production-challenges-you-ve-faced-and-how-you-resolved-the) — Medium
+- [Can you discuss caching strategies you have implemented?](../topics/general.md#can-you-discuss-caching-strategies-you-have-implemented) — Medium
+- [Can you explain a service but not call it from code?](../topics/general.md#can-you-explain-a-service-but-not-call-it-from-code) — Medium
 - [Can you explain one of your projects?](../topics/general.md#can-you-explain-one-of-your-projects) — Medium
 - [Can you explain the concept of Infrastructure as Code (IaC)?](../topics/general.md#can-you-explain-the-concept-of-infrastructure-as-code-iac) — Medium
 - [Can you read code and find the behavioral failure — not the naming inconsistency, the thing that produces a wrong answer silently in production?](../topics/general.md#can-you-read-code-and-find-the-behavioral-failure-not-the-naming-inconsistency-t) — Hard
@@ -616,6 +627,7 @@
 - [Give an example of a performance bottleneck you identified and resolved in a cloud-native environment.](../topics/general.md#give-an-example-of-a-performance-bottleneck-you-identified-and-resolved-in-a-clo) — Medium
 - [Give me a scenario where YOU made a wrong decision. What happened and what did you learn?](../topics/general.md#give-me-a-scenario-where-you-made-a-wrong-decision-what-happened-and-what-did-yo) — Medium
 - [Go beyond tools and think in systems](../topics/general.md#go-beyond-tools-and-think-in-systems) — Medium
+- [Have you actually deployed something with SAM or CDK, or just read about it?](../topics/general.md#have-you-actually-deployed-something-with-sam-or-cdk-or-just-read-about-it) — Medium
 - [Have you configured?](../topics/general.md#have-you-configured) — Medium
 - [Have you done any performance engineering to select R type instance?](../topics/general.md#have-you-done-any-performance-engineering-to-select-r-type-instance) — Medium
 - [Have you worked on Spring Boot?](../topics/general.md#have-you-worked-on-spring-boot) — Medium
@@ -685,9 +697,11 @@
 - [How do you squash multiple commits into one?](../topics/general.md#how-do-you-squash-multiple-commits-into-one) — Medium
 - [How do you test if the login process takes too long but eventually succeeds?](../topics/general.md#how-do-you-test-if-the-login-process-takes-too-long-but-eventually-succeeds) — Medium
 - [How do you test when an API returns partial data and the UI becomes unresponsive?](../topics/general.md#how-do-you-test-when-an-api-returns-partial-data-and-the-ui-becomes-unresponsive) — Medium
+- [How do you test your knowledge before the exam day?](../topics/general.md#how-do-you-test-your-knowledge-before-the-exam-day) — Medium
 - [How do you trigger pipelines using webhooks?](../topics/general.md#how-do-you-trigger-pipelines-using-webhooks) — Medium
 - [How do you trouble shoot 403 errors on the application in DevOps](../topics/general.md#how-do-you-trouble-shoot-403-errors-on-the-application-in-devops) — Medium
 - [How do you troubleshoot a failed deployment?](../topics/general.md#how-do-you-troubleshoot-a-failed-deployment) — Medium
+- [How do you troubleshoot and optimize using X-Ray tracing?](../topics/general.md#how-do-you-troubleshoot-and-optimize-using-x-ray-tracing) — Medium
 - [How do you troubleshoot high CPU or memory usage?](../topics/general.md#how-do-you-troubleshoot-high-cpu-or-memory-usage) — Medium
 - [How do you troubleshoot network connectivity layer by layer?](../topics/general.md#how-do-you-troubleshoot-network-connectivity-layer-by-layer) — Medium
 - [How do you troubleshoot node disk pressure?](../topics/general.md#how-do-you-troubleshoot-node-disk-pressure) — Medium
@@ -812,6 +826,7 @@
 - [What are the different methods to create a application In another?](../topics/general.md#what-are-the-different-methods-to-create-a-application-in-another) — Easy
 - [What are the different parameter types you used?](../topics/general.md#what-are-the-different-parameter-types-you-used) — Easy
 - [What are the exact kubectl commands to run first when troubleshooting?](../topics/general.md#what-are-the-exact-kubectl-commands-to-run-first-when-troubleshooting) — Easy
+- [What are the key areas of focus for the DVA-C02 exam?](../topics/general.md#what-are-the-key-areas-of-focus-for-the-dva-c02-exam) — Easy
 - [What are the key differences between IaaS, PaaS, and SaaS?](../topics/general.md#what-are-the-key-differences-between-iaas-paas-and-saas) — Easy
 - [What are the most common production mistakes in DevOps setups?](../topics/general.md#what-are-the-most-common-production-mistakes-in-devops-setups) — Hard
 - [What are the new features introduced in Java 21?](../topics/general.md#what-are-the-new-features-introduced-in-java-21) — Easy
@@ -906,6 +921,9 @@
 - [What is your future aspiration?](../topics/general.md#what-is-your-future-aspiration) — Easy
 - [What issues you have seen in GitHub.](../topics/general.md#what-issues-you-have-seen-in-github) — Medium
 - [What kind of cleanup have you done with the script?](../topics/general.md#what-kind-of-cleanup-have-you-done-with-the-script) — Medium
+- [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security) — Medium
+- [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization) — Medium
+- [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with) — Medium
 - [What real production issue made your team migrate from one instance family to another?](../topics/general.md#what-real-production-issue-made-your-team-migrate-from-one-instance-family-to-an) — Medium
 - [What role does etcd play, and how can its performance impact the entire cluster?](../topics/general.md#what-role-does-etcd-play-and-how-can-its-performance-impact-the-entire-cluster) — Medium
 - [What rollback strategies do you follow?](../topics/general.md#what-rollback-strategies-do-you-follow) — Medium
@@ -1039,6 +1057,7 @@
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — Medium · tags: `AWS`
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — Medium · tags: `AWS`
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — Medium · tags: `AWS`
+- [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — Medium
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — Medium
 - [IAM](../topics/iam.md#iam) — Medium
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — Medium · tags: `Kubernetes`, `RBAC`
@@ -1384,6 +1403,7 @@
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — Medium
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — Hard · tags: `System Design`
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — Medium · tags: `CI/CD`
+- [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — Easy
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — Medium
 
 ### Network Security
@@ -1441,6 +1461,10 @@
 ### Redis
 
 - [What is Redis?](../topics/redis.md#what-is-redis) — Easy
+
+### Secrets
+
+- [What is your understanding of Cognito, KMS, and Secrets Manager from a developer's angle?](../topics/secrets.md#what-is-your-understanding-of-cognito-kms-and-secrets-manager-from-a-developer-s) — Medium
 
 ### Security
 
@@ -1621,22 +1645,22 @@
 
 ## Interview rounds
 
-- Unspecified — 1293
+- Unspecified — 1313
 - Technical Round 1 — 35
 - Managerial — 11
 - Technical — 3
 
 ## Recently added
 
-- [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — 2026-07-28 · tags: `Grafana`
-- [Mention integrating tools like SonarQube and Trivy into CI/CD pipelines so vulnerabilities are detected before reaching production.](../topics/devsecops.md#mention-integrating-tools-like-sonarqube-and-trivy-into-ci-cd-pipelines-so-vulne) — 2026-07-28 · tags: `CI/CD`
-- [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — 2026-07-28
-- [Explain how Infrastructure as Code helped provision identical environments, maintain version control, and reduce manual configuration errors with Terraform.](../topics/terraform.md#explain-how-infrastructure-as-code-helped-provision-identical-environments-maint) — 2026-07-28
-- [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) — 2026-07-28 · tags: `Kubernetes`
-- [Explain how containerization eliminated environment inconsistencies and simplified deployments.](../topics/general.md#explain-how-containerization-eliminated-environment-inconsistencies-and-simplifi) — 2026-07-28
-- [Describe how Kubernetes rolling updates with readiness and liveness probes ensured zero downtime during deployments.](../topics/kubernetes.md#describe-how-kubernetes-rolling-updates-with-readiness-and-liveness-probes-ensur) — 2026-07-28 · tags: `Deployment Strategies`
-- [Explain how you solved production problems using Docker, Kubernetes, Terraform, or Jenkins.](../topics/kubernetes.md#explain-how-you-solved-production-problems-using-docker-kubernetes-terraform-or-) — 2026-07-28 · tags: `Docker`, `Terraform`, `Jenkins`
-- [Different type of concurrent collections used in project.](../topics/general.md#different-type-of-concurrent-collections-used-in-project) — 2026-07-28
-- [Comparable vs Comparator.](../topics/general.md#comparable-vs-comparator) — 2026-07-28
+- [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — 2026-07-28
+- [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-) — 2026-07-28
+- [How do you test your knowledge before the exam day?](../topics/general.md#how-do-you-test-your-knowledge-before-the-exam-day) — 2026-07-28
+- [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization) — 2026-07-28
+- [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security) — 2026-07-28
+- [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) — 2026-07-28
+- [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with) — 2026-07-28
+- [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) — 2026-07-28
+- [What are the key areas of focus for the DVA-C02 exam?](../topics/general.md#what-are-the-key-areas-of-focus-for-the-dva-c02-exam) — 2026-07-28
+- [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) — 2026-07-28
 
 [← All companies](./README.md) · [Home](../README.md)
