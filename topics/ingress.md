@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Ingress**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 4 / 4 / 0 |
-| Companies | 0 |
+| Questions | 10 |
+| Easy / Medium / Hard | 4 / 5 / 1 |
+| Companies | 2 |
 
 ## Most asked
 
@@ -35,10 +35,14 @@
   <a id="difference-between-ingress-and-service"></a>
 - [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) — **2×** · Medium · tags: `Kubernetes`, `DNS`
   <a id="your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se"></a>
+- [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — **1×** · Medium
+  <a id="explain-ingress-and-its-advantages"></a>
 - [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) — **1×** · Medium · tags: `Kubernetes`, `Docker`
   <a id="explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-"></a>
 - [How does traffic flow from User to Ingress to Service to Pod?](../topics/ingress.md#how-does-traffic-flow-from-user-to-ingress-to-service-to-pod) — **1×** · Medium · tags: `Kubernetes`
   <a id="how-does-traffic-flow-from-user-to-ingress-to-service-to-pod"></a>
+- [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho) — **1×** · Hard
+  <a id="ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho"></a>
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — **1×** · Medium · tags: `Kubernetes`
   <a id="pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress"></a>
 - [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress) — **1×** · Easy
@@ -59,6 +63,8 @@
 
 - [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) — 2× · tags: `Kubernetes`, `DNS`
   <a id="your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se"></a>
+- [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — 1×
+  <a id="explain-ingress-and-its-advantages"></a>
 - [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) — 1× · tags: `Kubernetes`, `Docker`
   <a id="explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-"></a>
 - [How does traffic flow from User to Ingress to Service to Pod?](../topics/ingress.md#how-does-traffic-flow-from-user-to-ingress-to-service-to-pod) — 1× · tags: `Kubernetes`
@@ -68,7 +74,8 @@
 
 ## Advanced
 
-_None in this band yet._
+- [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho) — 1×
+  <a id="ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho"></a>
 
 ## By interview round
 
@@ -76,8 +83,10 @@ _None in this band yet._
 
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — tags: `Load Balancing`
 - [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service)
+- [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages)
 - [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) — tags: `Kubernetes`, `Docker`
 - [How does traffic flow from User to Ingress to Service to Pod?](../topics/ingress.md#how-does-traffic-flow-from-user-to-ingress-to-service-to-pod) — tags: `Kubernetes`
+- [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho)
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — tags: `Kubernetes`
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress)
 - [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress)
@@ -85,10 +94,13 @@ _None in this band yet._
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Infosys](../companies/infosys.md)
+- [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — 2026-07-28
+- [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho) — 2026-07-28
 - [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) — 2026-07-18 · tags: `Kubernetes`, `DNS`
 - [How does traffic flow from User to Ingress to Service to Pod?](../topics/ingress.md#how-does-traffic-flow-from-user-to-ingress-to-service-to-pod) — 2026-07-18 · tags: `Kubernetes`
 - [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress) — 2026-07-18
@@ -114,8 +126,10 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) | Easy | 2 |
 | [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) | Easy | 2 |
+| [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) | Medium | 1 |
 | [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) | Medium | 1 |
 | [How does traffic flow from User to Ingress to Service to Pod?](../topics/ingress.md#how-does-traffic-flow-from-user-to-ingress-to-service-to-pod) | Medium | 1 |
+| [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho) | Hard | 1 |
 | [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) | Medium | 1 |
 | [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Easy | 3 |
 | [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress) | Easy | 1 |

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**99** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**100** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 99 |
-| Easy / Medium / Hard | 30 / 65 / 4 |
+| Questions | 100 |
+| Easy / Medium / Hard | 30 / 66 / 4 |
 | Companies | 2 |
 
 ## Most asked
@@ -203,6 +203,8 @@
   <a id="docker-fundamentals-for-net"></a>
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 1×
   <a id="docker-images-containers-multi-stage-builds"></a>
+- [Docker networking](../topics/docker.md#docker-networking) — 1×
+  <a id="docker-networking"></a>
 - [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) — 1×
   <a id="docker-volumes-data-persistence-issues"></a>
 - [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines) — 1×
@@ -310,6 +312,7 @@
 - [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net)
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds)
 - [Docker layers](../topics/docker.md#docker-layers)
+- [Docker networking](../topics/docker.md#docker-networking)
 - [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues)
 - [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines)
 - [docker zero](../topics/docker.md#docker-zero)
@@ -399,6 +402,7 @@
 
 ## Recently added
 
+- [Docker networking](../topics/docker.md#docker-networking) — 2026-07-28
 - [Can you write a command to add volume or bind mount in container](../topics/docker.md#can-you-write-a-command-to-add-volume-or-bind-mount-in-container) — 2026-07-27
 - [What is the command to run a container](../topics/docker.md#what-is-the-command-to-run-a-container) — 2026-07-27
 - [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) — 2026-07-27
@@ -413,7 +417,6 @@
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2026-07-26
 - [How do you inject environment variables during Docker builds and where do you store images?](../topics/docker.md#how-do-you-inject-environment-variables-during-docker-builds-and-where-do-you-st) — 2026-07-26
 - [Which container registry do you trust for your images?](../topics/docker.md#which-container-registry-do-you-trust-for-your-images) — 2026-07-26
-- [What happens in each stage of a Docker build and why do ENTRYPOINT and CMD matter?](../topics/docker.md#what-happens-in-each-stage-of-a-docker-build-and-why-do-entrypoint-and-cmd-matte) — 2026-07-26
 
 ## Related topics
 
@@ -444,6 +447,7 @@
 | [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) | Medium | 1 |
 | [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) | Medium | 1 |
 | [Docker layers](../topics/docker.md#docker-layers) | Medium | 2 |
+| [Docker networking](../topics/docker.md#docker-networking) | Medium | 1 |
 | [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) | Medium | 1 |
 | [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines) | Medium | 1 |
 | [docker zero](../topics/docker.md#docker-zero) | Medium | 1 |

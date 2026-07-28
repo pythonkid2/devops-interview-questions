@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Kubernetes**
 
-**199** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**204** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 199 |
-| Easy / Medium / Hard | 23 / 156 / 20 |
+| Questions | 204 |
+| Easy / Medium / Hard | 23 / 160 / 21 |
 | Companies | 13 |
 
 ## Most asked
@@ -57,6 +57,8 @@
   <a id="explain-the-kubernetes-architecture"></a>
 - [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) — **3×** · Medium
   <a id="how-do-you-implement-rbac-in-kubernetes"></a>
+- [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — **3×** · Medium
+  <a id="how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff"></a>
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — **3×** · Medium
   <a id="how-does-kubernetes-perform-self-healing"></a>
 - [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — **3×** · Medium
@@ -75,8 +77,6 @@
   <a id="a-pod-is-in-crashloopbackoff-how-would-you-troubleshoot-it"></a>
 - [A Pod is in CrashLoopBackOff. Where do you start your investigation?](../topics/kubernetes.md#a-pod-is-in-crashloopbackoff-where-do-you-start-your-investigation) — **2×** · Medium
   <a id="a-pod-is-in-crashloopbackoff-where-do-you-start-your-investigation"></a>
-- [A Pod is stuck in Pending state. Can you explain the possible reasons and how you'd troubleshoot it?](../topics/kubernetes.md#a-pod-is-stuck-in-pending-state-can-you-explain-the-possible-reasons-and-how-you) — **2×** · Medium
-  <a id="a-pod-is-stuck-in-pending-state-can-you-explain-the-possible-reasons-and-how-you"></a>
 
 ## Beginner
 
@@ -104,6 +104,8 @@
   <a id="what-is-kubernetes-and-why-is-it-used"></a>
 - [What is Kubernetes?](../topics/kubernetes.md#what-is-kubernetes) — 2×
   <a id="what-is-kubernetes"></a>
+- [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) — 2×
+  <a id="what-is-the-difference-between-deployment-and-statefulset"></a>
 - [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — 1×
   <a id="azure-kubernetes-service-aks-docker"></a>
 - [What are one-line interview answers for every core object in Kubernetes?](../topics/kubernetes.md#what-are-one-line-interview-answers-for-every-core-object-in-kubernetes) — 1×
@@ -120,8 +122,6 @@
   <a id="what-is-cgroups-and-namespace-in-linux"></a>
 - [What is ConfigMap and Secret?](../topics/kubernetes.md#what-is-configmap-and-secret) — 1×
   <a id="what-is-configmap-and-secret"></a>
-- [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) — 1×
-  <a id="what-is-the-difference-between-deployment-and-statefulset"></a>
 - [What is the one insight that makes you sound senior in Kubernetes?](../topics/kubernetes.md#what-is-the-one-insight-that-makes-you-sound-senior-in-kubernetes) — 1×
   <a id="what-is-the-one-insight-that-makes-you-sound-senior-in-kubernetes"></a>
 - [What is the Troubleshooting Playbook for Kubernetes?](../topics/kubernetes.md#what-is-the-troubleshooting-playbook-for-kubernetes) — 1× · tags: `Ansible`
@@ -151,6 +151,8 @@
   <a id="a-pod-is-running-but-the-application-is-not-accessible-what-would-you-check"></a>
 - [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) — 3×
   <a id="how-do-you-implement-rbac-in-kubernetes"></a>
+- [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 3×
+  <a id="how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff"></a>
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — 3×
   <a id="how-does-kubernetes-perform-self-healing"></a>
 - [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — 3×
@@ -189,6 +191,8 @@
   <a id="configmap-vs-secret"></a>
 - [CrashLoopBackOff, ImagePullError—name the Kubernetes errors you’ve fixed and how.](../topics/kubernetes.md#crashloopbackoff-imagepullerror-name-the-kubernetes-errors-youve-fixed-and-how) — 2×
   <a id="crashloopbackoff-imagepullerror-name-the-kubernetes-errors-youve-fixed-and-how"></a>
+- [Describe how Kubernetes rolling updates with readiness and liveness probes ensured zero downtime during deployments.](../topics/kubernetes.md#describe-how-kubernetes-rolling-updates-with-readiness-and-liveness-probes-ensur) — 2× · tags: `Deployment Strategies`
+  <a id="describe-how-kubernetes-rolling-updates-with-readiness-and-liveness-probes-ensur"></a>
 - [Explain about Kubernetes.](../topics/kubernetes.md#explain-about-kubernetes) — 2×
   <a id="explain-about-kubernetes"></a>
 - [Explain ClusterIP and NodePort. What is the difference between them?](../topics/kubernetes.md#explain-clusterip-and-nodeport-what-is-the-difference-between-them) — 2×
@@ -217,14 +221,14 @@
   <a id="how-do-you-configure-kubernetes-taints-and-tolerations-for-gpu-workloads"></a>
 - [How do you exec into a pod and what’s the right way to define objects?](../topics/kubernetes.md#how-do-you-exec-into-a-pod-and-whats-the-right-way-to-define-objects) — 2×
   <a id="how-do-you-exec-into-a-pod-and-whats-the-right-way-to-define-objects"></a>
+- [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2× · tags: `AWS`
+  <a id="how-do-you-monitor-aws-infrastructure-and-kubernetes"></a>
 - [How do you provide pod access to S3 bucket](../topics/kubernetes.md#how-do-you-provide-pod-access-to-s3-bucket) — 2×
   <a id="how-do-you-provide-pod-access-to-s3-bucket"></a>
 - [How do you spin up Kubernetes clusters with Terraform and what do the master and worker nodes actually do?](../topics/kubernetes.md#how-do-you-spin-up-kubernetes-clusters-with-terraform-and-what-do-the-master-and) — 2× · tags: `Terraform`
   <a id="how-do-you-spin-up-kubernetes-clusters-with-terraform-and-what-do-the-master-and"></a>
 - [How do you troubleshoot deployment failures?](../topics/kubernetes.md#how-do-you-troubleshoot-deployment-failures) — 2×
   <a id="how-do-you-troubleshoot-deployment-failures"></a>
-- [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 2×
-  <a id="how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff"></a>
 - [How do you use hpa in prod env and what kind of metric target in cluster](../topics/kubernetes.md#how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster) — 2×
   <a id="how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster"></a>
 - [How do your secure secrets in Kubernetes and AWS?](../topics/kubernetes.md#how-do-your-secure-secrets-in-kubernetes-and-aws) — 2× · tags: `AWS`
@@ -291,6 +295,8 @@
   <a id="can-you-tell-me-the-types-of-services-in-kubernetes"></a>
 - [Can you write a yaml for Pod](../topics/kubernetes.md#can-you-write-a-yaml-for-pod) — 1×
   <a id="can-you-write-a-yaml-for-pod"></a>
+- [CrashLoopBackOff in Kubernetes](../topics/kubernetes.md#crashloopbackoff-in-kubernetes) — 1×
+  <a id="crashloopbackoff-in-kubernetes"></a>
 - [Docker, Kubernetes & Jenkins](../topics/kubernetes.md#docker-kubernetes-jenkins) — 1× · tags: `Docker`, `Jenkins`
   <a id="docker-kubernetes-jenkins"></a>
 - [Does pod-to-pod communication work by default?](../topics/kubernetes.md#does-pod-to-pod-communication-work-by-default) — 1×
@@ -327,8 +333,6 @@
   <a id="how-do-you-investigate-a-kubernetes-crashloopbackoff"></a>
 - [How do you investigate node-level problems in Kubernetes?](../topics/kubernetes.md#how-do-you-investigate-node-level-problems-in-kubernetes) — 1×
   <a id="how-do-you-investigate-node-level-problems-in-kubernetes"></a>
-- [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 1× · tags: `AWS`
-  <a id="how-do-you-monitor-aws-infrastructure-and-kubernetes"></a>
 - [How do you perform a zero-downtime deployment in Kubernetes?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-deployment-in-kubernetes) — 1×
   <a id="how-do-you-perform-a-zero-downtime-deployment-in-kubernetes"></a>
 - [How do you restrict pod‑to‑pod communication in Kubernetes inside a cluster?](../topics/kubernetes.md#how-do-you-restrict-pod-to-pod-communication-in-kubernetes-inside-a-cluster) — 1×
@@ -353,6 +357,8 @@
   <a id="how-does-the-control-plane-detect-the-failure"></a>
 - [How the setup is done for kubernetes cluster?](../topics/kubernetes.md#how-the-setup-is-done-for-kubernetes-cluster) — 1×
   <a id="how-the-setup-is-done-for-kubernetes-cluster"></a>
+- [How to upgrade a Kubernetes cluster?](../topics/kubernetes.md#how-to-upgrade-a-kubernetes-cluster) — 1×
+  <a id="how-to-upgrade-a-kubernetes-cluster"></a>
 - [How would you enforce security policies so that Pods cannot: Run as root, Use the latest image tag, Have a writable root filesystem?](../topics/kubernetes.md#how-would-you-enforce-security-policies-so-that-pods-cannot-run-as-root-use-the-) — 1×
   <a id="how-would-you-enforce-security-policies-so-that-pods-cannot-run-as-root-use-the-"></a>
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — 1× · tags: `Databases`
@@ -377,6 +383,8 @@
   <a id="kubernetes-components-deployments"></a>
 - [Kubernetes core concepts](../topics/kubernetes.md#kubernetes-core-concepts) — 1×
   <a id="kubernetes-core-concepts"></a>
+- [Kubernetes internals](../topics/kubernetes.md#kubernetes-internals) — 1×
+  <a id="kubernetes-internals"></a>
 - [Kubernetes Migration / Cost Optimization how have you done?](../topics/kubernetes.md#kubernetes-migration-cost-optimization-how-have-you-done) — 1× · tags: `FinOps`
   <a id="kubernetes-migration-cost-optimization-how-have-you-done"></a>
 - [Kubernetes pods are continuously restarting. How do you investigate?](../topics/kubernetes.md#kubernetes-pods-are-continuously-restarting-how-do-you-investigate) — 1×
@@ -450,6 +458,8 @@
   <a id="explain-the-kubernetes-architecture"></a>
 - [Design an end-to-end automated deployment solution for multiple environments.](../topics/kubernetes.md#design-an-end-to-end-automated-deployment-solution-for-multiple-environments) — 2×
   <a id="design-an-end-to-end-automated-deployment-solution-for-multiple-environments"></a>
+- [Explain how you solved production problems using Docker, Kubernetes, Terraform, or Jenkins.](../topics/kubernetes.md#explain-how-you-solved-production-problems-using-docker-kubernetes-terraform-or-) — 2× · tags: `Docker`, `Terraform`, `Jenkins`
+  <a id="explain-how-you-solved-production-problems-using-docker-kubernetes-terraform-or-"></a>
 - [Explain your Kubernetes project end-to-end.](../topics/kubernetes.md#explain-your-kubernetes-project-end-to-end) — 2×
   <a id="explain-your-kubernetes-project-end-to-end"></a>
 - [How do you implement continuous integration and delivery in a Kubernetes cluster?](../topics/kubernetes.md#how-do-you-implement-continuous-integration-and-delivery-in-a-kubernetes-cluster) — 2×
@@ -541,7 +551,9 @@
 - [Can you tell me the types of services in kubernetes?](../topics/kubernetes.md#can-you-tell-me-the-types-of-services-in-kubernetes)
 - [Can you write a yaml for Pod](../topics/kubernetes.md#can-you-write-a-yaml-for-pod)
 - [ConfigMap vs Secret?](../topics/kubernetes.md#configmap-vs-secret)
+- [CrashLoopBackOff in Kubernetes](../topics/kubernetes.md#crashloopbackoff-in-kubernetes)
 - [CrashLoopBackOff, ImagePullError—name the Kubernetes errors you’ve fixed and how.](../topics/kubernetes.md#crashloopbackoff-imagepullerror-name-the-kubernetes-errors-youve-fixed-and-how)
+- [Describe how Kubernetes rolling updates with readiness and liveness probes ensured zero downtime during deployments.](../topics/kubernetes.md#describe-how-kubernetes-rolling-updates-with-readiness-and-liveness-probes-ensur) — tags: `Deployment Strategies`
 - [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job)
 - [Difference between Docker Compose and Kubernetes?](../topics/kubernetes.md#difference-between-docker-compose-and-kubernetes) — tags: `Docker`
 - [Difference between Pod and Container?](../topics/kubernetes.md#difference-between-pod-and-container) — tags: `Docker`
@@ -555,6 +567,7 @@
 - [Explain ConfigMaps and Secrets. How do you manage them across environments?](../topics/kubernetes.md#explain-configmaps-and-secrets-how-do-you-manage-them-across-environments)
 - [Explain DaemonSet, Deployment, StatefulSet, and when to use each.](../topics/kubernetes.md#explain-daemonset-deployment-statefulset-and-when-to-use-each)
 - [Explain how CNI plugins work and how cross-node pod communication happens.](../topics/kubernetes.md#explain-how-cni-plugins-work-and-how-cross-node-pod-communication-happens) — tags: `CNI`
+- [Explain how you solved production problems using Docker, Kubernetes, Terraform, or Jenkins.](../topics/kubernetes.md#explain-how-you-solved-production-problems-using-docker-kubernetes-terraform-or-) — tags: `Docker`, `Terraform`, `Jenkins`
 - [Explain Kubernetes Manifest Files and the specific purposes of different YAML resources (Pods, Deployments, Services).](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-specific-purposes-of-different-yaml-re)
 - [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/kubernetes.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources)
 - [Explain Kubernetes requests and limits.](../topics/kubernetes.md#explain-kubernetes-requests-and-limits)
@@ -609,6 +622,7 @@
 - [How the setup is done for kubernetes cluster?](../topics/kubernetes.md#how-the-setup-is-done-for-kubernetes-cluster)
 - [How to create pod in Kubernetes.](../topics/kubernetes.md#how-to-create-pod-in-kubernetes)
 - [How to resolve storage issue in a pod.](../topics/kubernetes.md#how-to-resolve-storage-issue-in-a-pod)
+- [How to upgrade a Kubernetes cluster?](../topics/kubernetes.md#how-to-upgrade-a-kubernetes-cluster)
 - [How would you check if a GPU pod in Kubernetes is using the GPU assigned to it?](../topics/kubernetes.md#how-would-you-check-if-a-gpu-pod-in-kubernetes-is-using-the-gpu-assigned-to-it)
 - [How would you enforce security policies so that Pods cannot: Run as root, Use the latest image tag, Have a writable root filesystem?](../topics/kubernetes.md#how-would-you-enforce-security-policies-so-that-pods-cannot-run-as-root-use-the-)
 - [How would you handle CUDA driver upgrades in Kubernetes without disrupting thousands of running AI pods?](../topics/kubernetes.md#how-would-you-handle-cuda-driver-upgrades-in-kubernetes-without-disrupting-thous)
@@ -627,6 +641,7 @@
 - [Kubernetes](../topics/kubernetes.md#kubernetes)
 - [Kubernetes Components & Deployments](../topics/kubernetes.md#kubernetes-components-deployments)
 - [Kubernetes core concepts](../topics/kubernetes.md#kubernetes-core-concepts)
+- [Kubernetes internals](../topics/kubernetes.md#kubernetes-internals)
 - [Kubernetes Migration / Cost Optimization how have you done?](../topics/kubernetes.md#kubernetes-migration-cost-optimization-how-have-you-done) — tags: `FinOps`
 - [Kubernetes pods are continuously restarting. How do you investigate?](../topics/kubernetes.md#kubernetes-pods-are-continuously-restarting-how-do-you-investigate)
 - [Kubernetes pods are Running but users receive 503 errors. What will you check?](../topics/kubernetes.md#kubernetes-pods-are-running-but-users-receive-503-errors-what-will-you-check)
@@ -722,6 +737,14 @@
 
 ## Recently added
 
+- [Describe how Kubernetes rolling updates with readiness and liveness probes ensured zero downtime during deployments.](../topics/kubernetes.md#describe-how-kubernetes-rolling-updates-with-readiness-and-liveness-probes-ensur) — 2026-07-28 · tags: `Deployment Strategies`
+- [Explain how you solved production problems using Docker, Kubernetes, Terraform, or Jenkins.](../topics/kubernetes.md#explain-how-you-solved-production-problems-using-docker-kubernetes-terraform-or-) — 2026-07-28 · tags: `Docker`, `Terraform`, `Jenkins`
+- [Kubernetes internals](../topics/kubernetes.md#kubernetes-internals) — 2026-07-28
+- [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2026-07-28 · tags: `AWS`
+- [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 2026-07-28
+- [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) — 2026-07-28
+- [How to upgrade a Kubernetes cluster?](../topics/kubernetes.md#how-to-upgrade-a-kubernetes-cluster) — 2026-07-28
+- [CrashLoopBackOff in Kubernetes](../topics/kubernetes.md#crashloopbackoff-in-kubernetes) — 2026-07-28
 - [I want to add a user in the kubernetes cluster and want to give specific Authorization how will you do it?](../topics/kubernetes.md#i-want-to-add-a-user-in-the-kubernetes-cluster-and-want-to-give-specific-authori) — 2026-07-27
 - [Can you write a yaml for Pod](../topics/kubernetes.md#can-you-write-a-yaml-for-pod) — 2026-07-27
 - [Can you tell me the types of services in kubernetes?](../topics/kubernetes.md#can-you-tell-me-the-types-of-services-in-kubernetes) — 2026-07-27
@@ -729,14 +752,6 @@
 - [What is Cgroups and Namespace in Linux](../topics/kubernetes.md#what-is-cgroups-and-namespace-in-linux) — 2026-07-27 · tags: `Linux`
 - [Kubernetes pods are continuously restarting. How do you investigate?](../topics/kubernetes.md#kubernetes-pods-are-continuously-restarting-how-do-you-investigate) — 2026-07-27
 - [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — 2026-07-27 · tags: `AWS`, `Azure`, `GCP`
-- [What health checks are used in Kubernetes?](../topics/kubernetes.md#what-health-checks-are-used-in-kubernetes) — 2026-07-27
-- [How do your secure secrets in Kubernetes and AWS?](../topics/kubernetes.md#how-do-your-secure-secrets-in-kubernetes-and-aws) — 2026-07-27 · tags: `AWS`
-- [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 2026-07-27
-- [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — 2026-07-27 · tags: `Docker`
-- [Kubernetes troubleshooting](../topics/kubernetes.md#kubernetes-troubleshooting) — 2026-07-27
-- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — 2026-07-27 · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
-- [How do you deploy applications using Kubernetes?](../topics/kubernetes.md#how-do-you-deploy-applications-using-kubernetes) — 2026-07-27
-- [What happens when a Kubernetes pod goes into CrashLoopBackOff?](../topics/kubernetes.md#what-happens-when-a-kubernetes-pod-goes-into-crashloopbackoff) — 2026-07-26
 
 ## Related topics
 
@@ -778,7 +793,9 @@
 | [Can you tell me the types of services in kubernetes?](../topics/kubernetes.md#can-you-tell-me-the-types-of-services-in-kubernetes) | Medium | 1 |
 | [Can you write a yaml for Pod](../topics/kubernetes.md#can-you-write-a-yaml-for-pod) | Medium | 1 |
 | [ConfigMap vs Secret?](../topics/kubernetes.md#configmap-vs-secret) | Medium | 2 |
+| [CrashLoopBackOff in Kubernetes](../topics/kubernetes.md#crashloopbackoff-in-kubernetes) | Medium | 1 |
 | [CrashLoopBackOff, ImagePullError—name the Kubernetes errors you’ve fixed and how.](../topics/kubernetes.md#crashloopbackoff-imagepullerror-name-the-kubernetes-errors-youve-fixed-and-how) | Medium | 2 |
+| [Describe how Kubernetes rolling updates with readiness and liveness probes ensured zero downtime during deployments.](../topics/kubernetes.md#describe-how-kubernetes-rolling-updates-with-readiness-and-liveness-probes-ensur) | Medium | 2 |
 | [Design an end-to-end automated deployment solution for multiple environments.](../topics/kubernetes.md#design-an-end-to-end-automated-deployment-solution-for-multiple-environments) | Hard | 2 |
 | [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) | Medium | 6 |
 | [Difference between Docker Compose and Kubernetes?](../topics/kubernetes.md#difference-between-docker-compose-and-kubernetes) | Easy | 2 |
@@ -794,6 +811,7 @@
 | [Explain ConfigMaps and Secrets. How do you manage them across environments?](../topics/kubernetes.md#explain-configmaps-and-secrets-how-do-you-manage-them-across-environments) | Medium | 2 |
 | [Explain DaemonSet, Deployment, StatefulSet, and when to use each.](../topics/kubernetes.md#explain-daemonset-deployment-statefulset-and-when-to-use-each) | Medium | 1 |
 | [Explain how CNI plugins work and how cross-node pod communication happens.](../topics/kubernetes.md#explain-how-cni-plugins-work-and-how-cross-node-pod-communication-happens) | Medium | 1 |
+| [Explain how you solved production problems using Docker, Kubernetes, Terraform, or Jenkins.](../topics/kubernetes.md#explain-how-you-solved-production-problems-using-docker-kubernetes-terraform-or-) | Hard | 2 |
 | [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) | Medium | 2 |
 | [Explain Kubernetes Manifest Files and the specific purposes of different YAML resources (Pods, Deployments, Services).](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-specific-purposes-of-different-yaml-re) | Medium | 2 |
 | [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/kubernetes.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) | Medium | 2 |
@@ -823,7 +841,7 @@
 | [How do you integrate Jenkins with Docker and Kubernetes?](../topics/kubernetes.md#how-do-you-integrate-jenkins-with-docker-and-kubernetes) | Medium | 1 |
 | [How do you investigate a Kubernetes CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-investigate-a-kubernetes-crashloopbackoff) | Medium | 1 |
 | [How do you investigate node-level problems in Kubernetes?](../topics/kubernetes.md#how-do-you-investigate-node-level-problems-in-kubernetes) | Medium | 1 |
-| [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) | Medium | 1 |
+| [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) | Medium | 2 |
 | [How do you monitor AWS resources, Kubernetes workloads, SLAs, and production systems?](../topics/kubernetes.md#how-do-you-monitor-aws-resources-kubernetes-workloads-slas-and-production-system) | Hard | 1 |
 | [How do you perform a zero-downtime deployment in Kubernetes?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-deployment-in-kubernetes) | Medium | 1 |
 | [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) | Hard | 6 |
@@ -834,7 +852,7 @@
 | [How do you securely store and manage secrets in Kubernetes or cloud environments?](../topics/kubernetes.md#how-do-you-securely-store-and-manage-secrets-in-kubernetes-or-cloud-environments) | Medium | 1 |
 | [How do you spin up Kubernetes clusters with Terraform and what do the master and worker nodes actually do?](../topics/kubernetes.md#how-do-you-spin-up-kubernetes-clusters-with-terraform-and-what-do-the-master-and) | Medium | 2 |
 | [How do you troubleshoot deployment failures?](../topics/kubernetes.md#how-do-you-troubleshoot-deployment-failures) | Medium | 2 |
-| [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) | Medium | 2 |
+| [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) | Medium | 3 |
 | [How do you use hpa in prod env and what kind of metric target in cluster](../topics/kubernetes.md#how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster) | Medium | 2 |
 | [How do your secure secrets in Kubernetes and AWS?](../topics/kubernetes.md#how-do-your-secure-secrets-in-kubernetes-and-aws) | Medium | 2 |
 | [How does DNS work inside a Kubernetes cluster?](../topics/kubernetes.md#how-does-dns-work-inside-a-kubernetes-cluster) | Medium | 2 |
@@ -851,6 +869,7 @@
 | [How the setup is done for kubernetes cluster?](../topics/kubernetes.md#how-the-setup-is-done-for-kubernetes-cluster) | Medium | 1 |
 | [How to create pod in Kubernetes.](../topics/kubernetes.md#how-to-create-pod-in-kubernetes) | Medium | 2 |
 | [How to resolve storage issue in a pod.](../topics/kubernetes.md#how-to-resolve-storage-issue-in-a-pod) | Medium | 2 |
+| [How to upgrade a Kubernetes cluster?](../topics/kubernetes.md#how-to-upgrade-a-kubernetes-cluster) | Medium | 1 |
 | [How will you set up the Rest Assured framework when APIs are internal to Kubernetes clusters?](../topics/kubernetes.md#how-will-you-set-up-the-rest-assured-framework-when-apis-are-internal-to-kuberne) | Medium | 2 |
 | [How would you check if a GPU pod in Kubernetes is using the GPU assigned to it?](../topics/kubernetes.md#how-would-you-check-if-a-gpu-pod-in-kubernetes-is-using-the-gpu-assigned-to-it) | Easy | 2 |
 | [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../topics/kubernetes.md#how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne) | Medium | 5 |
@@ -871,6 +890,7 @@
 | [Kubernetes](../topics/kubernetes.md#kubernetes) | Medium | 1 |
 | [Kubernetes Components & Deployments](../topics/kubernetes.md#kubernetes-components-deployments) | Medium | 1 |
 | [Kubernetes core concepts](../topics/kubernetes.md#kubernetes-core-concepts) | Medium | 1 |
+| [Kubernetes internals](../topics/kubernetes.md#kubernetes-internals) | Medium | 1 |
 | [Kubernetes Migration / Cost Optimization how have you done?](../topics/kubernetes.md#kubernetes-migration-cost-optimization-how-have-you-done) | Medium | 1 |
 | [Kubernetes pods are continuously restarting. How do you investigate?](../topics/kubernetes.md#kubernetes-pods-are-continuously-restarting-how-do-you-investigate) | Medium | 1 |
 | [Kubernetes pods are Running but users receive 503 errors. What will you check?](../topics/kubernetes.md#kubernetes-pods-are-running-but-users-receive-503-errors-what-will-you-check) | Medium | 2 |
@@ -922,7 +942,7 @@
 | [What is Kubernetes?](../topics/kubernetes.md#what-is-kubernetes) | Easy | 2 |
 | [What is RBAC and its components](../topics/kubernetes.md#what-is-rbac-and-its-components) | Medium | 2 |
 | [What is the difference between a pod and a service in Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-a-pod-and-a-service-in-kubernetes) | Medium | 2 |
-| [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) | Easy | 1 |
+| [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) | Easy | 2 |
 | [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) | Easy | 4 |
 | [What is the one insight that makes you sound senior in Kubernetes?](../topics/kubernetes.md#what-is-the-one-insight-that-makes-you-sound-senior-in-kubernetes) | Easy | 1 |
 | [What is the Troubleshooting Playbook for Kubernetes?](../topics/kubernetes.md#what-is-the-troubleshooting-playbook-for-kubernetes) | Easy | 1 |

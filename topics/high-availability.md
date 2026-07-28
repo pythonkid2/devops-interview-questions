@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **High Availability**
 
-**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 5 |
-| Easy / Medium / Hard | 0 / 4 / 1 |
-| Companies | 1 |
+| Questions | 6 |
+| Easy / Medium / Hard | 0 / 5 / 1 |
+| Companies | 2 |
 
 ## Most asked
 
@@ -33,6 +33,8 @@
   <a id="high-availability-vs-read-scalability"></a>
 - [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — **2×** · Medium
   <a id="why-are-multi-az-and-replicas-used-for-databases"></a>
+- [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — **1×** · Medium · tags: `VPC`, `AWS`
+  <a id="app-communication-with-ec2-in-private-subnet-behind-multi-az-lb"></a>
 - [High Availability in Azure](../topics/high-availability.md#high-availability-in-azure) — **1×** · Medium · tags: `Azure`
   <a id="high-availability-in-azure"></a>
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — **1×** · Medium · tags: `Alerting`, `Monitoring`
@@ -48,6 +50,8 @@ _None in this band yet._
   <a id="high-availability-vs-read-scalability"></a>
 - [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — 2×
   <a id="why-are-multi-az-and-replicas-used-for-databases"></a>
+- [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — 1× · tags: `VPC`, `AWS`
+  <a id="app-communication-with-ec2-in-private-subnet-behind-multi-az-lb"></a>
 - [High Availability in Azure](../topics/high-availability.md#high-availability-in-azure) — 1× · tags: `Azure`
   <a id="high-availability-in-azure"></a>
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — 1× · tags: `Alerting`, `Monitoring`
@@ -62,6 +66,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — tags: `VPC`, `AWS`
 - [High Availability in Azure](../topics/high-availability.md#high-availability-in-azure) — tags: `Azure`
 - [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — tags: `System Design`
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — tags: `Alerting`, `Monitoring`
@@ -71,9 +76,11 @@ _None in this band yet._
 ## Companies asking
 
 - [Accenture](../companies/accenture.md)
+- [Infosys](../companies/infosys.md)
 
 ## Recently added
 
+- [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — 2026-07-28 · tags: `VPC`, `AWS`
 - [High Availability in Azure](../topics/high-availability.md#high-availability-in-azure) — 2026-07-26 · tags: `Azure`
 - [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — 2026-07-18 · tags: `System Design`
 - [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — 2026-07-18
@@ -94,6 +101,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) | Medium | 1 |
 | [High Availability in Azure](../topics/high-availability.md#high-availability-in-azure) | Medium | 1 |
 | [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) | Medium | 2 |
 | [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) | Medium | 1 |

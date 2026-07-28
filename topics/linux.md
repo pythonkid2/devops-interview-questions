@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**23** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**24** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 23 |
-| Easy / Medium / Hard | 3 / 20 / 0 |
+| Questions | 24 |
+| Easy / Medium / Hard | 3 / 21 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -63,6 +63,8 @@
   <a id="linux-administration-networking-basics"></a>
 - [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) — **1×** · Medium
   <a id="linux-administration-shell-scripting"></a>
+- [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) — **1×** · Medium
+  <a id="linux-kernel-concepts"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
   <a id="what-are-the-linux-boot-processes"></a>
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — **1×** · Medium
@@ -117,6 +119,8 @@
   <a id="linux-administration-networking-basics"></a>
 - [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) — 1×
   <a id="linux-administration-shell-scripting"></a>
+- [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) — 1×
+  <a id="linux-kernel-concepts"></a>
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 1×
   <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — 1×
@@ -148,6 +152,7 @@ _None in this band yet._
 - [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive)
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics)
 - [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting)
+- [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts)
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes)
 - [What is Linux?](../topics/linux.md#what-is-linux)
 - [What is systemd?](../topics/linux.md#what-is-systemd)
@@ -164,6 +169,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) — 2026-07-28
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — 2026-07-27
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 2026-07-27
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2026-07-26
@@ -178,7 +184,6 @@ _None in this band yet._
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — 2026-07-21
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — 2026-07-21
 - [Why is Linux preferred in DevOps?](../topics/linux.md#why-is-linux-preferred-in-devops) — 2026-07-21
-- [What is Linux?](../topics/linux.md#what-is-linux) — 2026-07-21
 
 ## Related topics
 
@@ -203,6 +208,7 @@ _None in this band yet._
 | [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) | Medium | 2 |
 | [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) | Medium | 1 |
 | [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) | Medium | 1 |
+| [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) | Medium | 1 |
 | [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) | Easy | 1 |
 | [What is Linux?](../topics/linux.md#what-is-linux) | Easy | 3 |
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |

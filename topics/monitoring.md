@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**18** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 17 |
-| Easy / Medium / Hard | 2 / 13 / 2 |
-| Companies | 6 |
+| Questions | 18 |
+| Easy / Medium / Hard | 2 / 14 / 2 |
+| Companies | 7 |
 
 ## Most asked
 
@@ -39,6 +39,8 @@
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — **1×** · Hard
   <a id="can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios"></a>
+- [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — **1×** · Medium
+  <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — **1×** · Medium
   <a id="health-checks-monitoring"></a>
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — **1×** · Medium
@@ -79,6 +81,8 @@
   <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — 2×
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
+- [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 1×
+  <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 1×
   <a id="health-checks-monitoring"></a>
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — 1×
@@ -115,6 +119,7 @@
 
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios)
 - [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces)
+- [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms)
 - [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy)
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring)
 - [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency)
@@ -138,9 +143,11 @@
 - [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md)
 - [Mirafra](../companies/mirafra.md)
 - [Sri-Hire](../companies/sri-hire.md)
+- [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 2026-07-28
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2026-07-26
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 2026-07-20
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — 2026-07-18 · tags: `System Design`
@@ -155,7 +162,6 @@
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 2026-07-15
 - [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 2026-07-15
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — 2026-07-15
-- [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — 2026-07-15
 
 ## Related topics
 
@@ -174,6 +180,7 @@
 | --- | --- | ---: |
 | [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) | Hard | 1 |
 | [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) | Easy | 2 |
+| [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) | Medium | 1 |
 | [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) | Medium | 2 |
 | [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) | Medium | 1 |
 | [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) | Medium | 2 |

@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-1637-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-639-informational)
+![questions](https://img.shields.io/badge/questions-1709-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-669-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,35 +18,35 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 1637 |
-| Posts processed | 639 |
-| Added this week | 368 |
+| Unique questions | 1709 |
+| Posts processed | 669 |
+| Added this week | 391 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 199
-- [Terraform](./topics/terraform.md) — 114
-- [Docker](./topics/docker.md) — 99
-- [AWS](./topics/aws.md) — 86
-- [Jenkins](./topics/jenkins.md) — 82
-- [CI/CD](./topics/ci-cd.md) — 65
-- [Incident Response](./topics/incident-response.md) — 26
+- [Kubernetes](./topics/kubernetes.md) — 204
+- [Terraform](./topics/terraform.md) — 121
+- [Docker](./topics/docker.md) — 100
+- [AWS](./topics/aws.md) — 94
+- [Jenkins](./topics/jenkins.md) — 84
+- [CI/CD](./topics/ci-cd.md) — 66
+- [Incident Response](./topics/incident-response.md) — 27
 - [Security](./topics/security.md) — 25
-- [Linux](./topics/linux.md) — 23
+- [Linux](./topics/linux.md) — 24
 - [Azure](./topics/azure.md) — 20
 
 ## Popular companies
 
 - [Mphasis](./companies/mphasis.md) — 43
+- [TCS](./companies/tcs.md) — 38
 - [Accenture](./companies/accenture.md) — 32
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
 - [Deloitte](./companies/deloitte.md) — 25
 - [Global Payments](./companies/global-payments.md) — 23
+- [Infosys](./companies/infosys.md) — 23
 - [Elite Code Technologies](./companies/elite-code-technologies.md) — 21
 - [PwC](./companies/pwc.md) — 13
-- [SpaceTech Inc.](./companies/spacetech-inc.md) — 13
-- [Infosys](./companies/infosys.md) — 12
 
 ## Repository map
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **IAM**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 1 / 8 / 0 |
-| Companies | 0 |
+| Questions | 10 |
+| Easy / Medium / Hard | 2 / 8 / 0 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -45,11 +45,15 @@
   <a id="iam"></a>
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — **1×** · Medium · tags: `ArgoCD`, `Terraform`, `RBAC`
   <a id="terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all"></a>
+- [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — **1×** · Easy
+  <a id="what-is-the-purpose-of-iam-roles-compared-to-iam-users"></a>
 
 ## Beginner
 
 - [What is IAM?](../topics/iam.md#what-is-iam) — 2×
   <a id="what-is-iam"></a>
+- [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — 1×
+  <a id="what-is-the-purpose-of-iam-roles-compared-to-iam-users"></a>
 
 ## Intermediate
 
@@ -87,13 +91,15 @@ _None in this band yet._
 - [RBAC & Security](../topics/iam.md#rbac-security) — tags: `RBAC`
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — tags: `ArgoCD`, `Terraform`, `RBAC`
 - [What is IAM?](../topics/iam.md#what-is-iam)
+- [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users)
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — 2026-07-28
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — 2026-07-26 · tags: `Kubernetes`, `RBAC`
 - [IAM](../topics/iam.md#iam) — 2026-07-26
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — 2026-07-26 · tags: `AWS`
@@ -125,6 +131,7 @@ _None in this band yet._
 | [RBAC & Security](../topics/iam.md#rbac-security) | Medium | 2 |
 | [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) | Medium | 1 |
 | [What is IAM?](../topics/iam.md#what-is-iam) | Easy | 2 |
+| [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) | Easy | 1 |
 
 ## Learning resources
 

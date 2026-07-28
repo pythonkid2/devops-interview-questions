@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Prometheus**
 
-**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 10 |
-| Easy / Medium / Hard | 0 / 10 / 0 |
+| Questions | 11 |
+| Easy / Medium / Hard | 0 / 11 / 0 |
 | Companies | 1 |
 
 ## Most asked
 
+- [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — **2×** · Medium · tags: `Grafana`
+  <a id="explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor"></a>
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) — **1×** · Medium
   <a id="after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri"></a>
 - [Compare CloudWatch, Prometheus, Grafana, and Dynatrace.](../topics/prometheus.md#compare-cloudwatch-prometheus-grafana-and-dynatrace) — **1×** · Medium · tags: `Grafana`, `Monitoring`
@@ -54,6 +56,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — 2× · tags: `Grafana`
+  <a id="explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor"></a>
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) — 1×
   <a id="after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri"></a>
 - [Compare CloudWatch, Prometheus, Grafana, and Dynatrace.](../topics/prometheus.md#compare-cloudwatch-prometheus-grafana-and-dynatrace) — 1× · tags: `Grafana`, `Monitoring`
@@ -85,6 +89,7 @@ _None in this band yet._
 
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri)
 - [Compare CloudWatch, Prometheus, Grafana, and Dynatrace.](../topics/prometheus.md#compare-cloudwatch-prometheus-grafana-and-dynatrace) — tags: `Grafana`, `Monitoring`
+- [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — tags: `Grafana`
 - [Have you configured alerts in Prometheus and Grafana? Explain the setup.](../topics/prometheus.md#have-you-configured-alerts-in-prometheus-and-grafana-explain-the-setup) — tags: `Grafana`
 - [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) — tags: `Grafana`, `Monitoring`
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — tags: `Grafana`, `Monitoring`, `Kubernetes`
@@ -100,6 +105,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — 2026-07-28 · tags: `Grafana`
 - [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) — 2026-07-27
 - [Prometheus](../topics/prometheus.md#prometheus) — 2026-07-26
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — 2026-07-18
@@ -128,6 +134,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) | Medium | 1 |
 | [Compare CloudWatch, Prometheus, Grafana, and Dynatrace.](../topics/prometheus.md#compare-cloudwatch-prometheus-grafana-and-dynatrace) | Medium | 1 |
+| [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) | Medium | 2 |
 | [Have you configured alerts in Prometheus and Grafana? Explain the setup.](../topics/prometheus.md#have-you-configured-alerts-in-prometheus-and-grafana-explain-the-setup) | Medium | 1 |
 | [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) | Medium | 1 |
 | [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) | Medium | 1 |

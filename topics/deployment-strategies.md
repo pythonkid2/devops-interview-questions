@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Deployment Strategies**
 
-**12** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**15** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 12 |
-| Easy / Medium / Hard | 1 / 5 / 6 |
-| Companies | 1 |
+| Questions | 15 |
+| Easy / Medium / Hard | 2 / 7 / 6 |
+| Companies | 3 |
 
 ## Most asked
 
@@ -47,15 +47,23 @@
   <a id="a-production-deployment-failed-and-users-are-impacted-what-would-your-rollback-s"></a>
 - [How do you design a rollback strategy for a failed production deployment?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) — **1×** · Hard
   <a id="how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment"></a>
+- [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — **1×** · Medium · tags: `Blue-Green`, `Canary`
+  <a id="how-do-you-implement-blue-green-and-canary-deployments"></a>
 - [How would you implement a reliable rollback strategy?](../topics/deployment-strategies.md#how-would-you-implement-a-reliable-rollback-strategy) — **1×** · Hard
   <a id="how-would-you-implement-a-reliable-rollback-strategy"></a>
+- [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) — **1×** · Easy · tags: `Canary`
+  <a id="what-is-canary-deployment"></a>
 - [You must migrate a business-critical platform across clouds with zero downtime. What is your strategy?](../topics/deployment-strategies.md#you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w) — **1×** · Medium
   <a id="you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w"></a>
+- [Zero-downtime deployments](../topics/deployment-strategies.md#zero-downtime-deployments) — **1×** · Medium
+  <a id="zero-downtime-deployments"></a>
 
 ## Beginner
 
 - [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — 2× · tags: `Blue-Green`, `Canary`
   <a id="explain-the-difference-between-rolling-blue-green-and-canary-deployments"></a>
+- [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) — 1× · tags: `Canary`
+  <a id="what-is-canary-deployment"></a>
 
 ## Intermediate
 
@@ -67,8 +75,12 @@
   <a id="explain-blue-green-deployment"></a>
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) — 2×
   <a id="how-do-you-perform-a-rolling-update"></a>
+- [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — 1× · tags: `Blue-Green`, `Canary`
+  <a id="how-do-you-implement-blue-green-and-canary-deployments"></a>
 - [You must migrate a business-critical platform across clouds with zero downtime. What is your strategy?](../topics/deployment-strategies.md#you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w) — 1×
   <a id="you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w"></a>
+- [Zero-downtime deployments](../topics/deployment-strategies.md#zero-downtime-deployments) — 1×
+  <a id="zero-downtime-deployments"></a>
 
 ## Advanced
 
@@ -98,16 +110,24 @@
 - [Explain your rollback strategy during production deployments.](../topics/deployment-strategies.md#explain-your-rollback-strategy-during-production-deployments)
 - [How do you design a rollback strategy for a failed production deployment?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment)
 - [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production)
+- [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — tags: `Blue-Green`, `Canary`
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update)
 - [How would you implement a reliable rollback strategy?](../topics/deployment-strategies.md#how-would-you-implement-a-reliable-rollback-strategy)
+- [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) — tags: `Canary`
 - [You must migrate a business-critical platform across clouds with zero downtime. What is your strategy?](../topics/deployment-strategies.md#you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w)
+- [Zero-downtime deployments](../topics/deployment-strategies.md#zero-downtime-deployments)
 
 ## Companies asking
 
 - [Elite Code Technologies](../companies/elite-code-technologies.md)
+- [Infosys](../companies/infosys.md)
+- [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — 2026-07-28 · tags: `Blue-Green`, `Canary`
+- [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) — 2026-07-28 · tags: `Canary`
+- [Zero-downtime deployments](../topics/deployment-strategies.md#zero-downtime-deployments) — 2026-07-28
 - [Explain your rollback strategy during production deployments.](../topics/deployment-strategies.md#explain-your-rollback-strategy-during-production-deployments) — 2026-07-27
 - [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — 2026-07-27 · tags: `Blue-Green`, `Canary`
 - [Blue-Green & Canary deployments](../topics/deployment-strategies.md#blue-green-canary-deployments) — 2026-07-26 · tags: `Blue-Green`, `Canary`
@@ -141,9 +161,12 @@
 | [Explain your rollback strategy during production deployments.](../topics/deployment-strategies.md#explain-your-rollback-strategy-during-production-deployments) | Hard | 2 |
 | [How do you design a rollback strategy for a failed production deployment?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) | Hard | 1 |
 | [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production) | Hard | 2 |
+| [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) | Medium | 1 |
 | [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) | Medium | 2 |
 | [How would you implement a reliable rollback strategy?](../topics/deployment-strategies.md#how-would-you-implement-a-reliable-rollback-strategy) | Hard | 1 |
+| [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) | Easy | 1 |
 | [You must migrate a business-critical platform across clouds with zero downtime. What is your strategy?](../topics/deployment-strategies.md#you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w) | Medium | 1 |
+| [Zero-downtime deployments](../topics/deployment-strategies.md#zero-downtime-deployments) | Medium | 1 |
 
 ## Learning resources
 

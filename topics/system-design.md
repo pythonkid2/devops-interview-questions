@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **System Design**
 
-**18** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**20** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 18 |
-| Easy / Medium / Hard | 0 / 7 / 11 |
+| Questions | 20 |
+| Easy / Medium / Hard | 0 / 7 / 13 |
 | Companies | 3 |
 
 ## Most asked
@@ -61,6 +61,10 @@
   <a id="how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications"></a>
 - [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) — **1×** · Medium
   <a id="scalability-vs-elasticity"></a>
+- [System Design](../topics/system-design.md#system-design) — **1×** · Hard
+  <a id="system-design"></a>
+- [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — **1×** · Hard
+  <a id="understand-trade-offs-across-architecture-and-operations"></a>
 - [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) — **1×** · Medium
   <a id="what-s-the-difference-between-scalability-and-elasticity"></a>
 
@@ -109,6 +113,10 @@ _None in this band yet._
   <a id="how-would-you-design-a-highly-available-and-scalable-devops-platform"></a>
 - [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications) — 1×
   <a id="how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications"></a>
+- [System Design](../topics/system-design.md#system-design) — 1×
+  <a id="system-design"></a>
+- [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — 1×
+  <a id="understand-trade-offs-across-architecture-and-operations"></a>
 
 ## By interview round
 
@@ -136,6 +144,8 @@ _None in this band yet._
 - [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications)
 - [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices)
 - [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity)
+- [System Design](../topics/system-design.md#system-design)
+- [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations)
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar)
 - [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity)
 
@@ -147,6 +157,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [System Design](../topics/system-design.md#system-design) — 2026-07-28
+- [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — 2026-07-28
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — 2026-07-27
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) — 2026-07-27
 - [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) — 2026-07-26
@@ -160,8 +172,6 @@ _None in this band yet._
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) — 2026-07-17
 - [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — 2026-07-17
 - [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) — 2026-07-17
-- [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — 2026-07-16
-- [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — 2026-07-15
 
 ## Related topics
 
@@ -188,6 +198,8 @@ _None in this band yet._
 | [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications) | Hard | 1 |
 | [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) | Hard | 5 |
 | [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) | Medium | 1 |
+| [System Design](../topics/system-design.md#system-design) | Hard | 1 |
+| [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) | Hard | 1 |
 | [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) | Medium | 2 |
 | [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) | Medium | 1 |
 

@@ -6,32 +6,101 @@
 
 | Metric | Value |
 | --- | ---: |
-| Questions | 8 |
-| Topics covered | 4 |
+| Questions | 38 |
+| Topics covered | 16 |
 
 ## Topics asked
 
-- [Terraform](../topics/terraform.md) — 5
+- [General](../topics/general.md) — 10
+- [Terraform](../topics/terraform.md) — 7
+- [AWS](../topics/aws.md) — 4
+- [Kubernetes](../topics/kubernetes.md) — 4
+- [Disaster Recovery](../topics/disaster-recovery.md) — 2
+- [CI/CD](../topics/ci-cd.md) — 1
+- [Deployment Strategies](../topics/deployment-strategies.md) — 1
 - [GitHub Actions](../topics/github-actions.md) — 1
+- [IAM](../topics/iam.md) — 1
+- [Incident Response](../topics/incident-response.md) — 1
+- [Ingress](../topics/ingress.md) — 1
 - [Jenkins](../topics/jenkins.md) — 1
-- [Kubernetes](../topics/kubernetes.md) — 1
+- [Load Balancing](../topics/load-balancing.md) — 1
+- [Monitoring](../topics/monitoring.md) — 1
+- [Networking](../topics/networking.md) — 1
+- [Storage](../topics/storage.md) — 1
 
 ## Most repeated
 
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 6× · Terraform
 - [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — 4× · Terraform
 - [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 4× · GitHub Actions
+- [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 3× · Kubernetes
+- [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — 3× · General
 - [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2× · Jenkins
 - [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — 2× · Kubernetes
+- [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2× · Kubernetes · tags: `AWS`
 - [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — 2× · Terraform
 - [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — 2× · Terraform
+- [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) — 2× · Kubernetes
 - [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — 2× · Terraform
+- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/general.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — 1× · General
+- [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 1× · Incident Response
+- [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 1× · Monitoring
+- [Explain how Auto Scaling works in AWS.](../topics/aws.md#explain-how-auto-scaling-works-in-aws) — 1× · AWS
+- [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — 1× · Ingress
+- [Explain Terraform modules and workspaces.](../topics/terraform.md#explain-terraform-modules-and-workspaces) — 1× · Terraform
+- [Explain the EBS volume types and their use cases.](../topics/storage.md#explain-the-ebs-volume-types-and-their-use-cases) — 1× · Storage
+- [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) — 1× · CI/CD
 
 ## By topic
+
+### AWS
+
+- [Explain how Auto Scaling works in AWS.](../topics/aws.md#explain-how-auto-scaling-works-in-aws) — Medium
+- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — Medium
+- [How would you optimize AWS costs without impacting performance?](../topics/aws.md#how-would-you-optimize-aws-costs-without-impacting-performance) — Medium
+- [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance) — Medium
+
+### CI/CD
+
+- [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) — Medium
+
+### Deployment Strategies
+
+- [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — Medium · tags: `Blue-Green`, `Canary`
+
+### Disaster Recovery
+
+- [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — Medium · tags: `High Availability`, `AWS`
+- [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) — Medium · tags: `DNS`
+
+### General
+
+- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/general.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — Hard
+- [How do readiness and liveness probes work?](../topics/general.md#how-do-readiness-and-liveness-probes-work) — Medium
+- [How do you centralize application logs?](../topics/general.md#how-do-you-centralize-application-logs) — Medium
+- [How do you detect and prevent configuration drift?](../topics/general.md#how-do-you-detect-and-prevent-configuration-drift) — Medium
+- [How do you handle rollback if a deployment fails?](../topics/general.md#how-do-you-handle-rollback-if-a-deployment-fails) — Medium
+- [How do you manage remote state?](../topics/general.md#how-do-you-manage-remote-state) — Medium
+- [How would you deploy the same application to multiple environments?](../topics/general.md#how-would-you-deploy-the-same-application-to-multiple-environments) — Medium
+- [How would you reduce deployment downtime for a critical application?](../topics/general.md#how-would-you-reduce-deployment-downtime-for-a-critical-application) — Medium
+- [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — Easy
+- [What are Security Groups and Network ACLs? How do they differ?](../topics/general.md#what-are-security-groups-and-network-acls-how-do-they-differ) — Easy
 
 ### GitHub Actions
 
 - [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — Medium
+
+### IAM
+
+- [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — Easy
+
+### Incident Response
+
+- [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — Hard
+
+### Ingress
+
+- [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — Medium
 
 ### Jenkins
 
@@ -40,28 +109,52 @@
 ### Kubernetes
 
 - [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — Medium
+- [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — Medium · tags: `AWS`
+- [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — Medium
+- [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) — Easy
+
+### Load Balancing
+
+- [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo-1) — Medium
+
+### Monitoring
+
+- [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — Medium
+
+### Networking
+
+- [What is the difference between NAT Gateway and Internet Gateway?](../topics/networking.md#what-is-the-difference-between-nat-gateway-and-internet-gateway) — Easy
+
+### Storage
+
+- [Explain the EBS volume types and their use cases.](../topics/storage.md#explain-the-ebs-volume-types-and-their-use-cases) — Medium
 
 ### Terraform
 
+- [Explain Terraform modules and workspaces.](../topics/terraform.md#explain-terraform-modules-and-workspaces) — Medium
 - [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — Medium
 - [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — Hard
+- [What are Terraform state files, and why are they important?](../topics/terraform.md#what-are-terraform-state-files-and-why-are-they-important) — Easy
 - [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — Medium
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — Medium
 - [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — Medium
 
 ## Interview rounds
 
+- Unspecified — 30
 - Technical — 8
 
 ## Recently added
 
-- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 2026-07-26
-- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-26
-- [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — 2026-07-26
-- [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — 2026-07-18
-- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2026-07-18
-- [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — 2026-07-18
-- [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — 2026-07-18
-- [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — 2026-07-18
+- [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 2026-07-28
+- [How would you optimize AWS costs without impacting performance?](../topics/aws.md#how-would-you-optimize-aws-costs-without-impacting-performance) — 2026-07-28
+- [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — 2026-07-28 · tags: `High Availability`, `AWS`
+- [How would you reduce deployment downtime for a critical application?](../topics/general.md#how-would-you-reduce-deployment-downtime-for-a-critical-application) — 2026-07-28
+- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/general.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — 2026-07-28
+- [How do you centralize application logs?](../topics/general.md#how-do-you-centralize-application-logs) — 2026-07-28
+- [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 2026-07-28
+- [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance) — 2026-07-28
+- [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2026-07-28 · tags: `AWS`
+- [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — 2026-07-28
 
 [← All companies](./README.md) · [Home](../README.md)

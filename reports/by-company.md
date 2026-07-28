@@ -4,22 +4,22 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1311 |
+| [Unknown Company](../companies/unknown-company.md) | 1342 |
 | [Mphasis](../companies/mphasis.md) | 43 |
+| [TCS](../companies/tcs.md) | 38 |
 | [Accenture](../companies/accenture.md) | 32 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
 | [Deloitte](../companies/deloitte.md) | 25 |
 | [Global Payments](../companies/global-payments.md) | 23 |
+| [Infosys](../companies/infosys.md) | 23 |
 | [Elite Code Technologies](../companies/elite-code-technologies.md) | 21 |
 | [PwC](../companies/pwc.md) | 13 |
 | [SpaceTech Inc.](../companies/spacetech-inc.md) | 13 |
-| [Infosys](../companies/infosys.md) | 12 |
 | [NVIDIA](../companies/nvidia.md) | 11 |
 | [Wipro](../companies/wipro.md) | 11 |
 | [Argyll Infotech](../companies/argyll-infotech.md) | 10 |
 | [DBS Bank](../companies/dbs-bank.md) | 10 |
-| [TCS](../companies/tcs.md) | 8 |
 | [zemoso technologies](../companies/zemoso-technologies.md) | 8 |
 | [DEVYNTECH](../companies/devyntech.md) | 7 |
 | [EY](../companies/ey.md) | 7 |

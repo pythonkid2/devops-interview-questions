@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**82** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**84** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 82 |
-| Easy / Medium / Hard | 2 / 74 / 6 |
+| Questions | 84 |
+| Easy / Medium / Hard | 2 / 76 / 6 |
 | Companies | 6 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process"></a>
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — **2×** · Medium
   <a id="a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo"></a>
+- [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — **2×** · Medium
+  <a id="describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes"></a>
 - [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — **2×** · Medium
   <a id="explain-a-jenkins-pipeline-and-its-stages"></a>
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — **2×** · Medium · tags: `CI/CD`
@@ -75,8 +77,6 @@
   <a id="the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first"></a>
 - [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — **2×** · Medium
   <a id="walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi"></a>
-- [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — **2×** · Medium · tags: `CI/CD`
-  <a id="walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in"></a>
 
 ## Beginner
 
@@ -101,6 +101,8 @@
   <a id="a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process"></a>
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — 2×
   <a id="a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo"></a>
+- [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — 2×
+  <a id="describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes"></a>
 - [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2×
   <a id="explain-a-jenkins-pipeline-and-its-stages"></a>
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — 2× · tags: `CI/CD`
@@ -215,6 +217,8 @@
   <a id="jenkins-pipeline-automation"></a>
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 1× · tags: `CI/CD`
   <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
+- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 1× · tags: `GitHub Actions`
+  <a id="jenkins-github-actions"></a>
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 1× · tags: `AWS`
   <a id="launch-jenkins-on-an-ec2-instance"></a>
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 1×
@@ -278,6 +282,7 @@
 - [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — tags: `CI/CD`
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo)
 - [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) — tags: `Shell Scripting`
+- [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes)
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — tags: `CI/CD`
 - [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) — tags: `CI/CD`
 - [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture)
@@ -313,6 +318,7 @@
 - [Jenkins](../topics/jenkins.md#jenkins)
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — tags: `CI/CD`
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — tags: `CI/CD`
+- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — tags: `GitHub Actions`
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — tags: `AWS`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it)
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — tags: `Git`
@@ -355,6 +361,8 @@
 
 ## Recently added
 
+- [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — 2026-07-28
+- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2026-07-28 · tags: `GitHub Actions`
 - [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) — 2026-07-27
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 2026-07-27 · tags: `AWS`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-26
@@ -368,8 +376,6 @@
 - [A Jenkins agent frequently goes offline during deployments. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble) — 2026-07-26
 - [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — 2026-07-26
 - [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — 2026-07-26 · tags: `CI/CD`
-- [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — 2026-07-26 · tags: `CI/CD`
-- [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — 2026-07-21 · tags: `CI/CD`
 
 ## Related topics
 
@@ -392,6 +398,7 @@
 | [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) | Medium | 1 |
 | [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) | Medium | 2 |
 | [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) | Medium | 1 |
+| [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) | Medium | 2 |
 | [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) | Medium | 2 |
 | [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) | Medium | 2 |
 | [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) | Medium | 2 |
@@ -433,6 +440,7 @@
 | [Jenkins](../topics/jenkins.md#jenkins) | Medium | 1 |
 | [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) | Medium | 1 |
 | [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) | Medium | 1 |
+| [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) | Medium | 1 |
 | [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) | Medium | 1 |
 | [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) | Medium | 1 |
 | [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) | Medium | 1 |

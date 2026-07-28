@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Incident Response**
 
-**26** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**27** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 26 |
-| Easy / Medium / Hard | 0 / 11 / 15 |
-| Companies | 1 |
+| Questions | 27 |
+| Easy / Medium / Hard | 0 / 11 / 16 |
+| Companies | 2 |
 
 ## Most asked
 
@@ -43,6 +43,8 @@
   <a id="a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust"></a>
 - [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) — **1×** · Medium · tags: `Kubernetes`
   <a id="any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and"></a>
+- [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — **1×** · Hard
+  <a id="describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro"></a>
 - [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) — **1×** · Hard
   <a id="describe-a-production-incident-you-handled-from-detection-to-resolution"></a>
 - [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) — **1×** · Hard
@@ -75,8 +77,6 @@
   <a id="walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do"></a>
 - [Which 10 executive KPIs would you present monthly to measure platform reliability, deployment frequency, MTTR, change failure rate, cloud cost efficiency, infrastructure utilization, developer productivity, and SLA compliance?](../topics/incident-response.md#which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit) — **1×** · Medium
   <a id="which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit"></a>
-- [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you) — **1×** · Medium
-  <a id="you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you"></a>
 
 ## Beginner
 
@@ -117,6 +117,8 @@ _None in this band yet._
   <a id="a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill"></a>
 - [A failed production deployment across 1,200 microservices impacts 35 million customers within 30 minutes. What would be your incident response, rollback, and recovery strategy?](../topics/incident-response.md#a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust) — 1×
   <a id="a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust"></a>
+- [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 1×
+  <a id="describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro"></a>
 - [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) — 1×
   <a id="describe-a-production-incident-you-handled-from-detection-to-resolution"></a>
 - [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) — 1×
@@ -147,6 +149,7 @@ _None in this band yet._
 - [A critical production deployment fails during a global release, affecting 80 million users and resulting in an estimated ₹350 Crore business impact. How would you investigate the root cause, coordinate incident response, perform rollback or recovery, and implement preventive controls to eliminate similar failures in future releases?](../topics/incident-response.md#a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill)
 - [A failed production deployment across 1,200 microservices impacts 35 million customers within 30 minutes. What would be your incident response, rollback, and recovery strategy?](../topics/incident-response.md#a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust)
 - [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) — tags: `Kubernetes`
+- [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro)
 - [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution)
 - [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r)
 - [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it)
@@ -174,9 +177,11 @@ _None in this band yet._
 ## Companies asking
 
 - [Elite Code Technologies](../companies/elite-code-technologies.md)
+- [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 2026-07-28
 - [Walk me through a production incident you personally handled — what was your role?](../topics/incident-response.md#walk-me-through-a-production-incident-you-personally-handled-what-was-your-role) — 2026-07-27
 - [Which 10 executive KPIs would you present monthly to measure platform reliability, deployment frequency, MTTR, change failure rate, cloud cost efficiency, infrastructure utilization, developer productivity, and SLA compliance?](../topics/incident-response.md#which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit) — 2026-07-27
 - [The Board approves a ₹600 Crore Cloud, AI, and Platform Engineering Transformation with an expectation of 50% faster deployments and 70% reduction in MTTR within 18 months. What execution strategy would you recommend?](../topics/incident-response.md#the-board-approves-a-600-crore-cloud-ai-and-platform-engineering-transformation-) — 2026-07-27
@@ -191,7 +196,6 @@ _None in this band yet._
 - [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident) — 2026-07-26
 - [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) — 2026-07-26
 - [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident) — 2026-07-26
-- [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) — 2026-07-26
 
 ## Related topics
 
@@ -210,6 +214,7 @@ _None in this band yet._
 | [A critical production deployment fails during a global release, affecting 80 million users and resulting in an estimated ₹350 Crore business impact. How would you investigate the root cause, coordinate incident response, perform rollback or recovery, and implement preventive controls to eliminate similar failures in future releases?](../topics/incident-response.md#a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill) | Hard | 1 |
 | [A failed production deployment across 1,200 microservices impacts 35 million customers within 30 minutes. What would be your incident response, rollback, and recovery strategy?](../topics/incident-response.md#a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust) | Hard | 1 |
 | [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) | Medium | 1 |
+| [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) | Hard | 1 |
 | [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) | Hard | 1 |
 | [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) | Hard | 1 |
 | [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) | Medium | 2 |

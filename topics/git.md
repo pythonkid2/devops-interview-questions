@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Git**
 
-**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**18** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 17 |
-| Easy / Medium / Hard | 5 / 12 / 0 |
-| Companies | 0 |
+| Questions | 18 |
+| Easy / Medium / Hard | 5 / 13 / 0 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -43,6 +43,8 @@
   <a id="git-branching-merge-rebase-strategies"></a>
 - [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) — **1×** · Medium
   <a id="git-deep-concepts-merge-vs-rebase-rebase-squash"></a>
+- [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) — **1×** · Medium
+  <a id="git-error-not-a-git-repository-during-pull-how-to-fix"></a>
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — **1×** · Medium
   <a id="git-fetch-vs-git-pull"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — **1×** · Medium
@@ -85,6 +87,8 @@
   <a id="git-branching-merge-rebase-strategies"></a>
 - [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) — 1×
   <a id="git-deep-concepts-merge-vs-rebase-rebase-squash"></a>
+- [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) — 1×
+  <a id="git-error-not-a-git-repository-during-pull-how-to-fix"></a>
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — 1×
   <a id="git-fetch-vs-git-pull"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — 1×
@@ -114,6 +118,7 @@ _None in this band yet._
 - [Git & GitHub](../topics/git.md#git-github)
 - [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies)
 - [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash)
+- [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix)
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull)
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies)
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git)
@@ -130,10 +135,11 @@ _None in this band yet._
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Infosys](../companies/infosys.md)
 
 ## Recently added
 
+- [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) — 2026-07-28
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — 2026-07-27
 - [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) — 2026-07-26
 - [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 2026-07-26
@@ -148,7 +154,6 @@ _None in this band yet._
 - [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — 2026-07-17
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — 2026-07-17
 - [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — 2026-07-17
-- [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — 2026-07-17
 
 ## Related topics
 
@@ -162,6 +167,7 @@ _None in this band yet._
 | [Git & GitHub](../topics/git.md#git-github) | Medium | 1 |
 | [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) | Medium | 1 |
 | [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) | Medium | 1 |
+| [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) | Medium | 1 |
 | [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) | Medium | 1 |
 | [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) | Medium | 1 |
 | [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) | Medium | 1 |
