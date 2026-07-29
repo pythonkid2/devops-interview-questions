@@ -30,7 +30,7 @@
 
 ## Most repeated
 
-- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 6× · Terraform
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 7× · Terraform
 - [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — 4× · Terraform
 - [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 4× · GitHub Actions
 - [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 3× · Kubernetes
@@ -146,6 +146,7 @@
 
 ## Recently added
 
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-29
 - [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 2026-07-28
 - [How would you optimize AWS costs without impacting performance?](../topics/aws.md#how-would-you-optimize-aws-costs-without-impacting-performance) — 2026-07-28
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — 2026-07-28 · tags: `High Availability`, `AWS`
@@ -155,6 +156,5 @@
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 2026-07-28
 - [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance) — 2026-07-28
 - [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2026-07-28 · tags: `AWS`
-- [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — 2026-07-28
 
 [← All companies](./README.md) · [Home](../README.md)

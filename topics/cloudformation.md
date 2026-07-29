@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **CloudFormation**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,18 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 1 / 1 / 0 |
-| Companies | 0 |
+| Questions | 5 |
+| Easy / Medium / Hard | 1 / 3 / 1 |
+| Companies | 1 |
 
 ## Most asked
 
+- [A CloudFormation stack update fails after creating some resources, while other resources are still in the previous state. How would you safely investigate and recover it?](../topics/cloudformation.md#a-cloudformation-stack-update-fails-after-creating-some-resources-while-other-re) — **1×** · Medium
+  <a id="a-cloudformation-stack-update-fails-after-creating-some-resources-while-other-re"></a>
+- [A CloudFormation template works in Dev but fails in Production because of environment-specific values. How would you structure the template to avoid hardcoding?](../topics/cloudformation.md#a-cloudformation-template-works-in-dev-but-fails-in-production-because-of-enviro) — **1×** · Hard
+  <a id="a-cloudformation-template-works-in-dev-but-fails-in-production-because-of-enviro"></a>
+- [An AWS resource was manually modified outside CloudFormation. How would you detect and handle this configuration drift?](../topics/cloudformation.md#an-aws-resource-was-manually-modified-outside-cloudformation-how-would-you-detec) — **1×** · Medium · tags: `AWS`
+  <a id="an-aws-resource-was-manually-modified-outside-cloudformation-how-would-you-detec"></a>
 - [CloudFormation](../topics/cloudformation.md#cloudformation) — **1×** · Medium
   <a id="cloudformation"></a>
 - [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with) — **1×** · Easy
@@ -39,26 +45,37 @@
 
 ## Intermediate
 
+- [A CloudFormation stack update fails after creating some resources, while other resources are still in the previous state. How would you safely investigate and recover it?](../topics/cloudformation.md#a-cloudformation-stack-update-fails-after-creating-some-resources-while-other-re) — 1×
+  <a id="a-cloudformation-stack-update-fails-after-creating-some-resources-while-other-re"></a>
+- [An AWS resource was manually modified outside CloudFormation. How would you detect and handle this configuration drift?](../topics/cloudformation.md#an-aws-resource-was-manually-modified-outside-cloudformation-how-would-you-detec) — 1× · tags: `AWS`
+  <a id="an-aws-resource-was-manually-modified-outside-cloudformation-how-would-you-detec"></a>
 - [CloudFormation](../topics/cloudformation.md#cloudformation) — 1×
   <a id="cloudformation"></a>
 
 ## Advanced
 
-_None in this band yet._
+- [A CloudFormation template works in Dev but fails in Production because of environment-specific values. How would you structure the template to avoid hardcoding?](../topics/cloudformation.md#a-cloudformation-template-works-in-dev-but-fails-in-production-because-of-enviro) — 1×
+  <a id="a-cloudformation-template-works-in-dev-but-fails-in-production-because-of-enviro"></a>
 
 ## By interview round
 
 ### Unspecified
 
+- [A CloudFormation stack update fails after creating some resources, while other resources are still in the previous state. How would you safely investigate and recover it?](../topics/cloudformation.md#a-cloudformation-stack-update-fails-after-creating-some-resources-while-other-re)
+- [A CloudFormation template works in Dev but fails in Production because of environment-specific values. How would you structure the template to avoid hardcoding?](../topics/cloudformation.md#a-cloudformation-template-works-in-dev-but-fails-in-production-because-of-enviro)
+- [An AWS resource was manually modified outside CloudFormation. How would you detect and handle this configuration drift?](../topics/cloudformation.md#an-aws-resource-was-manually-modified-outside-cloudformation-how-would-you-detec) — tags: `AWS`
 - [CloudFormation](../topics/cloudformation.md#cloudformation)
 - [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with)
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [L&T Technology Services](../companies/l-t-technology-services.md)
 
 ## Recently added
 
+- [An AWS resource was manually modified outside CloudFormation. How would you detect and handle this configuration drift?](../topics/cloudformation.md#an-aws-resource-was-manually-modified-outside-cloudformation-how-would-you-detec) — 2026-07-29 · tags: `AWS`
+- [A CloudFormation template works in Dev but fails in Production because of environment-specific values. How would you structure the template to avoid hardcoding?](../topics/cloudformation.md#a-cloudformation-template-works-in-dev-but-fails-in-production-because-of-enviro) — 2026-07-29
+- [A CloudFormation stack update fails after creating some resources, while other resources are still in the previous state. How would you safely investigate and recover it?](../topics/cloudformation.md#a-cloudformation-stack-update-fails-after-creating-some-resources-while-other-re) — 2026-07-29
 - [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with) — 2026-07-28
 - [CloudFormation](../topics/cloudformation.md#cloudformation) — 2026-07-26
 
@@ -72,6 +89,9 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [A CloudFormation stack update fails after creating some resources, while other resources are still in the previous state. How would you safely investigate and recover it?](../topics/cloudformation.md#a-cloudformation-stack-update-fails-after-creating-some-resources-while-other-re) | Medium | 1 |
+| [A CloudFormation template works in Dev but fails in Production because of environment-specific values. How would you structure the template to avoid hardcoding?](../topics/cloudformation.md#a-cloudformation-template-works-in-dev-but-fails-in-production-because-of-enviro) | Hard | 1 |
+| [An AWS resource was manually modified outside CloudFormation. How would you detect and handle this configuration drift?](../topics/cloudformation.md#an-aws-resource-was-manually-modified-outside-cloudformation-how-would-you-detec) | Medium | 1 |
 | [CloudFormation](../topics/cloudformation.md#cloudformation) | Medium | 1 |
 | [What are the basics of SAM and CloudFormation that you are familiar with?](../topics/cloudformation.md#what-are-the-basics-of-sam-and-cloudformation-that-you-are-familiar-with) | Easy | 1 |
 

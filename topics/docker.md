@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**100** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**101** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,16 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 100 |
-| Easy / Medium / Hard | 30 / 66 / 4 |
-| Companies | 2 |
+| Questions | 101 |
+| Easy / Medium / Hard | 30 / 67 / 4 |
+| Companies | 3 |
 
 ## Most asked
 
+- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — **6×** · Easy
+  <a id="difference-between-cmd-and-entrypoint"></a>
 - [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — **6×** · Medium
   <a id="what-is-the-difference-between-cmd-and-entrypoint"></a>
-- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — **5×** · Easy
-  <a id="difference-between-cmd-and-entrypoint"></a>
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — **5×** · Medium
   <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — **4×** · Medium
@@ -43,6 +43,8 @@
   <a id="a-docker-container-works-locally-but-fails-in-production-why"></a>
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) — **2×** · Easy
   <a id="a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay"></a>
+- [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — **2×** · Medium
+  <a id="container-restarted-and-data-got-lost-how-do-you-fix-it"></a>
 - [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy) — **2×** · Medium
   <a id="difference-between-add-and-copy"></a>
 - [Docker architectures](../topics/docker.md#docker-architectures) — **2×** · Medium
@@ -71,16 +73,14 @@
   <a id="what-are-common-docker-commands"></a>
 - [What are Docker volumes used for?](../topics/docker.md#what-are-docker-volumes-used-for) — **2×** · Easy
   <a id="what-are-docker-volumes-used-for"></a>
+- [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) — **2×** · Easy
+  <a id="what-are-the-3-types-of-docker-volumes"></a>
 - [What are the benefits of containerization in Microservices architecture?](../topics/docker.md#what-are-the-benefits-of-containerization-in-microservices-architecture) — **2×** · Medium
   <a id="what-are-the-benefits-of-containerization-in-microservices-architecture"></a>
-- [What happens in each stage of a Docker build and why do ENTRYPOINT and CMD matter?](../topics/docker.md#what-happens-in-each-stage-of-a-docker-build-and-why-do-entrypoint-and-cmd-matte) — **2×** · Medium
-  <a id="what-happens-in-each-stage-of-a-docker-build-and-why-do-entrypoint-and-cmd-matte"></a>
-- [What is a Docker container?](../topics/docker.md#what-is-a-docker-container) — **2×** · Easy
-  <a id="what-is-a-docker-container"></a>
 
 ## Beginner
 
-- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 5×
+- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 6×
   <a id="difference-between-cmd-and-entrypoint"></a>
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) — 2×
   <a id="a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay"></a>
@@ -90,6 +90,8 @@
   <a id="what-are-common-docker-commands"></a>
 - [What are Docker volumes used for?](../topics/docker.md#what-are-docker-volumes-used-for) — 2×
   <a id="what-are-docker-volumes-used-for"></a>
+- [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) — 2×
+  <a id="what-are-the-3-types-of-docker-volumes"></a>
 - [What is a Docker container?](../topics/docker.md#what-is-a-docker-container) — 2×
   <a id="what-is-a-docker-container"></a>
 - [What is a Docker image?](../topics/docker.md#what-is-a-docker-image) — 2×
@@ -118,8 +120,6 @@
   <a id="what-are-multi-stage-docker-builds-and-why-are-they-important"></a>
 - [What are multi-stage Docker builds?](../topics/docker.md#what-are-multi-stage-docker-builds) — 1×
   <a id="what-are-multi-stage-docker-builds"></a>
-- [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) — 1×
-  <a id="what-are-the-3-types-of-docker-volumes"></a>
 - [What is a Dockerfile and how do you create one?](../topics/docker.md#what-is-a-dockerfile-and-how-do-you-create-one) — 1×
   <a id="what-is-a-dockerfile-and-how-do-you-create-one"></a>
 - [What is a multi-stage Docker build?](../topics/docker.md#what-is-a-multi-stage-docker-build) — 1×
@@ -155,6 +155,8 @@
   <a id="a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou"></a>
 - [A Docker container works locally but fails in production. Why?](../topics/docker.md#a-docker-container-works-locally-but-fails-in-production-why) — 2×
   <a id="a-docker-container-works-locally-but-fails-in-production-why"></a>
+- [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — 2×
+  <a id="container-restarted-and-data-got-lost-how-do-you-fix-it"></a>
 - [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy) — 2×
   <a id="difference-between-add-and-copy"></a>
 - [Docker architectures](../topics/docker.md#docker-architectures) — 2×
@@ -197,8 +199,6 @@
   <a id="can-you-write-a-multi-stage-dockerfile"></a>
 - [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) — 1×
   <a id="can-you-write-a-simple-docker-file"></a>
-- [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — 1×
-  <a id="container-restarted-and-data-got-lost-how-do-you-fix-it"></a>
 - [Docker](../topics/docker.md#docker) — 1×
   <a id="docker"></a>
 - [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) — 1×
@@ -269,6 +269,8 @@
   <a id="what-is-docker-networking"></a>
 - [What is the difference between COPY and ADD?](../topics/docker.md#what-is-the-difference-between-copy-and-add) — 1×
   <a id="what-is-the-difference-between-copy-and-add"></a>
+- [Which Docker base image did you use for your application and why?](../topics/docker.md#which-docker-base-image-did-you-use-for-your-application-and-why) — 1×
+  <a id="which-docker-base-image-did-you-use-for-your-application-and-why"></a>
 - [Why should containers not run as the root user?](../topics/docker.md#why-should-containers-not-run-as-the-root-user) — 1×
   <a id="why-should-containers-not-run-as-the-root-user"></a>
 - [Write the docker file to create a httpd container and copy a config file and place in container and that config file data should be shown when the container port and IP address is hit.](../topics/docker.md#write-the-docker-file-to-create-a-httpd-container-and-copy-a-config-file-and-pla) — 1×
@@ -388,6 +390,7 @@
 - [What problem does Docker solve?](../topics/docker.md#what-problem-does-docker-solve)
 - [What's the difference between Docker and a virtual machine?](../topics/docker.md#what-s-the-difference-between-docker-and-a-virtual-machine)
 - [Which container registry do you trust for your images?](../topics/docker.md#which-container-registry-do-you-trust-for-your-images)
+- [Which Docker base image did you use for your application and why?](../topics/docker.md#which-docker-base-image-did-you-use-for-your-application-and-why)
 - [Why should containers not run as the root user?](../topics/docker.md#why-should-containers-not-run-as-the-root-user)
 - [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy)
 - [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction)
@@ -398,10 +401,15 @@
 ## Companies asking
 
 - [Accenture](../companies/accenture.md)
+- [Capgemini](../companies/capgemini.md)
 - [Deloitte](../companies/deloitte.md)
 
 ## Recently added
 
+- [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — 2026-07-29
+- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 2026-07-29
+- [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) — 2026-07-29
+- [Which Docker base image did you use for your application and why?](../topics/docker.md#which-docker-base-image-did-you-use-for-your-application-and-why) — 2026-07-29
 - [Docker networking](../topics/docker.md#docker-networking) — 2026-07-29
 - [Can you write a command to add volume or bind mount in container](../topics/docker.md#can-you-write-a-command-to-add-volume-or-bind-mount-in-container) — 2026-07-27
 - [What is the command to run a container](../topics/docker.md#what-is-the-command-to-run-a-container) — 2026-07-27
@@ -409,14 +417,10 @@
 - [How does docker provide isolation?](../topics/docker.md#how-does-docker-provide-isolation) — 2026-07-27
 - [Can you explain how Docker works?](../topics/docker.md#can-you-explain-how-docker-works) — 2026-07-27
 - [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 2026-07-26
-- [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — 2026-07-26
-- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 2026-07-26
-- [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) — 2026-07-26
 - [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) — 2026-07-26
 - [Docker](../topics/docker.md#docker) — 2026-07-26
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2026-07-26
 - [How do you inject environment variables during Docker builds and where do you store images?](../topics/docker.md#how-do-you-inject-environment-variables-during-docker-builds-and-where-do-you-st) — 2026-07-26
-- [Which container registry do you trust for your images?](../topics/docker.md#which-container-registry-do-you-trust-for-your-images) — 2026-07-26
 
 ## Related topics
 
@@ -439,9 +443,9 @@
 | [Can you write a command to add volume or bind mount in container](../topics/docker.md#can-you-write-a-command-to-add-volume-or-bind-mount-in-container) | Medium | 1 |
 | [Can you write a multi-stage Dockerfile?](../topics/docker.md#can-you-write-a-multi-stage-dockerfile) | Medium | 1 |
 | [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) | Medium | 1 |
-| [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) | Medium | 1 |
+| [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) | Medium | 2 |
 | [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy) | Medium | 2 |
-| [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Easy | 5 |
+| [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Easy | 6 |
 | [Docker](../topics/docker.md#docker) | Medium | 1 |
 | [Docker architectures](../topics/docker.md#docker-architectures) | Medium | 2 |
 | [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) | Medium | 1 |
@@ -495,7 +499,7 @@
 | [What are Dockerfile best practices?](../topics/docker.md#what-are-dockerfile-best-practices) | Easy | 1 |
 | [What are Multi-Stage Docker Builds and why are they important?](../topics/docker.md#what-are-multi-stage-docker-builds-and-why-are-they-important) | Easy | 1 |
 | [What are multi-stage Docker builds?](../topics/docker.md#what-are-multi-stage-docker-builds) | Easy | 1 |
-| [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) | Easy | 1 |
+| [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) | Easy | 2 |
 | [What are the benefits of containerization in Microservices architecture?](../topics/docker.md#what-are-the-benefits-of-containerization-in-microservices-architecture) | Medium | 2 |
 | [What best practices do you follow while writing a production-ready Dockerfile?](../topics/docker.md#what-best-practices-do-you-follow-while-writing-a-production-ready-dockerfile) | Medium | 1 |
 | [What happens in each stage of a Docker build and why do ENTRYPOINT and CMD matter?](../topics/docker.md#what-happens-in-each-stage-of-a-docker-build-and-why-do-entrypoint-and-cmd-matte) | Medium | 2 |
@@ -524,6 +528,7 @@
 | [What problem does Docker solve?](../topics/docker.md#what-problem-does-docker-solve) | Easy | 1 |
 | [What's the difference between Docker and a virtual machine?](../topics/docker.md#what-s-the-difference-between-docker-and-a-virtual-machine) | Easy | 1 |
 | [Which container registry do you trust for your images?](../topics/docker.md#which-container-registry-do-you-trust-for-your-images) | Medium | 2 |
+| [Which Docker base image did you use for your application and why?](../topics/docker.md#which-docker-base-image-did-you-use-for-your-application-and-why) | Medium | 1 |
 | [Why should containers not run as the root user?](../topics/docker.md#why-should-containers-not-run-as-the-root-user) | Medium | 1 |
 | [Why use COPY app.jar app.jar instead of COPY . .?](../topics/docker.md#why-use-copy-app-jar-app-jar-instead-of-copy) | Medium | 2 |
 | [Write a simple Dockerfile and explain each instruction.](../topics/docker.md#write-a-simple-dockerfile-and-explain-each-instruction) | Medium | 2 |

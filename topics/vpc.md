@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **VPC**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 3 / 3 / 0 |
+| Questions | 7 |
+| Easy / Medium / Hard | 3 / 4 / 0 |
 | Companies | 0 |
 
 ## Most asked
@@ -39,6 +39,8 @@
   <a id="suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar"></a>
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — **1×** · Easy
   <a id="what-are-the-difference-between-these-two-private-and-public-subnet"></a>
+- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — **1×** · Medium
+  <a id="what-we-actually-do-in-vpc-peering"></a>
 
 ## Beginner
 
@@ -57,6 +59,8 @@
   <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
 - [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — 1×
   <a id="suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar"></a>
+- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — 1×
+  <a id="what-we-actually-do-in-vpc-peering"></a>
 
 ## Advanced
 
@@ -72,6 +76,7 @@ _None in this band yet._
 - [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet)
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet)
 - [What is VPC?](../topics/vpc.md#what-is-vpc)
+- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering)
 
 ## Companies asking
 
@@ -79,6 +84,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — 2026-07-29
 - [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — 2026-07-27
 - [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet) — 2026-07-26
 - [What is VPC?](../topics/vpc.md#what-is-vpc) — 2026-07-18
@@ -106,6 +112,7 @@ _None in this band yet._
 | [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet) | Easy | 2 |
 | [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) | Easy | 1 |
 | [What is VPC?](../topics/vpc.md#what-is-vpc) | Easy | 2 |
+| [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) | Medium | 1 |
 
 ## Learning resources
 

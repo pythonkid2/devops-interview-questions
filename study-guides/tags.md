@@ -8,12 +8,12 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 | Tag | Questions |
 | --- | ---: |
-| `CI/CD` | 25 |
-| `Azure` | 24 |
-| `AWS` | 23 |
+| `AWS` | 26 |
+| `CI/CD` | 26 |
+| `Azure` | 25 |
 | `Kubernetes` | 20 |
-| `Docker` | 14 |
-| `System Design` | 14 |
+| `Docker` | 16 |
+| `System Design` | 16 |
 | `Monitoring` | 13 |
 | `Grafana` | 7 |
 | `DNS` | 6 |
@@ -22,20 +22,20 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `Jenkins` | 6 |
 | `Blue-Green` | 5 |
 | `Canary` | 5 |
+| `Databases` | 5 |
 | `Terraform` | 5 |
 | `Alerting` | 4 |
-| `Databases` | 4 |
+| `FinOps` | 4 |
+| `Git` | 4 |
 | `Linux` | 4 |
+| `Azure DevOps` | 3 |
 | `CNI` | 3 |
-| `FinOps` | 3 |
-| `Git` | 3 |
 | `Load Balancing` | 3 |
 | `PV` | 3 |
 | `PVC` | 3 |
 | `RBAC` | 3 |
 | `VPC` | 3 |
 | `ArgoCD` | 2 |
-| `Azure DevOps` | 2 |
 | `GCP` | 2 |
 | `GitHub Actions` | 2 |
 | `Logging` | 2 |
@@ -43,6 +43,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `Prometheus` | 2 |
 | `Shell Scripting` | 2 |
 | `Ansible` | 1 |
+| `Bash` | 1 |
 | `Deployment Strategies` | 1 |
 | `DevSecOps` | 1 |
 | `ELK` | 1 |
@@ -74,9 +75,12 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 ## AWS
 
+- [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — IAM · tags: `AWS`
+- [An AWS resource was manually modified outside CloudFormation. How would you detect and handle this configuration drift?](../topics/cloudformation.md#an-aws-resource-was-manually-modified-outside-cloudformation-how-would-you-detec) — CloudFormation · tags: `AWS`
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — IAM · tags: `AWS`
 - [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — High Availability · tags: `VPC`, `AWS`
+- [Automate EC2 instance tagging based on environment using Terraform.](../topics/terraform.md#automate-ec2-instance-tagging-based-on-environment-using-terraform) — Terraform · tags: `AWS`
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — IAM · tags: `AWS`
 - [Does AWS provide SSL certificates? What is AWS Certificate Manager (ACM)?](../topics/certificate-management.md#does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm) — Certificate Management · tags: `AWS`
 - [Have you worked with CloudFront, ECR, ECR Lifecycle Policies, and AWS Tags? Explain real-world use cases.](../topics/cdn.md#have-you-worked-with-cloudfront-ecr-ecr-lifecycle-policies-and-aws-tags-explain-) — CDN · tags: `AWS`
@@ -100,6 +104,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 ## Azure
 
+- [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — AWS · tags: `Azure`
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — AWS · tags: `Azure`
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — AWS · tags: `Azure`, `GCP`
@@ -127,8 +132,13 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 ## Azure DevOps
 
+- [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
 - [How do you implement CI/CD for a .NET application using Azure DevOps or GitHub Actions?](../topics/github-actions.md#how-do-you-implement-ci-cd-for-a-net-application-using-azure-devops-or-github-ac) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `Azure`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
+
+## Bash
+
+- [Write a Bash script to list pods in a namespace and restart those in CrashLoopBackOff.](../topics/kubernetes.md#write-a-bash-script-to-list-pods-in-a-namespace-and-restart-those-in-crashloopba) — Kubernetes · tags: `Bash`
 
 ## Blue-Green
 
@@ -148,6 +158,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 ## CI/CD
 
+- [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
 - [A Jenkins pipeline completes successfully, but the application is not deployed. How would you identify where the deployment actually failed?](../topics/jenkins.md#a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho) — Jenkins · tags: `CI/CD`
 - [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — Jenkins · tags: `CI/CD`
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — Jenkins · tags: `CI/CD`
@@ -183,6 +194,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Databases
 
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — ArgoCD · tags: `Databases`
+- [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — High Availability · tags: `Databases`
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — Kubernetes · tags: `Databases`
 - [Terraform plan suddenly wants to recreate your production database. What do you do?](../topics/terraform.md#terraform-plan-suddenly-wants-to-recreate-your-production-database-what-do-you-d) — Terraform · tags: `Databases`
 - [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — API Gateway · tags: `Databases`, `AWS`
@@ -207,7 +219,9 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Docker
 
 - [A Pod cannot pull its Docker image. How do you troubleshoot an ImagePullBackOff error?](../topics/kubernetes.md#a-pod-cannot-pull-its-docker-image-how-do-you-troubleshoot-an-imagepullbackoff-e) — Kubernetes · tags: `Docker`
+- [A Pod is continuously recreated even though the container itself doesn't report an obvious application error. How would you investigate the complete lifecycle?](../topics/kubernetes.md#a-pod-is-continuously-recreated-even-though-the-container-itself-doesn-t-report-) — Kubernetes · tags: `Docker`
 - [A Pod is restarting every 10–15 seconds. How would you troubleshoot and access the container?](../topics/kubernetes.md#a-pod-is-restarting-every-10-15-seconds-how-would-you-troubleshoot-and-access-th) — Kubernetes · tags: `Docker`
+- [A production Kubernetes workload needs a configuration change without rebuilding its container image. How would you implement the change safely?](../topics/kubernetes.md#a-production-kubernetes-workload-needs-a-configuration-change-without-rebuilding) — Kubernetes · tags: `Docker`
 - [Difference between Docker Compose and Kubernetes?](../topics/kubernetes.md#difference-between-docker-compose-and-kubernetes) — Kubernetes · tags: `Docker`
 - [Difference between Pod and Container?](../topics/kubernetes.md#difference-between-pod-and-container) — Kubernetes · tags: `Docker`
 - [Docker, Kubernetes & Jenkins](../topics/kubernetes.md#docker-kubernetes-jenkins) — Kubernetes · tags: `Docker`, `Jenkins`
@@ -230,6 +244,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [FinOps & AIOps](../topics/observability.md#finops-aiops) — Observability · tags: `FinOps`
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — AWS · tags: `FinOps`
 - [Kubernetes Migration / Cost Optimization how have you done?](../topics/kubernetes.md#kubernetes-migration-cost-optimization-how-have-you-done) — Kubernetes · tags: `FinOps`
+- [Which AWS tools did you use for cost optimization, and how did you use them?](../topics/aws.md#which-aws-tools-did-you-use-for-cost-optimization-and-how-did-you-use-them) — AWS · tags: `FinOps`
 
 ## GCP
 
@@ -241,6 +256,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — ArgoCD · tags: `Git`, `GitOps`
 - [How would you securely manage secrets in a Kubernetes environment without storing them in Git?](../topics/kubernetes.md#how-would-you-securely-manage-secrets-in-a-kubernetes-environment-without-storin) — Kubernetes · tags: `Git`
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — Jenkins · tags: `Git`
+- [Your pipeline suddenly starts executing the same deployment twice for a single Git commit. What would you check in the YAML and repository configuration?](../topics/ci-cd.md#your-pipeline-suddenly-starts-executing-the-same-deployment-twice-for-a-single-g) — CI/CD · tags: `Git`
 
 ## GitHub Actions
 
@@ -408,9 +424,11 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 ## System Design
 
+- [Can you explain AWS architecture?](../topics/aws.md#can-you-explain-aws-architecture) — AWS · tags: `System Design`
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — CI/CD · tags: `System Design`
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — Disaster Recovery · tags: `Kubernetes`, `System Design`
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — Databases · tags: `System Design`
+- [Explain EC2, NAT, and NACL together in an AWS architecture.](../topics/aws.md#explain-ec2-nat-and-nacl-together-in-an-aws-architecture) — AWS · tags: `System Design`
 - [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) — Kubernetes · tags: `System Design`
 - [Have you worked on Terraform? How do you manage the state file? What is the Terraform architecture you are using?](../topics/terraform.md#have-you-worked-on-terraform-how-do-you-manage-the-state-file-what-is-the-terraf) — Terraform · tags: `System Design`
 - [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — High Availability · tags: `System Design`

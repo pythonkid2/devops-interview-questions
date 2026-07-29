@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-1752-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-729-informational)
+![questions](https://img.shields.io/badge/questions-1828-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-759-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,22 +18,22 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 1752 |
-| Posts processed | 729 |
-| Added this week | 434 |
+| Unique questions | 1828 |
+| Posts processed | 759 |
+| Added this week | 510 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 205
-- [Terraform](./topics/terraform.md) — 121
-- [AWS](./topics/aws.md) — 101
-- [Docker](./topics/docker.md) — 100
+- [Kubernetes](./topics/kubernetes.md) — 212
+- [Terraform](./topics/terraform.md) — 127
+- [AWS](./topics/aws.md) — 109
+- [Docker](./topics/docker.md) — 101
 - [Jenkins](./topics/jenkins.md) — 84
-- [CI/CD](./topics/ci-cd.md) — 68
+- [CI/CD](./topics/ci-cd.md) — 72
 - [Incident Response](./topics/incident-response.md) — 27
+- [Linux](./topics/linux.md) — 25
 - [Security](./topics/security.md) — 25
-- [Linux](./topics/linux.md) — 24
-- [System Design](./topics/system-design.md) — 22
+- [System Design](./topics/system-design.md) — 23
 
 ## Popular companies
 
@@ -46,7 +46,7 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 - [Global Payments](./companies/global-payments.md) — 23
 - [Infosys](./companies/infosys.md) — 23
 - [Elite Code Technologies](./companies/elite-code-technologies.md) — 21
-- [PwC](./companies/pwc.md) — 13
+- [Capgemini](./companies/capgemini.md) — 13
 
 ## Repository map
 

@@ -15,8 +15,11 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [Global Payments](./global-payments.md) | 23 |
 | [Infosys](./infosys.md) | 23 |
 | [Elite Code Technologies](./elite-code-technologies.md) | 21 |
+| [Capgemini](./capgemini.md) | 13 |
 | [PwC](./pwc.md) | 13 |
 | [SpaceTech Inc.](./spacetech-inc.md) | 13 |
+| [L&T Technology Services](./l-t-technology-services.md) | 12 |
+| [Oracle](./oracle.md) | 12 |
 | [NVIDIA](./nvidia.md) | 11 |
 | [Wipro](./wipro.md) | 11 |
 | [Argyll Infotech](./argyll-infotech.md) | 10 |
@@ -37,6 +40,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 1373 |
+| [Unknown Company](./unknown-company.md) | 1412 |
 
 [← Home](../README.md)

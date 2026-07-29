@@ -4,7 +4,7 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1373 |
+| [Unknown Company](../companies/unknown-company.md) | 1412 |
 | [Mphasis](../companies/mphasis.md) | 43 |
 | [TCS](../companies/tcs.md) | 38 |
 | [Accenture](../companies/accenture.md) | 32 |
@@ -14,8 +14,11 @@
 | [Global Payments](../companies/global-payments.md) | 23 |
 | [Infosys](../companies/infosys.md) | 23 |
 | [Elite Code Technologies](../companies/elite-code-technologies.md) | 21 |
+| [Capgemini](../companies/capgemini.md) | 13 |
 | [PwC](../companies/pwc.md) | 13 |
 | [SpaceTech Inc.](../companies/spacetech-inc.md) | 13 |
+| [L&T Technology Services](../companies/l-t-technology-services.md) | 12 |
+| [Oracle](../companies/oracle.md) | 12 |
 | [NVIDIA](../companies/nvidia.md) | 11 |
 | [Wipro](../companies/wipro.md) | 11 |
 | [Argyll Infotech](../companies/argyll-infotech.md) | 10 |

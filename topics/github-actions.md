@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **GitHub Actions**
 
-**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 7 |
-| Easy / Medium / Hard | 1 / 5 / 1 |
-| Companies | 3 |
+| Questions | 8 |
+| Easy / Medium / Hard | 1 / 6 / 1 |
+| Companies | 4 |
 
 ## Most asked
 
@@ -35,6 +35,8 @@
   <a id="how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions"></a>
 - [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions) — **2×** · Easy
   <a id="what-are-runners-in-github-actions"></a>
+- [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — **1×** · Medium · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
+  <a id="a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail"></a>
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) — **1×** · Medium
   <a id="explain-github-webhooks-apis-and-github-actions"></a>
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — **1×** · Medium
@@ -53,6 +55,8 @@
   <a id="write-a-github-actions-workflow-for-ci-cd"></a>
 - [GitHub Actions](../topics/github-actions.md#github-actions) — 2×
   <a id="github-actions"></a>
+- [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — 1× · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
+  <a id="a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail"></a>
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) — 1×
   <a id="explain-github-webhooks-apis-and-github-actions"></a>
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 1×
@@ -73,6 +77,7 @@
 
 ### Unspecified
 
+- [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions)
 - [GitHub Actions](../topics/github-actions.md#github-actions)
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration)
@@ -83,11 +88,13 @@
 ## Companies asking
 
 - [Argyll Infotech](../companies/argyll-infotech.md)
+- [L&T Technology Services](../companies/l-t-technology-services.md)
 - [TCS](../companies/tcs.md)
 - [zemoso technologies](../companies/zemoso-technologies.md)
 
 ## Recently added
 
+- [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — 2026-07-29 · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
 - [GitHub Actions](../topics/github-actions.md#github-actions) — 2026-07-26
 - [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions) — 2026-07-26
 - [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 2026-07-26
@@ -107,6 +114,7 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) | Medium | 1 |
 | [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) | Medium | 1 |
 | [GitHub Actions](../topics/github-actions.md#github-actions) | Medium | 2 |
 | [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) | Medium | 1 |

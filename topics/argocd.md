@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **ArgoCD**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 0 / 5 / 3 |
+| Questions | 9 |
+| Easy / Medium / Hard | 0 / 6 / 3 |
 | Companies | 0 |
 
 ## Most asked
@@ -37,6 +37,8 @@
   <a id="argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre"></a>
 - [GitOps](../topics/argocd.md#gitops) — **1×** · Medium · tags: `GitOps`
   <a id="gitops"></a>
+- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — **1×** · Medium
+  <a id="how-do-you-automate-deployment-rollbacks-in-argocd"></a>
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — **1×** · Hard · tags: `GitOps`
   <a id="how-would-you-design-a-gitops-workflow-for-multiple-teams"></a>
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — **1×** · Medium
@@ -56,6 +58,8 @@ _None in this band yet._
   <a id="argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre"></a>
 - [GitOps](../topics/argocd.md#gitops) — 1× · tags: `GitOps`
   <a id="gitops"></a>
+- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — 1×
+  <a id="how-do-you-automate-deployment-rollbacks-in-argocd"></a>
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — 1×
   <a id="in-argocd-what-are-the-different-components-available"></a>
 - [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 1×
@@ -79,6 +83,7 @@ _None in this band yet._
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — tags: `Databases`
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — tags: `GitOps`
 - [GitOps](../topics/argocd.md#gitops) — tags: `GitOps`
+- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd)
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — tags: `GitOps`
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available)
 - [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops)
@@ -89,6 +94,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — 2026-07-29
 - [GitOps](../topics/argocd.md#gitops) — 2026-07-26 · tags: `GitOps`
 - [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — 2026-07-20 · tags: `GitOps`
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — 2026-07-18 · tags: `Git`, `GitOps`
@@ -115,6 +121,7 @@ _None in this band yet._
 | [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) | Medium | 1 |
 | [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) | Hard | 5 |
 | [GitOps](../topics/argocd.md#gitops) | Medium | 1 |
+| [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) | Medium | 1 |
 | [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) | Hard | 1 |
 | [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) | Medium | 1 |
 | [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) | Medium | 1 |

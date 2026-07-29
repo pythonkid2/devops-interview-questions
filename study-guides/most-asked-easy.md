@@ -9,7 +9,7 @@ Browse by level: [Easy](./most-asked-easy.md) · [Medium](./most-asked-medium.md
 | # | Question | Topic | Asked |
 | ---: | --- | --- | ---: |
 | 1 | [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) | Kubernetes | 7 |
-| 2 | [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Docker | 5 |
+| 2 | [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Docker | 6 |
 | 3 | [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) | CI/CD | 4 |
 | 4 | [What is a repository?](../topics/general.md#what-is-a-repository) | General | 4 |
 | 5 | [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) | Azure DevOps | 4 |
@@ -53,10 +53,10 @@ Browse by level: [Easy](./most-asked-easy.md) · [Medium](./most-asked-medium.md
 | 43 | [What are null resources in Terraform and what is a state file?](../topics/terraform.md#what-are-null-resources-in-terraform-and-what-is-a-state-file) | Terraform | 2 |
 | 44 | [What are runners in GitHub Actions?](../topics/github-actions.md#what-are-runners-in-github-actions) | GitHub Actions | 2 |
 | 45 | [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) | Jenkins | 2 |
-| 46 | [What are the different HTTP methods and status codes in REST APIs?](../topics/general.md#what-are-the-different-http-methods-and-status-codes-in-rest-apis) | General | 2 |
-| 47 | [What are the most useful Terraform commands?](../topics/terraform.md#what-are-the-most-useful-terraform-commands) | Terraform | 2 |
-| 48 | [What are the new features introduced in Java 21?](../topics/general.md#what-are-the-new-features-introduced-in-java-21) | General | 2 |
-| 49 | [What are the phases of the DevOps lifecycle?](../topics/general.md#what-are-the-phases-of-the-devops-lifecycle) | General | 2 |
-| 50 | [What are the troubleshooting steps for CrashLoopBackOff?](../topics/general.md#what-are-the-troubleshooting-steps-for-crashloopbackoff) | General | 2 |
+| 46 | [What are Taints and Tolerations?](../topics/general.md#what-are-taints-and-tolerations) | General | 2 |
+| 47 | [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) | Docker | 2 |
+| 48 | [What are the different HTTP methods and status codes in REST APIs?](../topics/general.md#what-are-the-different-http-methods-and-status-codes-in-rest-apis) | General | 2 |
+| 49 | [What are the most useful Terraform commands?](../topics/terraform.md#what-are-the-most-useful-terraform-commands) | Terraform | 2 |
+| 50 | [What are the new features introduced in Java 21?](../topics/general.md#what-are-the-new-features-introduced-in-java-21) | General | 2 |
 
 [← Study guides](./README.md)

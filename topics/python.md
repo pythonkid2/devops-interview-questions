@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Python**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 2 / 6 / 1 |
+| Questions | 10 |
+| Easy / Medium / Hard | 2 / 7 / 1 |
 | Companies | 5 |
 
 ## Most asked
@@ -43,6 +43,8 @@
   <a id="data-scientist-python-machine-learning-deep-learning-nlp-can-you-explain-a-recen"></a>
 - [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) — **1×** · Medium
   <a id="how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh"></a>
+- [How do you schedule a recurring backup of cloud storage using Python?](../topics/python.md#how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python) — **1×** · Medium
+  <a id="how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python"></a>
 - [Scripting & Automation: Python, Bash (or equivalent)](../topics/python.md#scripting-automation-python-bash-or-equivalent) — **1×** · Easy
   <a id="scripting-automation-python-bash-or-equivalent"></a>
 
@@ -67,6 +69,8 @@
   <a id="data-scientist-python-machine-learning-deep-learning-nlp-can-you-explain-a-recen"></a>
 - [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) — 1×
   <a id="how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh"></a>
+- [How do you schedule a recurring backup of cloud storage using Python?](../topics/python.md#how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python) — 1×
+  <a id="how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python"></a>
 
 ## Advanced
 
@@ -90,6 +94,7 @@
 - [Data Engineer (Azure, Snowflake, Databricks, Python, ETL) – What is your experience with data warehousing?](../topics/python.md#data-engineer-azure-snowflake-databricks-python-etl-what-is-your-experience-with)
 - [Data Scientist (Python, Machine Learning, Deep Learning, NLP) – Can you explain a recent project where you applied NLP?](../topics/python.md#data-scientist-python-machine-learning-deep-learning-nlp-can-you-explain-a-recen)
 - [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh)
+- [How do you schedule a recurring backup of cloud storage using Python?](../topics/python.md#how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python)
 - [Scripting & Automation: Python, Bash (or equivalent)](../topics/python.md#scripting-automation-python-bash-or-equivalent)
 - [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/python.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex)
 
@@ -103,6 +108,7 @@
 
 ## Recently added
 
+- [How do you schedule a recurring backup of cloud storage using Python?](../topics/python.md#how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python) — 2026-07-29
 - [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../topics/python.md#you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-) — 2026-07-16
 - [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/python.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) — 2026-07-15
 - [Scripting & Automation: Python, Bash (or equivalent)](../topics/python.md#scripting-automation-python-bash-or-equivalent) — 2026-07-15
@@ -127,6 +133,7 @@
 | [Data Scientist (Python, Machine Learning, Deep Learning, NLP) – Can you explain a recent project where you applied NLP?](../topics/python.md#data-scientist-python-machine-learning-deep-learning-nlp-can-you-explain-a-recen) | Medium | 1 |
 | [Do you have Python experience? How much exposure do you have?](../topics/python.md#do-you-have-python-experience-how-much-exposure-do-you-have) | Medium | 2 |
 | [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) | Medium | 1 |
+| [How do you schedule a recurring backup of cloud storage using Python?](../topics/python.md#how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python) | Medium | 1 |
 | [Scripting & Automation: Python, Bash (or equivalent)](../topics/python.md#scripting-automation-python-bash-or-equivalent) | Easy | 1 |
 | [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/python.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) | Hard | 2 |
 | [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../topics/python.md#you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-) | Medium | 2 |

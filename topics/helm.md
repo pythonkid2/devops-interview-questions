@@ -31,6 +31,8 @@
   <a id="break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it"></a>
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — **2×** · Medium
   <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
+- [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — **2×** · Medium · tags: `Jenkins`
+  <a id="jenkins-deployed-via-helm-how-do-you-update-plugins"></a>
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — **2×** · Medium
   <a id="whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use"></a>
 - [Helm](../topics/helm.md#helm) — **1×** · Medium
@@ -39,8 +41,6 @@
   <a id="helm-kubernetes-deployments"></a>
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — **1×** · Medium · tags: `Jenkins`
   <a id="jenkins-debugging-helm-deployments"></a>
-- [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — **1×** · Medium · tags: `Jenkins`
-  <a id="jenkins-deployed-via-helm-how-do-you-update-plugins"></a>
 
 ## Beginner
 
@@ -52,6 +52,8 @@ _None in this band yet._
   <a id="break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it"></a>
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — 2×
   <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
+- [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — 2× · tags: `Jenkins`
+  <a id="jenkins-deployed-via-helm-how-do-you-update-plugins"></a>
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — 2×
   <a id="whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use"></a>
 - [Helm](../topics/helm.md#helm) — 1×
@@ -60,8 +62,6 @@ _None in this band yet._
   <a id="helm-kubernetes-deployments"></a>
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — 1× · tags: `Jenkins`
   <a id="jenkins-debugging-helm-deployments"></a>
-- [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — 1× · tags: `Jenkins`
-  <a id="jenkins-deployed-via-helm-how-do-you-update-plugins"></a>
 
 ## Advanced
 
@@ -85,7 +85,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — 2026-07-26 · tags: `Jenkins`
+- [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — 2026-07-29 · tags: `Jenkins`
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — 2026-07-26 · tags: `Jenkins`
 - [Helm](../topics/helm.md#helm) — 2026-07-26
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — 2026-07-26
@@ -110,7 +110,7 @@ _None in this band yet._
 | [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) | Medium | 1 |
 | [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) | Medium | 2 |
 | [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) | Medium | 1 |
-| [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) | Medium | 1 |
+| [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) | Medium | 2 |
 | [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) | Medium | 2 |
 
 ## Learning resources

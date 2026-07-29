@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Databases**
 
-**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**12** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 11 |
-| Easy / Medium / Hard | 1 / 9 / 1 |
-| Companies | 0 |
+| Questions | 12 |
+| Easy / Medium / Hard | 1 / 10 / 1 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -39,6 +39,8 @@
   <a id="a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how"></a>
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — **1×** · Medium
   <a id="an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps"></a>
+- [Database transactions](../topics/databases.md#database-transactions) — **1×** · Medium
+  <a id="database-transactions"></a>
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — **1×** · Hard · tags: `System Design`
   <a id="design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des"></a>
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — **1×** · Medium
@@ -69,6 +71,8 @@
   <a id="a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how"></a>
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — 1×
   <a id="an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps"></a>
+- [Database transactions](../topics/databases.md#database-transactions) — 1×
+  <a id="database-transactions"></a>
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — 1×
   <a id="explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t"></a>
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — 1×
@@ -88,6 +92,7 @@
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how)
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check)
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps)
+- [Database transactions](../topics/databases.md#database-transactions)
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — tags: `System Design`
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t)
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach)
@@ -99,10 +104,11 @@
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Oracle](../companies/oracle.md)
 
 ## Recently added
 
+- [Database transactions](../topics/databases.md#database-transactions) — 2026-07-29
 - [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — 2026-07-27
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — 2026-07-26 · tags: `Azure`
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — 2026-07-18
@@ -128,6 +134,7 @@
 | [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) | Medium | 1 |
 | [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) | Medium | 2 |
 | [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) | Medium | 1 |
+| [Database transactions](../topics/databases.md#database-transactions) | Medium | 1 |
 | [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) | Hard | 1 |
 | [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) | Medium | 1 |
 | [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) | Medium | 1 |

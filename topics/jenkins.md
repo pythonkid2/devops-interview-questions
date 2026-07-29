@@ -75,8 +75,8 @@
   <a id="how-does-jenkins-trigger-automatically-after-a-github-push"></a>
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — **2×** · Medium
   <a id="if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t"></a>
-- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — **2×** · Medium · tags: `GitHub Actions`
-  <a id="jenkins-github-actions"></a>
+- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — **2×** · Medium · tags: `CI/CD`
+  <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
 
 ## Beginner
 
@@ -135,8 +135,12 @@
   <a id="how-does-jenkins-trigger-automatically-after-a-github-push"></a>
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — 2×
   <a id="if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t"></a>
+- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2× · tags: `CI/CD`
+  <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
 - [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2× · tags: `GitHub Actions`
   <a id="jenkins-github-actions"></a>
+- [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2×
+  <a id="lost-the-jenkins-admin-password-how-do-you-recover-it"></a>
 - [The build works locally but fails in Jenkins. What would you check first?](../topics/jenkins.md#the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first) — 2×
   <a id="the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first"></a>
 - [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 2×
@@ -217,12 +221,8 @@
   <a id="jenkins"></a>
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — 1× · tags: `CI/CD`
   <a id="jenkins-pipeline-automation"></a>
-- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 1× · tags: `CI/CD`
-  <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 1× · tags: `AWS`
   <a id="launch-jenkins-on-an-ec2-instance"></a>
-- [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 1×
-  <a id="lost-the-jenkins-admin-password-how-do-you-recover-it"></a>
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — 1× · tags: `Git`
   <a id="memorize-this-jenkins-first-stage-is-always-git-checkout"></a>
 - [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — 1× · tags: `CI/CD`
@@ -361,13 +361,13 @@
 
 ## Recently added
 
+- [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-29
+- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2026-07-29 · tags: `CI/CD`
 - [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2026-07-29 · tags: `GitHub Actions`
 - [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — 2026-07-29 · tags: `CI/CD`
 - [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — 2026-07-28
 - [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) — 2026-07-27
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 2026-07-27 · tags: `AWS`
-- [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-26
-- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2026-07-26 · tags: `CI/CD`
 - [Jenkins](../topics/jenkins.md#jenkins) — 2026-07-26
 - [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 2026-07-26
 - [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) — 2026-07-26
@@ -439,10 +439,10 @@
 | [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) | Medium | 1 |
 | [Jenkins](../topics/jenkins.md#jenkins) | Medium | 1 |
 | [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) | Medium | 1 |
-| [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) | Medium | 1 |
+| [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) | Medium | 2 |
 | [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) | Medium | 2 |
 | [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) | Medium | 1 |
-| [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) | Medium | 1 |
+| [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) | Medium | 2 |
 | [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) | Medium | 1 |
 | [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/jenkins.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-) | Hard | 1 |
 | [The build works locally but fails in Jenkins. What would you check first?](../topics/jenkins.md#the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first) | Medium | 2 |

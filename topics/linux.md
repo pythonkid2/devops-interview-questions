@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**24** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**25** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 24 |
-| Easy / Medium / Hard | 3 / 21 / 0 |
+| Questions | 25 |
+| Easy / Medium / Hard | 3 / 22 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -69,6 +69,8 @@
   <a id="what-are-the-linux-boot-processes"></a>
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — **1×** · Medium
   <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
+- [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — **1×** · Medium
+  <a id="which-linux-command-has-embarrassed-you-the-most"></a>
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — **1×** · Medium
   <a id="which-linux-commands-do-you-use-daily-in-your-project"></a>
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — **1×** · Medium
@@ -123,6 +125,8 @@
   <a id="linux-administration-shell-scripting"></a>
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 1×
   <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
+- [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — 1×
+  <a id="which-linux-command-has-embarrassed-you-the-most"></a>
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — 1×
   <a id="which-linux-commands-do-you-use-daily-in-your-project"></a>
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — 1×
@@ -158,6 +162,7 @@ _None in this band yet._
 - [What is systemd?](../topics/linux.md#what-is-systemd)
 - [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux)
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment)
+- [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most)
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know)
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project)
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why)
@@ -169,6 +174,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — 2026-07-29
 - [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) — 2026-07-29
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — 2026-07-27
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 2026-07-27
@@ -183,7 +189,6 @@ _None in this band yet._
 - [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — 2026-07-21
 - [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — 2026-07-21
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — 2026-07-21
-- [Why is Linux preferred in DevOps?](../topics/linux.md#why-is-linux-preferred-in-devops) — 2026-07-21
 
 ## Related topics
 
@@ -214,6 +219,7 @@ _None in this band yet._
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |
 | [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) | Medium | 2 |
 | [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) | Medium | 1 |
+| [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) | Medium | 1 |
 | [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) | Medium | 2 |
 | [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) | Medium | 1 |
 | [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) | Medium | 1 |

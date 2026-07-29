@@ -3,10 +3,11 @@
 [Home](../README.md) > [Study guides](./README.md) > **Rounds**
 
 
-## Unspecified (1603)
+## Unspecified (1679)
 
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes
+- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — Docker
 - [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — Kubernetes
 - [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — Kubernetes
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — High Availability · tags: `Kubernetes`, `System Design`
@@ -17,7 +18,6 @@
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — ArgoCD · tags: `GitOps`
 - [Design a rollback strategy that works even if the deployment stage fails.](../topics/deployment-strategies.md#design-a-rollback-strategy-that-works-even-if-the-deployment-stage-fails) — Deployment Strategies
 - [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — System Design
-- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — Docker
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — AWS
 - [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — SLOs · tags: `Alerting`
 - [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — Security
@@ -30,7 +30,9 @@
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — Docker
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — CI/CD
 - [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/kubernetes.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do) — Kubernetes
+- [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end) — CI/CD
 - [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — Jenkins
+- [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) — CI/CD
 - [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) — General
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — Docker
 - [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — CI/CD
@@ -43,14 +45,13 @@
 - [A Pod is running but the application is not accessible. What would you check?](../topics/kubernetes.md#a-pod-is-running-but-the-application-is-not-accessible-what-would-you-check) — Kubernetes
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) — CI/CD
 - [Describe a production environment you manage(d). What are its scale, SLAs, and key components?](../topics/general.md#describe-a-production-environment-you-manage-d-what-are-its-scale-slas-and-key-c) — General
-- [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) — Capacity Planning
-- [Difference between count and for_each.](../topics/terraform.md#difference-between-count-and-for-each) — Terraform
 
 ## Technical Round 1 (74)
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — Terraform
 - [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — Terraform
 - [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — Terraform
+- [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) — Terraform
 - [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) — General
 - [Can adhering strictly to the Single Responsibility Principle in large distributed systems increase overall system complexity and make maintenance more difficult?](../topics/general.md#can-adhering-strictly-to-the-single-responsibility-principle-in-large-distribute) — General
 - [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) — Observability
@@ -77,7 +78,6 @@
 - [What is remote state?](../topics/terraform.md#what-is-remote-state) — Terraform
 - [What is the ansible.cfg file?](../topics/ansible.md#what-is-the-ansible-cfg-file) — Ansible
 - [What is the difference between Grafana and the ELK Stack?](../topics/observability.md#what-is-the-difference-between-grafana-and-the-elk-stack) — Observability
-- [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) — Terraform
 - [What is the purpose of the replication factor in Kafka?](../topics/kafka.md#what-is-the-purpose-of-the-replication-factor-in-kafka) — Kafka
 - [What kind of automation have you done?](../topics/general.md#what-kind-of-automation-have-you-done) — General
 - [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) — Observability

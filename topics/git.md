@@ -31,12 +31,16 @@
   <a id="what-is-git"></a>
 - [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — **2×** · Medium
   <a id="difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac"></a>
+- [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — **2×** · Medium
+  <a id="git-fetch-vs-git-pull"></a>
 - [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — **2×** · Easy
   <a id="what-are-git-commands-you-know"></a>
 - [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — **2×** · Easy
   <a id="what-are-git-hooks-how-would-you-use-them"></a>
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — **2×** · Easy
   <a id="what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project"></a>
+- [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — **2×** · Medium
+  <a id="you-accidentally-deleted-the-git-folder-can-you-recover-it"></a>
 - [Git & GitHub](../topics/git.md#git-github) — **1×** · Medium
   <a id="git-github"></a>
 - [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) — **1×** · Medium
@@ -45,8 +49,6 @@
   <a id="git-deep-concepts-merge-vs-rebase-rebase-squash"></a>
 - [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) — **1×** · Medium
   <a id="git-error-not-a-git-repository-during-pull-how-to-fix"></a>
-- [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — **1×** · Medium
-  <a id="git-fetch-vs-git-pull"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — **1×** · Medium
   <a id="git-github-branching-strategies"></a>
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — **1×** · Medium
@@ -61,8 +63,6 @@
   <a id="which-git-branching-strategy-have-you-used"></a>
 - [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) — **1×** · Medium
   <a id="why-did-you-choose-git-as-the-source-code-management-tool"></a>
-- [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — **1×** · Medium
-  <a id="you-accidentally-deleted-the-git-folder-can-you-recover-it"></a>
 
 ## Beginner
 
@@ -81,6 +81,10 @@
 
 - [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — 2×
   <a id="difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac"></a>
+- [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — 2×
+  <a id="git-fetch-vs-git-pull"></a>
+- [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 2×
+  <a id="you-accidentally-deleted-the-git-folder-can-you-recover-it"></a>
 - [Git & GitHub](../topics/git.md#git-github) — 1×
   <a id="git-github"></a>
 - [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) — 1×
@@ -89,8 +93,6 @@
   <a id="git-deep-concepts-merge-vs-rebase-rebase-squash"></a>
 - [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) — 1×
   <a id="git-error-not-a-git-repository-during-pull-how-to-fix"></a>
-- [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — 1×
-  <a id="git-fetch-vs-git-pull"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — 1×
   <a id="git-github-branching-strategies"></a>
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — 1×
@@ -103,8 +105,6 @@
   <a id="which-git-branching-strategy-have-you-used"></a>
 - [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) — 1×
   <a id="why-did-you-choose-git-as-the-source-code-management-tool"></a>
-- [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 1×
-  <a id="you-accidentally-deleted-the-git-folder-can-you-recover-it"></a>
 
 ## Advanced
 
@@ -139,11 +139,11 @@ _None in this band yet._
 
 ## Recently added
 
+- [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 2026-07-29
+- [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — 2026-07-29
 - [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) — 2026-07-28
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — 2026-07-27
 - [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) — 2026-07-26
-- [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 2026-07-26
-- [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — 2026-07-26
 - [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) — 2026-07-26
 - [Git & GitHub](../topics/git.md#git-github) — 2026-07-26
 - [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) — 2026-07-26
@@ -168,7 +168,7 @@ _None in this band yet._
 | [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) | Medium | 1 |
 | [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) | Medium | 1 |
 | [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) | Medium | 1 |
-| [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) | Medium | 1 |
+| [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) | Medium | 2 |
 | [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) | Medium | 1 |
 | [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) | Medium | 1 |
 | [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) | Medium | 1 |
@@ -180,7 +180,7 @@ _None in this band yet._
 | [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) | Easy | 1 |
 | [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) | Medium | 1 |
 | [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) | Medium | 1 |
-| [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) | Medium | 1 |
+| [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) | Medium | 2 |
 
 ## Learning resources
 

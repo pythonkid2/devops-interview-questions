@@ -27,6 +27,10 @@
 
 ## Most asked
 
+- [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — **2×** · Medium
+  <a id="app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check"></a>
+- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — **2×** · Medium
+  <a id="eks-nodes-are-unhealthy-how-would-you-investigate"></a>
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — **2×** · Medium
   <a id="how-did-you-deploy-eks-cluster-in-cloud"></a>
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — **2×** · Medium
@@ -35,14 +39,10 @@
   <a id="how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster"></a>
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — **2×** · Medium · tags: `AWS`
   <a id="how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs"></a>
-- [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — **1×** · Medium
-  <a id="app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check"></a>
 - [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) — **1×** · Medium
   <a id="can-you-explain-how-did-you-tune-eks-cluster"></a>
 - [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) — **1×** · Medium
   <a id="eks-communication-networking-flow"></a>
-- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — **1×** · Medium
-  <a id="eks-nodes-are-unhealthy-how-would-you-investigate"></a>
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — **1×** · Medium
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
 - [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — **1×** · Medium · tags: `Kubernetes`
@@ -71,6 +71,10 @@
 
 ## Intermediate
 
+- [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — 2×
+  <a id="app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check"></a>
+- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — 2×
+  <a id="eks-nodes-are-unhealthy-how-would-you-investigate"></a>
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — 2×
   <a id="how-did-you-deploy-eks-cluster-in-cloud"></a>
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — 2×
@@ -79,14 +83,10 @@
   <a id="how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster"></a>
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — 2× · tags: `AWS`
   <a id="how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs"></a>
-- [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — 1×
-  <a id="app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check"></a>
 - [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) — 1×
   <a id="can-you-explain-how-did-you-tune-eks-cluster"></a>
 - [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) — 1×
   <a id="eks-communication-networking-flow"></a>
-- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — 1×
-  <a id="eks-nodes-are-unhealthy-how-would-you-investigate"></a>
 - [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) — 1×
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
 - [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — 1× · tags: `Kubernetes`
@@ -139,9 +139,9 @@
 
 ## Recently added
 
-- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — 2026-07-27
+- [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — 2026-07-29
+- [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — 2026-07-29
 - [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — 2026-07-26
-- [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — 2026-07-26
 - [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) — 2026-07-26
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — 2026-07-26
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — 2026-07-26 · tags: `AWS`
@@ -167,10 +167,10 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) | Medium | 1 |
+| [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) | Medium | 2 |
 | [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) | Medium | 1 |
 | [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) | Medium | 1 |
-| [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) | Medium | 1 |
+| [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) | Medium | 2 |
 | [Explain the complete EKS upgrade process step-by-step.](../topics/eks.md#explain-the-complete-eks-upgrade-process-step-by-step) | Medium | 1 |
 | [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) | Medium | 1 |
 | [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) | Medium | 2 |

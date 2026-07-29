@@ -9,9 +9,9 @@ Browse by level: [Easy](./most-asked-easy.md) · [Medium](./most-asked-medium.md
 | # | Question | Topic | Asked |
 | ---: | --- | --- | ---: |
 | 1 | [What is Terraform?](../topics/terraform.md#what-is-terraform) | Terraform | 8 |
-| 2 | [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) | Kubernetes | 6 |
-| 3 | [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) | Kubernetes | 6 |
-| 4 | [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) | Terraform | 6 |
+| 2 | [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) | Terraform | 7 |
+| 3 | [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) | Kubernetes | 6 |
+| 4 | [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) | Kubernetes | 6 |
 | 5 | [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) | Docker | 6 |
 | 6 | [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) | CI/CD | 6 |
 | 7 | [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../topics/kubernetes.md#after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai) | Kubernetes | 5 |
@@ -39,24 +39,24 @@ Browse by level: [Easy](./most-asked-easy.md) · [Medium](./most-asked-medium.md
 | 29 | [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/kubernetes.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do) | Kubernetes | 5 |
 | 30 | [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) | Terraform | 4 |
 | 31 | [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) | Security | 4 |
-| 32 | [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) | Jenkins | 4 |
-| 33 | [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) | General | 4 |
-| 34 | [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) | Docker | 4 |
-| 35 | [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) | CI/CD | 4 |
-| 36 | [What is Exit Status 2 in Kubernetes?](../topics/kubernetes.md#what-is-exit-status-2-in-kubernetes) | Kubernetes | 4 |
-| 37 | [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) | GitHub Actions | 4 |
-| 38 | [A deployment succeeds, but latency increases from 80 ms to 2 seconds. Walk me through your debugging approach.](../topics/general.md#a-deployment-succeeds-but-latency-increases-from-80-ms-to-2-seconds-walk-me-thro) | General | 3 |
-| 39 | [A Pod is running but the application is not accessible. What would you check?](../topics/kubernetes.md#a-pod-is-running-but-the-application-is-not-accessible-what-would-you-check) | Kubernetes | 3 |
-| 40 | [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) | Capacity Planning | 3 |
-| 41 | [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) | Logging | 3 |
-| 42 | [Give an example of a performance bottleneck you identified and resolved in a cloud-native environment.](../topics/general.md#give-an-example-of-a-performance-bottleneck-you-identified-and-resolved-in-a-clo) | General | 3 |
-| 43 | [How do you collaborate with development teams to improve application reliability, deployment speed, and operational excellence?](../topics/general.md#how-do-you-collaborate-with-development-teams-to-improve-application-reliability) | General | 3 |
-| 44 | [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) | SRE | 3 |
-| 45 | [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) | Kubernetes | 3 |
-| 46 | [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) | Terraform | 3 |
-| 47 | [How do you manage different configurations for Dev, QA, and Production?](../topics/general.md#how-do-you-manage-different-configurations-for-dev-qa-and-production) | General | 3 |
-| 48 | [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) | CI/CD | 3 |
-| 49 | [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) | CI/CD | 3 |
+| 32 | [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) | Terraform | 4 |
+| 33 | [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) | Jenkins | 4 |
+| 34 | [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) | CI/CD | 4 |
+| 35 | [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) | General | 4 |
+| 36 | [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) | Docker | 4 |
+| 37 | [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) | CI/CD | 4 |
+| 38 | [What is Exit Status 2 in Kubernetes?](../topics/kubernetes.md#what-is-exit-status-2-in-kubernetes) | Kubernetes | 4 |
+| 39 | [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) | GitHub Actions | 4 |
+| 40 | [A deployment succeeds, but latency increases from 80 ms to 2 seconds. Walk me through your debugging approach.](../topics/general.md#a-deployment-succeeds-but-latency-increases-from-80-ms-to-2-seconds-walk-me-thro) | General | 3 |
+| 41 | [A Pod is running but the application is not accessible. What would you check?](../topics/kubernetes.md#a-pod-is-running-but-the-application-is-not-accessible-what-would-you-check) | Kubernetes | 3 |
+| 42 | [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) | Capacity Planning | 3 |
+| 43 | [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) | Logging | 3 |
+| 44 | [Give an example of a performance bottleneck you identified and resolved in a cloud-native environment.](../topics/general.md#give-an-example-of-a-performance-bottleneck-you-identified-and-resolved-in-a-clo) | General | 3 |
+| 45 | [How do you collaborate with development teams to improve application reliability, deployment speed, and operational excellence?](../topics/general.md#how-do-you-collaborate-with-development-teams-to-improve-application-reliability) | General | 3 |
+| 46 | [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) | SRE | 3 |
+| 47 | [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) | Kubernetes | 3 |
+| 48 | [How do you manage different configurations for Dev, QA, and Production?](../topics/general.md#how-do-you-manage-different-configurations-for-dev-qa-and-production) | General | 3 |
+| 49 | [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) | CI/CD | 3 |
 | 50 | [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) | Kubernetes | 3 |
 
 [← Study guides](./README.md)

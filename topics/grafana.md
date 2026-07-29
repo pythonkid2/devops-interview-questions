@@ -29,6 +29,8 @@
 
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — **2×** · Medium · tags: `Monitoring`
   <a id="how-do-you-implement-monitoring-using-grafana-and-cloudwatch"></a>
+- [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — **2×** · Medium
+  <a id="logs-are-missing-from-grafana-loki-how-would-you-troubleshoot"></a>
 - [Grafana](../topics/grafana.md#grafana) — **1×** · Medium
   <a id="grafana"></a>
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — **1×** · Medium
@@ -37,8 +39,6 @@
   <a id="have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti"></a>
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) — **1×** · Medium
   <a id="in-grafana-how-have-you-created-dashboards"></a>
-- [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — **1×** · Medium
-  <a id="logs-are-missing-from-grafana-loki-how-would-you-troubleshoot"></a>
 
 ## Beginner
 
@@ -48,6 +48,8 @@ _None in this band yet._
 
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — 2× · tags: `Monitoring`
   <a id="how-do-you-implement-monitoring-using-grafana-and-cloudwatch"></a>
+- [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — 2×
+  <a id="logs-are-missing-from-grafana-loki-how-would-you-troubleshoot"></a>
 - [Grafana](../topics/grafana.md#grafana) — 1×
   <a id="grafana"></a>
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — 1×
@@ -56,8 +58,6 @@ _None in this band yet._
   <a id="have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti"></a>
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) — 1×
   <a id="in-grafana-how-have-you-created-dashboards"></a>
-- [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — 1×
-  <a id="logs-are-missing-from-grafana-loki-how-would-you-troubleshoot"></a>
 
 ## Advanced
 
@@ -80,7 +80,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — 2026-07-27
+- [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — 2026-07-29
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — 2026-07-27 · tags: `Monitoring`
 - [Grafana](../topics/grafana.md#grafana) — 2026-07-26
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — 2026-07-18
@@ -107,7 +107,7 @@ _None in this band yet._
 | [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) | Medium | 1 |
 | [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) | Medium | 2 |
 | [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) | Medium | 1 |
-| [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) | Medium | 1 |
+| [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) | Medium | 2 |
 
 ## Learning resources
 

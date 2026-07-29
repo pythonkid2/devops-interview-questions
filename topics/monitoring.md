@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**19** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**20** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 19 |
-| Easy / Medium / Hard | 3 / 14 / 2 |
+| Questions | 20 |
+| Easy / Medium / Hard | 3 / 15 / 2 |
 | Companies | 7 |
 
 ## Most asked
@@ -61,6 +61,8 @@
   <a id="what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail"></a>
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — **1×** · Easy
   <a id="what-is-your-approach-to-using-cloudwatch-logs-and-metrics"></a>
+- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — **1×** · Medium
+  <a id="what-monitoring-tools-are-you-using"></a>
 - [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — **1×** · Medium
   <a id="what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool"></a>
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — **1×** · Medium
@@ -101,6 +103,8 @@
   <a id="what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated"></a>
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — 1× · tags: `AWS`
   <a id="what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail"></a>
+- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 1×
+  <a id="what-monitoring-tools-are-you-using"></a>
 - [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — 1×
   <a id="what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool"></a>
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — 1×
@@ -137,6 +141,7 @@
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — tags: `CI/CD`
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — tags: `AWS`
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics)
+- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using)
 - [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool)
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with)
 
@@ -152,6 +157,7 @@
 
 ## Recently added
 
+- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 2026-07-29
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — 2026-07-28
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 2026-07-28
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2026-07-26
@@ -166,7 +172,6 @@
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — 2026-07-17
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 2026-07-15
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 2026-07-15
-- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 2026-07-15
 
 ## Related topics
 
@@ -199,6 +204,7 @@
 | [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) | Medium | 1 |
 | [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) | Medium | 1 |
 | [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) | Easy | 1 |
+| [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) | Medium | 1 |
 | [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) | Medium | 2 |
 | [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) | Medium | 1 |
 | [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) | Medium | 1 |

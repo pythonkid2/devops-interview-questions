@@ -8,19 +8,19 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [AWS](./aws.md) | 101 |
+| [AWS](./aws.md) | 109 |
 | [Azure](./azure.md) | 20 |
-| [CloudFormation](./cloudformation.md) | 2 |
+| [CloudFormation](./cloudformation.md) | 5 |
 | [GCP](./gcp.md) | 2 |
 
 ## Containers
 
 | Topic | Questions |
 | --- | ---: |
-| [Kubernetes](./kubernetes.md) | 205 |
-| [Docker](./docker.md) | 100 |
+| [Kubernetes](./kubernetes.md) | 212 |
+| [Docker](./docker.md) | 101 |
 | [EKS](./eks.md) | 18 |
-| [ArgoCD](./argocd.md) | 8 |
+| [ArgoCD](./argocd.md) | 9 |
 | [Helm](./helm.md) | 7 |
 | [GKE](./gke.md) | 1 |
 
@@ -28,7 +28,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Terraform](./terraform.md) | 121 |
+| [Terraform](./terraform.md) | 127 |
 | [Ansible](./ansible.md) | 16 |
 
 ## CI/CD
@@ -36,16 +36,16 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Jenkins](./jenkins.md) | 84 |
-| [CI/CD](./ci-cd.md) | 68 |
+| [CI/CD](./ci-cd.md) | 72 |
 | [Deployment Strategies](./deployment-strategies.md) | 15 |
 | [Azure DevOps](./azure-devops.md) | 12 |
-| [GitHub Actions](./github-actions.md) | 7 |
+| [GitHub Actions](./github-actions.md) | 8 |
 
 ## Observability
 
 | Topic | Questions |
 | --- | ---: |
-| [Monitoring](./monitoring.md) | 19 |
+| [Monitoring](./monitoring.md) | 20 |
 | [Observability](./observability.md) | 14 |
 | [Prometheus](./prometheus.md) | 11 |
 | [Grafana](./grafana.md) | 6 |
@@ -62,9 +62,9 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | [Ingress](./ingress.md) | 10 |
 | [Networking](./networking.md) | 10 |
 | [Load Balancing](./load-balancing.md) | 9 |
-| [VPC](./vpc.md) | 6 |
-| [API Gateway](./api-gateway.md) | 4 |
-| [DNS](./dns.md) | 4 |
+| [VPC](./vpc.md) | 7 |
+| [API Gateway](./api-gateway.md) | 5 |
+| [DNS](./dns.md) | 5 |
 | [Service Mesh](./service-mesh.md) | 3 |
 | [CDN](./cdn.md) | 2 |
 
@@ -87,7 +87,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | [Incident Response](./incident-response.md) | 27 |
 | [Disaster Recovery](./disaster-recovery.md) | 14 |
 | [Capacity Planning](./capacity-planning.md) | 9 |
-| [High Availability](./high-availability.md) | 6 |
+| [High Availability](./high-availability.md) | 7 |
 | [SRE](./sre.md) | 5 |
 | [On-Call](./on-call.md) | 3 |
 | [Chaos Engineering](./chaos-engineering.md) | 2 |
@@ -97,7 +97,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Linux](./linux.md) | 24 |
+| [Linux](./linux.md) | 25 |
 | [Bash](./bash.md) | 8 |
 | [Shell Scripting](./shell-scripting.md) | 4 |
 
@@ -106,22 +106,22 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Git](./git.md) | 18 |
-| [Python](./python.md) | 9 |
+| [Python](./python.md) | 10 |
 
 ## Data & platforms
 
 | Topic | Questions |
 | --- | ---: |
-| [Databases](./databases.md) | 11 |
-| [Kafka](./kafka.md) | 7 |
-| [Storage](./storage.md) | 6 |
-| [Redis](./redis.md) | 1 |
+| [Databases](./databases.md) | 12 |
+| [Kafka](./kafka.md) | 10 |
+| [Storage](./storage.md) | 8 |
+| [Redis](./redis.md) | 2 |
 
 ## Architecture & cost
 
 | Topic | Questions |
 | --- | ---: |
-| [System Design](./system-design.md) | 22 |
+| [System Design](./system-design.md) | 23 |
 | [FinOps](./finops.md) | 6 |
 | [Microservices](./microservices.md) | 4 |
 
@@ -129,7 +129,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 618 |
+| [General](./general.md) | 648 |
 
 
 [← Home](../README.md)
