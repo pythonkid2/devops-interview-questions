@@ -4,13 +4,13 @@
 
 | Topic | Questions |
 | --- | ---: |
-| [General](../topics/general.md) | 609 |
-| [Kubernetes](../topics/kubernetes.md) | 204 |
+| [General](../topics/general.md) | 618 |
+| [Kubernetes](../topics/kubernetes.md) | 205 |
 | [Terraform](../topics/terraform.md) | 121 |
 | [AWS](../topics/aws.md) | 101 |
 | [Docker](../topics/docker.md) | 100 |
 | [Jenkins](../topics/jenkins.md) | 84 |
-| [CI/CD](../topics/ci-cd.md) | 67 |
+| [CI/CD](../topics/ci-cd.md) | 68 |
 | [Incident Response](../topics/incident-response.md) | 27 |
 | [Security](../topics/security.md) | 25 |
 | [Linux](../topics/linux.md) | 24 |

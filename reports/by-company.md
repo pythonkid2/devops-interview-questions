@@ -4,7 +4,7 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1362 |
+| [Unknown Company](../companies/unknown-company.md) | 1373 |
 | [Mphasis](../companies/mphasis.md) | 43 |
 | [TCS](../companies/tcs.md) | 38 |
 | [Accenture](../companies/accenture.md) | 32 |

@@ -37,6 +37,8 @@
   <a id="explain-one-challenging-production-incident-and-how-you-resolved-it"></a>
 - [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) — **2×** · Medium
   <a id="tell-us-about-a-production-incident-and-how-you-resolved-it"></a>
+- [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) — **2×** · Hard
+  <a id="walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do"></a>
 - [A critical production deployment fails during a global release, affecting 80 million users and resulting in an estimated ₹350 Crore business impact. How would you investigate the root cause, coordinate incident response, perform rollback or recovery, and implement preventive controls to eliminate similar failures in future releases?](../topics/incident-response.md#a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill) — **1×** · Hard
   <a id="a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill"></a>
 - [A failed production deployment across 1,200 microservices impacts 35 million customers within 30 minutes. What would be your incident response, rollback, and recovery strategy?](../topics/incident-response.md#a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust) — **1×** · Hard
@@ -73,8 +75,6 @@
   <a id="the-board-approves-a-600-crore-cloud-ai-and-platform-engineering-transformation-"></a>
 - [Walk me through a production incident you personally handled — what was your role?](../topics/incident-response.md#walk-me-through-a-production-incident-you-personally-handled-what-was-your-role) — **1×** · Hard
   <a id="walk-me-through-a-production-incident-you-personally-handled-what-was-your-role"></a>
-- [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) — **1×** · Hard
-  <a id="walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do"></a>
 - [Which 10 executive KPIs would you present monthly to measure platform reliability, deployment frequency, MTTR, change failure rate, cloud cost efficiency, infrastructure utilization, developer productivity, and SLA compliance?](../topics/incident-response.md#which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit) — **1×** · Medium
   <a id="which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit"></a>
 
@@ -113,6 +113,8 @@ _None in this band yet._
   <a id="how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident"></a>
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 3×
   <a id="explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec"></a>
+- [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) — 2×
+  <a id="walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do"></a>
 - [A critical production deployment fails during a global release, affecting 80 million users and resulting in an estimated ₹350 Crore business impact. How would you investigate the root cause, coordinate incident response, perform rollback or recovery, and implement preventive controls to eliminate similar failures in future releases?](../topics/incident-response.md#a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill) — 1×
   <a id="a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill"></a>
 - [A failed production deployment across 1,200 microservices impacts 35 million customers within 30 minutes. What would be your incident response, rollback, and recovery strategy?](../topics/incident-response.md#a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust) — 1×
@@ -137,8 +139,6 @@ _None in this band yet._
   <a id="tell-me-about-a-production-incident-you-caused"></a>
 - [Walk me through a production incident you personally handled — what was your role?](../topics/incident-response.md#walk-me-through-a-production-incident-you-personally-handled-what-was-your-role) — 1×
   <a id="walk-me-through-a-production-incident-you-personally-handled-what-was-your-role"></a>
-- [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) — 1×
-  <a id="walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do"></a>
 - [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — 1× · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
   <a id="your-organization-wants-to-implement-end-to-end-observability-across-microservic"></a>
 
@@ -181,6 +181,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) — 2026-07-29
 - [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 2026-07-28
 - [Walk me through a production incident you personally handled — what was your role?](../topics/incident-response.md#walk-me-through-a-production-incident-you-personally-handled-what-was-your-role) — 2026-07-27
 - [Which 10 executive KPIs would you present monthly to measure platform reliability, deployment frequency, MTTR, change failure rate, cloud cost efficiency, infrastructure utilization, developer productivity, and SLA compliance?](../topics/incident-response.md#which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit) — 2026-07-27
@@ -195,7 +196,6 @@ _None in this band yet._
 - [Incident Response](../topics/incident-response.md#incident-response) — 2026-07-26
 - [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident) — 2026-07-26
 - [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) — 2026-07-26
-- [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident) — 2026-07-26
 
 ## Related topics
 
@@ -234,7 +234,7 @@ _None in this band yet._
 | [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) | Medium | 2 |
 | [The Board approves a ₹600 Crore Cloud, AI, and Platform Engineering Transformation with an expectation of 50% faster deployments and 70% reduction in MTTR within 18 months. What execution strategy would you recommend?](../topics/incident-response.md#the-board-approves-a-600-crore-cloud-ai-and-platform-engineering-transformation-) | Medium | 1 |
 | [Walk me through a production incident you personally handled — what was your role?](../topics/incident-response.md#walk-me-through-a-production-incident-you-personally-handled-what-was-your-role) | Hard | 1 |
-| [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) | Hard | 1 |
+| [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) | Hard | 2 |
 | [Which 10 executive KPIs would you present monthly to measure platform reliability, deployment frequency, MTTR, change failure rate, cloud cost efficiency, infrastructure utilization, developer productivity, and SLA compliance?](../topics/incident-response.md#which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit) | Medium | 1 |
 | [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you) | Medium | 1 |
 | [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) | Hard | 1 |

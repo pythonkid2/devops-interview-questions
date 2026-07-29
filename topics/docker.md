@@ -49,6 +49,8 @@
   <a id="docker-architectures"></a>
 - [Docker layers](../topics/docker.md#docker-layers) — **2×** · Medium
   <a id="docker-layers"></a>
+- [Docker networking](../topics/docker.md#docker-networking) — **2×** · Medium
+  <a id="docker-networking"></a>
 - [Explain the Docker container lifecycle.](../topics/docker.md#explain-the-docker-container-lifecycle) — **2×** · Medium
   <a id="explain-the-docker-container-lifecycle"></a>
 - [How do you access a running container?](../topics/docker.md#how-do-you-access-a-running-container) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="what-happens-in-each-stage-of-a-docker-build-and-why-do-entrypoint-and-cmd-matte"></a>
 - [What is a Docker container?](../topics/docker.md#what-is-a-docker-container) — **2×** · Easy
   <a id="what-is-a-docker-container"></a>
-- [What is a Docker image?](../topics/docker.md#what-is-a-docker-image) — **2×** · Easy
-  <a id="what-is-a-docker-image"></a>
 
 ## Beginner
 
@@ -161,6 +161,8 @@
   <a id="docker-architectures"></a>
 - [Docker layers](../topics/docker.md#docker-layers) — 2×
   <a id="docker-layers"></a>
+- [Docker networking](../topics/docker.md#docker-networking) — 2×
+  <a id="docker-networking"></a>
 - [Explain the Docker container lifecycle.](../topics/docker.md#explain-the-docker-container-lifecycle) — 2×
   <a id="explain-the-docker-container-lifecycle"></a>
 - [How do you access a running container?](../topics/docker.md#how-do-you-access-a-running-container) — 2×
@@ -203,8 +205,6 @@
   <a id="docker-fundamentals-for-net"></a>
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 1×
   <a id="docker-images-containers-multi-stage-builds"></a>
-- [Docker networking](../topics/docker.md#docker-networking) — 1×
-  <a id="docker-networking"></a>
 - [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) — 1×
   <a id="docker-volumes-data-persistence-issues"></a>
 - [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines) — 1×
@@ -402,7 +402,7 @@
 
 ## Recently added
 
-- [Docker networking](../topics/docker.md#docker-networking) — 2026-07-28
+- [Docker networking](../topics/docker.md#docker-networking) — 2026-07-29
 - [Can you write a command to add volume or bind mount in container](../topics/docker.md#can-you-write-a-command-to-add-volume-or-bind-mount-in-container) — 2026-07-27
 - [What is the command to run a container](../topics/docker.md#what-is-the-command-to-run-a-container) — 2026-07-27
 - [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) — 2026-07-27
@@ -447,7 +447,7 @@
 | [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) | Medium | 1 |
 | [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) | Medium | 1 |
 | [Docker layers](../topics/docker.md#docker-layers) | Medium | 2 |
-| [Docker networking](../topics/docker.md#docker-networking) | Medium | 1 |
+| [Docker networking](../topics/docker.md#docker-networking) | Medium | 2 |
 | [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) | Medium | 1 |
 | [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines) | Medium | 1 |
 | [docker zero](../topics/docker.md#docker-zero) | Medium | 1 |

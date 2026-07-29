@@ -39,6 +39,8 @@
   <a id="explain-the-microservices-architecture-you-ve-worked-on"></a>
 - [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — **2×** · Medium
   <a id="explain-your-project-architecture-from-a-devops-perspective"></a>
+- [System Design](../topics/system-design.md#system-design) — **2×** · Hard
+  <a id="system-design"></a>
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — **2×** · Medium
   <a id="what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar"></a>
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) — **1×** · Hard
@@ -65,8 +67,6 @@
   <a id="scalability-vs-elasticity"></a>
 - [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) — **1×** · Hard
   <a id="solid-understanding-of-data-structures-algorithms-dsa-and-system-design"></a>
-- [System Design](../topics/system-design.md#system-design) — **1×** · Hard
-  <a id="system-design"></a>
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — **1×** · Hard
   <a id="understand-trade-offs-across-architecture-and-operations"></a>
 - [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) — **1×** · Medium
@@ -103,6 +103,8 @@ _None in this band yet._
   <a id="design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a"></a>
 - [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on) — 2×
   <a id="explain-the-microservices-architecture-you-ve-worked-on"></a>
+- [System Design](../topics/system-design.md#system-design) — 2×
+  <a id="system-design"></a>
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) — 1×
   <a id="apache-spark-architecture-catalyst-optimizer"></a>
 - [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) — 1×
@@ -121,8 +123,6 @@ _None in this band yet._
   <a id="how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications"></a>
 - [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) — 1×
   <a id="solid-understanding-of-data-structures-algorithms-dsa-and-system-design"></a>
-- [System Design](../topics/system-design.md#system-design) — 1×
-  <a id="system-design"></a>
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — 1×
   <a id="understand-trade-offs-across-architecture-and-operations"></a>
 
@@ -168,9 +168,9 @@ _None in this band yet._
 
 ## Recently added
 
+- [System Design](../topics/system-design.md#system-design) — 2026-07-29
 - [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) — 2026-07-28
 - [Design and build scalable backend services using Node.js](../topics/system-design.md#design-and-build-scalable-backend-services-using-node-js) — 2026-07-28
-- [System Design](../topics/system-design.md#system-design) — 2026-07-28
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — 2026-07-28
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — 2026-07-27
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) — 2026-07-27
@@ -211,7 +211,7 @@ _None in this band yet._
 | [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) | Hard | 5 |
 | [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) | Medium | 1 |
 | [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) | Hard | 1 |
-| [System Design](../topics/system-design.md#system-design) | Hard | 1 |
+| [System Design](../topics/system-design.md#system-design) | Hard | 2 |
 | [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) | Hard | 1 |
 | [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) | Medium | 2 |
 | [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) | Medium | 1 |

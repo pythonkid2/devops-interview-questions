@@ -6,18 +6,18 @@
 
 | Metric | Value |
 | --- | ---: |
-| Questions | 1362 |
+| Questions | 1373 |
 | Topics covered | 61 |
 
 ## Topics asked
 
-- [General](../topics/general.md) — 478
-- [Kubernetes](../topics/kubernetes.md) — 170
+- [General](../topics/general.md) — 487
+- [Kubernetes](../topics/kubernetes.md) — 171
 - [Docker](../topics/docker.md) — 92
 - [Terraform](../topics/terraform.md) — 91
 - [AWS](../topics/aws.md) — 81
 - [Jenkins](../topics/jenkins.md) — 60
-- [CI/CD](../topics/ci-cd.md) — 51
+- [CI/CD](../topics/ci-cd.md) — 52
 - [Linux](../topics/linux.md) — 23
 - [Incident Response](../topics/incident-response.md) — 21
 - [Git](../topics/git.md) — 17
@@ -308,6 +308,7 @@
 - [What are the different sections in declarative pipeline?](../topics/ci-cd.md#what-are-the-different-sections-in-declarative-pipeline) — Easy
 - [What are the different ways to create a pipeline?](../topics/ci-cd.md#what-are-the-different-ways-to-create-a-pipeline) — Easy
 - [What branching strategy do you follow in your projects?](../topics/ci-cd.md#what-branching-strategy-do-you-follow-in-your-projects) — Easy
+- [What CI/CD pipelines have you built or maintained, and how did they improve software delivery, deployment speed, and release quality?](../topics/ci-cd.md#what-ci-cd-pipelines-have-you-built-or-maintained-and-how-did-they-improve-softw) — Medium
 - [What happens internally in a CI/CD pipeline from commit → deploy?](../topics/ci-cd.md#what-happens-internally-in-a-ci-cd-pipeline-from-commit-deploy) — Medium
 - [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) — Medium
 - [What is pipeline as code and how do you implement it?](../topics/ci-cd.md#what-is-pipeline-as-code-and-how-do-you-implement-it) — Easy
@@ -652,9 +653,11 @@
 - [How do different teams work together during a production issue?](../topics/general.md#how-do-different-teams-work-together-during-a-production-issue) — Hard
 - [How do I create a job profile and write what I learned in my own words?](../topics/general.md#how-do-i-create-a-job-profile-and-write-what-i-learned-in-my-own-words) — Easy
 - [How do you approach infrastructure as code?](../topics/general.md#how-do-you-approach-infrastructure-as-code) — Medium
+- [How do you automate build, testing, deployment, and release processes using modern DevOps tools and practices?](../topics/general.md#how-do-you-automate-build-testing-deployment-and-release-processes-using-modern-) — Medium
 - [How do you build an engineering culture where SLOs are owned, not ignored?](../topics/general.md#how-do-you-build-an-engineering-culture-where-slos-are-owned-not-ignored) — Medium
 - [How do you check whether a port is open or listening?](../topics/general.md#how-do-you-check-whether-a-port-is-open-or-listening) — Medium
 - [How do you collaborate with development teams to improve application reliability, deployment speed, and operational excellence?](../topics/general.md#how-do-you-collaborate-with-development-teams-to-improve-application-reliability) — Medium
+- [How do you collaborate with software developers, QA teams, operations, and security teams to improve delivery efficiency and operational excellence?](../topics/general.md#how-do-you-collaborate-with-software-developers-qa-teams-operations-and-security) — Medium
 - [How do you configure GitHub Enterprise?](../topics/general.md#how-do-you-configure-github-enterprise) — Medium
 - [How do you configure passwordless SSH?](../topics/general.md#how-do-you-configure-passwordless-ssh) — Medium
 - [How do you correlate logs, metrics, and traces?](../topics/general.md#how-do-you-correlate-logs-metrics-and-traces) — Medium
@@ -665,6 +668,7 @@
 - [How do you enforce branch protection rules?](../topics/general.md#how-do-you-enforce-branch-protection-rules) — Medium
 - [How do you ensure all negative scenarios are covered for a form?](../topics/general.md#how-do-you-ensure-all-negative-scenarios-are-covered-for-a-form) — Medium
 - [How do you ensure code quality in a large development team? Discuss code reviews, unit testing, design patterns, static analysis, and documentation.](../topics/general.md#how-do-you-ensure-code-quality-in-a-large-development-team-discuss-code-reviews-) — Hard
+- [How do you ensure environment consistency across development, testing, staging, and production environments?](../topics/general.md#how-do-you-ensure-environment-consistency-across-development-testing-staging-and) — Hard
 - [How do you ensure user stories are truly “ready” before sprint planning?](../topics/general.md#how-do-you-ensure-user-stories-are-truly-ready-before-sprint-planning) — Medium
 - [How do you ensure your documentation is actually usable for dev & QA teams?](../topics/general.md#how-do-you-ensure-your-documentation-is-actually-usable-for-dev-qa-teams) — Medium
 - [How do you filter the previous day's logs?](../topics/general.md#how-do-you-filter-the-previous-day-s-logs) — Medium
@@ -683,6 +687,7 @@
 - [How do you mentor junior DevOps engineers while ensuring project deadlines are met?](../topics/general.md#how-do-you-mentor-junior-devops-engineers-while-ensuring-project-deadlines-are-m) — Medium
 - [How do you migrate repositories?](../topics/general.md#how-do-you-migrate-repositories) — Medium
 - [How do you monitor a .NET application in production (e.g., Application Insights)?](../topics/general.md#how-do-you-monitor-a-net-application-in-production-e-g-application-insights) — Hard
+- [How do you monitor application deployments, infrastructure health, and production performance to ensure reliable service delivery?](../topics/general.md#how-do-you-monitor-application-deployments-infrastructure-health-and-production-) — Hard
 - [How do you monitor application performance in production?](../topics/general.md#how-do-you-monitor-application-performance-in-production) — Hard
 - [How do you optimize the performance of a Spring Boot application?](../topics/general.md#how-do-you-optimize-the-performance-of-a-spring-boot-application) — Medium
 - [How do you perform infrastructure changes in a production environment while ensuring minimal downtime?](../topics/general.md#how-do-you-perform-infrastructure-changes-in-a-production-environment-while-ensu) — Hard
@@ -787,6 +792,9 @@
 - [Suppose there are 5 , how would you connect them or allow them to communicate?](../topics/general.md#suppose-there-are-5-how-would-you-connect-them-or-allow-them-to-communicate) — Medium
 - [System is showing wrong EMI for only 3 out of 5000 customers. Where do you start investigation?](../topics/general.md#system-is-showing-wrong-emi-for-only-3-out-of-5000-customers-where-do-you-start-) — Medium
 - [TCP vs UDP?](../topics/general.md#tcp-vs-udp) — Medium
+- [Tell me about a challenging project.](../topics/general.md#tell-me-about-a-challenging-project) — Medium
+- [Tell me about a failed deployment you handled. How did you troubleshoot the issue, restore services, and prevent similar failures in the future?](../topics/general.md#tell-me-about-a-failed-deployment-you-handled-how-did-you-troubleshoot-the-issue) — Medium
+- [Tell me about a major DevOps improvement you implemented. What challenges did you overcome, and what measurable business value did it deliver?](../topics/general.md#tell-me-about-a-major-devops-improvement-you-implemented-what-challenges-did-you) — Medium
 - [Tell me about a time your infrastructure decision didn't scale — what did you change?](../topics/general.md#tell-me-about-a-time-your-infrastructure-decision-didn-t-scale-what-did-you-chan) — Hard
 - [Tell me about the worst production issue you personally handled.](../topics/general.md#tell-me-about-the-worst-production-issue-you-personally-handled) — Hard
 - [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) — Medium
@@ -916,6 +924,7 @@
 - [What is Variable Group?](../topics/general.md#what-is-variable-group) — Easy
 - [What is your application technology stack?](../topics/general.md#what-is-your-application-technology-stack) — Easy
 - [What is your approach to Infrastructure as Code (IaC)? Which tools do you use, and why?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-do-you-use-and-w) — Medium
+- [What is your approach to Infrastructure as Code (IaC)? Which tools have you implemented, and what business value did they deliver?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-have-you-impleme) — Medium
 - [What is your deployment strategy](../topics/general.md#what-is-your-deployment-strategy) — Easy
 - [What is your experience with GitHub Enterprise?](../topics/general.md#what-is-your-experience-with-github-enterprise) — Easy
 - [What is your future aspiration?](../topics/general.md#what-is-your-future-aspiration) — Easy
@@ -954,6 +963,7 @@
 - [Which dependencies are defined in your pom.xml?](../topics/general.md#which-dependencies-are-defined-in-your-pom-xml) — Medium
 - [Which parameter you are using to populate value for your parameter dynamically?](../topics/general.md#which-parameter-you-are-using-to-populate-value-for-your-parameter-dynamically) — Medium
 - [Which production issues have you faced, and how did you troubleshoot them?](../topics/general.md#which-production-issues-have-you-faced-and-how-did-you-troubleshoot-them) — Medium
+- [Which source control, version management, and release automation tools have you used, and how have they improved development workflows?](../topics/general.md#which-source-control-version-management-and-release-automation-tools-have-you-us) — Medium
 - [Why applications crash during high traffic](../topics/general.md#why-applications-crash-during-high-traffic) — Medium
 - [Why do you push code to the main branch?](../topics/general.md#why-do-you-push-code-to-the-main-branch) — Medium
 - [Why do you want to become a DevOps Engineer?](../topics/general.md#why-do-you-want-to-become-a-devops-engineer) — Medium
@@ -1319,6 +1329,7 @@
 - [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — Easy · tags: `Docker`
 - [What is the one insight that makes you sound senior in Kubernetes?](../topics/kubernetes.md#what-is-the-one-insight-that-makes-you-sound-senior-in-kubernetes) — Easy
 - [What is the Troubleshooting Playbook for Kubernetes?](../topics/kubernetes.md#what-is-the-troubleshooting-playbook-for-kubernetes) — Easy · tags: `Ansible`
+- [What is your experience with containerization and orchestration technologies such as Docker, Kubernetes, and OpenShift, and how have you used them in production environments?](../topics/kubernetes.md#what-is-your-experience-with-containerization-and-orchestration-technologies-suc) — Hard · tags: `Docker`
 - [What metrics and logs did you monitor after deployment?](../topics/kubernetes.md#what-metrics-and-logs-did-you-monitor-after-deployment) — Medium
 - [What steps would you take if a Kubernetes pod is stuck in CrashLoopBackOff?](../topics/kubernetes.md#what-steps-would-you-take-if-a-kubernetes-pod-is-stuck-in-crashloopbackoff) — Medium
 - [What type of Instances used for worker nodes in kubernetes?](../topics/kubernetes.md#what-type-of-instances-used-for-worker-nodes-in-kubernetes) — Medium
@@ -1645,22 +1656,22 @@
 
 ## Interview rounds
 
-- Unspecified — 1313
+- Unspecified — 1324
 - Technical Round 1 — 35
 - Managerial — 11
 - Technical — 3
 
 ## Recently added
 
-- [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — 2026-07-28
-- [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-) — 2026-07-28
-- [How do you test your knowledge before the exam day?](../topics/general.md#how-do-you-test-your-knowledge-before-the-exam-day) — 2026-07-28
-- [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization) — 2026-07-28
-- [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security) — 2026-07-28
-- [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) — 2026-07-28
-- [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with) — 2026-07-28
-- [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) — 2026-07-28
-- [What are the key areas of focus for the DVA-C02 exam?](../topics/general.md#what-are-the-key-areas-of-focus-for-the-dva-c02-exam) — 2026-07-28
-- [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) — 2026-07-28
+- [System Design](../topics/system-design.md#system-design) — 2026-07-29
+- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2026-07-29 · tags: `GitHub Actions`
+- [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — 2026-07-29 · tags: `Azure`, `GCP`
+- [Terraform modules](../topics/terraform.md#terraform-modules) — 2026-07-29
+- [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) — 2026-07-29
+- [Docker networking](../topics/docker.md#docker-networking) — 2026-07-29
+- [Kubernetes internals](../topics/kubernetes.md#kubernetes-internals) — 2026-07-29
+- [Different type of concurrent collections used in project.](../topics/general.md#different-type-of-concurrent-collections-used-in-project) — 2026-07-29
+- [Comparable vs Comparator.](../topics/general.md#comparable-vs-comparator) — 2026-07-29
+- [Hibernate vs JPA.](../topics/general.md#hibernate-vs-jpa) — 2026-07-29
 
 [← All companies](./README.md) · [Home](../README.md)

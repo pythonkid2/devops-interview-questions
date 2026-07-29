@@ -17,7 +17,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Kubernetes](./kubernetes.md) | 204 |
+| [Kubernetes](./kubernetes.md) | 205 |
 | [Docker](./docker.md) | 100 |
 | [EKS](./eks.md) | 18 |
 | [ArgoCD](./argocd.md) | 8 |
@@ -36,7 +36,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Jenkins](./jenkins.md) | 84 |
-| [CI/CD](./ci-cd.md) | 67 |
+| [CI/CD](./ci-cd.md) | 68 |
 | [Deployment Strategies](./deployment-strategies.md) | 15 |
 | [Azure DevOps](./azure-devops.md) | 12 |
 | [GitHub Actions](./github-actions.md) | 7 |
@@ -129,7 +129,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 609 |
+| [General](./general.md) | 618 |
 
 
 [← Home](../README.md)

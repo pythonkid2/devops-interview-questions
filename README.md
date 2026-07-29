@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-1741-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-699-informational)
+![questions](https://img.shields.io/badge/questions-1752-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-729-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -10,7 +10,7 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 1. [Topics](./topics/README.md) — Kubernetes, AWS, Terraform, Docker, Linux, …
 2. [Companies](./companies/README.md) — PwC, TCS, Infosys, …
-3. [Most asked](./study-guides/most-asked.md)
+3. [Most asked](./study-guides/most-asked.md) — or [Easy](./study-guides/most-asked-easy.md) · [Medium](./study-guides/most-asked-medium.md) · [Hard](./study-guides/most-asked-hard.md)
 4. [By difficulty](./study-guides/by-difficulty.md)
 5. [Tags](./study-guides/tags.md) — secondary concepts (not folders)
 
@@ -18,18 +18,18 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 1741 |
-| Posts processed | 699 |
-| Added this week | 423 |
+| Unique questions | 1752 |
+| Posts processed | 729 |
+| Added this week | 434 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 204
+- [Kubernetes](./topics/kubernetes.md) — 205
 - [Terraform](./topics/terraform.md) — 121
 - [AWS](./topics/aws.md) — 101
 - [Docker](./topics/docker.md) — 100
 - [Jenkins](./topics/jenkins.md) — 84
-- [CI/CD](./topics/ci-cd.md) — 67
+- [CI/CD](./topics/ci-cd.md) — 68
 - [Incident Response](./topics/incident-response.md) — 27
 - [Security](./topics/security.md) — 25
 - [Linux](./topics/linux.md) — 24
@@ -54,7 +54,7 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 README.md
 topics/          # one study-guide page per technology
 companies/       # employer pages (with questions only)
-study-guides/    # most-asked · difficulty · rounds
+study-guides/    # most-asked · most-asked by level · difficulty · rounds
 reports/         # top-100 · growth · breakdowns
 questions/       # detail pages only when answers are enriched
 ```

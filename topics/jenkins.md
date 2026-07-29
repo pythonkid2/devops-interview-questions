@@ -39,6 +39,8 @@
   <a id="a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible"></a>
 - [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) — **2×** · Medium
   <a id="a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process"></a>
+- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — **2×** · Medium · tags: `CI/CD`
+  <a id="a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha"></a>
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — **2×** · Medium
   <a id="a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo"></a>
 - [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — **2×** · Medium
@@ -73,10 +75,8 @@
   <a id="how-does-jenkins-trigger-automatically-after-a-github-push"></a>
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — **2×** · Medium
   <a id="if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t"></a>
-- [The build works locally but fails in Jenkins. What would you check first?](../topics/jenkins.md#the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first) — **2×** · Medium
-  <a id="the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first"></a>
-- [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — **2×** · Medium
-  <a id="walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi"></a>
+- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — **2×** · Medium · tags: `GitHub Actions`
+  <a id="jenkins-github-actions"></a>
 
 ## Beginner
 
@@ -99,6 +99,8 @@
   <a id="a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible"></a>
 - [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) — 2×
   <a id="a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process"></a>
+- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — 2× · tags: `CI/CD`
+  <a id="a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha"></a>
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — 2×
   <a id="a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo"></a>
 - [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — 2×
@@ -133,6 +135,8 @@
   <a id="how-does-jenkins-trigger-automatically-after-a-github-push"></a>
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — 2×
   <a id="if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t"></a>
+- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2× · tags: `GitHub Actions`
+  <a id="jenkins-github-actions"></a>
 - [The build works locally but fails in Jenkins. What would you check first?](../topics/jenkins.md#the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first) — 2×
   <a id="the-build-works-locally-but-fails-in-jenkins-what-would-you-check-first"></a>
 - [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 2×
@@ -169,8 +173,6 @@
   <a id="a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble"></a>
 - [A Jenkins pipeline completes successfully, but the application is not deployed. How would you identify where the deployment actually failed?](../topics/jenkins.md#a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho) — 1× · tags: `CI/CD`
   <a id="a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho"></a>
-- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — 1× · tags: `CI/CD`
-  <a id="a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha"></a>
 - [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) — 1× · tags: `Shell Scripting`
   <a id="a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can"></a>
 - [Explain your experience with Jenkins and GitLab CI/CD.](../topics/jenkins.md#explain-your-experience-with-jenkins-and-gitlab-ci-cd) — 1× · tags: `GitLab CI`, `CI/CD`
@@ -217,8 +219,6 @@
   <a id="jenkins-pipeline-automation"></a>
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 1× · tags: `CI/CD`
   <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
-- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 1× · tags: `GitHub Actions`
-  <a id="jenkins-github-actions"></a>
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 1× · tags: `AWS`
   <a id="launch-jenkins-on-an-ec2-instance"></a>
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 1×
@@ -361,14 +361,14 @@
 
 ## Recently added
 
+- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2026-07-29 · tags: `GitHub Actions`
+- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — 2026-07-29 · tags: `CI/CD`
 - [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — 2026-07-28
-- [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2026-07-28 · tags: `GitHub Actions`
 - [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) — 2026-07-27
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 2026-07-27 · tags: `AWS`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-26
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2026-07-26 · tags: `CI/CD`
 - [Jenkins](../topics/jenkins.md#jenkins) — 2026-07-26
-- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — 2026-07-26 · tags: `CI/CD`
 - [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 2026-07-26
 - [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) — 2026-07-26
 - [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) — 2026-07-26
@@ -395,7 +395,7 @@
 | [A Jenkins pipeline completed successfully, but the latest changes are not visible in production. What components would you verify before concluding the deployment failed?](../topics/jenkins.md#a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible) | Medium | 2 |
 | [A Jenkins pipeline completes successfully, but the application is not deployed. How would you identify where the deployment actually failed?](../topics/jenkins.md#a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho) | Medium | 1 |
 | [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) | Medium | 2 |
-| [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) | Medium | 1 |
+| [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) | Medium | 2 |
 | [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) | Medium | 2 |
 | [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) | Medium | 1 |
 | [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) | Medium | 2 |
@@ -440,7 +440,7 @@
 | [Jenkins](../topics/jenkins.md#jenkins) | Medium | 1 |
 | [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) | Medium | 1 |
 | [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) | Medium | 1 |
-| [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) | Medium | 1 |
+| [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) | Medium | 2 |
 | [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) | Medium | 1 |
 | [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) | Medium | 1 |
 | [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) | Medium | 1 |

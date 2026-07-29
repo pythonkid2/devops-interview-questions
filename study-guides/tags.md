@@ -12,8 +12,8 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `Azure` | 24 |
 | `AWS` | 23 |
 | `Kubernetes` | 20 |
+| `Docker` | 14 |
 | `System Design` | 14 |
-| `Docker` | 13 |
 | `Monitoring` | 13 |
 | `Grafana` | 7 |
 | `DNS` | 6 |
@@ -218,6 +218,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How does docker use namespace and Cgroups?](../topics/kubernetes.md#how-does-docker-use-namespace-and-cgroups) — Kubernetes · tags: `Docker`
 - [Security reports that a Pod is making outbound calls to an unauthorized external IP. How would you handle a suspected compromised container?](../topics/kubernetes.md#security-reports-that-a-pod-is-making-outbound-calls-to-an-unauthorized-external) — Kubernetes · tags: `Docker`
 - [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — Kubernetes · tags: `Docker`
+- [What is your experience with containerization and orchestration technologies such as Docker, Kubernetes, and OpenShift, and how have you used them in production environments?](../topics/kubernetes.md#what-is-your-experience-with-containerization-and-orchestration-technologies-suc) — Kubernetes · tags: `Docker`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
 ## ELK
