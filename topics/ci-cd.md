@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **CI/CD**
 
-**72** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**75** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 72 |
-| Easy / Medium / Hard | 12 / 48 / 12 |
+| Questions | 75 |
+| Easy / Medium / Hard | 12 / 50 / 13 |
 | Companies | 12 |
 
 ## Most asked
@@ -163,10 +163,14 @@
   <a id="how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you"></a>
 - [How do you ensure developers cannot merge code unless all mandatory pipeline stages are successful?](../topics/ci-cd.md#how-do-you-ensure-developers-cannot-merge-code-unless-all-mandatory-pipeline-sta) — 1×
   <a id="how-do-you-ensure-developers-cannot-merge-code-unless-all-mandatory-pipeline-sta"></a>
+- [How do you handle the rollbacks in CICD ?](../topics/ci-cd.md#how-do-you-handle-the-rollbacks-in-cicd) — 1×
+  <a id="how-do-you-handle-the-rollbacks-in-cicd"></a>
 - [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments) — 1×
   <a id="how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments"></a>
 - [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../topics/ci-cd.md#how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a) — 1×
   <a id="how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a"></a>
+- [How do you set up a CICD pipeline for an AWS-hosted application?](../topics/ci-cd.md#how-do-you-set-up-a-cicd-pipeline-for-an-aws-hosted-application) — 1× · tags: `AWS`
+  <a id="how-do-you-set-up-a-cicd-pipeline-for-an-aws-hosted-application"></a>
 - [How does a pipeline handle parallel jobs and dependencies?](../topics/ci-cd.md#how-does-a-pipeline-handle-parallel-jobs-and-dependencies) — 1×
   <a id="how-does-a-pipeline-handle-parallel-jobs-and-dependencies"></a>
 - [How have you used artifact repositories in your CI/CD pipelines?](../topics/ci-cd.md#how-have-you-used-artifact-repositories-in-your-ci-cd-pipelines) — 1×
@@ -224,6 +228,8 @@
   <a id="what-is-the-difference-between-jenkins-github-actions-and-bitbucket-pipelines"></a>
 - [Why does a Canvas App work perfectly in Dev but fail in Production, and how do you troubleshoot it?](../topics/ci-cd.md#why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo) — 2×
   <a id="why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo"></a>
+- [CI/CD pipeline failures & production rollback](../topics/ci-cd.md#ci-cd-pipeline-failures-production-rollback) — 1×
+  <a id="ci-cd-pipeline-failures-production-rollback"></a>
 - [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/ci-cd.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont) — 1×
   <a id="devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont"></a>
 - [How would you design a CI/CD pipeline with an automatic rollback strategy?](../topics/ci-cd.md#how-would-you-design-a-ci-cd-pipeline-with-an-automatic-rollback-strategy) — 1×
@@ -261,6 +267,7 @@
 - [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines)
 - [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project)
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — tags: `System Design`
+- [CI/CD pipeline failures & production rollback](../topics/ci-cd.md#ci-cd-pipeline-failures-production-rollback)
 - [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro)
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow)
 - [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha)
@@ -275,11 +282,13 @@
 - [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you)
 - [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-)
 - [How do you ensure developers cannot merge code unless all mandatory pipeline stages are successful?](../topics/ci-cd.md#how-do-you-ensure-developers-cannot-merge-code-unless-all-mandatory-pipeline-sta)
+- [How do you handle the rollbacks in CICD ?](../topics/ci-cd.md#how-do-you-handle-the-rollbacks-in-cicd)
 - [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments)
 - [How do you implement rollback if deployment fails?](../topics/ci-cd.md#how-do-you-implement-rollback-if-deployment-fails)
 - [How do you implement zero-downtime deployments?](../topics/ci-cd.md#how-do-you-implement-zero-downtime-deployments)
 - [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../topics/ci-cd.md#how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a)
 - [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines)
+- [How do you set up a CICD pipeline for an AWS-hosted application?](../topics/ci-cd.md#how-do-you-set-up-a-cicd-pipeline-for-an-aws-hosted-application) — tags: `AWS`
 - [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline)
 - [How does a pipeline handle parallel jobs and dependencies?](../topics/ci-cd.md#how-does-a-pipeline-handle-parallel-jobs-and-dependencies)
 - [How would you design a CI/CD pipeline with an automatic rollback strategy?](../topics/ci-cd.md#how-would-you-design-a-ci-cd-pipeline-with-an-automatic-rollback-strategy)
@@ -334,6 +343,9 @@
 
 ## Recently added
 
+- [CI/CD pipeline failures & production rollback](../topics/ci-cd.md#ci-cd-pipeline-failures-production-rollback) — 2026-07-30
+- [How do you handle the rollbacks in CICD ?](../topics/ci-cd.md#how-do-you-handle-the-rollbacks-in-cicd) — 2026-07-30
+- [How do you set up a CICD pipeline for an AWS-hosted application?](../topics/ci-cd.md#how-do-you-set-up-a-cicd-pipeline-for-an-aws-hosted-application) — 2026-07-30 · tags: `AWS`
 - [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end) — 2026-07-29
 - [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) — 2026-07-29
 - [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) — 2026-07-29
@@ -346,9 +358,6 @@
 - [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) — 2026-07-28
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — 2026-07-28 · tags: `System Design`
 - [What would you do if your data pipeline suddenly started producing incorrect results?](../topics/ci-cd.md#what-would-you-do-if-your-data-pipeline-suddenly-started-producing-incorrect-res) — 2026-07-27
-- [Your CI/CD platform executes 25,000 deployments per month, but deployment success has dropped from 99.5% to 91%. How would you identify and eliminate the root causes?](../topics/ci-cd.md#your-ci-cd-platform-executes-25000-deployments-per-month-but-deployment-success-) — 2026-07-27
-- [Run a Hello World pipeline.](../topics/ci-cd.md#run-a-hello-world-pipeline) — 2026-07-27
-- [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) — 2026-07-26
 
 ## Related topics
 
@@ -368,6 +377,7 @@
 | [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) | Medium | 1 |
 | [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) | Medium | 1 |
 | [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) | Hard | 5 |
+| [CI/CD pipeline failures & production rollback](../topics/ci-cd.md#ci-cd-pipeline-failures-production-rollback) | Hard | 1 |
 | [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro) | Hard | 2 |
 | [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) | Easy | 3 |
 | [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha) | Medium | 1 |
@@ -385,11 +395,13 @@
 | [How do you debug a failed CI/CD pipeline in GitLab? What are the first things you check?](../topics/ci-cd.md#how-do-you-debug-a-failed-ci-cd-pipeline-in-gitlab-what-are-the-first-things-you) | Medium | 1 |
 | [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) | Hard | 3 |
 | [How do you ensure developers cannot merge code unless all mandatory pipeline stages are successful?](../topics/ci-cd.md#how-do-you-ensure-developers-cannot-merge-code-unless-all-mandatory-pipeline-sta) | Medium | 1 |
+| [How do you handle the rollbacks in CICD ?](../topics/ci-cd.md#how-do-you-handle-the-rollbacks-in-cicd) | Medium | 1 |
 | [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/ci-cd.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments) | Medium | 1 |
 | [How do you implement rollback if deployment fails?](../topics/ci-cd.md#how-do-you-implement-rollback-if-deployment-fails) | Medium | 2 |
 | [How do you implement zero-downtime deployments?](../topics/ci-cd.md#how-do-you-implement-zero-downtime-deployments) | Medium | 2 |
 | [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../topics/ci-cd.md#how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a) | Medium | 1 |
 | [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) | Medium | 3 |
+| [How do you set up a CICD pipeline for an AWS-hosted application?](../topics/ci-cd.md#how-do-you-set-up-a-cicd-pipeline-for-an-aws-hosted-application) | Medium | 1 |
 | [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) | Medium | 4 |
 | [How does a pipeline handle parallel jobs and dependencies?](../topics/ci-cd.md#how-does-a-pipeline-handle-parallel-jobs-and-dependencies) | Medium | 1 |
 | [How have you used artifact repositories in your CI/CD pipelines?](../topics/ci-cd.md#how-have-you-used-artifact-repositories-in-your-ci-cd-pipelines) | Medium | 1 |

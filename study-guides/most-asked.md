@@ -86,27 +86,27 @@ Browse by level: [Easy](./most-asked-easy.md) · [Medium](./most-asked-medium.md
 | 76 | [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) | Kubernetes | 3 |
 | 77 | [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) | Kubernetes | 3 |
 | 78 | [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) | Kubernetes | 3 |
-| 79 | [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) | Incident Response | 3 |
-| 80 | [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) | General | 3 |
-| 81 | [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | AWS | 3 |
-| 82 | [What happened?](../topics/general.md#what-happened) | General | 3 |
-| 83 | [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Ingress | 3 |
-| 84 | [What is Git?](../topics/git.md#what-is-git) | Git | 3 |
-| 85 | [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) | Jenkins | 3 |
-| 86 | [What is Linux?](../topics/linux.md#what-is-linux) | Linux | 3 |
-| 87 | [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) | Terraform | 3 |
-| 88 | [What is your approach to Infrastructure as Code (IaC)? Which tools do you use, and why?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-do-you-use-and-w) | General | 3 |
-| 89 | [What Service Level Objectives (SLOs), Service Level Indicators (SLIs), and error budgets have you managed, and how did they influence engineering decisions?](../topics/general.md#what-service-level-objectives-slos-service-level-indicators-slis-and-error-budge) | General | 3 |
-| 90 | [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) | FinOps | 3 |
-| 91 | [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) | Docker | 3 |
-| 92 | [A bug occurs only during peak traffic. How would you capture and investigate it?](../topics/general.md#a-bug-occurs-only-during-peak-traffic-how-would-you-capture-and-investigate-it) | General | 2 |
-| 93 | [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) | General | 2 |
-| 94 | [A critical vulnerability is discovered in production. What is your approach?](../topics/general.md#a-critical-vulnerability-is-discovered-in-production-what-is-your-approach) | General | 2 |
-| 95 | [A deployment failed in Production. How would you troubleshoot?](../topics/general.md#a-deployment-failed-in-production-how-would-you-troubleshoot) | General | 2 |
-| 96 | [A deployment fails during a critical business release. What is your communication and escalation plan?](../topics/general.md#a-deployment-fails-during-a-critical-business-release-what-is-your-communication) | General | 2 |
-| 97 | [A Deployment has 5 replicas, but only 3 Pods are running. How would you identify the root cause?](../topics/kubernetes.md#a-deployment-has-5-replicas-but-only-3-pods-are-running-how-would-you-identify-t) | Kubernetes | 2 |
-| 98 | [A deployment introduced a production issue. How would you roll it back?](../topics/general.md#a-deployment-introduced-a-production-issue-how-would-you-roll-it-back) | General | 2 |
-| 99 | [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](../topics/docker.md#a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou) | Docker | 2 |
-| 100 | [A Docker container works locally but fails in production. Why?](../topics/docker.md#a-docker-container-works-locally-but-fails-in-production-why) | Docker | 2 |
+| 79 | [If you joined tomorrow as a Senior DevOps Engineer with a ₹55 LPA package, what would your 100-day DevOps transformation roadmap look like, and what measurable engineering, operational, reliability, and business outcomes would you commit to delivering within your first year?](../topics/general.md#if-you-joined-tomorrow-as-a-senior-devops-engineer-with-a-55-lpa-package-what-wo) | General | 3 |
+| 80 | [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) | Incident Response | 3 |
+| 81 | [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) | General | 3 |
+| 82 | [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | AWS | 3 |
+| 83 | [What happened?](../topics/general.md#what-happened) | General | 3 |
+| 84 | [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Ingress | 3 |
+| 85 | [What is Git?](../topics/git.md#what-is-git) | Git | 3 |
+| 86 | [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) | Jenkins | 3 |
+| 87 | [What is Linux?](../topics/linux.md#what-is-linux) | Linux | 3 |
+| 88 | [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) | Terraform | 3 |
+| 89 | [What is your approach to Infrastructure as Code (IaC)? Which tools do you use, and why?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-do-you-use-and-w) | General | 3 |
+| 90 | [What Service Level Objectives (SLOs), Service Level Indicators (SLIs), and error budgets have you managed, and how did they influence engineering decisions?](../topics/general.md#what-service-level-objectives-slos-service-level-indicators-slis-and-error-budge) | General | 3 |
+| 91 | [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) | FinOps | 3 |
+| 92 | [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) | Docker | 3 |
+| 93 | [A bug occurs only during peak traffic. How would you capture and investigate it?](../topics/general.md#a-bug-occurs-only-during-peak-traffic-how-would-you-capture-and-investigate-it) | General | 2 |
+| 94 | [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) | General | 2 |
+| 95 | [A critical vulnerability is discovered in production. What is your approach?](../topics/general.md#a-critical-vulnerability-is-discovered-in-production-what-is-your-approach) | General | 2 |
+| 96 | [A deployment failed in Production. How would you troubleshoot?](../topics/general.md#a-deployment-failed-in-production-how-would-you-troubleshoot) | General | 2 |
+| 97 | [A deployment fails during a critical business release. What is your communication and escalation plan?](../topics/general.md#a-deployment-fails-during-a-critical-business-release-what-is-your-communication) | General | 2 |
+| 98 | [A Deployment has 5 replicas, but only 3 Pods are running. How would you identify the root cause?](../topics/kubernetes.md#a-deployment-has-5-replicas-but-only-3-pods-are-running-how-would-you-identify-t) | Kubernetes | 2 |
+| 99 | [A deployment introduced a production issue. How would you roll it back?](../topics/general.md#a-deployment-introduced-a-production-issue-how-would-you-roll-it-back) | General | 2 |
+| 100 | [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](../topics/docker.md#a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou) | Docker | 2 |
 
 [← Study guides](./README.md)

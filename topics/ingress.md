@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Ingress**
 
-**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 10 |
-| Easy / Medium / Hard | 4 / 5 / 1 |
+| Questions | 11 |
+| Easy / Medium / Hard | 4 / 6 / 1 |
 | Companies | 2 |
 
 ## Most asked
@@ -47,6 +47,8 @@
   <a id="pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress"></a>
 - [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress) — **1×** · Easy
   <a id="what-is-the-difference-between-service-and-ingress"></a>
+- [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons) — **1×** · Medium
+  <a id="why-people-prefer-ingress-over-load-balancers-reasons"></a>
 
 ## Beginner
 
@@ -71,6 +73,8 @@
   <a id="how-does-traffic-flow-from-user-to-ingress-to-service-to-pod"></a>
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — 1× · tags: `Kubernetes`
   <a id="pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress"></a>
+- [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons) — 1×
+  <a id="why-people-prefer-ingress-over-load-balancers-reasons"></a>
 
 ## Advanced
 
@@ -90,6 +94,7 @@
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — tags: `Kubernetes`
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress)
 - [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress)
+- [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons)
 - [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) — tags: `Kubernetes`, `DNS`
 
 ## Companies asking
@@ -99,6 +104,7 @@
 
 ## Recently added
 
+- [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons) — 2026-07-30
 - [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — 2026-07-28
 - [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho) — 2026-07-28
 - [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) — 2026-07-18 · tags: `Kubernetes`, `DNS`
@@ -133,6 +139,7 @@
 | [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/ingress.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) | Medium | 1 |
 | [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Easy | 3 |
 | [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress) | Easy | 1 |
+| [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons) | Medium | 1 |
 | [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) | Medium | 2 |
 
 ## Learning resources

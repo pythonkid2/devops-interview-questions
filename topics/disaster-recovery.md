@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Disaster Recovery**
 
-**14** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**15** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 14 |
-| Easy / Medium / Hard | 0 / 8 / 6 |
+| Questions | 15 |
+| Easy / Medium / Hard | 0 / 9 / 6 |
 | Companies | 4 |
 
 ## Most asked
@@ -51,6 +51,8 @@
   <a id="how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure"></a>
 - [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) — **1×** · Medium · tags: `DNS`
   <a id="how-does-route-53-perform-failover-routing"></a>
+- [How will you plan a disaster recovery ?](../topics/disaster-recovery.md#how-will-you-plan-a-disaster-recovery) — **1×** · Medium
+  <a id="how-will-you-plan-a-disaster-recovery"></a>
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — **1×** · Medium
   <a id="if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app"></a>
 - [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — **1×** · Medium · tags: `DNS`
@@ -74,6 +76,8 @@ _None in this band yet._
   <a id="how-do-you-ensure-high-availability-and-disaster-recovery-in-aws"></a>
 - [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) — 1× · tags: `DNS`
   <a id="how-does-route-53-perform-failover-routing"></a>
+- [How will you plan a disaster recovery ?](../topics/disaster-recovery.md#how-will-you-plan-a-disaster-recovery) — 1×
+  <a id="how-will-you-plan-a-disaster-recovery"></a>
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — 1×
   <a id="if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app"></a>
 - [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — 1× · tags: `DNS`
@@ -110,6 +114,7 @@ _None in this band yet._
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — tags: `High Availability`, `AWS`
 - [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure)
 - [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) — tags: `DNS`
+- [How will you plan a disaster recovery ?](../topics/disaster-recovery.md#how-will-you-plan-a-disaster-recovery)
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes)
 - [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy)
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app)
@@ -125,6 +130,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How will you plan a disaster recovery ?](../topics/disaster-recovery.md#how-will-you-plan-a-disaster-recovery) — 2026-07-30
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — 2026-07-28 · tags: `High Availability`, `AWS`
 - [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) — 2026-07-28 · tags: `DNS`
 - [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) — 2026-07-27
@@ -162,6 +168,7 @@ _None in this band yet._
 | [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) | Medium | 1 |
 | [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) | Hard | 1 |
 | [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) | Medium | 1 |
+| [How will you plan a disaster recovery ?](../topics/disaster-recovery.md#how-will-you-plan-a-disaster-recovery) | Medium | 1 |
 | [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) | Hard | 2 |
 | [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) | Medium | 2 |
 | [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) | Medium | 2 |

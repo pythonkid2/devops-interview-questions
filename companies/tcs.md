@@ -38,6 +38,7 @@
 - [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2× · Jenkins
 - [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — 2× · Kubernetes
 - [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2× · Kubernetes · tags: `AWS`
+- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 2× · AWS
 - [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — 2× · Terraform
 - [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — 2× · Terraform
 - [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) — 2× · Kubernetes
@@ -49,7 +50,6 @@
 - [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — 1× · Ingress
 - [Explain Terraform modules and workspaces.](../topics/terraform.md#explain-terraform-modules-and-workspaces) — 1× · Terraform
 - [Explain the EBS volume types and their use cases.](../topics/storage.md#explain-the-ebs-volume-types-and-their-use-cases) — 1× · Storage
-- [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) — 1× · CI/CD
 
 ## By topic
 
@@ -146,6 +146,7 @@
 
 ## Recently added
 
+- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 2026-07-30
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-29
 - [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 2026-07-28
 - [How would you optimize AWS costs without impacting performance?](../topics/aws.md#how-would-you-optimize-aws-costs-without-impacting-performance) — 2026-07-28
@@ -155,6 +156,5 @@
 - [How do you centralize application logs?](../topics/general.md#how-do-you-centralize-application-logs) — 2026-07-28
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 2026-07-28
 - [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance) — 2026-07-28
-- [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2026-07-28 · tags: `AWS`
 
 [← All companies](./README.md) · [Home](../README.md)

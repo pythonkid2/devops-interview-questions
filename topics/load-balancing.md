@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Load Balancing**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 3 / 5 / 1 |
+| Questions | 10 |
+| Easy / Medium / Hard | 4 / 5 / 1 |
 | Companies | 1 |
 
 ## Most asked
@@ -39,6 +39,8 @@
   <a id="how-does-aws-load-balancer-route-traffic"></a>
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) — **1×** · Medium
   <a id="how-load-balancer-elb-alb-distributes-traffic"></a>
+- [What is the difference between an ALB and an NLB in AWS ?](../topics/load-balancing.md#what-is-the-difference-between-an-alb-and-an-nlb-in-aws) — **1×** · Easy · tags: `AWS`
+  <a id="what-is-the-difference-between-an-alb-and-an-nlb-in-aws"></a>
 - [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo-1) — **1×** · Medium
   <a id="what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo-1"></a>
 - [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer) — **1×** · Easy
@@ -52,6 +54,8 @@
   <a id="difference-between-azure-load-balancer-and-azure-application-gateway"></a>
 - [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) — 2×
   <a id="what-is-an-elastic-load-balancer-elb"></a>
+- [What is the difference between an ALB and an NLB in AWS ?](../topics/load-balancing.md#what-is-the-difference-between-an-alb-and-an-nlb-in-aws) — 1× · tags: `AWS`
+  <a id="what-is-the-difference-between-an-alb-and-an-nlb-in-aws"></a>
 - [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer) — 1×
   <a id="what-is-the-purpose-of-a-load-balancer"></a>
 
@@ -82,6 +86,7 @@
 - [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — tags: `AWS`
 - [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic)
 - [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb)
+- [What is the difference between an ALB and an NLB in AWS ?](../topics/load-balancing.md#what-is-the-difference-between-an-alb-and-an-nlb-in-aws) — tags: `AWS`
 - [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo-1)
 - [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)? Why would you choose ALB? In which scenarios would NLB be a better choice? Why wouldn’t you use NLB for every application?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo)
 - [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer)
@@ -93,6 +98,7 @@
 
 ## Recently added
 
+- [What is the difference between an ALB and an NLB in AWS ?](../topics/load-balancing.md#what-is-the-difference-between-an-alb-and-an-nlb-in-aws) — 2026-07-30 · tags: `AWS`
 - [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo-1) — 2026-07-28
 - [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer) — 2026-07-27
 - [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)? Why would you choose ALB? In which scenarios would NLB be a better choice? Why wouldn’t you use NLB for every application?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo) — 2026-07-21
@@ -122,6 +128,7 @@
 | [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) | Medium | 1 |
 | [How Load Balancer (ELB/ALB) distributes traffic](../topics/load-balancing.md#how-load-balancer-elb-alb-distributes-traffic) | Medium | 1 |
 | [What is an Elastic Load Balancer (ELB)?](../topics/load-balancing.md#what-is-an-elastic-load-balancer-elb) | Easy | 2 |
+| [What is the difference between an ALB and an NLB in AWS ?](../topics/load-balancing.md#what-is-the-difference-between-an-alb-and-an-nlb-in-aws) | Easy | 1 |
 | [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo-1) | Medium | 1 |
 | [What is the difference between an Application Load Balancer (ALB) and a Network Load Balancer (NLB)? Why would you choose ALB? In which scenarios would NLB be a better choice? Why wouldn’t you use NLB for every application?](../topics/load-balancing.md#what-is-the-difference-between-an-application-load-balancer-alb-and-a-network-lo) | Medium | 2 |
 | [What is the purpose of a load balancer?](../topics/load-balancing.md#what-is-the-purpose-of-a-load-balancer) | Easy | 1 |

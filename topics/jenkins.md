@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**84** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**85** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 84 |
-| Easy / Medium / Hard | 2 / 76 / 6 |
+| Questions | 85 |
+| Easy / Medium / Hard | 2 / 77 / 6 |
 | Companies | 6 |
 
 ## Most asked
@@ -197,6 +197,8 @@
   <a id="how-do-you-handle-pipeline-failures-in-jenkins"></a>
 - [How do you handle plugin management in Jenkins?](../topics/jenkins.md#how-do-you-handle-plugin-management-in-jenkins) — 1×
   <a id="how-do-you-handle-plugin-management-in-jenkins"></a>
+- [How do you implement multi-branch CI/CD pipelines in GitLab or Jenkins?](../topics/jenkins.md#how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins) — 1× · tags: `CI/CD`
+  <a id="how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins"></a>
 - [How do you implement rollback strategy in Jenkins pipeline?](../topics/jenkins.md#how-do-you-implement-rollback-strategy-in-jenkins-pipeline) — 1× · tags: `CI/CD`
   <a id="how-do-you-implement-rollback-strategy-in-jenkins-pipeline"></a>
 - [How do you integrate GitHub Enterprise with Jenkins?](../topics/jenkins.md#how-do-you-integrate-github-enterprise-with-jenkins) — 1×
@@ -299,6 +301,7 @@
 - [How do you handle parallel execution in Jenkins?](../topics/jenkins.md#how-do-you-handle-parallel-execution-in-jenkins)
 - [How do you handle pipeline failures in Jenkins?](../topics/jenkins.md#how-do-you-handle-pipeline-failures-in-jenkins) — tags: `CI/CD`
 - [How do you handle plugin management in Jenkins?](../topics/jenkins.md#how-do-you-handle-plugin-management-in-jenkins)
+- [How do you implement multi-branch CI/CD pipelines in GitLab or Jenkins?](../topics/jenkins.md#how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins) — tags: `CI/CD`
 - [How do you implement rollback strategy in Jenkins pipeline?](../topics/jenkins.md#how-do-you-implement-rollback-strategy-in-jenkins-pipeline) — tags: `CI/CD`
 - [How do you integrate GitHub Enterprise with Jenkins?](../topics/jenkins.md#how-do-you-integrate-github-enterprise-with-jenkins)
 - [How do you integrate Jenkins with GitHub/GitLab?](../topics/jenkins.md#how-do-you-integrate-jenkins-with-github-gitlab)
@@ -361,6 +364,7 @@
 
 ## Recently added
 
+- [How do you implement multi-branch CI/CD pipelines in GitLab or Jenkins?](../topics/jenkins.md#how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins) — 2026-07-30 · tags: `CI/CD`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-29
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2026-07-29 · tags: `CI/CD`
 - [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2026-07-29 · tags: `GitHub Actions`
@@ -375,7 +379,6 @@
 - [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — 2026-07-26 · tags: `CI/CD`
 - [A Jenkins agent frequently goes offline during deployments. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble) — 2026-07-26
 - [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — 2026-07-26
-- [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — 2026-07-26 · tags: `CI/CD`
 
 ## Related topics
 
@@ -420,6 +423,7 @@
 | [How do you handle parallel execution in Jenkins?](../topics/jenkins.md#how-do-you-handle-parallel-execution-in-jenkins) | Medium | 1 |
 | [How do you handle pipeline failures in Jenkins?](../topics/jenkins.md#how-do-you-handle-pipeline-failures-in-jenkins) | Medium | 1 |
 | [How do you handle plugin management in Jenkins?](../topics/jenkins.md#how-do-you-handle-plugin-management-in-jenkins) | Medium | 1 |
+| [How do you implement multi-branch CI/CD pipelines in GitLab or Jenkins?](../topics/jenkins.md#how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins) | Medium | 1 |
 | [How do you implement rollback strategy in Jenkins pipeline?](../topics/jenkins.md#how-do-you-implement-rollback-strategy-in-jenkins-pipeline) | Medium | 1 |
 | [How do you integrate GitHub Enterprise with Jenkins?](../topics/jenkins.md#how-do-you-integrate-github-enterprise-with-jenkins) | Medium | 1 |
 | [How do you integrate Jenkins with GitHub/GitLab?](../topics/jenkins.md#how-do-you-integrate-jenkins-with-github-gitlab) | Medium | 1 |

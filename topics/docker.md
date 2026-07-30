@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**101** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**102** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 101 |
-| Easy / Medium / Hard | 30 / 67 / 4 |
+| Questions | 102 |
+| Easy / Medium / Hard | 30 / 68 / 4 |
 | Companies | 3 |
 
 ## Most asked
@@ -223,6 +223,8 @@
   <a id="explain-the-docker-architecture"></a>
 - [Explain the logic behind a multi-stage Docker build.](../topics/docker.md#explain-the-logic-behind-a-multi-stage-docker-build) — 1×
   <a id="explain-the-logic-behind-a-multi-stage-docker-build"></a>
+- [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — 1× · tags: `AWS`
+  <a id="how-do-you-build-and-push-a-docker-image-to-aws-ecr"></a>
 - [How do you create, test, optimize, and deploy Docker images?](../topics/docker.md#how-do-you-create-test-optimize-and-deploy-docker-images) — 1×
   <a id="how-do-you-create-test-optimize-and-deploy-docker-images"></a>
 - [How do you debug failed Docker containers?](../topics/docker.md#how-do-you-debug-failed-docker-containers) — 1×
@@ -326,6 +328,7 @@
 - [Explain the Docker container lifecycle.](../topics/docker.md#explain-the-docker-container-lifecycle)
 - [Explain the logic behind a multi-stage Docker build.](../topics/docker.md#explain-the-logic-behind-a-multi-stage-docker-build)
 - [How do you access a running container?](../topics/docker.md#how-do-you-access-a-running-container)
+- [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — tags: `AWS`
 - [How do you check Docker container logs?](../topics/docker.md#how-do-you-check-docker-container-logs)
 - [How do you create, test, optimize, and deploy Docker images?](../topics/docker.md#how-do-you-create-test-optimize-and-deploy-docker-images)
 - [How do you debug failed Docker containers?](../topics/docker.md#how-do-you-debug-failed-docker-containers)
@@ -406,6 +409,7 @@
 
 ## Recently added
 
+- [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — 2026-07-30 · tags: `AWS`
 - [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — 2026-07-29
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 2026-07-29
 - [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) — 2026-07-29
@@ -420,7 +424,6 @@
 - [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) — 2026-07-26
 - [Docker](../topics/docker.md#docker) — 2026-07-26
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2026-07-26
-- [How do you inject environment variables during Docker builds and where do you store images?](../topics/docker.md#how-do-you-inject-environment-variables-during-docker-builds-and-where-do-you-st) — 2026-07-26
 
 ## Related topics
 
@@ -463,6 +466,7 @@
 | [Explain the Docker container lifecycle.](../topics/docker.md#explain-the-docker-container-lifecycle) | Medium | 2 |
 | [Explain the logic behind a multi-stage Docker build.](../topics/docker.md#explain-the-logic-behind-a-multi-stage-docker-build) | Medium | 1 |
 | [How do you access a running container?](../topics/docker.md#how-do-you-access-a-running-container) | Medium | 2 |
+| [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) | Medium | 1 |
 | [How do you check Docker container logs?](../topics/docker.md#how-do-you-check-docker-container-logs) | Easy | 2 |
 | [How do you create, test, optimize, and deploy Docker images?](../topics/docker.md#how-do-you-create-test-optimize-and-deploy-docker-images) | Medium | 1 |
 | [How do you debug failed Docker containers?](../topics/docker.md#how-do-you-debug-failed-docker-containers) | Medium | 1 |

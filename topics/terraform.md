@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Terraform**
 
-**127** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**129** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 127 |
-| Easy / Medium / Hard | 14 / 102 / 11 |
+| Questions | 129 |
+| Easy / Medium / Hard | 15 / 103 / 11 |
 | Companies | 8 |
 
 ## Most asked
@@ -63,6 +63,8 @@
   <a id="have-you-worked-on-terraform-how-do-you-manage-the-state-file-what-is-the-terraf"></a>
 - [How do you manage multiple environments (dev, staging, prod) in Terraform?](../topics/terraform.md#how-do-you-manage-multiple-environments-dev-staging-prod-in-terraform) — **2×** · Medium
   <a id="how-do-you-manage-multiple-environments-dev-staging-prod-in-terraform"></a>
+- [How do you manage secrets in Terraform without hardcoding them?](../topics/terraform.md#how-do-you-manage-secrets-in-terraform-without-hardcoding-them) — **2×** · Medium
+  <a id="how-do-you-manage-secrets-in-terraform-without-hardcoding-them"></a>
 - [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources) — **2×** · Medium
   <a id="how-do-you-migrate-terraform-state-without-recreating-resources"></a>
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — **2×** · Medium · tags: `AWS`
@@ -75,8 +77,6 @@
   <a id="how-would-you-create-the-same-infrastructure-for-development-qa-uat-and-producti"></a>
 - [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — **2×** · Hard
   <a id="if-the-terraform-state-file-is-lost-how-can-it-be-recovered"></a>
-- [If your Terraform State File is completely lost, how do you recover it?](../topics/terraform.md#if-your-terraform-state-file-is-completely-lost-how-do-you-recover-it) — **2×** · Medium
-  <a id="if-your-terraform-state-file-is-completely-lost-how-do-you-recover-it"></a>
 
 ## Beginner
 
@@ -106,6 +106,8 @@
   <a id="how-would-you-rate-your-terraform-proficiency-on-a-scale-of-1-5"></a>
 - [What are Terraform state files, and why are they important?](../topics/terraform.md#what-are-terraform-state-files-and-why-are-they-important) — 1×
   <a id="what-are-terraform-state-files-and-why-are-they-important"></a>
+- [What is the difference between Terraform and AWS cloud-Formation?](../topics/terraform.md#what-is-the-difference-between-terraform-and-aws-cloud-formation) — 1× · tags: `AWS`
+  <a id="what-is-the-difference-between-terraform-and-aws-cloud-formation"></a>
 - [What is the use of a life cycle block in terraform resources?](../topics/terraform.md#what-is-the-use-of-a-life-cycle-block-in-terraform-resources) — 1×
   <a id="what-is-the-use-of-a-life-cycle-block-in-terraform-resources"></a>
 
@@ -139,6 +141,8 @@
   <a id="explain-your-terraform-module-structure-for-multiple-environments"></a>
 - [How do you manage multiple environments (dev, staging, prod) in Terraform?](../topics/terraform.md#how-do-you-manage-multiple-environments-dev-staging-prod-in-terraform) — 2×
   <a id="how-do-you-manage-multiple-environments-dev-staging-prod-in-terraform"></a>
+- [How do you manage secrets in Terraform without hardcoding them?](../topics/terraform.md#how-do-you-manage-secrets-in-terraform-without-hardcoding-them) — 2×
+  <a id="how-do-you-manage-secrets-in-terraform-without-hardcoding-them"></a>
 - [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources) — 2×
   <a id="how-do-you-migrate-terraform-state-without-recreating-resources"></a>
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — 2× · tags: `AWS`
@@ -233,8 +237,6 @@
   <a id="how-do-you-handle-drift-detection-in-terraform"></a>
 - [How do you manage drift in Terraform?](../topics/terraform.md#how-do-you-manage-drift-in-terraform) — 1×
   <a id="how-do-you-manage-drift-in-terraform"></a>
-- [How do you manage secrets in Terraform without hardcoding them?](../topics/terraform.md#how-do-you-manage-secrets-in-terraform-without-hardcoding-them) — 1×
-  <a id="how-do-you-manage-secrets-in-terraform-without-hardcoding-them"></a>
 - [How do you write reusable Terraform modules?](../topics/terraform.md#how-do-you-write-reusable-terraform-modules) — 1×
   <a id="how-do-you-write-reusable-terraform-modules"></a>
 - [How does Terraform dependency graph (DAG) work internally?](../topics/terraform.md#how-does-terraform-dependency-graph-dag-work-internally) — 1×
@@ -285,6 +287,8 @@
   <a id="manage-existing-unmanaged-aws-resources-using-terraform"></a>
 - [Terraform](../topics/terraform.md#terraform) — 1×
   <a id="terraform"></a>
+- [Terraform init failed](../topics/terraform.md#terraform-init-failed) — 1×
+  <a id="terraform-init-failed"></a>
 - [Terraform remote_state backend suddenly times out. What’s your recovery and damage containment strategy?](../topics/terraform.md#terraform-remote-state-backend-suddenly-times-out-whats-your-recovery-and-damage) — 1×
   <a id="terraform-remote-state-backend-suddenly-times-out-whats-your-recovery-and-damage"></a>
 - [Terraform state management](../topics/terraform.md#terraform-state-management) — 1×
@@ -444,6 +448,7 @@
 - [Terraform](../topics/terraform.md#terraform)
 - [Terraform changes accidentally modify production resources. How would you recover?](../topics/terraform.md#terraform-changes-accidentally-modify-production-resources-how-would-you-recover)
 - [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves)
+- [Terraform init failed](../topics/terraform.md#terraform-init-failed)
 - [Terraform modules](../topics/terraform.md#terraform-modules)
 - [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-)
 - [Terraform plan shows unexpected changes. What would you check?](../topics/terraform.md#terraform-plan-shows-unexpected-changes-what-would-you-check)
@@ -466,6 +471,7 @@
 - [What is Terraform and how do you use it in your cloud infrastructure?](../topics/terraform.md#what-is-terraform-and-how-do-you-use-it-in-your-cloud-infrastructure)
 - [What is Terraform Drift? How do you detect it?](../topics/terraform.md#what-is-terraform-drift-how-do-you-detect-it)
 - [What is Terraform State File, and how do you manage it?](../topics/terraform.md#what-is-terraform-state-file-and-how-do-you-manage-it)
+- [What is the difference between Terraform and AWS cloud-Formation?](../topics/terraform.md#what-is-the-difference-between-terraform-and-aws-cloud-formation) — tags: `AWS`
 - [What is the purpose of Terraform in infrastructure as code?](../topics/terraform.md#what-is-the-purpose-of-terraform-in-infrastructure-as-code)
 - [What is the recommended folder structure for a production‑grade Terraform project?](../topics/terraform.md#what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec)
 - [What is the role of the state file in Terraform?](../topics/terraform.md#what-is-the-role-of-the-state-file-in-terraform)
@@ -495,6 +501,9 @@
 
 ## Recently added
 
+- [Terraform init failed](../topics/terraform.md#terraform-init-failed) — 2026-07-30
+- [How do you manage secrets in Terraform without hardcoding them?](../topics/terraform.md#how-do-you-manage-secrets-in-terraform-without-hardcoding-them) — 2026-07-30
+- [What is the difference between Terraform and AWS cloud-Formation?](../topics/terraform.md#what-is-the-difference-between-terraform-and-aws-cloud-formation) — 2026-07-30 · tags: `AWS`
 - [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — 2026-07-29
 - [How do you manage multiple environments (dev, staging, prod) in Terraform?](../topics/terraform.md#how-do-you-manage-multiple-environments-dev-staging-prod-in-terraform) — 2026-07-29
 - [Automate EC2 instance tagging based on environment using Terraform.](../topics/terraform.md#automate-ec2-instance-tagging-based-on-environment-using-terraform) — 2026-07-29 · tags: `AWS`
@@ -502,14 +511,11 @@
 - [Explain terraform refresh vs terraform plan.](../topics/terraform.md#explain-terraform-refresh-vs-terraform-plan) — 2026-07-29
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 2026-07-29
 - [How do you handle drift detection in Terraform?](../topics/terraform.md#how-do-you-handle-drift-detection-in-terraform) — 2026-07-29
-- [How do you manage secrets in Terraform without hardcoding them?](../topics/terraform.md#how-do-you-manage-secrets-in-terraform-without-hardcoding-them) — 2026-07-29
 - [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) — 2026-07-29
 - [Terraform plan shows unexpected changes. What would you check?](../topics/terraform.md#terraform-plan-shows-unexpected-changes-what-would-you-check) — 2026-07-29
 - [Terraform modules](../topics/terraform.md#terraform-modules) — 2026-07-29
 - [Terraform reports infrastructure drift. How would you handle it?](../topics/terraform.md#terraform-reports-infrastructure-drift-how-would-you-handle-it) — 2026-07-29
 - [Explain how Infrastructure as Code helped provision identical environments, maintain version control, and reduce manual configuration errors with Terraform.](../topics/terraform.md#explain-how-infrastructure-as-code-helped-provision-identical-environments-maint) — 2026-07-28
-- [Explain Terraform modules and workspaces.](../topics/terraform.md#explain-terraform-modules-and-workspaces) — 2026-07-28
-- [What are Terraform state files, and why are they important?](../topics/terraform.md#what-are-terraform-state-files-and-why-are-they-important) — 2026-07-28
 
 ## Related topics
 
@@ -552,7 +558,7 @@
 | [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) | Medium | 4 |
 | [How do you manage drift in Terraform?](../topics/terraform.md#how-do-you-manage-drift-in-terraform) | Medium | 1 |
 | [How do you manage multiple environments (dev, staging, prod) in Terraform?](../topics/terraform.md#how-do-you-manage-multiple-environments-dev-staging-prod-in-terraform) | Medium | 2 |
-| [How do you manage secrets in Terraform without hardcoding them?](../topics/terraform.md#how-do-you-manage-secrets-in-terraform-without-hardcoding-them) | Medium | 1 |
+| [How do you manage secrets in Terraform without hardcoding them?](../topics/terraform.md#how-do-you-manage-secrets-in-terraform-without-hardcoding-them) | Medium | 2 |
 | [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources) | Medium | 2 |
 | [How do you organize Terraform code for multiple environments like Dev, QA, and Production?](../topics/terraform.md#how-do-you-organize-terraform-code-for-multiple-environments-like-dev-qa-and-pro) | Hard | 1 |
 | [How do you write reusable Terraform modules?](../topics/terraform.md#how-do-you-write-reusable-terraform-modules) | Medium | 1 |
@@ -595,6 +601,7 @@
 | [Terraform](../topics/terraform.md#terraform) | Medium | 1 |
 | [Terraform changes accidentally modify production resources. How would you recover?](../topics/terraform.md#terraform-changes-accidentally-modify-production-resources-how-would-you-recover) | Medium | 2 |
 | [Terraform detects infrastructure drift during terraform plan. How would you investigate and resolve it?](../topics/terraform.md#terraform-detects-infrastructure-drift-during-terraform-plan-how-would-you-inves) | Medium | 2 |
+| [Terraform init failed](../topics/terraform.md#terraform-init-failed) | Medium | 1 |
 | [Terraform modules](../topics/terraform.md#terraform-modules) | Medium | 2 |
 | [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-) | Medium | 5 |
 | [Terraform plan shows unexpected changes. What would you check?](../topics/terraform.md#terraform-plan-shows-unexpected-changes-what-would-you-check) | Medium | 2 |
@@ -627,6 +634,7 @@
 | [What is Terraform State File, and how do you manage it?](../topics/terraform.md#what-is-terraform-state-file-and-how-do-you-manage-it) | Easy | 2 |
 | [What is Terraform?](../topics/terraform.md#what-is-terraform) | Medium | 8 |
 | [What is the difference between a .tf file and variables in Terraform?](../topics/terraform.md#what-is-the-difference-between-a-tf-file-and-variables-in-terraform) | Medium | 2 |
+| [What is the difference between Terraform and AWS cloud-Formation?](../topics/terraform.md#what-is-the-difference-between-terraform-and-aws-cloud-formation) | Easy | 1 |
 | [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) | Medium | 3 |
 | [What is the purpose of Terraform in infrastructure as code?](../topics/terraform.md#what-is-the-purpose-of-terraform-in-infrastructure-as-code) | Medium | 1 |
 | [What is the recommended folder structure for a production‑grade Terraform project?](../topics/terraform.md#what-is-the-recommended-folder-structure-for-a-production-grade-terraform-projec) | Hard | 1 |

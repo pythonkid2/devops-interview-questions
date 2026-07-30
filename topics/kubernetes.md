@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Kubernetes**
 
-**212** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**224** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 212 |
-| Easy / Medium / Hard | 23 / 166 / 23 |
+| Questions | 224 |
+| Easy / Medium / Hard | 24 / 173 / 27 |
 | Companies | 14 |
 
 ## Most asked
@@ -122,6 +122,8 @@
   <a id="what-is-cgroups-and-namespace-in-linux"></a>
 - [What is ConfigMap and Secret?](../topics/kubernetes.md#what-is-configmap-and-secret) — 1×
   <a id="what-is-configmap-and-secret"></a>
+- [What is Liveliness probe and readiness probe in Kubernetes ?](../topics/kubernetes.md#what-is-liveliness-probe-and-readiness-probe-in-kubernetes) — 1×
+  <a id="what-is-liveliness-probe-and-readiness-probe-in-kubernetes"></a>
 - [What is the one insight that makes you sound senior in Kubernetes?](../topics/kubernetes.md#what-is-the-one-insight-that-makes-you-sound-senior-in-kubernetes) — 1×
   <a id="what-is-the-one-insight-that-makes-you-sound-senior-in-kubernetes"></a>
 - [What is the Troubleshooting Playbook for Kubernetes?](../topics/kubernetes.md#what-is-the-troubleshooting-playbook-for-kubernetes) — 1× · tags: `Ansible`
@@ -343,8 +345,14 @@
   <a id="how-do-microservices-communicate-inside-kubernetes-when-pod-ips-keep-changing"></a>
 - [How do multiple applications share a single Load Balancer and domain name in Kubernetes?](../topics/kubernetes.md#how-do-multiple-applications-share-a-single-load-balancer-and-domain-name-in-kub) — 1×
   <a id="how-do-multiple-applications-share-a-single-load-balancer-and-domain-name-in-kub"></a>
+- [How do you debug a Kubernetes pod in CrashLoopBackoff ?](../topics/kubernetes.md#how-do-you-debug-a-kubernetes-pod-in-crashloopbackoff) — 1×
+  <a id="how-do-you-debug-a-kubernetes-pod-in-crashloopbackoff"></a>
 - [How do you deploy applications using Kubernetes?](../topics/kubernetes.md#how-do-you-deploy-applications-using-kubernetes) — 1×
   <a id="how-do-you-deploy-applications-using-kubernetes"></a>
+- [How do you deploy to Kubernetes using GitHub Actions?](../topics/kubernetes.md#how-do-you-deploy-to-kubernetes-using-github-actions) — 1× · tags: `GitHub Actions`
+  <a id="how-do-you-deploy-to-kubernetes-using-github-actions"></a>
+- [How do you get to know the Kubernetes nodes are ready or not ?](../topics/kubernetes.md#how-do-you-get-to-know-the-kubernetes-nodes-are-ready-or-not) — 1×
+  <a id="how-do-you-get-to-know-the-kubernetes-nodes-are-ready-or-not"></a>
 - [How do you integrate Jenkins with Docker and Kubernetes?](../topics/kubernetes.md#how-do-you-integrate-jenkins-with-docker-and-kubernetes) — 1× · tags: `Docker`, `Jenkins`
   <a id="how-do-you-integrate-jenkins-with-docker-and-kubernetes"></a>
 - [How do you investigate a Kubernetes CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-investigate-a-kubernetes-crashloopbackoff) — 1×
@@ -389,6 +397,8 @@
   <a id="how-would-you-securely-manage-secrets-in-a-kubernetes-environment-without-storin"></a>
 - [How would you troubleshoot intermittent 503 errors in Kubernetes?](../topics/kubernetes.md#how-would-you-troubleshoot-intermittent-503-errors-in-kubernetes) — 1×
   <a id="how-would-you-troubleshoot-intermittent-503-errors-in-kubernetes"></a>
+- [How would you troubleshoot the out of memory issue in K8s cluster ?](../topics/kubernetes.md#how-would-you-troubleshoot-the-out-of-memory-issue-in-k8s-cluster) — 1×
+  <a id="how-would-you-troubleshoot-the-out-of-memory-issue-in-k8s-cluster"></a>
 - [I have 10 pods running in the system, one of the nodes is highly under pressure. It wants to evict some pods out of the system. But I don't want one of the pods to be evicted. So how would you configure it under any pressure condition?](../topics/kubernetes.md#i-have-10-pods-running-in-the-system-one-of-the-nodes-is-highly-under-pressure-i) — 1×
   <a id="i-have-10-pods-running-in-the-system-one-of-the-nodes-is-highly-under-pressure-i"></a>
 - [I want to add a user in the kubernetes cluster and want to give specific Authorization how will you do it?](../topics/kubernetes.md#i-want-to-add-a-user-in-the-kubernetes-cluster-and-want-to-give-specific-authori) — 1×
@@ -419,6 +429,10 @@
   <a id="pods-are-running-but-users-report-high-latency-where-do-you-start-debugging"></a>
 - [Pods remain Pending even though cluster CPU and memory utilization are low. What could cause this, and how would you diagnose it?](../topics/kubernetes.md#pods-remain-pending-even-though-cluster-cpu-and-memory-utilization-are-low-what-) — 1×
   <a id="pods-remain-pending-even-though-cluster-cpu-and-memory-utilization-are-low-what-"></a>
+- [Scenario -- In K8s cluster, pods are restarting multiple times and application are going down, How do you troubleshoot it ?](../topics/kubernetes.md#scenario-in-k8s-cluster-pods-are-restarting-multiple-times-and-application-are-g) — 1×
+  <a id="scenario-in-k8s-cluster-pods-are-restarting-multiple-times-and-application-are-g"></a>
+- [Scenario -- Now Kubernetes cluster is running fine, but pods are not able communicate with services ? How do you troubleshoot this issue ?](../topics/kubernetes.md#scenario-now-kubernetes-cluster-is-running-fine-but-pods-are-not-able-communicat) — 1×
+  <a id="scenario-now-kubernetes-cluster-is-running-fine-but-pods-are-not-able-communicat"></a>
 - [Users are getting 503 Service Unavailable, but all Pods are running. What would you check?](../topics/kubernetes.md#users-are-getting-503-service-unavailable-but-all-pods-are-running-what-would-yo) — 1×
   <a id="users-are-getting-503-service-unavailable-but-all-pods-are-running-what-would-yo"></a>
 - [What are the biggest Kubernetes challenges you've faced in production, and how did you solve them?](../topics/kubernetes.md#what-are-the-biggest-kubernetes-challenges-you-ve-faced-in-production-and-how-di) — 1×
@@ -459,6 +473,8 @@
   <a id="write-the-kubernetes-manifest-file-to-deploy-the-new-replica-agent-as-a-daemonse"></a>
 - [You accidentally delete a namespace in prod](../topics/kubernetes.md#you-accidentally-delete-a-namespace-in-prod) — 1×
   <a id="you-accidentally-delete-a-namespace-in-prod"></a>
+- [Your are upgrading the k8s cluster, after upgrade some applications are failing, how will you solve this issue ?](../topics/kubernetes.md#your-are-upgrading-the-k8s-cluster-after-upgrade-some-applications-are-failing-h) — 1×
+  <a id="your-are-upgrading-the-k8s-cluster-after-upgrade-some-applications-are-failing-h"></a>
 - [Your Pod is stuck in CrashLoopBackOff. Walk me through your investigation.](../topics/kubernetes.md#your-pod-is-stuck-in-crashloopbackoff-walk-me-through-your-investigation) — 1×
   <a id="your-pod-is-stuck-in-crashloopbackoff-walk-me-through-your-investigation"></a>
 
@@ -496,6 +512,10 @@
   <a id="how-do-you-scale-pods-while-maintaining-minimum-replicas"></a>
 - [How does Prometheus work for monitoring in a Kubernetes cluster?](../topics/kubernetes.md#how-does-prometheus-work-for-monitoring-in-a-kubernetes-cluster) — 1×
   <a id="how-does-prometheus-work-for-monitoring-in-a-kubernetes-cluster"></a>
+- [How will you design a microservice architecture application in Kubernetes ?](../topics/kubernetes.md#how-will-you-design-a-microservice-architecture-application-in-kubernetes) — 1× · tags: `Microservices`, `System Design`
+  <a id="how-will-you-design-a-microservice-architecture-application-in-kubernetes"></a>
+- [How would you dynamically scale a Kubernetes deployment ?](../topics/kubernetes.md#how-would-you-dynamically-scale-a-kubernetes-deployment) — 1×
+  <a id="how-would-you-dynamically-scale-a-kubernetes-deployment"></a>
 - [How would you safely drain a production node that hosts Pods protected by PodDisruptionBudgets (PDBs)?](../topics/kubernetes.md#how-would-you-safely-drain-a-production-node-that-hosts-pods-protected-by-poddis) — 1×
   <a id="how-would-you-safely-drain-a-production-node-that-hosts-pods-protected-by-poddis"></a>
 - [Security reports that a Pod is making outbound calls to an unauthorized external IP. How would you handle a suspected compromised container?](../topics/kubernetes.md#security-reports-that-a-pod-is-making-outbound-calls-to-an-unauthorized-external) — 1× · tags: `Docker`
@@ -506,6 +526,10 @@
   <a id="what-is-your-experience-with-containerization-and-orchestration-technologies-suc"></a>
 - [What's the most challenging Kubernetes production issue you've faced? Share it in the comments your experience might help someone else.](../topics/kubernetes.md#what-s-the-most-challenging-kubernetes-production-issue-you-ve-faced-share-it-in) — 1×
   <a id="what-s-the-most-challenging-kubernetes-production-issue-you-ve-faced-share-it-in"></a>
+- [You are responsible for a global cloud platform supporting 500 million users, 8,000 microservices, and 99.99% availability across AWS, Azure, and Kubernetes. A production outage impacts $300 million in business transactions. How would you restore services, conduct root cause analysis, and prevent future incidents?](../topics/kubernetes.md#you-are-responsible-for-a-global-cloud-platform-supporting-500-million-users-800) — 1× · tags: `AWS`, `Azure`
+  <a id="you-are-responsible-for-a-global-cloud-platform-supporting-500-million-users-800"></a>
+- [Your Kubernetes platform hosting 5,000 production workloads experiences recurring performance degradation due to resource contention, networking bottlenecks, and storage latency. How would you optimize cluster performance, scalability, and resilience?](../topics/kubernetes.md#your-kubernetes-platform-hosting-5000-production-workloads-experiences-recurring) — 1× · tags: `System Design`
+  <a id="your-kubernetes-platform-hosting-5000-production-workloads-experiences-recurring"></a>
 - [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — 1× · tags: `AWS`, `Azure`, `GCP`
   <a id="your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro"></a>
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — 1× · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
@@ -607,9 +631,12 @@
 - [How do microservices communicate inside Kubernetes when Pod IPs keep changing?](../topics/kubernetes.md#how-do-microservices-communicate-inside-kubernetes-when-pod-ips-keep-changing)
 - [How do multiple applications share a single Load Balancer and domain name in Kubernetes?](../topics/kubernetes.md#how-do-multiple-applications-share-a-single-load-balancer-and-domain-name-in-kub)
 - [How do you configure Kubernetes taints and tolerations for GPU workloads?](../topics/kubernetes.md#how-do-you-configure-kubernetes-taints-and-tolerations-for-gpu-workloads)
+- [How do you debug a Kubernetes pod in CrashLoopBackoff ?](../topics/kubernetes.md#how-do-you-debug-a-kubernetes-pod-in-crashloopbackoff)
 - [How do you deploy applications using Kubernetes?](../topics/kubernetes.md#how-do-you-deploy-applications-using-kubernetes)
+- [How do you deploy to Kubernetes using GitHub Actions?](../topics/kubernetes.md#how-do-you-deploy-to-kubernetes-using-github-actions) — tags: `GitHub Actions`
 - [How do you design zero-downtime deployments for stateful applications in Kubernetes?](../topics/kubernetes.md#how-do-you-design-zero-downtime-deployments-for-stateful-applications-in-kuberne)
 - [How do you exec into a pod and what’s the right way to define objects?](../topics/kubernetes.md#how-do-you-exec-into-a-pod-and-whats-the-right-way-to-define-objects)
+- [How do you get to know the Kubernetes nodes are ready or not ?](../topics/kubernetes.md#how-do-you-get-to-know-the-kubernetes-nodes-are-ready-or-not)
 - [How do you implement continuous integration and delivery in a Kubernetes cluster?](../topics/kubernetes.md#how-do-you-implement-continuous-integration-and-delivery-in-a-kubernetes-cluster)
 - [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes)
 - [How do you integrate GitHub or Bitbucket with Kubernetes? Explain the steps.](../topics/kubernetes.md#how-do-you-integrate-github-or-bitbucket-with-kubernetes-explain-the-steps)
@@ -645,7 +672,9 @@
 - [How to create pod in Kubernetes.](../topics/kubernetes.md#how-to-create-pod-in-kubernetes)
 - [How to resolve storage issue in a pod.](../topics/kubernetes.md#how-to-resolve-storage-issue-in-a-pod)
 - [How to upgrade a Kubernetes cluster?](../topics/kubernetes.md#how-to-upgrade-a-kubernetes-cluster)
+- [How will you design a microservice architecture application in Kubernetes ?](../topics/kubernetes.md#how-will-you-design-a-microservice-architecture-application-in-kubernetes) — tags: `Microservices`, `System Design`
 - [How would you check if a GPU pod in Kubernetes is using the GPU assigned to it?](../topics/kubernetes.md#how-would-you-check-if-a-gpu-pod-in-kubernetes-is-using-the-gpu-assigned-to-it)
+- [How would you dynamically scale a Kubernetes deployment ?](../topics/kubernetes.md#how-would-you-dynamically-scale-a-kubernetes-deployment)
 - [How would you enforce security policies so that Pods cannot: Run as root, Use the latest image tag, Have a writable root filesystem?](../topics/kubernetes.md#how-would-you-enforce-security-policies-so-that-pods-cannot-run-as-root-use-the-)
 - [How would you handle CUDA driver upgrades in Kubernetes without disrupting thousands of running AI pods?](../topics/kubernetes.md#how-would-you-handle-cuda-driver-upgrades-in-kubernetes-without-disrupting-thous)
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — tags: `Databases`
@@ -654,6 +683,7 @@
 - [How would you safely drain a production node that hosts Pods protected by PodDisruptionBudgets (PDBs)?](../topics/kubernetes.md#how-would-you-safely-drain-a-production-node-that-hosts-pods-protected-by-poddis)
 - [How would you securely manage secrets in a Kubernetes environment without storing them in Git?](../topics/kubernetes.md#how-would-you-securely-manage-secrets-in-a-kubernetes-environment-without-storin) — tags: `Git`
 - [How would you troubleshoot intermittent 503 errors in Kubernetes?](../topics/kubernetes.md#how-would-you-troubleshoot-intermittent-503-errors-in-kubernetes)
+- [How would you troubleshoot the out of memory issue in K8s cluster ?](../topics/kubernetes.md#how-would-you-troubleshoot-the-out-of-memory-issue-in-k8s-cluster)
 - [How would you upgrade a Kubernetes cluster?](../topics/kubernetes.md#how-would-you-upgrade-a-kubernetes-cluster)
 - [I have 10 pods running in the system, one of the nodes is highly under pressure. It wants to evict some pods out of the system. But I don't want one of the pods to be evicted. So how would you configure it under any pressure condition?](../topics/kubernetes.md#i-have-10-pods-running-in-the-system-one-of-the-nodes-is-highly-under-pressure-i)
 - [I want to add a user in the kubernetes cluster and want to give specific Authorization how will you do it?](../topics/kubernetes.md#i-want-to-add-a-user-in-the-kubernetes-cluster-and-want-to-give-specific-authori)
@@ -679,6 +709,8 @@
 - [Production error crashloopback of how do you troubleshoot.](../topics/kubernetes.md#production-error-crashloopback-of-how-do-you-troubleshoot)
 - [Q: Your Kubernetes deployment is successful, but the application is not accessible. How would you troubleshoot it?](../topics/kubernetes.md#q-your-kubernetes-deployment-is-successful-but-the-application-is-not-accessible)
 - [Readiness Probe vs Liveness Probe.](../topics/kubernetes.md#readiness-probe-vs-liveness-probe)
+- [Scenario -- In K8s cluster, pods are restarting multiple times and application are going down, How do you troubleshoot it ?](../topics/kubernetes.md#scenario-in-k8s-cluster-pods-are-restarting-multiple-times-and-application-are-g)
+- [Scenario -- Now Kubernetes cluster is running fine, but pods are not able communicate with services ? How do you troubleshoot this issue ?](../topics/kubernetes.md#scenario-now-kubernetes-cluster-is-running-fine-but-pods-are-not-able-communicat)
 - [Security reports that a Pod is making outbound calls to an unauthorized external IP. How would you handle a suspected compromised container?](../topics/kubernetes.md#security-reports-that-a-pod-is-making-outbound-calls-to-an-unauthorized-external) — tags: `Docker`
 - [StatefulSet vs Deployment — when do you use which?](../topics/kubernetes.md#statefulset-vs-deployment-when-do-you-use-which)
 - [Tell more about headless service](../topics/kubernetes.md#tell-more-about-headless-service)
@@ -711,6 +743,7 @@
 - [What is Kubernetes and how do you use it in your projects?](../topics/kubernetes.md#what-is-kubernetes-and-how-do-you-use-it-in-your-projects)
 - [What is Kubernetes, and why is it used?](../topics/kubernetes.md#what-is-kubernetes-and-why-is-it-used)
 - [What is Kubernetes?](../topics/kubernetes.md#what-is-kubernetes)
+- [What is Liveliness probe and readiness probe in Kubernetes ?](../topics/kubernetes.md#what-is-liveliness-probe-and-readiness-probe-in-kubernetes)
 - [What is RBAC and its components](../topics/kubernetes.md#what-is-rbac-and-its-components)
 - [What is the difference between a pod and a service in Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-a-pod-and-a-service-in-kubernetes)
 - [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset)
@@ -738,7 +771,10 @@
 - [Write a Bash script to list pods in a namespace and restart those in CrashLoopBackOff.](../topics/kubernetes.md#write-a-bash-script-to-list-pods-in-a-namespace-and-restart-those-in-crashloopba) — tags: `Bash`
 - [Write the Kubernetes manifest file to deploy the new replica agent as a DaemonSet in kubernetes cluster](../topics/kubernetes.md#write-the-kubernetes-manifest-file-to-deploy-the-new-replica-agent-as-a-daemonse)
 - [You accidentally delete a namespace in prod](../topics/kubernetes.md#you-accidentally-delete-a-namespace-in-prod)
+- [You are responsible for a global cloud platform supporting 500 million users, 8,000 microservices, and 99.99% availability across AWS, Azure, and Kubernetes. A production outage impacts $300 million in business transactions. How would you restore services, conduct root cause analysis, and prevent future incidents?](../topics/kubernetes.md#you-are-responsible-for-a-global-cloud-platform-supporting-500-million-users-800) — tags: `AWS`, `Azure`
+- [Your are upgrading the k8s cluster, after upgrade some applications are failing, how will you solve this issue ?](../topics/kubernetes.md#your-are-upgrading-the-k8s-cluster-after-upgrade-some-applications-are-failing-h)
 - [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/kubernetes.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do)
+- [Your Kubernetes platform hosting 5,000 production workloads experiences recurring performance degradation due to resource contention, networking bottlenecks, and storage latency. How would you optimize cluster performance, scalability, and resilience?](../topics/kubernetes.md#your-kubernetes-platform-hosting-5000-production-workloads-experiences-recurring) — tags: `System Design`
 - [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — tags: `AWS`, `Azure`, `GCP`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 - [Your Pod is stuck in CrashLoopBackOff. Walk me through your investigation.](../topics/kubernetes.md#your-pod-is-stuck-in-crashloopbackoff-walk-me-through-your-investigation)
@@ -762,21 +798,21 @@
 
 ## Recently added
 
+- [Your are upgrading the k8s cluster, after upgrade some applications are failing, how will you solve this issue ?](../topics/kubernetes.md#your-are-upgrading-the-k8s-cluster-after-upgrade-some-applications-are-failing-h) — 2026-07-30
+- [Scenario -- Now Kubernetes cluster is running fine, but pods are not able communicate with services ? How do you troubleshoot this issue ?](../topics/kubernetes.md#scenario-now-kubernetes-cluster-is-running-fine-but-pods-are-not-able-communicat) — 2026-07-30
+- [How would you troubleshoot the out of memory issue in K8s cluster ?](../topics/kubernetes.md#how-would-you-troubleshoot-the-out-of-memory-issue-in-k8s-cluster) — 2026-07-30
+- [Scenario -- In K8s cluster, pods are restarting multiple times and application are going down, How do you troubleshoot it ?](../topics/kubernetes.md#scenario-in-k8s-cluster-pods-are-restarting-multiple-times-and-application-are-g) — 2026-07-30
+- [What is Liveliness probe and readiness probe in Kubernetes ?](../topics/kubernetes.md#what-is-liveliness-probe-and-readiness-probe-in-kubernetes) — 2026-07-30
+- [How will you design a microservice architecture application in Kubernetes ?](../topics/kubernetes.md#how-will-you-design-a-microservice-architecture-application-in-kubernetes) — 2026-07-30 · tags: `Microservices`, `System Design`
+- [How do you get to know the Kubernetes nodes are ready or not ?](../topics/kubernetes.md#how-do-you-get-to-know-the-kubernetes-nodes-are-ready-or-not) — 2026-07-30
+- [How would you dynamically scale a Kubernetes deployment ?](../topics/kubernetes.md#how-would-you-dynamically-scale-a-kubernetes-deployment) — 2026-07-30
+- [How do you debug a Kubernetes pod in CrashLoopBackoff ?](../topics/kubernetes.md#how-do-you-debug-a-kubernetes-pod-in-crashloopbackoff) — 2026-07-30
+- [How do you deploy to Kubernetes using GitHub Actions?](../topics/kubernetes.md#how-do-you-deploy-to-kubernetes-using-github-actions) — 2026-07-30 · tags: `GitHub Actions`
+- [Your Kubernetes platform hosting 5,000 production workloads experiences recurring performance degradation due to resource contention, networking bottlenecks, and storage latency. How would you optimize cluster performance, scalability, and resilience?](../topics/kubernetes.md#your-kubernetes-platform-hosting-5000-production-workloads-experiences-recurring) — 2026-07-30 · tags: `System Design`
+- [You are responsible for a global cloud platform supporting 500 million users, 8,000 microservices, and 99.99% availability across AWS, Azure, and Kubernetes. A production outage impacts $300 million in business transactions. How would you restore services, conduct root cause analysis, and prevent future incidents?](../topics/kubernetes.md#you-are-responsible-for-a-global-cloud-platform-supporting-500-million-users-800) — 2026-07-30 · tags: `AWS`, `Azure`
 - [Does pod-to-pod communication work by default?](../topics/kubernetes.md#does-pod-to-pod-communication-work-by-default) — 2026-07-29
 - [Pod is stuck in CrashLoopBackOff — how do you debug it?](../topics/kubernetes.md#pod-is-stuck-in-crashloopbackoff-how-do-you-debug-it) — 2026-07-29
 - [StatefulSet vs Deployment — when do you use which?](../topics/kubernetes.md#statefulset-vs-deployment-when-do-you-use-which) — 2026-07-29
-- [How do you secure a Kubernetes cluster ?](../topics/kubernetes.md#how-do-you-secure-a-kubernetes-cluster) — 2026-07-29
-- [Write a Bash script to list pods in a namespace and restart those in CrashLoopBackOff.](../topics/kubernetes.md#write-a-bash-script-to-list-pods-in-a-namespace-and-restart-those-in-crashloopba) — 2026-07-29 · tags: `Bash`
-- [Can you explain Kubernetes internals?](../topics/kubernetes.md#can-you-explain-kubernetes-internals) — 2026-07-29
-- [Kubernetes pods are continuously restarting. How do you investigate?](../topics/kubernetes.md#kubernetes-pods-are-continuously-restarting-how-do-you-investigate) — 2026-07-29
-- [A production Kubernetes workload needs a configuration change without rebuilding its container image. How would you implement the change safely?](../topics/kubernetes.md#a-production-kubernetes-workload-needs-a-configuration-change-without-rebuilding) — 2026-07-29 · tags: `Docker`
-- [A Kubernetes Service has healthy backend Pods, but requests are not reaching them. What would you inspect between the client and Pod?](../topics/kubernetes.md#a-kubernetes-service-has-healthy-backend-pods-but-requests-are-not-reaching-them) — 2026-07-29
-- [A Pod is continuously recreated even though the container itself doesn't report an obvious application error. How would you investigate the complete lifecycle?](../topics/kubernetes.md#a-pod-is-continuously-recreated-even-though-the-container-itself-doesn-t-report-) — 2026-07-29 · tags: `Docker`
-- [A Kubernetes application works correctly immediately after deployment but starts failing when traffic increases. How would you determine whether the issue is resource limits, application capacity, or cluster capacity?](../topics/kubernetes.md#a-kubernetes-application-works-correctly-immediately-after-deployment-but-starts) — 2026-07-29
-- [Kubernetes internals](../topics/kubernetes.md#kubernetes-internals) — 2026-07-29
-- [What is your experience with containerization and orchestration technologies such as Docker, Kubernetes, and OpenShift, and how have you used them in production environments?](../topics/kubernetes.md#what-is-your-experience-with-containerization-and-orchestration-technologies-suc) — 2026-07-29 · tags: `Docker`
-- [Users are getting 503 errors, but all Pods are running. Where do you start?](../topics/kubernetes.md#users-are-getting-503-errors-but-all-pods-are-running-where-do-you-start) — 2026-07-29
-- [Describe how Kubernetes rolling updates with readiness and liveness probes ensured zero downtime during deployments.](../topics/kubernetes.md#describe-how-kubernetes-rolling-updates-with-readiness-and-liveness-probes-ensur) — 2026-07-28 · tags: `Deployment Strategies`
 
 ## Related topics
 
@@ -862,9 +898,12 @@
 | [How do multiple applications share a single Load Balancer and domain name in Kubernetes?](../topics/kubernetes.md#how-do-multiple-applications-share-a-single-load-balancer-and-domain-name-in-kub) | Medium | 1 |
 | [How do you automate Kubernetes deployment?](../topics/kubernetes.md#how-do-you-automate-kubernetes-deployment) | Medium | 2 |
 | [How do you configure Kubernetes taints and tolerations for GPU workloads?](../topics/kubernetes.md#how-do-you-configure-kubernetes-taints-and-tolerations-for-gpu-workloads) | Medium | 2 |
+| [How do you debug a Kubernetes pod in CrashLoopBackoff ?](../topics/kubernetes.md#how-do-you-debug-a-kubernetes-pod-in-crashloopbackoff) | Medium | 1 |
 | [How do you deploy applications using Kubernetes?](../topics/kubernetes.md#how-do-you-deploy-applications-using-kubernetes) | Medium | 1 |
+| [How do you deploy to Kubernetes using GitHub Actions?](../topics/kubernetes.md#how-do-you-deploy-to-kubernetes-using-github-actions) | Medium | 1 |
 | [How do you design zero-downtime deployments for stateful applications in Kubernetes?](../topics/kubernetes.md#how-do-you-design-zero-downtime-deployments-for-stateful-applications-in-kuberne) | Hard | 1 |
 | [How do you exec into a pod and what’s the right way to define objects?](../topics/kubernetes.md#how-do-you-exec-into-a-pod-and-whats-the-right-way-to-define-objects) | Medium | 2 |
+| [How do you get to know the Kubernetes nodes are ready or not ?](../topics/kubernetes.md#how-do-you-get-to-know-the-kubernetes-nodes-are-ready-or-not) | Medium | 1 |
 | [How do you implement continuous integration and delivery in a Kubernetes cluster?](../topics/kubernetes.md#how-do-you-implement-continuous-integration-and-delivery-in-a-kubernetes-cluster) | Hard | 2 |
 | [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) | Medium | 3 |
 | [How do you integrate GitHub or Bitbucket with Kubernetes? Explain the steps.](../topics/kubernetes.md#how-do-you-integrate-github-or-bitbucket-with-kubernetes-explain-the-steps) | Hard | 2 |
@@ -901,9 +940,11 @@
 | [How to create pod in Kubernetes.](../topics/kubernetes.md#how-to-create-pod-in-kubernetes) | Medium | 2 |
 | [How to resolve storage issue in a pod.](../topics/kubernetes.md#how-to-resolve-storage-issue-in-a-pod) | Medium | 2 |
 | [How to upgrade a Kubernetes cluster?](../topics/kubernetes.md#how-to-upgrade-a-kubernetes-cluster) | Medium | 1 |
+| [How will you design a microservice architecture application in Kubernetes ?](../topics/kubernetes.md#how-will-you-design-a-microservice-architecture-application-in-kubernetes) | Hard | 1 |
 | [How will you set up the Rest Assured framework when APIs are internal to Kubernetes clusters?](../topics/kubernetes.md#how-will-you-set-up-the-rest-assured-framework-when-apis-are-internal-to-kuberne) | Medium | 2 |
 | [How would you check if a GPU pod in Kubernetes is using the GPU assigned to it?](../topics/kubernetes.md#how-would-you-check-if-a-gpu-pod-in-kubernetes-is-using-the-gpu-assigned-to-it) | Easy | 2 |
 | [How would you determine whether production failures originate from Kubernetes, networking, or the application itself?](../topics/kubernetes.md#how-would-you-determine-whether-production-failures-originate-from-kubernetes-ne) | Medium | 5 |
+| [How would you dynamically scale a Kubernetes deployment ?](../topics/kubernetes.md#how-would-you-dynamically-scale-a-kubernetes-deployment) | Hard | 1 |
 | [How would you enforce security policies so that Pods cannot: Run as root, Use the latest image tag, Have a writable root filesystem?](../topics/kubernetes.md#how-would-you-enforce-security-policies-so-that-pods-cannot-run-as-root-use-the-) | Medium | 1 |
 | [How would you handle CUDA driver upgrades in Kubernetes without disrupting thousands of running AI pods?](../topics/kubernetes.md#how-would-you-handle-cuda-driver-upgrades-in-kubernetes-without-disrupting-thous) | Hard | 2 |
 | [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) | Medium | 1 |
@@ -912,6 +953,7 @@
 | [How would you safely drain a production node that hosts Pods protected by PodDisruptionBudgets (PDBs)?](../topics/kubernetes.md#how-would-you-safely-drain-a-production-node-that-hosts-pods-protected-by-poddis) | Hard | 1 |
 | [How would you securely manage secrets in a Kubernetes environment without storing them in Git?](../topics/kubernetes.md#how-would-you-securely-manage-secrets-in-a-kubernetes-environment-without-storin) | Medium | 1 |
 | [How would you troubleshoot intermittent 503 errors in Kubernetes?](../topics/kubernetes.md#how-would-you-troubleshoot-intermittent-503-errors-in-kubernetes) | Medium | 1 |
+| [How would you troubleshoot the out of memory issue in K8s cluster ?](../topics/kubernetes.md#how-would-you-troubleshoot-the-out-of-memory-issue-in-k8s-cluster) | Medium | 1 |
 | [How would you upgrade a Kubernetes cluster?](../topics/kubernetes.md#how-would-you-upgrade-a-kubernetes-cluster) | Medium | 2 |
 | [I have 10 pods running in the system, one of the nodes is highly under pressure. It wants to evict some pods out of the system. But I don't want one of the pods to be evicted. So how would you configure it under any pressure condition?](../topics/kubernetes.md#i-have-10-pods-running-in-the-system-one-of-the-nodes-is-highly-under-pressure-i) | Medium | 1 |
 | [I want to add a user in the kubernetes cluster and want to give specific Authorization how will you do it?](../topics/kubernetes.md#i-want-to-add-a-user-in-the-kubernetes-cluster-and-want-to-give-specific-authori) | Medium | 1 |
@@ -937,6 +979,8 @@
 | [Production error crashloopback of how do you troubleshoot.](../topics/kubernetes.md#production-error-crashloopback-of-how-do-you-troubleshoot) | Hard | 2 |
 | [Q: Your Kubernetes deployment is successful, but the application is not accessible. How would you troubleshoot it?](../topics/kubernetes.md#q-your-kubernetes-deployment-is-successful-but-the-application-is-not-accessible) | Medium | 2 |
 | [Readiness Probe vs Liveness Probe.](../topics/kubernetes.md#readiness-probe-vs-liveness-probe) | Medium | 2 |
+| [Scenario -- In K8s cluster, pods are restarting multiple times and application are going down, How do you troubleshoot it ?](../topics/kubernetes.md#scenario-in-k8s-cluster-pods-are-restarting-multiple-times-and-application-are-g) | Medium | 1 |
+| [Scenario -- Now Kubernetes cluster is running fine, but pods are not able communicate with services ? How do you troubleshoot this issue ?](../topics/kubernetes.md#scenario-now-kubernetes-cluster-is-running-fine-but-pods-are-not-able-communicat) | Medium | 1 |
 | [Security reports that a Pod is making outbound calls to an unauthorized external IP. How would you handle a suspected compromised container?](../topics/kubernetes.md#security-reports-that-a-pod-is-making-outbound-calls-to-an-unauthorized-external) | Hard | 1 |
 | [StatefulSet vs Deployment — when do you use which?](../topics/kubernetes.md#statefulset-vs-deployment-when-do-you-use-which) | Medium | 2 |
 | [Tell more about headless service](../topics/kubernetes.md#tell-more-about-headless-service) | Medium | 2 |
@@ -971,6 +1015,7 @@
 | [What is Kubernetes and how do you use it in your projects?](../topics/kubernetes.md#what-is-kubernetes-and-how-do-you-use-it-in-your-projects) | Hard | 1 |
 | [What is Kubernetes, and why is it used?](../topics/kubernetes.md#what-is-kubernetes-and-why-is-it-used) | Easy | 2 |
 | [What is Kubernetes?](../topics/kubernetes.md#what-is-kubernetes) | Easy | 2 |
+| [What is Liveliness probe and readiness probe in Kubernetes ?](../topics/kubernetes.md#what-is-liveliness-probe-and-readiness-probe-in-kubernetes) | Easy | 1 |
 | [What is RBAC and its components](../topics/kubernetes.md#what-is-rbac-and-its-components) | Medium | 2 |
 | [What is the difference between a pod and a service in Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-a-pod-and-a-service-in-kubernetes) | Medium | 2 |
 | [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) | Easy | 2 |
@@ -998,7 +1043,10 @@
 | [Write a Bash script to list pods in a namespace and restart those in CrashLoopBackOff.](../topics/kubernetes.md#write-a-bash-script-to-list-pods-in-a-namespace-and-restart-those-in-crashloopba) | Medium | 1 |
 | [Write the Kubernetes manifest file to deploy the new replica agent as a DaemonSet in kubernetes cluster](../topics/kubernetes.md#write-the-kubernetes-manifest-file-to-deploy-the-new-replica-agent-as-a-daemonse) | Medium | 1 |
 | [You accidentally delete a namespace in prod](../topics/kubernetes.md#you-accidentally-delete-a-namespace-in-prod) | Medium | 1 |
+| [You are responsible for a global cloud platform supporting 500 million users, 8,000 microservices, and 99.99% availability across AWS, Azure, and Kubernetes. A production outage impacts $300 million in business transactions. How would you restore services, conduct root cause analysis, and prevent future incidents?](../topics/kubernetes.md#you-are-responsible-for-a-global-cloud-platform-supporting-500-million-users-800) | Hard | 1 |
+| [Your are upgrading the k8s cluster, after upgrade some applications are failing, how will you solve this issue ?](../topics/kubernetes.md#your-are-upgrading-the-k8s-cluster-after-upgrade-some-applications-are-failing-h) | Medium | 1 |
 | [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/kubernetes.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do) | Medium | 5 |
+| [Your Kubernetes platform hosting 5,000 production workloads experiences recurring performance degradation due to resource contention, networking bottlenecks, and storage latency. How would you optimize cluster performance, scalability, and resilience?](../topics/kubernetes.md#your-kubernetes-platform-hosting-5000-production-workloads-experiences-recurring) | Hard | 1 |
 | [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) | Hard | 1 |
 | [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) | Hard | 1 |
 | [Your Pod is stuck in CrashLoopBackOff. Walk me through your investigation.](../topics/kubernetes.md#your-pod-is-stuck-in-crashloopbackoff-walk-me-through-your-investigation) | Medium | 1 |

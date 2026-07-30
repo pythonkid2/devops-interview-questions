@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Incident Response**
 
-**27** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**29** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 27 |
-| Easy / Medium / Hard | 0 / 11 / 16 |
+| Questions | 29 |
+| Easy / Medium / Hard | 0 / 12 / 17 |
 | Companies | 2 |
 
 ## Most asked
@@ -65,6 +65,8 @@
   <a id="incident-management"></a>
 - [Incident Response](../topics/incident-response.md#incident-response) — **1×** · Medium
   <a id="incident-response"></a>
+- [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) — **1×** · Hard · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Observability`
+  <a id="leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag"></a>
 - [Production incident response](../topics/incident-response.md#production-incident-response) — **1×** · Hard
   <a id="production-incident-response"></a>
 - [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) — **1×** · Hard
@@ -75,8 +77,6 @@
   <a id="tell-me-about-a-production-incident-you-caused"></a>
 - [The Board approves a ₹600 Crore Cloud, AI, and Platform Engineering Transformation with an expectation of 50% faster deployments and 70% reduction in MTTR within 18 months. What execution strategy would you recommend?](../topics/incident-response.md#the-board-approves-a-600-crore-cloud-ai-and-platform-engineering-transformation-) — **1×** · Medium
   <a id="the-board-approves-a-600-crore-cloud-ai-and-platform-engineering-transformation-"></a>
-- [Which 10 executive KPIs would you present monthly to measure platform reliability, deployment frequency, MTTR, change failure rate, cloud cost efficiency, infrastructure utilization, developer productivity, and SLA compliance?](../topics/incident-response.md#which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit) — **1×** · Medium
-  <a id="which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit"></a>
 
 ## Beginner
 
@@ -106,6 +106,8 @@ _None in this band yet._
   <a id="which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit"></a>
 - [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you) — 1×
   <a id="you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you"></a>
+- [Your organization performs 250,000 deployments annually, but the change failure rate has increased to 18% and MTTR exceeds 3 hours. How would you redesign the CI/CD pipeline, release strategy, and platform engineering practices?](../topics/incident-response.md#your-organization-performs-250000-deployments-annually-but-the-change-failure-ra) — 1× · tags: `CI/CD`
+  <a id="your-organization-performs-250000-deployments-annually-but-the-change-failure-ra"></a>
 
 ## Advanced
 
@@ -133,6 +135,8 @@ _None in this band yet._
   <a id="how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident"></a>
 - [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident) — 1×
   <a id="how-do-you-respond-to-a-production-incident"></a>
+- [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) — 1× · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Observability`
+  <a id="leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag"></a>
 - [Production incident response](../topics/incident-response.md#production-incident-response) — 1×
   <a id="production-incident-response"></a>
 - [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) — 1×
@@ -161,6 +165,7 @@ _None in this band yet._
 - [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident)
 - [Incident Management](../topics/incident-response.md#incident-management)
 - [Incident Response](../topics/incident-response.md#incident-response)
+- [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) — tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Observability`
 - [Production incident response](../topics/incident-response.md#production-incident-response)
 - [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han)
 - [Real incident-based thinking](../topics/incident-response.md#real-incident-based-thinking)
@@ -172,6 +177,7 @@ _None in this band yet._
 - [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do)
 - [Which 10 executive KPIs would you present monthly to measure platform reliability, deployment frequency, MTTR, change failure rate, cloud cost efficiency, infrastructure utilization, developer productivity, and SLA compliance?](../topics/incident-response.md#which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit)
 - [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you)
+- [Your organization performs 250,000 deployments annually, but the change failure rate has increased to 18% and MTTR exceeds 3 hours. How would you redesign the CI/CD pipeline, release strategy, and platform engineering practices?](../topics/incident-response.md#your-organization-performs-250000-deployments-annually-but-the-change-failure-ra) — tags: `CI/CD`
 - [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## Companies asking
@@ -181,6 +187,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) — 2026-07-30 · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Observability`
+- [Your organization performs 250,000 deployments annually, but the change failure rate has increased to 18% and MTTR exceeds 3 hours. How would you redesign the CI/CD pipeline, release strategy, and platform engineering practices?](../topics/incident-response.md#your-organization-performs-250000-deployments-annually-but-the-change-failure-ra) — 2026-07-30 · tags: `CI/CD`
 - [Walk me through a production incident you personally handled — what was your role?](../topics/incident-response.md#walk-me-through-a-production-incident-you-personally-handled-what-was-your-role) — 2026-07-29
 - [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) — 2026-07-29
 - [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 2026-07-28
@@ -194,8 +202,6 @@ _None in this band yet._
 - [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) — 2026-07-26
 - [Real incident-based thinking](../topics/incident-response.md#real-incident-based-thinking) — 2026-07-26
 - [Incident Response](../topics/incident-response.md#incident-response) — 2026-07-26
-- [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident) — 2026-07-26
-- [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) — 2026-07-26
 
 ## Related topics
 
@@ -226,6 +232,7 @@ _None in this band yet._
 | [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident) | Hard | 1 |
 | [Incident Management](../topics/incident-response.md#incident-management) | Medium | 1 |
 | [Incident Response](../topics/incident-response.md#incident-response) | Medium | 1 |
+| [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) | Hard | 1 |
 | [Production incident response](../topics/incident-response.md#production-incident-response) | Hard | 1 |
 | [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) | Hard | 1 |
 | [Real incident-based thinking](../topics/incident-response.md#real-incident-based-thinking) | Medium | 1 |
@@ -237,6 +244,7 @@ _None in this band yet._
 | [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) | Hard | 2 |
 | [Which 10 executive KPIs would you present monthly to measure platform reliability, deployment frequency, MTTR, change failure rate, cloud cost efficiency, infrastructure utilization, developer productivity, and SLA compliance?](../topics/incident-response.md#which-10-executive-kpis-would-you-present-monthly-to-measure-platform-reliabilit) | Medium | 1 |
 | [You mentioned reducing incident response time significantly—what exactly did you implement to achieve that?](../topics/incident-response.md#you-mentioned-reducing-incident-response-time-significantly-what-exactly-did-you) | Medium | 1 |
+| [Your organization performs 250,000 deployments annually, but the change failure rate has increased to 18% and MTTR exceeds 3 hours. How would you redesign the CI/CD pipeline, release strategy, and platform engineering practices?](../topics/incident-response.md#your-organization-performs-250000-deployments-annually-but-the-change-failure-ra) | Medium | 1 |
 | [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) | Hard | 1 |
 
 ## Learning resources

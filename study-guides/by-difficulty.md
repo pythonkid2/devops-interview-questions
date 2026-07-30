@@ -3,7 +3,7 @@
 [Home](../README.md) > [Study guides](./README.md) > **Difficulty**
 
 
-## Easy (246)
+## Easy (252)
 
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes · 7×
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — Docker · 6×
@@ -85,9 +85,9 @@
 - [What is IAM?](../topics/iam.md#what-is-iam) — IAM · 2×
 - [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — Jenkins · 2×
 - [What is kube-proxy?](../topics/general.md#what-is-kube-proxy) — General · 2×
-_…and 166 more in topic pages._
+_…and 172 more in topic pages._
 
-## Medium (1368)
+## Medium (1405)
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — Terraform · 8×
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — Terraform · 7×
@@ -141,6 +141,7 @@ _…and 166 more in topic pages._
 - [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — Kubernetes · 3×
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — Kubernetes · 3×
 - [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — Kubernetes · 3×
+- [If you joined tomorrow as a Senior DevOps Engineer with a ₹55 LPA package, what would your 100-day DevOps transformation roadmap look like, and what measurable engineering, operational, reliability, and business outcomes would you commit to delivering within your first year?](../topics/general.md#if-you-joined-tomorrow-as-a-senior-devops-engineer-with-a-55-lpa-package-what-wo) — General · 3×
 - [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) — Incident Response · 3×
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — AWS · 3×
 - [What happened?](../topics/general.md#what-happened) — General · 3×
@@ -168,10 +169,9 @@ _…and 166 more in topic pages._
 - [A Persistent Volume Claim remains in Pending state. What could be causing it?](../topics/storage.md#a-persistent-volume-claim-remains-in-pending-state-what-could-be-causing-it) — Storage · 2× · tags: `PV`
 - [A Pod cannot pull its Docker image. How do you troubleshoot an ImagePullBackOff error?](../topics/kubernetes.md#a-pod-cannot-pull-its-docker-image-how-do-you-troubleshoot-an-imagepullbackoff-e) — Kubernetes · 2× · tags: `Docker`
 - [A Pod is in CrashLoopBackOff. How would you troubleshoot it?](../topics/kubernetes.md#a-pod-is-in-crashloopbackoff-how-would-you-troubleshoot-it) — Kubernetes · 2×
-- [A Pod is in CrashLoopBackOff. Where do you start your investigation?](../topics/kubernetes.md#a-pod-is-in-crashloopbackoff-where-do-you-start-your-investigation) — Kubernetes · 2×
-_…and 1288 more in topic pages._
+_…and 1325 more in topic pages._
 
-## Hard (214)
+## Hard (223)
 
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response · 7×
 - [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — Kubernetes · 6×
@@ -229,6 +229,7 @@ _…and 1288 more in topic pages._
 - [Production error crashloopback of how do you troubleshoot.](../topics/kubernetes.md#production-error-crashloopback-of-how-do-you-troubleshoot) — Kubernetes · 2×
 - [Production server CPU is at 100%. What would you do?](../topics/general.md#production-server-cpu-is-at-100-what-would-you-do) — General · 2×
 - [System Design](../topics/system-design.md#system-design) — System Design · 2×
+- [System Design (LLD/HLD)](../topics/system-design.md#system-design-lld-hld) — System Design · 2×
 - [Tell me about a time your infrastructure decision didn't scale — what did you change?](../topics/general.md#tell-me-about-a-time-your-infrastructure-decision-didn-t-scale-what-did-you-chan) — General · 2×
 - [Tell me about the worst production issue you personally handled.](../topics/general.md#tell-me-about-the-worst-production-issue-you-personally-handled) — General · 2×
 - [Terraform reports infrastructure drift. How would you handle it?](../topics/terraform.md#terraform-reports-infrastructure-drift-how-would-you-handle-it) — Terraform · 2×
@@ -252,7 +253,6 @@ _…and 1288 more in topic pages._
 - [A failed production deployment across 1,200 microservices impacts 35 million customers within 30 minutes. What would be your incident response, rollback, and recovery strategy?](../topics/incident-response.md#a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust) — Incident Response · 1×
 - [A Kubernetes Secret containing production credentials is accidentally committed to a public GitHub repository. What would you do during the first hour?](../topics/kubernetes.md#a-kubernetes-secret-containing-production-credentials-is-accidentally-committed-) — Kubernetes · 1×
 - [A production deployment failed, and users are impacted. What would your rollback strategy look like?](../topics/deployment-strategies.md#a-production-deployment-failed-and-users-are-impacted-what-would-your-rollback-s) — Deployment Strategies · 1×
-- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/general.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — General · 1×
-_…and 134 more in topic pages._
+_…and 143 more in topic pages._
 
 [← Study guides](./README.md)

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**109** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**110** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 109 |
-| Easy / Medium / Hard | 13 / 86 / 10 |
+| Questions | 110 |
+| Easy / Medium / Hard | 13 / 87 / 10 |
 | Companies | 12 |
 
 ## Most asked
@@ -43,6 +43,8 @@
   <a id="aws-azure-gcp"></a>
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — **2×** · Medium
   <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
+- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — **2×** · Medium
+  <a id="how-do-you-secure-an-s3-bucket"></a>
 - [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) — **2×** · Medium
   <a id="how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable"></a>
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="which-aws-services-do-you-know"></a>
 - [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — **2×** · Medium
   <a id="which-cloud-are-you-using-which-aws-services-are-you-using"></a>
-- [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — **2×** · Medium
-  <a id="write-an-example-for-lambda-expression"></a>
 
 ## Beginner
 
@@ -123,6 +123,8 @@
   <a id="aws-azure-gcp"></a>
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 2×
   <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
+- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 2×
+  <a id="how-do-you-secure-an-s3-bucket"></a>
 - [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) — 2×
   <a id="how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable"></a>
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) — 2×
@@ -203,8 +205,6 @@
   <a id="how-do-you-perform-security-assessments-in-aws"></a>
 - [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) — 1×
   <a id="how-do-you-prepare-for-the-aws-developer-associate-exam"></a>
-- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 1×
-  <a id="how-do-you-secure-an-s3-bucket"></a>
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) — 1×
   <a id="how-good-are-you-in-aws-self-rating-question"></a>
 - [How to provide access to an S3 bucket? Required permissions?](../topics/aws.md#how-to-provide-access-to-an-s3-bucket-required-permissions) — 1×
@@ -235,6 +235,8 @@
   <a id="one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y"></a>
 - [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3) — 1×
   <a id="reduce-latency-for-globally-distributed-users-accessing-s3"></a>
+- [Remote backend & S3 permission errors](../topics/aws.md#remote-backend-s3-permission-errors) — 1×
+  <a id="remote-backend-s3-permission-errors"></a>
 - [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically) — 1×
   <a id="scaling-ec2-instances-automatically"></a>
 - [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) — 1×
@@ -391,6 +393,7 @@
 - [Java Full Stack Developer (Java, Spring Boot, Microservices, React, AWS) – Can you explain the differences between microservices and monolithic architecture?](../topics/aws.md#java-full-stack-developer-java-spring-boot-microservices-react-aws-can-you-expla)
 - [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y)
 - [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3)
+- [Remote backend & S3 permission errors](../topics/aws.md#remote-backend-s3-permission-errors)
 - [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically)
 - [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r)
 - [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio)
@@ -448,6 +451,8 @@
 
 ## Recently added
 
+- [Remote backend & S3 permission errors](../topics/aws.md#remote-backend-s3-permission-errors) — 2026-07-30
+- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 2026-07-30
 - [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) — 2026-07-29
 - [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) — 2026-07-29
 - [Which AWS tools did you use for cost optimization, and how did you use them?](../topics/aws.md#which-aws-tools-did-you-use-for-cost-optimization-and-how-did-you-use-them) — 2026-07-29 · tags: `FinOps`
@@ -461,8 +466,6 @@
 - [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — 2026-07-28
 - [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-) — 2026-07-28
 - [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) — 2026-07-28
-- [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) — 2026-07-28
-- [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) — 2026-07-28
 
 ## Related topics
 
@@ -510,7 +513,7 @@
 | [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) | Medium | 1 |
 | [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) | Medium | 1 |
 | [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) | Medium | 1 |
-| [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) | Medium | 1 |
+| [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) | Medium | 2 |
 | [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) | Medium | 2 |
 | [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 2 |
 | [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) | Medium | 1 |
@@ -536,6 +539,7 @@
 | [Java Full Stack Developer (Java, Spring Boot, Microservices, React, AWS) – Can you explain the differences between microservices and monolithic architecture?](../topics/aws.md#java-full-stack-developer-java-spring-boot-microservices-react-aws-can-you-expla) | Hard | 1 |
 | [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) | Medium | 1 |
 | [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3) | Medium | 1 |
+| [Remote backend & S3 permission errors](../topics/aws.md#remote-backend-s3-permission-errors) | Medium | 1 |
 | [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically) | Medium | 1 |
 | [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) | Medium | 1 |
 | [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) | Medium | 2 |

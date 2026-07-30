@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **ELK**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [ELK](../topics/elk.md#elk) — **1×** · Medium
   <a id="elk"></a>
+- [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch) — **1×** · Medium
+  <a id="explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch"></a>
 
 ## Beginner
 
@@ -38,6 +40,8 @@ _None in this band yet._
 
 - [ELK](../topics/elk.md#elk) — 1×
   <a id="elk"></a>
+- [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch) — 1×
+  <a id="explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch"></a>
 
 ## Advanced
 
@@ -48,6 +52,7 @@ _None in this band yet._
 ### Unspecified
 
 - [ELK](../topics/elk.md#elk)
+- [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch)
 
 ## Companies asking
 
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch) — 2026-07-30
 - [ELK](../topics/elk.md#elk) — 2026-07-26
 
 ## Related topics
@@ -73,6 +79,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [ELK](../topics/elk.md#elk) | Medium | 1 |
+| [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch) | Medium | 1 |
 
 ## Learning resources
 

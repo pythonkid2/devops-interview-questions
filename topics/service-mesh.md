@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Service Mesh**
 
-**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 3 |
-| Easy / Medium / Hard | 0 / 2 / 1 |
-| Companies | 0 |
+| Questions | 4 |
+| Easy / Medium / Hard | 0 / 3 / 1 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -33,6 +33,8 @@
   <a id="how-would-you-implement-fine-grained-service-discovery-across-1000-microservices"></a>
 - [Service Mesh](../topics/service-mesh.md#service-mesh) — **1×** · Medium
   <a id="service-mesh"></a>
+- [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — **1×** · Medium · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
+  <a id="the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern"></a>
 
 ## Beginner
 
@@ -44,6 +46,8 @@ _None in this band yet._
   <a id="how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red"></a>
 - [Service Mesh](../topics/service-mesh.md#service-mesh) — 1×
   <a id="service-mesh"></a>
+- [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — 1× · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
+  <a id="the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern"></a>
 
 ## Advanced
 
@@ -57,13 +61,15 @@ _None in this band yet._
 - [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) — tags: `DNS`
 - [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices)
 - [Service Mesh](../topics/service-mesh.md#service-mesh)
+- [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Elite Code Technologies](../companies/elite-code-technologies.md)
 
 ## Recently added
 
+- [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — 2026-07-30 · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
 - [Service Mesh](../topics/service-mesh.md#service-mesh) — 2026-07-26
 - [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) — 2026-07-17 · tags: `DNS`
 - [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices) — 2026-07-17
@@ -85,6 +91,7 @@ _None in this band yet._
 | [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) | Medium | 1 |
 | [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices) | Hard | 1 |
 | [Service Mesh](../topics/service-mesh.md#service-mesh) | Medium | 1 |
+| [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) | Medium | 1 |
 
 ## Learning resources
 

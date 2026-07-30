@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Git**
 
-**18** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**20** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 18 |
-| Easy / Medium / Hard | 5 / 13 / 0 |
+| Questions | 20 |
+| Easy / Medium / Hard | 7 / 13 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -57,6 +57,10 @@
   <a id="how-does-git-merge-and-rebase-differ-internally"></a>
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — **1×** · Medium
   <a id="sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a"></a>
+- [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used) — **1×** · Easy
+  <a id="what-is-git-hooks-and-how-they-are-used"></a>
+- [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge) — **1×** · Easy
+  <a id="what-is-git-rebase-and-how-does-it-different-from-git-merge"></a>
 - [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) — **1×** · Easy
   <a id="whats-the-difference-between-git-pull-and-git-fetch"></a>
 - [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — **1×** · Medium
@@ -74,6 +78,10 @@
   <a id="what-are-git-hooks-how-would-you-use-them"></a>
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — 2×
   <a id="what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project"></a>
+- [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used) — 1×
+  <a id="what-is-git-hooks-and-how-they-are-used"></a>
+- [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge) — 1×
+  <a id="what-is-git-rebase-and-how-does-it-different-from-git-merge"></a>
 - [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) — 1×
   <a id="whats-the-difference-between-git-pull-and-git-fetch"></a>
 
@@ -127,6 +135,8 @@ _None in this band yet._
 - [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know)
 - [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them)
 - [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project)
+- [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used)
+- [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge)
 - [What is Git?](../topics/git.md#what-is-git)
 - [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch)
 - [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used)
@@ -139,6 +149,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used) — 2026-07-30
+- [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge) — 2026-07-30
 - [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 2026-07-29
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — 2026-07-29
 - [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) — 2026-07-28
@@ -152,8 +164,6 @@ _None in this band yet._
 - [What is Git?](../topics/git.md#what-is-git) — 2026-07-18
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — 2026-07-17
 - [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — 2026-07-17
-- [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — 2026-07-17
-- [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — 2026-07-17
 
 ## Related topics
 
@@ -176,6 +186,8 @@ _None in this band yet._
 | [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) | Easy | 2 |
 | [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) | Easy | 2 |
 | [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) | Easy | 2 |
+| [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used) | Easy | 1 |
+| [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge) | Easy | 1 |
 | [What is Git?](../topics/git.md#what-is-git) | Easy | 3 |
 | [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) | Easy | 1 |
 | [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) | Medium | 1 |
