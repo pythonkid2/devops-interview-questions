@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Chaos Engineering**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 2 / 0 |
-| Companies | 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 3 / 0 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -31,6 +31,8 @@
   <a id="chaos-engineering"></a>
 - [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin) — **1×** · Medium
   <a id="describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin"></a>
+- [How do you run chaos experiments in a live environment without impacting paying customers or compliance reports?](../topics/chaos-engineering.md#how-do-you-run-chaos-experiments-in-a-live-environment-without-impacting-paying-) — **1×** · Medium
+  <a id="how-do-you-run-chaos-experiments-in-a-live-environment-without-impacting-paying-"></a>
 
 ## Beginner
 
@@ -42,6 +44,8 @@ _None in this band yet._
   <a id="chaos-engineering"></a>
 - [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin) — 1×
   <a id="describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin"></a>
+- [How do you run chaos experiments in a live environment without impacting paying customers or compliance reports?](../topics/chaos-engineering.md#how-do-you-run-chaos-experiments-in-a-live-environment-without-impacting-paying-) — 1×
+  <a id="how-do-you-run-chaos-experiments-in-a-live-environment-without-impacting-paying-"></a>
 
 ## Advanced
 
@@ -53,13 +57,15 @@ _None in this band yet._
 
 - [Chaos Engineering](../topics/chaos-engineering.md#chaos-engineering)
 - [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin)
+- [How do you run chaos experiments in a live environment without impacting paying customers or compliance reports?](../topics/chaos-engineering.md#how-do-you-run-chaos-experiments-in-a-live-environment-without-impacting-paying-)
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Amazon](../companies/amazon.md)
 
 ## Recently added
 
+- [How do you run chaos experiments in a live environment without impacting paying customers or compliance reports?](../topics/chaos-engineering.md#how-do-you-run-chaos-experiments-in-a-live-environment-without-impacting-paying-) — 2026-08-02
 - [Chaos Engineering](../topics/chaos-engineering.md#chaos-engineering) — 2026-07-26
 - [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin) — 2026-07-17
 
@@ -79,6 +85,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Chaos Engineering](../topics/chaos-engineering.md#chaos-engineering) | Medium | 1 |
 | [Describe how you’d test infra chaos and graceful degradation for a Netflix Originals release.](../topics/chaos-engineering.md#describe-how-youd-test-infra-chaos-and-graceful-degradation-for-a-netflix-origin) | Medium | 1 |
+| [How do you run chaos experiments in a live environment without impacting paying customers or compliance reports?](../topics/chaos-engineering.md#how-do-you-run-chaos-experiments-in-a-live-environment-without-impacting-paying-) | Medium | 1 |
 
 ## Learning resources
 

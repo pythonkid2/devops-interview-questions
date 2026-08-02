@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Prometheus**
 
-**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**12** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 11 |
-| Easy / Medium / Hard | 0 / 11 / 0 |
+| Questions | 12 |
+| Easy / Medium / Hard | 0 / 12 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -49,6 +49,8 @@
   <a id="prometheus-kya-karta-hai"></a>
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — **1×** · Medium
   <a id="what-is-the-purpose-of-prometheus-and-grafana-in-monitoring"></a>
+- [What metrics do you monitor using Prometheus?](../topics/prometheus.md#what-metrics-do-you-monitor-using-prometheus) — **1×** · Medium
+  <a id="what-metrics-do-you-monitor-using-prometheus"></a>
 
 ## Beginner
 
@@ -78,6 +80,8 @@ _None in this band yet._
   <a id="prometheus-kya-karta-hai"></a>
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — 1×
   <a id="what-is-the-purpose-of-prometheus-and-grafana-in-monitoring"></a>
+- [What metrics do you monitor using Prometheus?](../topics/prometheus.md#what-metrics-do-you-monitor-using-prometheus) — 1×
+  <a id="what-metrics-do-you-monitor-using-prometheus"></a>
 
 ## Advanced
 
@@ -98,6 +102,7 @@ _None in this band yet._
 - [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do)
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai)
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring)
+- [What metrics do you monitor using Prometheus?](../topics/prometheus.md#what-metrics-do-you-monitor-using-prometheus)
 
 ## Companies asking
 
@@ -105,6 +110,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What metrics do you monitor using Prometheus?](../topics/prometheus.md#what-metrics-do-you-monitor-using-prometheus) — 2026-08-02
 - [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) — 2026-07-29
 - [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — 2026-07-28 · tags: `Grafana`
 - [Prometheus](../topics/prometheus.md#prometheus) — 2026-07-26
@@ -143,6 +149,7 @@ _None in this band yet._
 | [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) | Medium | 2 |
 | [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) | Medium | 1 |
 | [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) | Medium | 1 |
+| [What metrics do you monitor using Prometheus?](../topics/prometheus.md#what-metrics-do-you-monitor-using-prometheus) | Medium | 1 |
 
 ## Learning resources
 

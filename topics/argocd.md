@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **ArgoCD**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 0 / 6 / 3 |
+| Questions | 10 |
+| Easy / Medium / Hard | 0 / 7 / 3 |
 | Companies | 0 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="how-do-you-automate-deployment-rollbacks-in-argocd"></a>
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — **1×** · Hard · tags: `GitOps`
   <a id="how-would-you-design-a-gitops-workflow-for-multiple-teams"></a>
+- [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — **1×** · Medium · tags: `Helm`, `CI/CD`, `Git`
+  <a id="if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire"></a>
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — **1×** · Medium
   <a id="in-argocd-what-are-the-different-components-available"></a>
 - [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — **1×** · Medium
@@ -60,6 +62,8 @@ _None in this band yet._
   <a id="gitops"></a>
 - [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — 1×
   <a id="how-do-you-automate-deployment-rollbacks-in-argocd"></a>
+- [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — 1× · tags: `Helm`, `CI/CD`, `Git`
+  <a id="if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire"></a>
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — 1×
   <a id="in-argocd-what-are-the-different-components-available"></a>
 - [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 1×
@@ -85,6 +89,7 @@ _None in this band yet._
 - [GitOps](../topics/argocd.md#gitops) — tags: `GitOps`
 - [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd)
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — tags: `GitOps`
+- [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — tags: `Helm`, `CI/CD`, `Git`
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available)
 - [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops)
 
@@ -94,6 +99,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — 2026-08-02 · tags: `Helm`, `CI/CD`, `Git`
 - [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — 2026-07-29
 - [GitOps](../topics/argocd.md#gitops) — 2026-07-26 · tags: `GitOps`
 - [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — 2026-07-20 · tags: `GitOps`
@@ -123,6 +129,7 @@ _None in this band yet._
 | [GitOps](../topics/argocd.md#gitops) | Medium | 1 |
 | [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) | Medium | 1 |
 | [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) | Hard | 1 |
+| [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) | Medium | 1 |
 | [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) | Medium | 1 |
 | [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) | Medium | 1 |
 

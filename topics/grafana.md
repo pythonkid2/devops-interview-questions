@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Grafana**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 0 / 6 / 0 |
+| Questions | 7 |
+| Easy / Medium / Hard | 0 / 7 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -39,6 +39,8 @@
   <a id="have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti"></a>
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) — **1×** · Medium
   <a id="in-grafana-how-have-you-created-dashboards"></a>
+- [What dashboards and alerts have you configured in Grafana?](../topics/grafana.md#what-dashboards-and-alerts-have-you-configured-in-grafana) — **1×** · Medium
+  <a id="what-dashboards-and-alerts-have-you-configured-in-grafana"></a>
 
 ## Beginner
 
@@ -58,6 +60,8 @@ _None in this band yet._
   <a id="have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti"></a>
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) — 1×
   <a id="in-grafana-how-have-you-created-dashboards"></a>
+- [What dashboards and alerts have you configured in Grafana?](../topics/grafana.md#what-dashboards-and-alerts-have-you-configured-in-grafana) — 1×
+  <a id="what-dashboards-and-alerts-have-you-configured-in-grafana"></a>
 
 ## Advanced
 
@@ -73,6 +77,7 @@ _None in this band yet._
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — tags: `Monitoring`
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards)
 - [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot)
+- [What dashboards and alerts have you configured in Grafana?](../topics/grafana.md#what-dashboards-and-alerts-have-you-configured-in-grafana)
 
 ## Companies asking
 
@@ -80,6 +85,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What dashboards and alerts have you configured in Grafana?](../topics/grafana.md#what-dashboards-and-alerts-have-you-configured-in-grafana) — 2026-08-02
 - [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — 2026-07-29
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — 2026-07-27 · tags: `Monitoring`
 - [Grafana](../topics/grafana.md#grafana) — 2026-07-26
@@ -108,6 +114,7 @@ _None in this band yet._
 | [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) | Medium | 2 |
 | [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) | Medium | 1 |
 | [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) | Medium | 2 |
+| [What dashboards and alerts have you configured in Grafana?](../topics/grafana.md#what-dashboards-and-alerts-have-you-configured-in-grafana) | Medium | 1 |
 
 ## Learning resources
 

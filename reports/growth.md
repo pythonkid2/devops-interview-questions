@@ -4,8 +4,8 @@
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 1880 |
-| LinkedIn posts | 789 |
-| Added this week | 562 |
-| Added this month | 1880 |
-| Duplicates skipped (lifetime) | 929 |
+| Unique questions | 1967 |
+| LinkedIn posts | 819 |
+| Added this week | 649 |
+| Added this month | 1967 |
+| Duplicates skipped (lifetime) | 961 |

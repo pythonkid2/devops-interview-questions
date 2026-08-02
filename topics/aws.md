@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**110** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**112** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 110 |
-| Easy / Medium / Hard | 13 / 87 / 10 |
+| Questions | 112 |
+| Easy / Medium / Hard | 13 / 89 / 10 |
 | Companies | 12 |
 
 ## Most asked
@@ -35,6 +35,8 @@
   <a id="you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state"></a>
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — **3×** · Medium
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
+- [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — **3×** · Medium
+  <a id="write-an-example-for-lambda-expression"></a>
 - [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) — **2×** · Hard
   <a id="a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) — **2×** · Medium
   <a id="which-aws-services-do-you-know"></a>
-- [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — **2×** · Medium
-  <a id="which-cloud-are-you-using-which-aws-services-are-you-using"></a>
 
 ## Beginner
 
@@ -117,6 +117,8 @@
   <a id="you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state"></a>
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 3×
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
+- [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 3×
+  <a id="write-an-example-for-lambda-expression"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — 2×
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — 2× · tags: `Azure`, `GCP`
@@ -151,8 +153,8 @@
   <a id="which-aws-services-do-you-know"></a>
 - [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — 2×
   <a id="which-cloud-are-you-using-which-aws-services-are-you-using"></a>
-- [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 2×
-  <a id="write-an-example-for-lambda-expression"></a>
+- [A few AWS services and their use cases.](../topics/aws.md#a-few-aws-services-and-their-use-cases) — 1×
+  <a id="a-few-aws-services-and-their-use-cases"></a>
 - [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) — 1×
   <a id="an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl"></a>
 - [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) — 1×
@@ -231,6 +233,8 @@
   <a id="how-would-you-protect-applications-against-ddos-attacks-in-aws"></a>
 - [If a legitimate request receives a 403 Access Denied error due to AWS WAF, how would you troubleshoot it?](../topics/aws.md#if-a-legitimate-request-receives-a-403-access-denied-error-due-to-aws-waf-how-wo) — 1×
   <a id="if-a-legitimate-request-receives-a-403-access-denied-error-due-to-aws-waf-how-wo"></a>
+- [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — 1×
+  <a id="is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms"></a>
 - [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) — 1×
   <a id="one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y"></a>
 - [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3) — 1×
@@ -344,6 +348,7 @@
 
 ### Unspecified
 
+- [A few AWS services and their use cases.](../topics/aws.md#a-few-aws-services-and-their-use-cases)
 - [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r)
 - [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl)
 - [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st)
@@ -390,6 +395,7 @@
 - [How would you troubleshoot an HTTPS Application Load Balancer that isn't serving traffic as expected?](../topics/aws.md#how-would-you-troubleshoot-an-https-application-load-balancer-that-isn-t-serving)
 - [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la)
 - [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/aws.md#infrastructure-as-code-iac-terraform-cloudformation)
+- [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms)
 - [Java Full Stack Developer (Java, Spring Boot, Microservices, React, AWS) – Can you explain the differences between microservices and monolithic architecture?](../topics/aws.md#java-full-stack-developer-java-spring-boot-microservices-react-aws-can-you-expla)
 - [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y)
 - [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3)
@@ -451,6 +457,9 @@
 
 ## Recently added
 
+- [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 2026-08-02
+- [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — 2026-08-02
+- [A few AWS services and their use cases.](../topics/aws.md#a-few-aws-services-and-their-use-cases) — 2026-08-02
 - [Remote backend & S3 permission errors](../topics/aws.md#remote-backend-s3-permission-errors) — 2026-07-30
 - [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 2026-07-30
 - [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) — 2026-07-29
@@ -462,10 +471,7 @@
 - [Can you explain AWS architecture?](../topics/aws.md#can-you-explain-aws-architecture) — 2026-07-29 · tags: `System Design`
 - [Your application works correctly in one AWS Availability Zone but fails after traffic moves to another AZ. How would you troubleshoot the infrastructure?](../topics/aws.md#your-application-works-correctly-in-one-aws-availability-zone-but-fails-after-tr) — 2026-07-29
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — 2026-07-29 · tags: `Azure`, `GCP`
-- [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 2026-07-29
 - [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — 2026-07-28
-- [What is the difference between a developer's and an administrator's perspective on AWS services?](../topics/aws.md#what-is-the-difference-between-a-developer-s-and-an-administrator-s-perspective-) — 2026-07-28
-- [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) — 2026-07-28
 
 ## Related topics
 
@@ -477,6 +483,7 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [A few AWS services and their use cases.](../topics/aws.md#a-few-aws-services-and-their-use-cases) | Medium | 1 |
 | [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/aws.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) | Hard | 2 |
 | [An application deployed on AWS suddenly becomes unavailable. How would you troubleshoot the issue step by step?](../topics/aws.md#an-application-deployed-on-aws-suddenly-becomes-unavailable-how-would-you-troubl) | Medium | 1 |
 | [An application gets an "Access Denied" error while accessing S3. Where would you start looking?](../topics/aws.md#an-application-gets-an-access-denied-error-while-accessing-s3-where-would-you-st) | Medium | 1 |
@@ -536,6 +543,7 @@
 | [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la) | Medium | 2 |
 | [If a legitimate request receives a 403 Access Denied error due to AWS WAF, how would you troubleshoot it?](../topics/aws.md#if-a-legitimate-request-receives-a-403-access-denied-error-due-to-aws-waf-how-wo) | Medium | 1 |
 | [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/aws.md#infrastructure-as-code-iac-terraform-cloudformation) | Easy | 1 |
+| [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) | Medium | 1 |
 | [Java Full Stack Developer (Java, Spring Boot, Microservices, React, AWS) – Can you explain the differences between microservices and monolithic architecture?](../topics/aws.md#java-full-stack-developer-java-spring-boot-microservices-react-aws-can-you-expla) | Hard | 1 |
 | [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) | Medium | 1 |
 | [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3) | Medium | 1 |
@@ -579,7 +587,7 @@
 | [Which VPC Interface Endpoints are required for AWS SSM to work without internet access?](../topics/aws.md#which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-) | Medium | 1 |
 | [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work) | Medium | 1 |
 | [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) | Medium | 1 |
-| [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) | Medium | 2 |
+| [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) | Medium | 3 |
 | [You are unable to SSH into an EC2 instance, but the instance is running and accessible through the AWS Console. How would you install a required package on that instance without using SSH?](../topics/aws.md#you-are-unable-to-ssh-into-an-ec2-instance-but-the-instance-is-running-and-acces) | Easy | 2 |
 | [You need to provide access to an Amazon S3 object only to a specific client. How would you implement this securely? How would you ensure no one else can access the object?](../topics/aws.md#you-need-to-provide-access-to-an-amazon-s3-object-only-to-a-specific-client-how-) | Hard | 2 |
 | [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) | Medium | 5 |

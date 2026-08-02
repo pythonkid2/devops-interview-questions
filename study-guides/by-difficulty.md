@@ -3,7 +3,7 @@
 [Home](../README.md) > [Study guides](./README.md) > **Difficulty**
 
 
-## Easy (252)
+## Easy (254)
 
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes · 7×
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — Docker · 6×
@@ -14,8 +14,10 @@
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) — CI/CD · 3×
 - [Difference between count and for_each.](../topics/terraform.md#difference-between-count-and-for-each) — Terraform · 3×
 - [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) — Security · 3×
+- [Difference between wait and sleep.](../topics/general.md#difference-between-wait-and-sleep) — General · 3×
 - [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — General · 3×
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — Ingress · 3×
+- [What is errors and examples.](../topics/general.md#what-is-errors-and-examples) — General · 3×
 - [What is Git?](../topics/git.md#what-is-git) — Git · 3×
 - [What is Linux?](../topics/linux.md#what-is-linux) — Linux · 3×
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) — Docker · 2×
@@ -30,7 +32,6 @@
 - [Difference between String, StringBuilder, and StringBuffer.](../topics/general.md#difference-between-string-stringbuilder-and-stringbuffer) — General · 2×
 - [Difference between TCP and UDP. Where have you used each?](../topics/networking.md#difference-between-tcp-and-udp-where-have-you-used-each) — Networking · 2×
 - [Difference between terraform.tfvars file and variables.tf file ?](../topics/terraform.md#difference-between-terraform-tfvars-file-and-variables-tf-file) — Terraform · 2×
-- [Difference between wait and sleep.](../topics/general.md#difference-between-wait-and-sleep) — General · 2×
 - [Do I need to take a course from a reputed institution?](../topics/general.md#do-i-need-to-take-a-course-from-a-reputed-institution) — General · 2×
 - [Explain the difference between HashMap and ConcurrentHashMap.](../topics/general.md#explain-the-difference-between-hashmap-and-concurrenthashmap) — General · 2×
 - [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — Deployment Strategies · 2× · tags: `Blue-Green`, `Canary`
@@ -80,20 +81,19 @@
 - [What is Docker and how does it work?](../topics/docker.md#what-is-docker-and-how-does-it-work) — Docker · 2×
 - [What is Docker?](../topics/docker.md#what-is-docker) — Docker · 2×
 - [What is EC2?](../topics/aws.md#what-is-ec2) — AWS · 2×
-- [What is errors and examples.](../topics/general.md#what-is-errors-and-examples) — General · 2×
 - [What is etcd?](../topics/general.md#what-is-etcd) — General · 2×
 - [What is IAM?](../topics/iam.md#what-is-iam) — IAM · 2×
 - [What is Jenkins?](../topics/jenkins.md#what-is-jenkins) — Jenkins · 2×
 - [What is kube-proxy?](../topics/general.md#what-is-kube-proxy) — General · 2×
-_…and 172 more in topic pages._
+_…and 174 more in topic pages._
 
-## Medium (1405)
+## Medium (1470)
 
 - [What is Terraform?](../topics/terraform.md#what-is-terraform) — Terraform · 8×
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — Terraform · 7×
+- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — Docker · 7×
 - [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — Kubernetes · 6×
 - [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) — Kubernetes · 6×
-- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — Docker · 6×
 - [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — CI/CD · 6×
 - [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../topics/kubernetes.md#after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai) — Kubernetes · 5×
 - [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) — Networking · 5×
@@ -123,6 +123,7 @@ _…and 172 more in topic pages._
 - [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — Terraform · 4×
 - [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — Jenkins · 4×
 - [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) — CI/CD · 4×
+- [If you joined tomorrow as a Senior DevOps Engineer with a ₹55 LPA package, what would your 100-day DevOps transformation roadmap look like, and what measurable engineering, operational, reliability, and business outcomes would you commit to delivering within your first year?](../topics/general.md#if-you-joined-tomorrow-as-a-senior-devops-engineer-with-a-55-lpa-package-what-wo) — General · 4×
 - [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) — General · 4×
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — Docker · 4×
 - [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) — CI/CD · 4×
@@ -130,9 +131,16 @@ _…and 172 more in topic pages._
 - [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — GitHub Actions · 4×
 - [A deployment succeeds, but latency increases from 80 ms to 2 seconds. Walk me through your debugging approach.](../topics/general.md#a-deployment-succeeds-but-latency-increases-from-80-ms-to-2-seconds-walk-me-thro) — General · 3×
 - [A Pod is running but the application is not accessible. What would you check?](../topics/kubernetes.md#a-pod-is-running-but-the-application-is-not-accessible-what-would-you-check) — Kubernetes · 3×
+- [Comparable vs Comparator.](../topics/general.md#comparable-vs-comparator) — General · 3×
 - [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) — Capacity Planning · 3×
+- [Different type of concurrent collections used in project.](../topics/general.md#different-type-of-concurrent-collections-used-in-project) — General · 3×
+- [Explain different type of injection in spring boot with example.](../topics/general.md#explain-different-type-of-injection-in-spring-boot-with-example) — General · 3×
 - [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — Logging · 3× · tags: `Observability`, `Monitoring`
+- [Explain volatile keyword.](../topics/general.md#explain-volatile-keyword) — General · 3×
+- [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — CI/CD · 3×
+- [Failfast vs fail safe iterators.](../topics/general.md#failfast-vs-fail-safe-iterators) — General · 3×
 - [Give an example of a performance bottleneck you identified and resolved in a cloud-native environment.](../topics/general.md#give-an-example-of-a-performance-bottleneck-you-identified-and-resolved-in-a-clo) — General · 3×
+- [Hibernate vs JPA.](../topics/general.md#hibernate-vs-jpa) — General · 3×
 - [How do you collaborate with development teams to improve application reliability, deployment speed, and operational excellence?](../topics/general.md#how-do-you-collaborate-with-development-teams-to-improve-application-reliability) — General · 3×
 - [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — SRE · 3× · tags: `DevSecOps`
 - [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) — Kubernetes · 3×
@@ -141,14 +149,15 @@ _…and 172 more in topic pages._
 - [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — Kubernetes · 3×
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — Kubernetes · 3×
 - [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — Kubernetes · 3×
-- [If you joined tomorrow as a Senior DevOps Engineer with a ₹55 LPA package, what would your 100-day DevOps transformation roadmap look like, and what measurable engineering, operational, reliability, and business outcomes would you commit to delivering within your first year?](../topics/general.md#if-you-joined-tomorrow-as-a-senior-devops-engineer-with-a-55-lpa-package-what-wo) — General · 3×
 - [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) — Incident Response · 3×
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — AWS · 3×
+- [What changes were made in hashmap after java 8.](../topics/general.md#what-changes-were-made-in-hashmap-after-java-8) — General · 3×
 - [What happened?](../topics/general.md#what-happened) — General · 3×
 - [What is Jenkins, and why is it used?](../topics/jenkins.md#what-is-jenkins-and-why-is-it-used) — Jenkins · 3×
 - [What is the difference between terraform plan and terraform apply?](../topics/terraform.md#what-is-the-difference-between-terraform-plan-and-terraform-apply) — Terraform · 3×
 - [What is your approach to Infrastructure as Code (IaC)? Which tools do you use, and why?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-do-you-use-and-w) — General · 3×
 - [What Service Level Objectives (SLOs), Service Level Indicators (SLIs), and error budgets have you managed, and how did they influence engineering decisions?](../topics/general.md#what-service-level-objectives-slos-service-level-indicators-slis-and-error-budge) — General · 3×
+- [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — AWS · 3×
 - [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — FinOps · 3×
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) — Docker · 3×
 - [A bug occurs only during peak traffic. How would you capture and investigate it?](../topics/general.md#a-bug-occurs-only-during-peak-traffic-how-would-you-capture-and-investigate-it) — General · 2×
@@ -160,18 +169,9 @@ _…and 172 more in topic pages._
 - [A Jenkins Agent is offline. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-is-offline-how-would-you-troubleshoot-it) — Jenkins · 2×
 - [A Jenkins build is stuck in the queue. What could be the reasons?](../topics/jenkins.md#a-jenkins-build-is-stuck-in-the-queue-what-could-be-the-reasons) — Jenkins · 2×
 - [A Jenkins pipeline completed successfully, but the latest changes are not visible in production. What components would you verify before concluding the deployment failed?](../topics/jenkins.md#a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible) — Jenkins · 2×
-- [A Jenkins pipeline fails after deployment. What's your debugging process?](../topics/jenkins.md#a-jenkins-pipeline-fails-after-deployment-what-s-your-debugging-process) — Jenkins · 2×
-- [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — Jenkins · 2× · tags: `CI/CD`
-- [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — Jenkins · 2×
-- [A Kubernetes GPU pod requests 16GB VRAM but only gets 12GB due to fragmentation. How do you detect and fix it in real time?](../topics/kubernetes.md#a-kubernetes-gpu-pod-requests-16gb-vram-but-only-gets-12gb-due-to-fragmentation-) — Kubernetes · 2×
-- [A Kubernetes Pod is in CrashLoopBackOff. Walk me through your troubleshooting approach from start to finish.](../topics/kubernetes.md#a-kubernetes-pod-is-in-crashloopbackoff-walk-me-through-your-troubleshooting-app) — Kubernetes · 2×
-- [A Kubernetes pod keeps crashing. How do you investigate?](../topics/kubernetes.md#a-kubernetes-pod-keeps-crashing-how-do-you-investigate) — Kubernetes · 2×
-- [A Persistent Volume Claim remains in Pending state. What could be causing it?](../topics/storage.md#a-persistent-volume-claim-remains-in-pending-state-what-could-be-causing-it) — Storage · 2× · tags: `PV`
-- [A Pod cannot pull its Docker image. How do you troubleshoot an ImagePullBackOff error?](../topics/kubernetes.md#a-pod-cannot-pull-its-docker-image-how-do-you-troubleshoot-an-imagepullbackoff-e) — Kubernetes · 2× · tags: `Docker`
-- [A Pod is in CrashLoopBackOff. How would you troubleshoot it?](../topics/kubernetes.md#a-pod-is-in-crashloopbackoff-how-would-you-troubleshoot-it) — Kubernetes · 2×
-_…and 1325 more in topic pages._
+_…and 1390 more in topic pages._
 
-## Hard (223)
+## Hard (243)
 
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response · 7×
 - [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — Kubernetes · 6×
@@ -190,6 +190,7 @@ _…and 1325 more in topic pages._
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — Disaster Recovery · 3×
 - [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) — CI/CD · 3×
 - [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production) — Deployment Strategies · 3×
+- [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions) — GitHub Actions · 3×
 - [A critical vulnerability is discovered in production. What is your approach?](../topics/general.md#a-critical-vulnerability-is-discovered-in-production-what-is-your-approach) — General · 2×
 - [A deployment failed in Production. How would you troubleshoot?](../topics/general.md#a-deployment-failed-in-production-how-would-you-troubleshoot) — General · 2×
 - [A deployment introduced a production issue. How would you roll it back?](../topics/general.md#a-deployment-introduced-a-production-issue-how-would-you-roll-it-back) — General · 2×
@@ -213,11 +214,11 @@ _…and 1325 more in topic pages._
 - [How do you implement continuous integration and delivery in a Kubernetes cluster?](../topics/kubernetes.md#how-do-you-implement-continuous-integration-and-delivery-in-a-kubernetes-cluster) — Kubernetes · 2×
 - [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps) — Security · 2×
 - [How do you integrate GitHub or Bitbucket with Kubernetes? Explain the steps.](../topics/kubernetes.md#how-do-you-integrate-github-or-bitbucket-with-kubernetes-explain-the-steps) — Kubernetes · 2×
+- [How do you minimize production impact while investigating?](../topics/general.md#how-do-you-minimize-production-impact-while-investigating) — General · 2×
 - [How do you modify a managed solution in production without restarting the entire lifecycle?](../topics/general.md#how-do-you-modify-a-managed-solution-in-production-without-restarting-the-entire) — General · 2×
 - [How do you prioritize multiple production incidents occurring at the same time?](../topics/general.md#how-do-you-prioritize-multiple-production-incidents-occurring-at-the-same-time) — General · 2×
 - [How do you set up SLOs for both AI inference latency and batch training completion times without overprovisioning GPUs?](../topics/observability.md#how-do-you-set-up-slos-for-both-ai-inference-latency-and-batch-training-completi) — Observability · 2×
 - [How does an ASG scale, and what scaling policies are available?](../topics/general.md#how-does-an-asg-scale-and-what-scaling-policies-are-available) — General · 2×
-- [How does CI/CD pipeline design work with Jenkins and GitHub Actions?](../topics/github-actions.md#how-does-ci-cd-pipeline-design-work-with-jenkins-and-github-actions) — GitHub Actions · 2×
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — Disaster Recovery · 2×
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — System Design · 2×
 - [How would you handle CUDA driver upgrades in Kubernetes without disrupting thousands of running AI pods?](../topics/kubernetes.md#how-would-you-handle-cuda-driver-upgrades-in-kubernetes-without-disrupting-thous) — Kubernetes · 2×
@@ -226,6 +227,7 @@ _…and 1325 more in topic pages._
 - [Mention integrating tools like SonarQube and Trivy into CI/CD pipelines so vulnerabilities are detected before reaching production.](../topics/devsecops.md#mention-integrating-tools-like-sonarqube-and-trivy-into-ci-cd-pipelines-so-vulne) — DevSecOps · 2× · tags: `CI/CD`
 - [Persistent storage for AI datasets starts showing 200ms+ latency. How do you pinpoint whether it’s the storage backend, the network, or the GPU node?](../topics/general.md#persistent-storage-for-ai-datasets-starts-showing-200ms-latency-how-do-you-pinpo) — General · 2×
 - [Production deployment failed. What steps would you take?](../topics/general.md#production-deployment-failed-what-steps-would-you-take) — General · 2×
+- [Production deployments suddenly started failing. No code changed. Where do you begin?](../topics/general.md#production-deployments-suddenly-started-failing-no-code-changed-where-do-you-beg) — General · 2×
 - [Production error crashloopback of how do you troubleshoot.](../topics/kubernetes.md#production-error-crashloopback-of-how-do-you-troubleshoot) — Kubernetes · 2×
 - [Production server CPU is at 100%. What would you do?](../topics/general.md#production-server-cpu-is-at-100-what-would-you-do) — General · 2×
 - [System Design](../topics/system-design.md#system-design) — System Design · 2×
@@ -241,6 +243,7 @@ _…and 1325 more in topic pages._
 - [What challenges have you faced during production incidents, and how did you resolve them?](../topics/general.md#what-challenges-have-you-faced-during-production-incidents-and-how-did-you-resol) — General · 2×
 - [What is statefile explain more about it and where to store and why if lost if doesn't have backup how do you regain statefile](../topics/terraform.md#what-is-statefile-explain-more-about-it-and-where-to-store-and-why-if-lost-if-do) — Terraform · 2×
 - [What is the difference between Jenkins, GitHub Actions, and Bitbucket Pipelines?](../topics/ci-cd.md#what-is-the-difference-between-jenkins-github-actions-and-bitbucket-pipelines) — CI/CD · 2×
+- [What's one production incident that taught you more than any certification ever could?](../topics/incident-response.md#what-s-one-production-incident-that-taught-you-more-than-any-certification-ever-) — Incident Response · 2×
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — Azure · 2×
 - [Why does a Canvas App work perfectly in Dev but fail in Production, and how do you troubleshoot it?](../topics/ci-cd.md#why-does-a-canvas-app-work-perfectly-in-dev-but-fail-in-production-and-how-do-yo) — CI/CD · 2×
 - [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/python.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) — Python · 2×
@@ -250,9 +253,6 @@ _…and 1325 more in topic pages._
 - [A CloudFormation template works in Dev but fails in Production because of environment-specific values. How would you structure the template to avoid hardcoding?](../topics/cloudformation.md#a-cloudformation-template-works-in-dev-but-fails-in-production-because-of-enviro) — CloudFormation · 1×
 - [A critical production deployment fails during a global release, affecting 80 million users and resulting in an estimated ₹350 Crore business impact. How would you investigate the root cause, coordinate incident response, perform rollback or recovery, and implement preventive controls to eliminate similar failures in future releases?](../topics/incident-response.md#a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill) — Incident Response · 1×
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — ArgoCD · 1× · tags: `Git`, `GitOps`
-- [A failed production deployment across 1,200 microservices impacts 35 million customers within 30 minutes. What would be your incident response, rollback, and recovery strategy?](../topics/incident-response.md#a-failed-production-deployment-across-1200-microservices-impacts-35-million-cust) — Incident Response · 1×
-- [A Kubernetes Secret containing production credentials is accidentally committed to a public GitHub repository. What would you do during the first hour?](../topics/kubernetes.md#a-kubernetes-secret-containing-production-credentials-is-accidentally-committed-) — Kubernetes · 1×
-- [A production deployment failed, and users are impacted. What would your rollback strategy look like?](../topics/deployment-strategies.md#a-production-deployment-failed-and-users-are-impacted-what-would-your-rollback-s) — Deployment Strategies · 1×
-_…and 143 more in topic pages._
+_…and 163 more in topic pages._
 
 [← Study guides](./README.md)

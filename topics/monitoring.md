@@ -35,6 +35,8 @@
   <a id="how-do-you-investigate-a-sudden-spike-in-application-latency"></a>
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) — **2×** · Medium
   <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
+- [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — **2×** · Medium
+  <a id="monitoring-security-troubleshooting-scenarios"></a>
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — **2×** · Medium
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — **1×** · Hard
@@ -49,8 +51,6 @@
   <a id="infrastructure-monitoring-troubleshooting"></a>
 - [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — **1×** · Easy
   <a id="monitoring-logging-cloudwatch-prometheus-elk-stack"></a>
-- [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — **1×** · Medium
-  <a id="monitoring-security-troubleshooting-scenarios"></a>
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — **1×** · Medium
   <a id="monitoring-troubleshooting-production-support"></a>
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — **1×** · Hard · tags: `System Design`
@@ -85,6 +85,8 @@
   <a id="how-do-you-investigate-a-sudden-spike-in-application-latency"></a>
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) — 2×
   <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
+- [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2×
+  <a id="monitoring-security-troubleshooting-scenarios"></a>
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — 2×
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 1×
@@ -95,8 +97,6 @@
   <a id="how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d"></a>
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 1×
   <a id="infrastructure-monitoring-troubleshooting"></a>
-- [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 1×
-  <a id="monitoring-security-troubleshooting-scenarios"></a>
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 1×
   <a id="monitoring-troubleshooting-production-support"></a>
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — 1× · tags: `CI/CD`
@@ -157,10 +157,10 @@
 
 ## Recently added
 
+- [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2026-08-02
 - [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 2026-07-29
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — 2026-07-28
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 2026-07-28
-- [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2026-07-26
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 2026-07-20
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — 2026-07-18 · tags: `System Design`
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — 2026-07-17 · tags: `AWS`
@@ -198,7 +198,7 @@
 | [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) | Medium | 1 |
 | [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) | Easy | 1 |
 | [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) | Medium | 2 |
-| [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) | Medium | 1 |
+| [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) | Medium | 2 |
 | [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) | Medium | 1 |
 | [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) | Hard | 1 |
 | [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) | Medium | 1 |

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Capacity Planning**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 1 / 5 / 3 |
-| Companies | 0 |
+| Questions | 10 |
+| Easy / Medium / Hard | 1 / 6 / 3 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -35,6 +35,8 @@
   <a id="autoscaling-resource-limits"></a>
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — **1×** · Hard · tags: `HPA`
   <a id="design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike"></a>
+- [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — **1×** · Medium · tags: `Kubernetes`
+  <a id="how-do-you-handle-autoscaling-in-kubernetes"></a>
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — **1×** · Medium · tags: `Kubernetes`, `HPA`
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
 - [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) — **1×** · Hard · tags: `HPA`
@@ -59,6 +61,8 @@
   <a id="talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity"></a>
 - [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits) — 1×
   <a id="autoscaling-resource-limits"></a>
+- [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — 1× · tags: `Kubernetes`
+  <a id="how-do-you-handle-autoscaling-in-kubernetes"></a>
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — 1× · tags: `Kubernetes`, `HPA`
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
 - [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — 1× · tags: `Kubernetes`, `HPA`
@@ -80,6 +84,7 @@
 - [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits)
 - [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos)
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — tags: `HPA`
+- [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — tags: `Kubernetes`
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — tags: `Kubernetes`, `HPA`
 - [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) — tags: `HPA`
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — tags: `Prometheus`, `Kubernetes`, `HPA`
@@ -89,10 +94,11 @@
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Infosys](../companies/infosys.md)
 
 ## Recently added
 
+- [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — 2026-08-02 · tags: `Kubernetes`
 - [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) — 2026-07-28 · tags: `Kubernetes`
 - [What is HPA?](../topics/capacity-planning.md#what-is-hpa) — 2026-07-27 · tags: `HPA`
 - [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) — 2026-07-26
@@ -120,6 +126,7 @@
 | [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits) | Medium | 1 |
 | [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) | Medium | 3 |
 | [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) | Hard | 1 |
+| [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) | Medium | 1 |
 | [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) | Medium | 1 |
 | [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) | Hard | 1 |
 | [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) | Hard | 1 |

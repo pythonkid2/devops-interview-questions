@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**85** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**86** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 85 |
-| Easy / Medium / Hard | 2 / 77 / 6 |
+| Questions | 86 |
+| Easy / Medium / Hard | 2 / 78 / 6 |
 | Companies | 6 |
 
 ## Most asked
@@ -223,6 +223,8 @@
   <a id="jenkins"></a>
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — 1× · tags: `CI/CD`
   <a id="jenkins-pipeline-automation"></a>
+- [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) — 1× · tags: `CI/CD`
+  <a id="jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo"></a>
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 1× · tags: `AWS`
   <a id="launch-jenkins-on-an-ec2-instance"></a>
 - [Memorize this, Jenkins first stage is always git checkout.](../topics/jenkins.md#memorize-this-jenkins-first-stage-is-always-git-checkout) — 1× · tags: `Git`
@@ -321,6 +323,7 @@
 - [Jenkins](../topics/jenkins.md#jenkins)
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — tags: `CI/CD`
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — tags: `CI/CD`
+- [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) — tags: `CI/CD`
 - [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — tags: `GitHub Actions`
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — tags: `AWS`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it)
@@ -364,6 +367,7 @@
 
 ## Recently added
 
+- [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) — 2026-08-02 · tags: `CI/CD`
 - [How do you implement multi-branch CI/CD pipelines in GitLab or Jenkins?](../topics/jenkins.md#how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins) — 2026-07-30 · tags: `CI/CD`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-29
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2026-07-29 · tags: `CI/CD`
@@ -378,7 +382,6 @@
 - [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) — 2026-07-26
 - [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — 2026-07-26 · tags: `CI/CD`
 - [A Jenkins agent frequently goes offline during deployments. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble) — 2026-07-26
-- [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — 2026-07-26
 
 ## Related topics
 
@@ -444,6 +447,7 @@
 | [Jenkins](../topics/jenkins.md#jenkins) | Medium | 1 |
 | [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) | Medium | 1 |
 | [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) | Medium | 2 |
+| [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) | Medium | 1 |
 | [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) | Medium | 2 |
 | [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) | Medium | 1 |
 | [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) | Medium | 2 |

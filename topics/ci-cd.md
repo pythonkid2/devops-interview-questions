@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **CI/CD**
 
-**75** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**80** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 75 |
-| Easy / Medium / Hard | 12 / 50 / 13 |
+| Questions | 80 |
+| Easy / Medium / Hard | 12 / 55 / 13 |
 | Companies | 12 |
 
 ## Most asked
@@ -45,6 +45,8 @@
   <a id="what-is-continuous-integration-ci"></a>
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) — **3×** · Easy
   <a id="complete-end-to-end-devops-ci-cd-pipeline-workflow"></a>
+- [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — **3×** · Medium
+  <a id="explain-your-ci-cd-pipeline-from-code-commit-to-production"></a>
 - [How do you design CI/CD pipelines for complex microservices or multi-repository environments?](../topics/ci-cd.md#how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-) — **3×** · Hard
   <a id="how-do-you-design-ci-cd-pipelines-for-complex-microservices-or-multi-repository-"></a>
 - [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) — **3×** · Medium
@@ -57,8 +59,6 @@
   <a id="explain-the-complete-ci-cd-flow-that-you-built-end-to-end"></a>
 - [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](../topics/ci-cd.md#explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s) — **2×** · Easy
   <a id="explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s"></a>
-- [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — **2×** · Medium
-  <a id="explain-your-ci-cd-pipeline-from-code-commit-to-production"></a>
 - [Explain your role in setting up the CI/CD pipeline and the tasks for which the DevOps team needs to be approached.](../topics/ci-cd.md#explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d) — **2×** · Medium
   <a id="explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d"></a>
 - [For a production e-commerce application, which deployment strategy would you recommend—Rolling Update, Blue-Green, or Canary Deployment? What factors would influence your decision?](../topics/ci-cd.md#for-a-production-e-commerce-application-which-deployment-strategy-would-you-reco) — **2×** · Hard
@@ -115,14 +115,14 @@
   <a id="how-do-you-troubleshoot-a-failed-ci-cd-pipeline"></a>
 - [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) — 4×
   <a id="what-is-continuous-integration-ci"></a>
+- [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — 3×
+  <a id="explain-your-ci-cd-pipeline-from-code-commit-to-production"></a>
 - [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) — 3×
   <a id="how-do-you-manage-secrets-securely-in-ci-cd-pipelines"></a>
 - [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks) — 2×
   <a id="build-fails-even-though-the-pipeline-runs-what-usually-breaks"></a>
 - [Explain the complete CI/CD flow that you built end-to-end.](../topics/ci-cd.md#explain-the-complete-ci-cd-flow-that-you-built-end-to-end) — 2×
   <a id="explain-the-complete-ci-cd-flow-that-you-built-end-to-end"></a>
-- [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — 2×
-  <a id="explain-your-ci-cd-pipeline-from-code-commit-to-production"></a>
 - [Explain your role in setting up the CI/CD pipeline and the tasks for which the DevOps team needs to be approached.](../topics/ci-cd.md#explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d) — 2×
   <a id="explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d"></a>
 - [Have you optimized CI/CD pipeline ? what problem you have faced ?](../topics/ci-cd.md#have-you-optimized-ci-cd-pipeline-what-problem-you-have-faced) — 2×
@@ -145,8 +145,12 @@
   <a id="your-ci-cd-deployment-breaks-after-a-code-merge-how-do-you-identify-the-root-cau"></a>
 - [A corrupted pipeline deploys faulty code across multiple environments. How do you contain and recover?](../topics/ci-cd.md#a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you) — 1×
   <a id="a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you"></a>
+- [A pipeline processing 100 million records is taking too long. How would you optimize it?](../topics/ci-cd.md#a-pipeline-processing-100-million-records-is-taking-too-long-how-would-you-optim) — 1×
+  <a id="a-pipeline-processing-100-million-records-is-taking-too-long-how-would-you-optim"></a>
 - [A pipeline that normally takes 10 minutes suddenly takes 45 minutes without any application code changes. How would you identify the bottleneck?](../topics/ci-cd.md#a-pipeline-that-normally-takes-10-minutes-suddenly-takes-45-minutes-without-any-) — 1×
   <a id="a-pipeline-that-normally-takes-10-minutes-suddenly-takes-45-minutes-without-any-"></a>
+- [ADF pipeline failed at 2 AM. What would you check first?](../topics/ci-cd.md#adf-pipeline-failed-at-2-am-what-would-you-check-first) — 1×
+  <a id="adf-pipeline-failed-at-2-am-what-would-you-check-first"></a>
 - [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) — 1×
   <a id="can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod"></a>
 - [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) — 1×
@@ -155,6 +159,10 @@
   <a id="can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project"></a>
 - [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha) — 1×
   <a id="describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha"></a>
+- [Did you create CI/CD pipelines from scratch or work on existing pipelines?](../topics/ci-cd.md#did-you-create-ci-cd-pipelines-from-scratch-or-work-on-existing-pipelines) — 1×
+  <a id="did-you-create-ci-cd-pipelines-from-scratch-or-work-on-existing-pipelines"></a>
+- [Explain the CI/CD pipeline you created for CSV validation and S3 upload.](../topics/ci-cd.md#explain-the-ci-cd-pipeline-you-created-for-csv-validation-and-s3-upload) — 1× · tags: `AWS`
+  <a id="explain-the-ci-cd-pipeline-you-created-for-csv-validation-and-s3-upload"></a>
 - [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) — 1×
   <a id="explain-the-stages-of-a-ci-cd-pipeline"></a>
 - [How did you use Linux in your CI/CD pipeline?](../topics/ci-cd.md#how-did-you-use-linux-in-your-ci-cd-pipeline) — 1× · tags: `Linux`
@@ -177,6 +185,8 @@
   <a id="how-have-you-used-artifact-repositories-in-your-ci-cd-pipelines"></a>
 - [How would you integrate vulnerability scanning tools such as Trivy or Snyk into GitHub Actions?](../topics/ci-cd.md#how-would-you-integrate-vulnerability-scanning-tools-such-as-trivy-or-snyk-into-) — 1×
   <a id="how-would-you-integrate-vulnerability-scanning-tools-such-as-trivy-or-snyk-into-"></a>
+- [If an L3 team created the pipeline, how do you understand and troubleshoot it?](../topics/ci-cd.md#if-an-l3-team-created-the-pipeline-how-do-you-understand-and-troubleshoot-it) — 1×
+  <a id="if-an-l3-team-created-the-pipeline-how-do-you-understand-and-troubleshoot-it"></a>
 - [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops) — 1×
   <a id="migrate-github-repositories-to-azure-devops"></a>
 - [Run a Hello World pipeline.](../topics/ci-cd.md#run-a-hello-world-pipeline) — 1×
@@ -261,7 +271,9 @@
 ### Unspecified
 
 - [A corrupted pipeline deploys faulty code across multiple environments. How do you contain and recover?](../topics/ci-cd.md#a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you)
+- [A pipeline processing 100 million records is taking too long. How would you optimize it?](../topics/ci-cd.md#a-pipeline-processing-100-million-records-is-taking-too-long-how-would-you-optim)
 - [A pipeline that normally takes 10 minutes suddenly takes 45 minutes without any application code changes. How would you identify the bottleneck?](../topics/ci-cd.md#a-pipeline-that-normally-takes-10-minutes-suddenly-takes-45-minutes-without-any-)
+- [ADF pipeline failed at 2 AM. What would you check first?](../topics/ci-cd.md#adf-pipeline-failed-at-2-am-what-would-you-check-first)
 - [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks)
 - [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod)
 - [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines)
@@ -272,6 +284,8 @@
 - [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow)
 - [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha)
 - [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/ci-cd.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont)
+- [Did you create CI/CD pipelines from scratch or work on existing pipelines?](../topics/ci-cd.md#did-you-create-ci-cd-pipelines-from-scratch-or-work-on-existing-pipelines)
+- [Explain the CI/CD pipeline you created for CSV validation and S3 upload.](../topics/ci-cd.md#explain-the-ci-cd-pipeline-you-created-for-csv-validation-and-s3-upload) — tags: `AWS`
 - [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](../topics/ci-cd.md#explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s)
 - [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline)
 - [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production)
@@ -295,6 +309,7 @@
 - [How would you design a YAML pipeline where deployment to Production is possible only after successful testing and manual approval?](../topics/ci-cd.md#how-would-you-design-a-yaml-pipeline-where-deployment-to-production-is-possible-)
 - [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d)
 - [How would you optimize a pipeline that takes 25 minutes to complete?](../topics/ci-cd.md#how-would-you-optimize-a-pipeline-that-takes-25-minutes-to-complete)
+- [If an L3 team created the pipeline, how do you understand and troubleshoot it?](../topics/ci-cd.md#if-an-l3-team-created-the-pipeline-how-do-you-understand-and-troubleshoot-it)
 - [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops)
 - [Run a Hello World pipeline.](../topics/ci-cd.md#run-a-hello-world-pipeline)
 - [Understand the complete pipeline flow and what happens when a build fails.](../topics/ci-cd.md#understand-the-complete-pipeline-flow-and-what-happens-when-a-build-fails)
@@ -343,6 +358,12 @@
 
 ## Recently added
 
+- [A pipeline processing 100 million records is taking too long. How would you optimize it?](../topics/ci-cd.md#a-pipeline-processing-100-million-records-is-taking-too-long-how-would-you-optim) — 2026-08-02
+- [ADF pipeline failed at 2 AM. What would you check first?](../topics/ci-cd.md#adf-pipeline-failed-at-2-am-what-would-you-check-first) — 2026-08-02
+- [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — 2026-08-02
+- [If an L3 team created the pipeline, how do you understand and troubleshoot it?](../topics/ci-cd.md#if-an-l3-team-created-the-pipeline-how-do-you-understand-and-troubleshoot-it) — 2026-08-02
+- [Explain the CI/CD pipeline you created for CSV validation and S3 upload.](../topics/ci-cd.md#explain-the-ci-cd-pipeline-you-created-for-csv-validation-and-s3-upload) — 2026-08-02 · tags: `AWS`
+- [Did you create CI/CD pipelines from scratch or work on existing pipelines?](../topics/ci-cd.md#did-you-create-ci-cd-pipelines-from-scratch-or-work-on-existing-pipelines) — 2026-08-02
 - [CI/CD pipeline failures & production rollback](../topics/ci-cd.md#ci-cd-pipeline-failures-production-rollback) — 2026-07-30
 - [How do you handle the rollbacks in CICD ?](../topics/ci-cd.md#how-do-you-handle-the-rollbacks-in-cicd) — 2026-07-30
 - [How do you set up a CICD pipeline for an AWS-hosted application?](../topics/ci-cd.md#how-do-you-set-up-a-cicd-pipeline-for-an-aws-hosted-application) — 2026-07-30 · tags: `AWS`
@@ -352,12 +373,6 @@
 - [A pipeline that normally takes 10 minutes suddenly takes 45 minutes without any application code changes. How would you identify the bottleneck?](../topics/ci-cd.md#a-pipeline-that-normally-takes-10-minutes-suddenly-takes-45-minutes-without-any-) — 2026-07-29
 - [How would you design a YAML pipeline where deployment to Production is possible only after successful testing and manual approval?](../topics/ci-cd.md#how-would-you-design-a-yaml-pipeline-where-deployment-to-production-is-possible-) — 2026-07-29
 - [Your pipeline suddenly starts executing the same deployment twice for a single Git commit. What would you check in the YAML and repository configuration?](../topics/ci-cd.md#your-pipeline-suddenly-starts-executing-the-same-deployment-twice-for-a-single-g) — 2026-07-29 · tags: `Git`
-- [What CI/CD pipelines have you built or maintained, and how did they improve software delivery, deployment speed, and release quality?](../topics/ci-cd.md#what-ci-cd-pipelines-have-you-built-or-maintained-and-how-did-they-improve-softw) — 2026-07-29
-- [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) — 2026-07-28
-- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — 2026-07-28
-- [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) — 2026-07-28
-- [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — 2026-07-28 · tags: `System Design`
-- [What would you do if your data pipeline suddenly started producing incorrect results?](../topics/ci-cd.md#what-would-you-do-if-your-data-pipeline-suddenly-started-producing-incorrect-res) — 2026-07-27
 
 ## Related topics
 
@@ -371,7 +386,9 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A corrupted pipeline deploys faulty code across multiple environments. How do you contain and recover?](../topics/ci-cd.md#a-corrupted-pipeline-deploys-faulty-code-across-multiple-environments-how-do-you) | Medium | 1 |
+| [A pipeline processing 100 million records is taking too long. How would you optimize it?](../topics/ci-cd.md#a-pipeline-processing-100-million-records-is-taking-too-long-how-would-you-optim) | Medium | 1 |
 | [A pipeline that normally takes 10 minutes suddenly takes 45 minutes without any application code changes. How would you identify the bottleneck?](../topics/ci-cd.md#a-pipeline-that-normally-takes-10-minutes-suddenly-takes-45-minutes-without-any-) | Medium | 1 |
+| [ADF pipeline failed at 2 AM. What would you check first?](../topics/ci-cd.md#adf-pipeline-failed-at-2-am-what-would-you-check-first) | Medium | 1 |
 | [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks) | Medium | 2 |
 | [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) | Medium | 1 |
 | [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) | Medium | 1 |
@@ -382,10 +399,12 @@
 | [Complete End to End #DevOps CI/CD pipeline workflow](../topics/ci-cd.md#complete-end-to-end-devops-ci-cd-pipeline-workflow) | Easy | 3 |
 | [Describe your experience designing and maintaining CI/CD pipelines. How do you handle deployment failures?](../topics/ci-cd.md#describe-your-experience-designing-and-maintaining-ci-cd-pipelines-how-do-you-ha) | Medium | 1 |
 | [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/ci-cd.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont) | Hard | 1 |
+| [Did you create CI/CD pipelines from scratch or work on existing pipelines?](../topics/ci-cd.md#did-you-create-ci-cd-pipelines-from-scratch-or-work-on-existing-pipelines) | Medium | 1 |
+| [Explain the CI/CD pipeline you created for CSV validation and S3 upload.](../topics/ci-cd.md#explain-the-ci-cd-pipeline-you-created-for-csv-validation-and-s3-upload) | Medium | 1 |
 | [Explain the complete CI/CD flow that you built end-to-end.](../topics/ci-cd.md#explain-the-complete-ci-cd-flow-that-you-built-end-to-end) | Medium | 2 |
 | [Explain the Pre-Build, Build, and Post-Build stages in a CI/CD pipeline. In which stage is an artifact typically generated and pushed to an artifact repository?](../topics/ci-cd.md#explain-the-pre-build-build-and-post-build-stages-in-a-ci-cd-pipeline-in-which-s) | Easy | 2 |
 | [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) | Medium | 1 |
-| [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) | Medium | 2 |
+| [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) | Medium | 3 |
 | [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end) | Hard | 4 |
 | [Explain your role in setting up the CI/CD pipeline and the tasks for which the DevOps team needs to be approached.](../topics/ci-cd.md#explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d) | Medium | 2 |
 | [For a production e-commerce application, which deployment strategy would you recommend—Rolling Update, Blue-Green, or Canary Deployment? What factors would influence your decision?](../topics/ci-cd.md#for-a-production-e-commerce-application-which-deployment-strategy-would-you-reco) | Hard | 2 |
@@ -410,6 +429,7 @@
 | [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) | Hard | 5 |
 | [How would you integrate vulnerability scanning tools such as Trivy or Snyk into GitHub Actions?](../topics/ci-cd.md#how-would-you-integrate-vulnerability-scanning-tools-such-as-trivy-or-snyk-into-) | Medium | 1 |
 | [How would you optimize a pipeline that takes 25 minutes to complete?](../topics/ci-cd.md#how-would-you-optimize-a-pipeline-that-takes-25-minutes-to-complete) | Medium | 2 |
+| [If an L3 team created the pipeline, how do you understand and troubleshoot it?](../topics/ci-cd.md#if-an-l3-team-created-the-pipeline-how-do-you-understand-and-troubleshoot-it) | Medium | 1 |
 | [In a well-designed CI/CD pipeline for a critical banking application, is it acceptable to push code directly to production without automated testing if the developer is confident and time is limited?](../topics/ci-cd.md#in-a-well-designed-ci-cd-pipeline-for-a-critical-banking-application-is-it-accep) | Medium | 2 |
 | [List all the CI/CD solutions you have worked on and the reasons for having more than one approach.](../topics/ci-cd.md#list-all-the-ci-cd-solutions-you-have-worked-on-and-the-reasons-for-having-more-) | Medium | 2 |
 | [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops) | Medium | 1 |

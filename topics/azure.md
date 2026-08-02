@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Azure**
 
-**20** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**21** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 20 |
-| Easy / Medium / Hard | 7 / 11 / 2 |
-| Companies | 5 |
+| Questions | 21 |
+| Easy / Medium / Hard | 7 / 11 / 3 |
+| Companies | 6 |
 
 ## Most asked
 
@@ -49,6 +49,8 @@
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — **1×** · Hard
   <a id="implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code"></a>
+- [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — **1×** · Hard · tags: `System Design`
+  <a id="leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-"></a>
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — **1×** · Medium
   <a id="the-azure-shared-responsibility-model"></a>
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — **1×** · Easy
@@ -116,6 +118,8 @@
   <a id="when-would-you-choose-an-azure-function-over-power-automate"></a>
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — 1×
   <a id="implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code"></a>
+- [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — 1× · tags: `System Design`
+  <a id="leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-"></a>
 
 ## By interview round
 
@@ -130,6 +134,7 @@
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t)
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure)
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code)
+- [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — tags: `System Design`
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it)
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model)
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group)
@@ -146,12 +151,14 @@
 
 - [Argyll Infotech](../companies/argyll-infotech.md)
 - [Deltassi](../companies/deltassi.md)
+- [Elite Code Technologies](../companies/elite-code-technologies.md)
 - [EY](../companies/ey.md)
 - [Nexiva](../companies/nexiva.md)
 - [Wipro](../companies/wipro.md)
 
 ## Recently added
 
+- [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — 2026-08-02 · tags: `System Design`
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 2026-07-27
 - [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — 2026-07-27
 - [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — 2026-07-27
@@ -166,7 +173,6 @@
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — 2026-07-18
 - [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — 2026-07-17
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — 2026-07-17
-- [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — 2026-07-17
 
 ## Related topics
 
@@ -187,6 +193,7 @@
 | [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) | Medium | 1 |
 | [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) | Medium | 2 |
 | [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) | Hard | 1 |
+| [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) | Hard | 1 |
 | [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) | Medium | 2 |
 | [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) | Medium | 1 |
 | [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) | Easy | 1 |

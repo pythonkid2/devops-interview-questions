@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**102** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**103** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,16 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 102 |
-| Easy / Medium / Hard | 30 / 68 / 4 |
-| Companies | 3 |
+| Questions | 103 |
+| Easy / Medium / Hard | 30 / 69 / 4 |
+| Companies | 4 |
 
 ## Most asked
 
+- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — **7×** · Medium
+  <a id="what-is-the-difference-between-cmd-and-entrypoint"></a>
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — **6×** · Easy
   <a id="difference-between-cmd-and-entrypoint"></a>
-- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — **6×** · Medium
-  <a id="what-is-the-difference-between-cmd-and-entrypoint"></a>
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — **5×** · Medium
   <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — **4×** · Medium
@@ -49,6 +49,8 @@
   <a id="difference-between-add-and-copy"></a>
 - [Docker architectures](../topics/docker.md#docker-architectures) — **2×** · Medium
   <a id="docker-architectures"></a>
+- [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — **2×** · Medium
+  <a id="docker-images-containers-multi-stage-builds"></a>
 - [Docker layers](../topics/docker.md#docker-layers) — **2×** · Medium
   <a id="docker-layers"></a>
 - [Docker networking](../topics/docker.md#docker-networking) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="what-are-docker-volumes-used-for"></a>
 - [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) — **2×** · Easy
   <a id="what-are-the-3-types-of-docker-volumes"></a>
-- [What are the benefits of containerization in Microservices architecture?](../topics/docker.md#what-are-the-benefits-of-containerization-in-microservices-architecture) — **2×** · Medium
-  <a id="what-are-the-benefits-of-containerization-in-microservices-architecture"></a>
 
 ## Beginner
 
@@ -143,7 +143,7 @@
 
 ## Intermediate
 
-- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 6×
+- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 7×
   <a id="what-is-the-difference-between-cmd-and-entrypoint"></a>
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — 5×
   <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
@@ -161,6 +161,8 @@
   <a id="difference-between-add-and-copy"></a>
 - [Docker architectures](../topics/docker.md#docker-architectures) — 2×
   <a id="docker-architectures"></a>
+- [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2×
+  <a id="docker-images-containers-multi-stage-builds"></a>
 - [Docker layers](../topics/docker.md#docker-layers) — 2×
   <a id="docker-layers"></a>
 - [Docker networking](../topics/docker.md#docker-networking) — 2×
@@ -203,8 +205,6 @@
   <a id="docker"></a>
 - [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) — 1×
   <a id="docker-fundamentals-for-net"></a>
-- [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 1×
-  <a id="docker-images-containers-multi-stage-builds"></a>
 - [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) — 1×
   <a id="docker-volumes-data-persistence-issues"></a>
 - [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines) — 1×
@@ -223,6 +223,8 @@
   <a id="explain-the-docker-architecture"></a>
 - [Explain the logic behind a multi-stage Docker build.](../topics/docker.md#explain-the-logic-behind-a-multi-stage-docker-build) — 1×
   <a id="explain-the-logic-behind-a-multi-stage-docker-build"></a>
+- [Have you written a Dockerfile?](../topics/docker.md#have-you-written-a-dockerfile) — 1×
+  <a id="have-you-written-a-dockerfile"></a>
 - [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — 1× · tags: `AWS`
   <a id="how-do-you-build-and-push-a-docker-image-to-aws-ecr"></a>
 - [How do you create, test, optimize, and deploy Docker images?](../topics/docker.md#how-do-you-create-test-optimize-and-deploy-docker-images) — 1×
@@ -327,6 +329,7 @@
 - [Explain the Docker architecture.](../topics/docker.md#explain-the-docker-architecture)
 - [Explain the Docker container lifecycle.](../topics/docker.md#explain-the-docker-container-lifecycle)
 - [Explain the logic behind a multi-stage Docker build.](../topics/docker.md#explain-the-logic-behind-a-multi-stage-docker-build)
+- [Have you written a Dockerfile?](../topics/docker.md#have-you-written-a-dockerfile)
 - [How do you access a running container?](../topics/docker.md#how-do-you-access-a-running-container)
 - [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — tags: `AWS`
 - [How do you check Docker container logs?](../topics/docker.md#how-do-you-check-docker-container-logs)
@@ -406,9 +409,13 @@
 - [Accenture](../companies/accenture.md)
 - [Capgemini](../companies/capgemini.md)
 - [Deloitte](../companies/deloitte.md)
+- [Infosys](../companies/infosys.md)
 
 ## Recently added
 
+- [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2026-08-02
+- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 2026-08-02
+- [Have you written a Dockerfile?](../topics/docker.md#have-you-written-a-dockerfile) — 2026-08-02
 - [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — 2026-07-30 · tags: `AWS`
 - [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — 2026-07-29
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 2026-07-29
@@ -420,10 +427,7 @@
 - [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) — 2026-07-27
 - [How does docker provide isolation?](../topics/docker.md#how-does-docker-provide-isolation) — 2026-07-27
 - [Can you explain how Docker works?](../topics/docker.md#can-you-explain-how-docker-works) — 2026-07-27
-- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 2026-07-26
 - [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) — 2026-07-26
-- [Docker](../topics/docker.md#docker) — 2026-07-26
-- [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2026-07-26
 
 ## Related topics
 
@@ -452,7 +456,7 @@
 | [Docker](../topics/docker.md#docker) | Medium | 1 |
 | [Docker architectures](../topics/docker.md#docker-architectures) | Medium | 2 |
 | [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) | Medium | 1 |
-| [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) | Medium | 1 |
+| [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) | Medium | 2 |
 | [Docker layers](../topics/docker.md#docker-layers) | Medium | 2 |
 | [Docker networking](../topics/docker.md#docker-networking) | Medium | 2 |
 | [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) | Medium | 1 |
@@ -465,6 +469,7 @@
 | [Explain the Docker architecture.](../topics/docker.md#explain-the-docker-architecture) | Medium | 1 |
 | [Explain the Docker container lifecycle.](../topics/docker.md#explain-the-docker-container-lifecycle) | Medium | 2 |
 | [Explain the logic behind a multi-stage Docker build.](../topics/docker.md#explain-the-logic-behind-a-multi-stage-docker-build) | Medium | 1 |
+| [Have you written a Dockerfile?](../topics/docker.md#have-you-written-a-dockerfile) | Medium | 1 |
 | [How do you access a running container?](../topics/docker.md#how-do-you-access-a-running-container) | Medium | 2 |
 | [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) | Medium | 1 |
 | [How do you check Docker container logs?](../topics/docker.md#how-do-you-check-docker-container-logs) | Easy | 2 |
@@ -521,7 +526,7 @@
 | [What is the command to run a container](../topics/docker.md#what-is-the-command-to-run-a-container) | Easy | 1 |
 | [What is the difference between "COPY" and "ADD" in Docker? What was your usage?](../topics/docker.md#what-is-the-difference-between-copy-and-add-in-docker-what-was-your-usage) | Easy | 1 |
 | [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) | Medium | 5 |
-| [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) | Medium | 6 |
+| [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) | Medium | 7 |
 | [What is the difference between COPY and ADD?](../topics/docker.md#what-is-the-difference-between-copy-and-add) | Medium | 1 |
 | [What is the Docker daemon?](../topics/docker.md#what-is-the-docker-daemon) | Easy | 2 |
 | [What is the purpose of a Docker image?](../topics/docker.md#what-is-the-purpose-of-a-docker-image) | Easy | 2 |

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Disaster Recovery**
 
-**15** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**16** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 15 |
-| Easy / Medium / Hard | 0 / 9 / 6 |
+| Questions | 16 |
+| Easy / Medium / Hard | 0 / 10 / 6 |
 | Companies | 4 |
 
 ## Most asked
@@ -45,6 +45,8 @@
   <a id="design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-"></a>
 - [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — **1×** · Medium
   <a id="disaster-recovery"></a>
+- [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) — **1×** · Medium
+  <a id="have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-"></a>
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — **1×** · Medium · tags: `High Availability`, `AWS`
   <a id="how-do-you-ensure-high-availability-and-disaster-recovery-in-aws"></a>
 - [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) — **1×** · Hard
@@ -72,6 +74,8 @@ _None in this band yet._
   <a id="youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou"></a>
 - [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 1×
   <a id="disaster-recovery"></a>
+- [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) — 1×
+  <a id="have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-"></a>
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — 1× · tags: `High Availability`, `AWS`
   <a id="how-do-you-ensure-high-availability-and-disaster-recovery-in-aws"></a>
 - [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) — 1× · tags: `DNS`
@@ -110,6 +114,7 @@ _None in this band yet._
 - [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo)
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — tags: `Kubernetes`, `System Design`
 - [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery)
+- [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-)
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem)
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — tags: `High Availability`, `AWS`
 - [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure)
@@ -130,6 +135,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) — 2026-08-02
 - [How will you plan a disaster recovery ?](../topics/disaster-recovery.md#how-will-you-plan-a-disaster-recovery) — 2026-07-30
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — 2026-07-28 · tags: `High Availability`, `AWS`
 - [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) — 2026-07-28 · tags: `DNS`
@@ -144,7 +150,6 @@ _None in this band yet._
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) — 2026-07-16
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — 2026-07-15
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — 2026-07-15
-- [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) — 2026-07-15
 
 ## Related topics
 
@@ -164,6 +169,7 @@ _None in this band yet._
 | [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) | Hard | 1 |
 | [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) | Hard | 1 |
 | [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) | Medium | 1 |
+| [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) | Medium | 1 |
 | [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Hard | 3 |
 | [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) | Medium | 1 |
 | [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) | Hard | 1 |

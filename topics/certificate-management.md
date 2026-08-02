@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Certificate Management**
 
-**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 1 |
-| Easy / Medium / Hard | 0 / 1 / 0 |
+| Questions | 2 |
+| Easy / Medium / Hard | 0 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
+- [Have you configured an SSL certificate in your organization?](../topics/certificate-management.md#have-you-configured-an-ssl-certificate-in-your-organization) — **2×** · Medium
+  <a id="have-you-configured-an-ssl-certificate-in-your-organization"></a>
 - [Does AWS provide SSL certificates? What is AWS Certificate Manager (ACM)?](../topics/certificate-management.md#does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm) — **1×** · Medium · tags: `AWS`
   <a id="does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm"></a>
 
@@ -36,6 +38,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Have you configured an SSL certificate in your organization?](../topics/certificate-management.md#have-you-configured-an-ssl-certificate-in-your-organization) — 2×
+  <a id="have-you-configured-an-ssl-certificate-in-your-organization"></a>
 - [Does AWS provide SSL certificates? What is AWS Certificate Manager (ACM)?](../topics/certificate-management.md#does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm) — 1× · tags: `AWS`
   <a id="does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm"></a>
 
@@ -48,6 +52,7 @@ _None in this band yet._
 ### Unspecified
 
 - [Does AWS provide SSL certificates? What is AWS Certificate Manager (ACM)?](../topics/certificate-management.md#does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm) — tags: `AWS`
+- [Have you configured an SSL certificate in your organization?](../topics/certificate-management.md#have-you-configured-an-ssl-certificate-in-your-organization)
 
 ## Companies asking
 
@@ -55,6 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Have you configured an SSL certificate in your organization?](../topics/certificate-management.md#have-you-configured-an-ssl-certificate-in-your-organization) — 2026-08-02
 - [Does AWS provide SSL certificates? What is AWS Certificate Manager (ACM)?](../topics/certificate-management.md#does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm) — 2026-07-20 · tags: `AWS`
 
 ## Related topics
@@ -71,6 +77,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Does AWS provide SSL certificates? What is AWS Certificate Manager (ACM)?](../topics/certificate-management.md#does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm) | Medium | 1 |
+| [Have you configured an SSL certificate in your organization?](../topics/certificate-management.md#have-you-configured-an-ssl-certificate-in-your-organization) | Medium | 2 |
 
 ## Learning resources
 

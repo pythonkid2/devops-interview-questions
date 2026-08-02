@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-1880-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-789-informational)
+![questions](https://img.shields.io/badge/questions-1967-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-819-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,35 +18,35 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 1880 |
-| Posts processed | 789 |
-| Added this week | 562 |
+| Unique questions | 1967 |
+| Posts processed | 819 |
+| Added this week | 649 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 224
-- [Terraform](./topics/terraform.md) — 129
-- [AWS](./topics/aws.md) — 110
-- [Docker](./topics/docker.md) — 102
-- [Jenkins](./topics/jenkins.md) — 85
-- [CI/CD](./topics/ci-cd.md) — 75
-- [Incident Response](./topics/incident-response.md) — 29
-- [Linux](./topics/linux.md) — 25
+- [Kubernetes](./topics/kubernetes.md) — 234
+- [Terraform](./topics/terraform.md) — 135
+- [AWS](./topics/aws.md) — 112
+- [Docker](./topics/docker.md) — 103
+- [Jenkins](./topics/jenkins.md) — 86
+- [CI/CD](./topics/ci-cd.md) — 80
+- [Incident Response](./topics/incident-response.md) — 33
+- [System Design](./topics/system-design.md) — 29
+- [Linux](./topics/linux.md) — 26
 - [Security](./topics/security.md) — 25
-- [System Design](./topics/system-design.md) — 25
 
 ## Popular companies
 
+- [Infosys](./companies/infosys.md) — 48
+- [TCS](./companies/tcs.md) — 47
 - [Mphasis](./companies/mphasis.md) — 43
-- [TCS](./companies/tcs.md) — 38
+- [Elite Code Technologies](./companies/elite-code-technologies.md) — 33
 - [Accenture](./companies/accenture.md) — 32
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
-- [Elite Code Technologies](./companies/elite-code-technologies.md) — 27
 - [Deloitte](./companies/deloitte.md) — 25
 - [Global Payments](./companies/global-payments.md) — 23
-- [Infosys](./companies/infosys.md) — 23
-- [Capgemini](./companies/capgemini.md) — 13
+- [Amazon](./companies/amazon.md) — 17
 
 ## Repository map
 
