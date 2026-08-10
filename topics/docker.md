@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**108** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**111** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 108 |
-| Easy / Medium / Hard | 30 / 73 / 5 |
-| Companies | 4 |
+| Questions | 111 |
+| Easy / Medium / Hard | 30 / 76 / 5 |
+| Companies | 5 |
 
 ## Most asked
 
@@ -31,10 +31,12 @@
   <a id="what-is-the-difference-between-cmd-and-entrypoint"></a>
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — **6×** · Easy
   <a id="difference-between-cmd-and-entrypoint"></a>
-- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — **5×** · Medium
+- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — **6×** · Medium
   <a id="what-happens-internally-when-you-run-docker-run"></a>
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — **5×** · Medium
   <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
+- [What is Docker?](../topics/docker.md#what-is-docker) — **3×** · Easy
+  <a id="what-is-docker"></a>
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) — **3×** · Medium
   <a id="your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr"></a>
 - [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](../topics/docker.md#a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou) — **2×** · Medium
@@ -75,13 +77,13 @@
   <a id="what-are-best-practices-for-docker-in-production"></a>
 - [What are common Docker commands?](../topics/docker.md#what-are-common-docker-commands) — **2×** · Easy
   <a id="what-are-common-docker-commands"></a>
-- [What are Docker volumes used for?](../topics/docker.md#what-are-docker-volumes-used-for) — **2×** · Easy
-  <a id="what-are-docker-volumes-used-for"></a>
 
 ## Beginner
 
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 6×
   <a id="difference-between-cmd-and-entrypoint"></a>
+- [What is Docker?](../topics/docker.md#what-is-docker) — 3×
+  <a id="what-is-docker"></a>
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) — 2×
   <a id="a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay"></a>
 - [How do you check Docker container logs?](../topics/docker.md#how-do-you-check-docker-container-logs) — 2×
@@ -98,8 +100,6 @@
   <a id="what-is-a-docker-image"></a>
 - [What is Docker and how does it work?](../topics/docker.md#what-is-docker-and-how-does-it-work) — 2×
   <a id="what-is-docker-and-how-does-it-work"></a>
-- [What is Docker?](../topics/docker.md#what-is-docker) — 2×
-  <a id="what-is-docker"></a>
 - [What is the Docker daemon?](../topics/docker.md#what-is-the-docker-daemon) — 2×
   <a id="what-is-the-docker-daemon"></a>
 - [What is the purpose of a Docker image?](../topics/docker.md#what-is-the-purpose-of-a-docker-image) — 2×
@@ -145,7 +145,7 @@
 
 - [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 7×
   <a id="what-is-the-difference-between-cmd-and-entrypoint"></a>
-- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 5×
+- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 6×
   <a id="what-happens-internally-when-you-run-docker-run"></a>
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — 5×
   <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
@@ -197,6 +197,8 @@
   <a id="a-docker-container-exits-immediately-after-starting-how-would-you-identify-the-r"></a>
 - [Can you explain how Docker works?](../topics/docker.md#can-you-explain-how-docker-works) — 1×
   <a id="can-you-explain-how-docker-works"></a>
+- [Can you explain your experience with Docker?](../topics/docker.md#can-you-explain-your-experience-with-docker) — 1×
+  <a id="can-you-explain-your-experience-with-docker"></a>
 - [Can you write a command to add volume or bind mount in container](../topics/docker.md#can-you-write-a-command-to-add-volume-or-bind-mount-in-container) — 1×
   <a id="can-you-write-a-command-to-add-volume-or-bind-mount-in-container"></a>
 - [Can you write a multi-stage Dockerfile?](../topics/docker.md#can-you-write-a-multi-stage-dockerfile) — 1×
@@ -205,6 +207,8 @@
   <a id="can-you-write-a-simple-docker-file"></a>
 - [Docker](../topics/docker.md#docker) — 1×
   <a id="docker"></a>
+- [Docker and Containers](../topics/docker.md#docker-and-containers) — 1×
+  <a id="docker-and-containers"></a>
 - [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how) — 1×
   <a id="docker-containerized-application-is-degrading-with-the-performance-over-time-how"></a>
 - [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) — 1×
@@ -263,6 +267,8 @@
   <a id="how-do-you-secure-docker-images-before-deploying-them-to-production"></a>
 - [How does docker provide isolation?](../topics/docker.md#how-does-docker-provide-isolation) — 1×
   <a id="how-does-docker-provide-isolation"></a>
+- [How would you use Docker to implement a Pub/Sub system?](../topics/docker.md#how-would-you-use-docker-to-implement-a-pub-sub-system) — 1×
+  <a id="how-would-you-use-docker-to-implement-a-pub-sub-system"></a>
 - [If Docker images are built in Jenkins but security scanning must happen in GitHub Actions, how would you design the workflow?](../topics/docker.md#if-docker-images-are-built-in-jenkins-but-security-scanning-must-happen-in-githu) — 1×
   <a id="if-docker-images-are-built-in-jenkins-but-security-scanning-must-happen-in-githu"></a>
 - [In Docker, if you have to create a multi-stage Dockerfile for a Maven application, what actions do you perform?](../topics/docker.md#in-docker-if-you-have-to-create-a-multi-stage-dockerfile-for-a-maven-application) — 1×
@@ -317,6 +323,7 @@
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay)
 - [Can you explain how Docker works?](../topics/docker.md#can-you-explain-how-docker-works)
 - [Can you explain the concept of Docker and how do you use it in your projects?](../topics/docker.md#can-you-explain-the-concept-of-docker-and-how-do-you-use-it-in-your-projects)
+- [Can you explain your experience with Docker?](../topics/docker.md#can-you-explain-your-experience-with-docker)
 - [Can you write a command to add volume or bind mount in container](../topics/docker.md#can-you-write-a-command-to-add-volume-or-bind-mount-in-container)
 - [Can you write a multi-stage Dockerfile?](../topics/docker.md#can-you-write-a-multi-stage-dockerfile)
 - [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file)
@@ -324,6 +331,7 @@
 - [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy)
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint)
 - [Docker](../topics/docker.md#docker)
+- [Docker and Containers](../topics/docker.md#docker-and-containers)
 - [Docker architectures](../topics/docker.md#docker-architectures)
 - [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how)
 - [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net)
@@ -368,6 +376,7 @@
 - [How does docker provide isolation?](../topics/docker.md#how-does-docker-provide-isolation)
 - [How does Docker's containerization work?](../topics/docker.md#how-does-docker-s-containerization-work)
 - [How to check the vulnerabilities in docker container which is running in the production ?](../topics/docker.md#how-to-check-the-vulnerabilities-in-docker-container-which-is-running-in-the-pro)
+- [How would you use Docker to implement a Pub/Sub system?](../topics/docker.md#how-would-you-use-docker-to-implement-a-pub-sub-system)
 - [In Docker, if you have to create a multi-stage Dockerfile for a Maven application, what actions do you perform?](../topics/docker.md#in-docker-if-you-have-to-create-a-multi-stage-dockerfile-for-a-maven-application)
 - [Is your Dockerfile production-ready? What improvements would you make?](../topics/docker.md#is-your-dockerfile-production-ready-what-improvements-would-you-make)
 - [Jenkins and Docker troubleshooting](../topics/docker.md#jenkins-and-docker-troubleshooting) — tags: `Jenkins`
@@ -424,25 +433,26 @@
 - [Accenture](../companies/accenture.md)
 - [Capgemini](../companies/capgemini.md)
 - [Deloitte](../companies/deloitte.md)
+- [Hexaware Technologies](../companies/hexaware-technologies.md)
 - [Infosys](../companies/infosys.md)
 
 ## Recently added
 
+- [How would you use Docker to implement a Pub/Sub system?](../topics/docker.md#how-would-you-use-docker-to-implement-a-pub-sub-system) — 2026-08-10
+- [What is Docker?](../topics/docker.md#what-is-docker) — 2026-08-10
+- [Docker and Containers](../topics/docker.md#docker-and-containers) — 2026-08-10
+- [Can you explain your experience with Docker?](../topics/docker.md#can-you-explain-your-experience-with-docker) — 2026-08-10
+- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 2026-08-10
 - [What's the difference between Docker and a virtual machine?](../topics/docker.md#what-s-the-difference-between-docker-and-a-virtual-machine) — 2026-08-10
 - [How to check the vulnerabilities in docker container which is running in the production ?](../topics/docker.md#how-to-check-the-vulnerabilities-in-docker-container-which-is-running-in-the-pro) — 2026-08-10
 - [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how) — 2026-08-10
 - [How do you optimize a docker image build pipeline for microservices ?](../topics/docker.md#how-do-you-optimize-a-docker-image-build-pipeline-for-microservices) — 2026-08-10 · tags: `CI/CD`
 - [How does Docker layer caching work?](../topics/docker.md#how-does-docker-layer-caching-work) — 2026-08-10
-- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 2026-08-10
 - [How do you scan Docker images for vulnerabilities before deployment?](../topics/docker.md#how-do-you-scan-docker-images-for-vulnerabilities-before-deployment) — 2026-08-10
 - [Jenkins and Docker troubleshooting](../topics/docker.md#jenkins-and-docker-troubleshooting) — 2026-08-10 · tags: `Jenkins`
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2026-08-02
 - [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 2026-08-02
 - [Have you written a Dockerfile?](../topics/docker.md#have-you-written-a-dockerfile) — 2026-08-02
-- [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — 2026-07-30 · tags: `AWS`
-- [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — 2026-07-29
-- [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 2026-07-29
-- [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) — 2026-07-29
 
 ## Related topics
 
@@ -462,6 +472,7 @@
 | [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) | Easy | 2 |
 | [Can you explain how Docker works?](../topics/docker.md#can-you-explain-how-docker-works) | Medium | 1 |
 | [Can you explain the concept of Docker and how do you use it in your projects?](../topics/docker.md#can-you-explain-the-concept-of-docker-and-how-do-you-use-it-in-your-projects) | Easy | 1 |
+| [Can you explain your experience with Docker?](../topics/docker.md#can-you-explain-your-experience-with-docker) | Medium | 1 |
 | [Can you write a command to add volume or bind mount in container](../topics/docker.md#can-you-write-a-command-to-add-volume-or-bind-mount-in-container) | Medium | 1 |
 | [Can you write a multi-stage Dockerfile?](../topics/docker.md#can-you-write-a-multi-stage-dockerfile) | Medium | 1 |
 | [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) | Medium | 1 |
@@ -469,6 +480,7 @@
 | [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy) | Medium | 2 |
 | [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Easy | 6 |
 | [Docker](../topics/docker.md#docker) | Medium | 1 |
+| [Docker and Containers](../topics/docker.md#docker-and-containers) | Medium | 1 |
 | [Docker architectures](../topics/docker.md#docker-architectures) | Medium | 2 |
 | [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how) | Medium | 1 |
 | [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) | Medium | 1 |
@@ -513,6 +525,7 @@
 | [How does docker provide isolation?](../topics/docker.md#how-does-docker-provide-isolation) | Medium | 1 |
 | [How does Docker's containerization work?](../topics/docker.md#how-does-docker-s-containerization-work) | Easy | 1 |
 | [How to check the vulnerabilities in docker container which is running in the production ?](../topics/docker.md#how-to-check-the-vulnerabilities-in-docker-container-which-is-running-in-the-pro) | Hard | 1 |
+| [How would you use Docker to implement a Pub/Sub system?](../topics/docker.md#how-would-you-use-docker-to-implement-a-pub-sub-system) | Medium | 1 |
 | [If Docker images are built in Jenkins but security scanning must happen in GitHub Actions, how would you design the workflow?](../topics/docker.md#if-docker-images-are-built-in-jenkins-but-security-scanning-must-happen-in-githu) | Medium | 1 |
 | [In Docker, if you have to create a multi-stage Dockerfile for a Maven application, what actions do you perform?](../topics/docker.md#in-docker-if-you-have-to-create-a-multi-stage-dockerfile-for-a-maven-application) | Medium | 1 |
 | [Is your Dockerfile production-ready? What improvements would you make?](../topics/docker.md#is-your-dockerfile-production-ready-what-improvements-would-you-make) | Hard | 1 |
@@ -532,7 +545,7 @@
 | [What are the benefits of containerization in Microservices architecture?](../topics/docker.md#what-are-the-benefits-of-containerization-in-microservices-architecture) | Medium | 2 |
 | [What best practices do you follow while writing a production-ready Dockerfile?](../topics/docker.md#what-best-practices-do-you-follow-while-writing-a-production-ready-dockerfile) | Medium | 1 |
 | [What happens in each stage of a Docker build and why do ENTRYPOINT and CMD matter?](../topics/docker.md#what-happens-in-each-stage-of-a-docker-build-and-why-do-entrypoint-and-cmd-matte) | Medium | 2 |
-| [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) | Medium | 5 |
+| [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) | Medium | 6 |
 | [What is a Docker container?](../topics/docker.md#what-is-a-docker-container) | Easy | 2 |
 | [What is a Docker image?](../topics/docker.md#what-is-a-docker-image) | Easy | 2 |
 | [What is a Dockerfile and how do you create one?](../topics/docker.md#what-is-a-dockerfile-and-how-do-you-create-one) | Easy | 1 |
@@ -542,7 +555,7 @@
 | [What is Docker Compose?](../topics/docker.md#what-is-docker-compose) | Easy | 1 |
 | [What is Docker networking and its types?](../topics/docker.md#what-is-docker-networking-and-its-types) | Easy | 1 |
 | [What is Docker Networking?](../topics/docker.md#what-is-docker-networking) | Medium | 1 |
-| [What is Docker?](../topics/docker.md#what-is-docker) | Easy | 2 |
+| [What is Docker?](../topics/docker.md#what-is-docker) | Easy | 3 |
 | [What is the command to run a container](../topics/docker.md#what-is-the-command-to-run-a-container) | Easy | 1 |
 | [What is the difference between "COPY" and "ADD" in Docker? What was your usage?](../topics/docker.md#what-is-the-difference-between-copy-and-add-in-docker-what-was-your-usage) | Easy | 1 |
 | [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) | Medium | 5 |

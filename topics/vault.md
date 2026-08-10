@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Vault**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 2 / 0 |
-| Companies | 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 3 / 0 |
+| Companies | 1 |
 
 ## Most asked
 
+- [Azure Key Vault Integration](../topics/vault.md#azure-key-vault-integration) — **1×** · Medium · tags: `Azure`
+  <a id="azure-key-vault-integration"></a>
 - [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — **1×** · Medium · tags: `Azure`
   <a id="how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault"></a>
 - [Where do you store application configuration and secrets? (ConfigMaps, Kubernetes Secrets, HashiCorp Vault, etc.)](../topics/vault.md#where-do-you-store-application-configuration-and-secrets-configmaps-kubernetes-s) — **1×** · Medium · tags: `Kubernetes`
@@ -38,6 +40,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Azure Key Vault Integration](../topics/vault.md#azure-key-vault-integration) — 1× · tags: `Azure`
+  <a id="azure-key-vault-integration"></a>
 - [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — 1× · tags: `Azure`
   <a id="how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault"></a>
 - [Where do you store application configuration and secrets? (ConfigMaps, Kubernetes Secrets, HashiCorp Vault, etc.)](../topics/vault.md#where-do-you-store-application-configuration-and-secrets-configmaps-kubernetes-s) — 1× · tags: `Kubernetes`
@@ -51,15 +55,17 @@ _None in this band yet._
 
 ### Unspecified
 
+- [Azure Key Vault Integration](../topics/vault.md#azure-key-vault-integration) — tags: `Azure`
 - [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — tags: `Azure`
 - [Where do you store application configuration and secrets? (ConfigMaps, Kubernetes Secrets, HashiCorp Vault, etc.)](../topics/vault.md#where-do-you-store-application-configuration-and-secrets-configmaps-kubernetes-s) — tags: `Kubernetes`
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [CGI](../companies/cgi.md)
 
 ## Recently added
 
+- [Azure Key Vault Integration](../topics/vault.md#azure-key-vault-integration) — 2026-08-10 · tags: `Azure`
 - [Where do you store application configuration and secrets? (ConfigMaps, Kubernetes Secrets, HashiCorp Vault, etc.)](../topics/vault.md#where-do-you-store-application-configuration-and-secrets-configmaps-kubernetes-s) — 2026-08-02 · tags: `Kubernetes`
 - [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — 2026-07-26 · tags: `Azure`
 
@@ -76,6 +82,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Azure Key Vault Integration](../topics/vault.md#azure-key-vault-integration) | Medium | 1 |
 | [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) | Medium | 1 |
 | [Where do you store application configuration and secrets? (ConfigMaps, Kubernetes Secrets, HashiCorp Vault, etc.)](../topics/vault.md#where-do-you-store-application-configuration-and-secrets-configmaps-kubernetes-s) | Medium | 1 |
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Observability**
 
-**14** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**15** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 14 |
-| Easy / Medium / Hard | 0 / 12 / 2 |
+| Questions | 15 |
+| Easy / Medium / Hard | 0 / 13 / 2 |
 | Companies | 2 |
 
 ## Most asked
@@ -49,6 +49,8 @@
   <a id="what-is-the-difference-between-grafana-and-the-elk-stack"></a>
 - [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) — **2×** · Medium
   <a id="what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project"></a>
+- [AIOps and intelligent monitoring](../topics/observability.md#aiops-and-intelligent-monitoring) — **1×** · Medium · tags: `Monitoring`
+  <a id="aiops-and-intelligent-monitoring"></a>
 - [FinOps & AIOps](../topics/observability.md#finops-aiops) — **1×** · Medium · tags: `FinOps`
   <a id="finops-aiops"></a>
 - [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — **1×** · Medium · tags: `Monitoring`
@@ -80,6 +82,8 @@ _None in this band yet._
   <a id="what-is-the-difference-between-grafana-and-the-elk-stack"></a>
 - [What sort of improvements did you make in your real-time ELK Stack project?](../topics/observability.md#what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project) — 2×
   <a id="what-sort-of-improvements-did-you-make-in-your-real-time-elk-stack-project"></a>
+- [AIOps and intelligent monitoring](../topics/observability.md#aiops-and-intelligent-monitoring) — 1× · tags: `Monitoring`
+  <a id="aiops-and-intelligent-monitoring"></a>
 - [FinOps & AIOps](../topics/observability.md#finops-aiops) — 1× · tags: `FinOps`
   <a id="finops-aiops"></a>
 - [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — 1× · tags: `Monitoring`
@@ -108,6 +112,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [AIOps and intelligent monitoring](../topics/observability.md#aiops-and-intelligent-monitoring) — tags: `Monitoring`
 - [FinOps & AIOps](../topics/observability.md#finops-aiops) — tags: `FinOps`
 - [How do logs, metrics, and traces work together in observability?](../topics/observability.md#how-do-logs-metrics-and-traces-work-together-in-observability)
 - [How do you monitor a production system — and what's the difference between monitoring and observability?](../topics/observability.md#how-do-you-monitor-a-production-system-and-what-s-the-difference-between-monitor) — tags: `Monitoring`
@@ -123,6 +128,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [AIOps and intelligent monitoring](../topics/observability.md#aiops-and-intelligent-monitoring) — 2026-08-10 · tags: `Monitoring`
 - [How do you monitor a production system — and what's the difference between monitoring and observability?](../topics/observability.md#how-do-you-monitor-a-production-system-and-what-s-the-difference-between-monitor) — 2026-08-10 · tags: `Monitoring`
 - [How do logs, metrics, and traces work together in observability?](../topics/observability.md#how-do-logs-metrics-and-traces-work-together-in-observability) — 2026-08-10
 - [FinOps & AIOps](../topics/observability.md#finops-aiops) — 2026-07-26 · tags: `FinOps`
@@ -153,6 +159,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [AIOps and intelligent monitoring](../topics/observability.md#aiops-and-intelligent-monitoring) | Medium | 1 |
 | [Can you explain analyzers, tokenizers, and token filters in Elasticsearch?](../topics/observability.md#can-you-explain-analyzers-tokenizers-and-token-filters-in-elasticsearch) | Medium | 2 |
 | [Do you have working experience on the ELK Stack?](../topics/observability.md#do-you-have-working-experience-on-the-elk-stack) | Medium | 2 |
 | [FinOps & AIOps](../topics/observability.md#finops-aiops) | Medium | 1 |

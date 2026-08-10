@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **System Design**
 
-**29** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**32** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 29 |
-| Easy / Medium / Hard | 0 / 7 / 22 |
+| Questions | 32 |
+| Easy / Medium / Hard | 0 / 7 / 25 |
 | Companies | 6 |
 
 ## Most asked
@@ -33,10 +33,16 @@
   <a id="how-would-you-handle-cascading-failures-across-multiple-microservices"></a>
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) — **3×** · Medium
   <a id="explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region"></a>
+- [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) — **2×** · Hard
+  <a id="net-core-architecture"></a>
 - [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — **2×** · Hard
   <a id="design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a"></a>
+- [Explain the architecture of MVC in .NET Core](../topics/system-design.md#explain-the-architecture-of-mvc-in-net-core) — **2×** · Hard
+  <a id="explain-the-architecture-of-mvc-in-net-core"></a>
 - [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on) — **2×** · Hard
   <a id="explain-the-microservices-architecture-you-ve-worked-on"></a>
+- [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) — **2×** · Hard
+  <a id="explain-your-project-architecture"></a>
 - [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — **2×** · Medium
   <a id="explain-your-project-architecture-from-a-devops-perspective"></a>
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — **2×** · Hard
@@ -71,12 +77,6 @@
   <a id="how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan"></a>
 - [How well you understand architecture](../topics/system-design.md#how-well-you-understand-architecture) — **1×** · Hard
   <a id="how-well-you-understand-architecture"></a>
-- [How would you design a fault-tolerant integration architecture?](../topics/system-design.md#how-would-you-design-a-fault-tolerant-integration-architecture) — **1×** · Hard
-  <a id="how-would-you-design-a-fault-tolerant-integration-architecture"></a>
-- [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications) — **1×** · Hard
-  <a id="how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications"></a>
-- [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) — **1×** · Medium
-  <a id="scalability-vs-elasticity"></a>
 
 ## Beginner
 
@@ -105,10 +105,16 @@ _None in this band yet._
   <a id="design-a-self-healing-platform-for-critical-production-services"></a>
 - [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 6×
   <a id="how-would-you-handle-cascading-failures-across-multiple-microservices"></a>
+- [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) — 2×
+  <a id="net-core-architecture"></a>
 - [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — 2×
   <a id="design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a"></a>
+- [Explain the architecture of MVC in .NET Core](../topics/system-design.md#explain-the-architecture-of-mvc-in-net-core) — 2×
+  <a id="explain-the-architecture-of-mvc-in-net-core"></a>
 - [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on) — 2×
   <a id="explain-the-microservices-architecture-you-ve-worked-on"></a>
+- [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) — 2×
+  <a id="explain-your-project-architecture"></a>
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — 2×
   <a id="how-would-you-design-a-highly-available-and-scalable-devops-platform"></a>
 - [System Design](../topics/system-design.md#system-design) — 2×
@@ -158,6 +164,7 @@ _None in this band yet._
 
 ### Unspecified
 
+- [.NET Core & Architecture](../topics/system-design.md#net-core-architecture)
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer)
 - [Backend architecture interview](../topics/system-design.md#backend-architecture-interview)
 - [Can you explain system design?](../topics/system-design.md#can-you-explain-system-design)
@@ -168,8 +175,10 @@ _None in this band yet._
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture)
 - [Exact coding and system design questions from each round](../topics/system-design.md#exact-coding-and-system-design-questions-from-each-round)
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region)
+- [Explain the architecture of MVC in .NET Core](../topics/system-design.md#explain-the-architecture-of-mvc-in-net-core)
 - [Explain the exact process you’d use to contain a cascading failure caused by a bad config rollout across production tenants.](../topics/system-design.md#explain-the-exact-process-youd-use-to-contain-a-cascading-failure-caused-by-a-ba)
 - [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on)
+- [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture)
 - [Give an example of a time you changed an architecture decision after seeing production data that contradicted the original plan.](../topics/system-design.md#give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod)
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan)
 - [How well you understand architecture](../topics/system-design.md#how-well-you-understand-architecture)
@@ -197,6 +206,9 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) — 2026-08-10
+- [Explain the architecture of MVC in .NET Core](../topics/system-design.md#explain-the-architecture-of-mvc-in-net-core) — 2026-08-10
+- [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) — 2026-08-10
 - [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 2026-08-10
 - [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — 2026-08-10
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) — 2026-08-10
@@ -209,9 +221,6 @@ _None in this band yet._
 - [Can you explain system design?](../topics/system-design.md#can-you-explain-system-design) — 2026-07-29
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — 2026-07-29
 - [System Design](../topics/system-design.md#system-design) — 2026-07-29
-- [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) — 2026-07-28
-- [Design and build scalable backend services using Node.js](../topics/system-design.md#design-and-build-scalable-backend-services-using-node-js) — 2026-07-28
-- [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — 2026-07-28
 
 ## Related topics
 
@@ -222,6 +231,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) | Hard | 2 |
 | [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) | Hard | 1 |
 | [Backend architecture interview](../topics/system-design.md#backend-architecture-interview) | Hard | 1 |
 | [Can you explain system design?](../topics/system-design.md#can-you-explain-system-design) | Hard | 1 |
@@ -233,8 +243,10 @@ _None in this band yet._
 | [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) | Hard | 1 |
 | [Exact coding and system design questions from each round](../topics/system-design.md#exact-coding-and-system-design-questions-from-each-round) | Hard | 1 |
 | [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) | Medium | 3 |
+| [Explain the architecture of MVC in .NET Core](../topics/system-design.md#explain-the-architecture-of-mvc-in-net-core) | Hard | 2 |
 | [Explain the exact process you’d use to contain a cascading failure caused by a bad config rollout across production tenants.](../topics/system-design.md#explain-the-exact-process-youd-use-to-contain-a-cascading-failure-caused-by-a-ba) | Hard | 1 |
 | [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on) | Hard | 2 |
+| [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) | Hard | 2 |
 | [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) | Medium | 2 |
 | [Give an example of a time you changed an architecture decision after seeing production data that contradicted the original plan.](../topics/system-design.md#give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod) | Hard | 1 |
 | [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) | Medium | 1 |

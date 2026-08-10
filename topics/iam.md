@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **IAM**
 
-**12** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**13** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 12 |
-| Easy / Medium / Hard | 2 / 10 / 0 |
+| Questions | 13 |
+| Easy / Medium / Hard | 2 / 11 / 0 |
 | Companies | 2 |
 
 ## Most asked
@@ -39,6 +39,8 @@
   <a id="what-is-iam"></a>
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — **1×** · Medium · tags: `AWS`
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
+- [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — **1×** · Medium
+  <a id="explain-iam-roles-vs-iam-policies-with-a-real-world-scenario"></a>
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) — **1×** · Medium
   <a id="explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e"></a>
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — **1×** · Medium
@@ -71,6 +73,8 @@
   <a id="rbac-security"></a>
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — 1× · tags: `AWS`
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
+- [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — 1×
+  <a id="explain-iam-roles-vs-iam-policies-with-a-real-world-scenario"></a>
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) — 1×
   <a id="explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e"></a>
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — 1×
@@ -93,6 +97,7 @@ _None in this band yet._
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — tags: `AWS`
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — tags: `AWS`
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — tags: `AWS`
+- [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario)
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e)
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications)
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles)
@@ -110,6 +115,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — 2026-08-10
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) — 2026-08-10
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — 2026-08-02 · tags: `AWS`
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — 2026-07-28
@@ -139,6 +145,7 @@ _None in this band yet._
 | [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) | Medium | 1 |
 | [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) | Medium | 2 |
 | [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) | Medium | 2 |
+| [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) | Medium | 1 |
 | [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) | Medium | 1 |
 | [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) | Medium | 1 |
 | [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) | Medium | 1 |

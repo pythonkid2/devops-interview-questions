@@ -4,7 +4,7 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1553 |
+| [Unknown Company](../companies/unknown-company.md) | 1647 |
 | [Infosys](../companies/infosys.md) | 63 |
 | [TCS](../companies/tcs.md) | 47 |
 | [Mphasis](../companies/mphasis.md) | 43 |
@@ -13,6 +13,7 @@
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
 | [Deloitte](../companies/deloitte.md) | 25 |
+| [Hexaware Technologies](../companies/hexaware-technologies.md) | 25 |
 | [Global Payments](../companies/global-payments.md) | 23 |
 | [Amazon](../companies/amazon.md) | 17 |
 | [Capgemini](../companies/capgemini.md) | 13 |
@@ -23,6 +24,7 @@
 | [NVIDIA](../companies/nvidia.md) | 11 |
 | [Wipro](../companies/wipro.md) | 11 |
 | [Argyll Infotech](../companies/argyll-infotech.md) | 10 |
+| [CGI](../companies/cgi.md) | 10 |
 | [DBS Bank](../companies/dbs-bank.md) | 10 |
 | [zemoso technologies](../companies/zemoso-technologies.md) | 8 |
 | [DEVYNTECH](../companies/devyntech.md) | 7 |
@@ -30,6 +32,7 @@
 | [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md) | 7 |
 | [Adesso](../companies/adesso.md) | 6 |
 | [Swageazy](../companies/swageazy.md) | 6 |
+| [LTM](../companies/ltm.md) | 5 |
 | [Merge](../companies/merge.md) | 5 |
 | [Sri-Hire](../companies/sri-hire.md) | 5 |
 | [DPRSolutions](../companies/dprsolutions.md) | 4 |

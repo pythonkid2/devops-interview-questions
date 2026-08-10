@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-2052-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-849-informational)
+![questions](https://img.shields.io/badge/questions-2185-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-909-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,22 +18,22 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 2052 |
-| Posts processed | 849 |
-| Added this week | 85 |
+| Unique questions | 2185 |
+| Posts processed | 909 |
+| Added this week | 218 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 248
-- [Terraform](./topics/terraform.md) — 145
-- [AWS](./topics/aws.md) — 124
-- [Docker](./topics/docker.md) — 108
-- [Jenkins](./topics/jenkins.md) — 88
-- [CI/CD](./topics/ci-cd.md) — 81
-- [Incident Response](./topics/incident-response.md) — 33
-- [System Design](./topics/system-design.md) — 29
-- [Linux](./topics/linux.md) — 28
-- [Security](./topics/security.md) — 25
+- [Kubernetes](./topics/kubernetes.md) — 257
+- [Terraform](./topics/terraform.md) — 149
+- [AWS](./topics/aws.md) — 125
+- [Docker](./topics/docker.md) — 111
+- [Jenkins](./topics/jenkins.md) — 89
+- [CI/CD](./topics/ci-cd.md) — 85
+- [Incident Response](./topics/incident-response.md) — 35
+- [System Design](./topics/system-design.md) — 32
+- [Linux](./topics/linux.md) — 29
+- [Azure](./topics/azure.md) — 25
 
 ## Popular companies
 
@@ -45,8 +45,8 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
 - [Deloitte](./companies/deloitte.md) — 25
+- [Hexaware Technologies](./companies/hexaware-technologies.md) — 25
 - [Global Payments](./companies/global-payments.md) — 23
-- [Amazon](./companies/amazon.md) — 17
 
 ## Repository map
 

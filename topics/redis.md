@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Redis**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,26 +21,30 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 1 / 1 / 0 |
+| Questions | 3 |
+| Easy / Medium / Hard | 1 / 2 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
+- [What is Redis?](../topics/redis.md#what-is-redis) — **2×** · Easy
+  <a id="what-is-redis"></a>
 - [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) — **1×** · Medium
   <a id="can-you-explain-redis-caching"></a>
-- [What is Redis?](../topics/redis.md#what-is-redis) — **1×** · Easy
-  <a id="what-is-redis"></a>
+- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — **1×** · Medium
+  <a id="when-would-you-use-redis"></a>
 
 ## Beginner
 
-- [What is Redis?](../topics/redis.md#what-is-redis) — 1×
+- [What is Redis?](../topics/redis.md#what-is-redis) — 2×
   <a id="what-is-redis"></a>
 
 ## Intermediate
 
 - [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) — 1×
   <a id="can-you-explain-redis-caching"></a>
+- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — 1×
+  <a id="when-would-you-use-redis"></a>
 
 ## Advanced
 
@@ -52,6 +56,7 @@ _None in this band yet._
 
 - [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching)
 - [What is Redis?](../topics/redis.md#what-is-redis)
+- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis)
 
 ## Companies asking
 
@@ -59,8 +64,9 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is Redis?](../topics/redis.md#what-is-redis) — 2026-08-10
+- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — 2026-08-10
 - [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) — 2026-07-29
-- [What is Redis?](../topics/redis.md#what-is-redis) — 2026-07-16
 
 ## Related topics
 
@@ -73,7 +79,8 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) | Medium | 1 |
-| [What is Redis?](../topics/redis.md#what-is-redis) | Easy | 1 |
+| [What is Redis?](../topics/redis.md#what-is-redis) | Easy | 2 |
+| [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) | Medium | 1 |
 
 ## Learning resources
 

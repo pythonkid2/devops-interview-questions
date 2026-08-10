@@ -43,6 +43,7 @@
 - [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — 2× · System Design
 - [Do you have any questions for the interviewer?](../topics/general.md#do-you-have-any-questions-for-the-interviewer) — 2× · General
 - [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/ci-cd.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — 2× · CI/CD
+- [How do you roll back a failed Kubernetes deployment?](../topics/kubernetes.md#how-do-you-roll-back-a-failed-kubernetes-deployment) — 2× · Kubernetes
 - [How would you handle resistance from team members while adopting DevOps tools and practices?](../topics/general.md#how-would-you-handle-resistance-from-team-members-while-adopting-devops-tools-an) — 2× · General
 - [How would you manage data consistency and transactions across microservices deployed in multiple Availability Zones?](../topics/general.md#how-would-you-manage-data-consistency-and-transactions-across-microservices-depl) — 2× · General
 - [How would you measure the success of your automation initiative?](../topics/general.md#how-would-you-measure-the-success-of-your-automation-initiative) — 2× · General
@@ -54,7 +55,6 @@
 - [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — 1× · High Availability · tags: `VPC`, `AWS`
 - [Are you familiar with middleware technologies like Tomcat, WebLogic, or WebSphere?](../topics/general.md#are-you-familiar-with-middleware-technologies-like-tomcat-weblogic-or-websphere) — 1× · General
 - [Did you create CI/CD pipelines from scratch or work on existing pipelines?](../topics/ci-cd.md#did-you-create-ci-cd-pipelines-from-scratch-or-work-on-existing-pipelines) — 1× · CI/CD
-- [Explain Blue-Green Deployment and Canary Deployment. How have you implemented them?](../topics/deployment-strategies.md#explain-blue-green-deployment-and-canary-deployment-how-have-you-implemented-the) — 1× · Deployment Strategies · tags: `Blue-Green`, `Canary`
 
 ## By topic
 
@@ -191,9 +191,9 @@
 
 ## Recently added
 
+- [How do you roll back a failed Kubernetes deployment?](../topics/kubernetes.md#how-do-you-roll-back-a-failed-kubernetes-deployment) — 2026-08-10
 - [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) — 2026-08-10
 - [How do you scan Docker images for vulnerabilities before deployment?](../topics/docker.md#how-do-you-scan-docker-images-for-vulnerabilities-before-deployment) — 2026-08-10
-- [How do you roll back a failed Kubernetes deployment?](../topics/kubernetes.md#how-do-you-roll-back-a-failed-kubernetes-deployment) — 2026-08-10
 - [What happens when an EC2 instance in an Auto Scaling Group becomes unhealthy?](../topics/aws.md#what-happens-when-an-ec2-instance-in-an-auto-scaling-group-becomes-unhealthy) — 2026-08-10
 - [How do you optimize AWS costs for EC2, EKS, S3, and RDS?](../topics/eks.md#how-do-you-optimize-aws-costs-for-ec2-eks-s3-and-rds) — 2026-08-10 · tags: `Databases`, `AWS`
 - [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — 2026-08-10 · tags: `AWS`

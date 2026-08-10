@@ -6,66 +6,66 @@
 
 | Metric | Value |
 | --- | ---: |
-| Questions | 1553 |
+| Questions | 1647 |
 | Topics covered | 62 |
 
 ## Topics asked
 
-- [General](../topics/general.md) — 558
-- [Kubernetes](../topics/kubernetes.md) — 200
-- [Terraform](../topics/terraform.md) — 109
-- [Docker](../topics/docker.md) — 96
-- [AWS](../topics/aws.md) — 95
-- [Jenkins](../topics/jenkins.md) — 61
-- [CI/CD](../topics/ci-cd.md) — 58
-- [Linux](../topics/linux.md) — 26
-- [Incident Response](../topics/incident-response.md) — 22
-- [Git](../topics/git.md) — 19
-- [System Design](../topics/system-design.md) — 19
-- [Deployment Strategies](../topics/deployment-strategies.md) — 15
+- [General](../topics/general.md) — 609
+- [Kubernetes](../topics/kubernetes.md) — 209
+- [Terraform](../topics/terraform.md) — 113
+- [Docker](../topics/docker.md) — 98
+- [AWS](../topics/aws.md) — 96
+- [Jenkins](../topics/jenkins.md) — 62
+- [CI/CD](../topics/ci-cd.md) — 61
+- [Linux](../topics/linux.md) — 27
+- [Incident Response](../topics/incident-response.md) — 24
+- [System Design](../topics/system-design.md) — 22
+- [Git](../topics/git.md) — 20
+- [Deployment Strategies](../topics/deployment-strategies.md) — 16
+- [Azure](../topics/azure.md) — 15
 - [EKS](../topics/eks.md) — 15
-- [Azure](../topics/azure.md) — 13
+- [Monitoring](../topics/monitoring.md) — 13
 - [Security](../topics/security.md) — 13
 - [Azure DevOps](../topics/azure-devops.md) — 12
-- [Monitoring](../topics/monitoring.md) — 12
-- [Databases](../topics/databases.md) — 11
+- [Databases](../topics/databases.md) — 12
 - [Disaster Recovery](../topics/disaster-recovery.md) — 11
+- [IAM](../topics/iam.md) — 11
+- [Prometheus](../topics/prometheus.md) — 11
 - [ArgoCD](../topics/argocd.md) — 10
-- [IAM](../topics/iam.md) — 10
 - [Load Balancing](../topics/load-balancing.md) — 10
-- [Prometheus](../topics/prometheus.md) — 10
 - [Capacity Planning](../topics/capacity-planning.md) — 9
 - [Ingress](../topics/ingress.md) — 9
 - [VPC](../topics/vpc.md) — 8
 - [Ansible](../topics/ansible.md) — 7
 - [High Availability](../topics/high-availability.md) — 7
+- [Observability](../topics/observability.md) — 7
 - [FinOps](../topics/finops.md) — 6
 - [Grafana](../topics/grafana.md) — 6
+- [Helm](../topics/helm.md) — 6
+- [Network Security](../topics/network-security.md) — 6
 - [Networking](../topics/networking.md) — 6
-- [Observability](../topics/observability.md) — 6
+- [Alerting](../topics/alerting.md) — 5
 - [API Gateway](../topics/api-gateway.md) — 5
+- [DNS](../topics/dns.md) — 5
 - [GitHub Actions](../topics/github-actions.md) — 5
-- [Helm](../topics/helm.md) — 5
-- [Network Security](../topics/network-security.md) — 5
 - [DevSecOps](../topics/devsecops.md) — 4
-- [DNS](../topics/dns.md) — 4
 - [Logging](../topics/logging.md) — 4
 - [Microservices](../topics/microservices.md) — 4
+- [On-Call](../topics/on-call.md) — 4
 - [SRE](../topics/sre.md) — 4
 - [Storage](../topics/storage.md) — 4
 - [CDN](../topics/cdn.md) — 3
 - [Kafka](../topics/kafka.md) — 3
-- [On-Call](../topics/on-call.md) — 3
+- [Redis](../topics/redis.md) — 3
 - [Service Mesh](../topics/service-mesh.md) — 3
 - [Shell Scripting](../topics/shell-scripting.md) — 3
-- [Alerting](../topics/alerting.md) — 2
 - [Certificate Management](../topics/certificate-management.md) — 2
 - [Chaos Engineering](../topics/chaos-engineering.md) — 2
 - [CloudFormation](../topics/cloudformation.md) — 2
 - [ELK](../topics/elk.md) — 2
 - [GCP](../topics/gcp.md) — 2
 - [Python](../topics/python.md) — 2
-- [Redis](../topics/redis.md) — 2
 - [SLOs](../topics/slos.md) — 2
 - [Vault](../topics/vault.md) — 2
 - [Bash](../topics/bash.md) — 1
@@ -94,8 +94,8 @@
 - [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) — 6× · Microservices
 - [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-) — 6× · Terraform
 - [Terraform state is 300MB and planning takes 15 minutes. How would you optimize it?](../topics/terraform.md#terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it) — 6× · Terraform
+- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 6× · Docker
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — 6× · CI/CD
-- [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/kubernetes.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do) — 6× · Kubernetes
 
 ## By topic
 
@@ -103,6 +103,9 @@
 
 - [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — Medium · tags: `Monitoring`
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — Medium
+- [How do you design monitoring and alerting to reduce alert fatigue?](../topics/alerting.md#how-do-you-design-monitoring-and-alerting-to-reduce-alert-fatigue) — Hard · tags: `Monitoring`
+- [if cloudwatch do alerting and monitor events, then what about cloudtrail do in AWS?](../topics/alerting.md#if-cloudwatch-do-alerting-and-monitor-events-then-what-about-cloudtrail-do-in-aw) — Medium · tags: `Monitoring`, `AWS`
+- [you said cloudwatch for alerting, let me know what alerting seup its there in project as i know its for metrics.](../topics/alerting.md#you-said-cloudwatch-for-alerting-let-me-know-what-alerting-seup-its-there-in-pro) — Medium · tags: `Monitoring`
 
 ### Ansible
 
@@ -223,6 +226,7 @@
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) — Medium
 - [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) — Medium
 - [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) — Medium
+- [Which cloud platform are you comfortable with (AWS, Azure, or GCP)?](../topics/aws.md#which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp) — Medium · tags: `Azure`, `GCP`
 - [Which VPC Interface Endpoints are required for AWS SSM to work without internet access?](../topics/aws.md#which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-) — Medium
 - [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work) — Medium
 - [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) — Medium
@@ -237,9 +241,11 @@
 
 - [Azure](../topics/azure.md#azure) — Medium
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — Medium
+- [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — Medium
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — Medium
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — Medium
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — Medium
+- [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) — Medium
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — Easy
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — Easy
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — Easy
@@ -300,7 +306,9 @@
 
 - [A pipeline processing 100 million records is taking too long. How would you optimize it?](../topics/ci-cd.md#a-pipeline-processing-100-million-records-is-taking-too-long-how-would-you-optim) — Medium
 - [ADF pipeline failed at 2 AM. What would you check first?](../topics/ci-cd.md#adf-pipeline-failed-at-2-am-what-would-you-check-first) — Medium
+- [AI-powered CI/CD](../topics/ci-cd.md#ai-powered-ci-cd) — Medium
 - [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) — Medium
+- [Can you design an event-driven pipeline with a Pub/Sub system using GCP?](../topics/ci-cd.md#can-you-design-an-event-driven-pipeline-with-a-pub-sub-system-using-gcp) — Hard · tags: `GCP`
 - [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) — Medium
 - [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) — Medium
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — Hard · tags: `System Design`
@@ -338,6 +346,7 @@
 - [What are the different sections in declarative pipeline?](../topics/ci-cd.md#what-are-the-different-sections-in-declarative-pipeline) — Easy
 - [What are the different ways to create a pipeline?](../topics/ci-cd.md#what-are-the-different-ways-to-create-a-pipeline) — Easy
 - [What branching strategy do you follow in your projects?](../topics/ci-cd.md#what-branching-strategy-do-you-follow-in-your-projects) — Easy
+- [What CI/CD pipeline did you use to deploy your application?](../topics/ci-cd.md#what-ci-cd-pipeline-did-you-use-to-deploy-your-application) — Medium
 - [What CI/CD pipelines have you built or maintained, and how did they improve software delivery, deployment speed, and release quality?](../topics/ci-cd.md#what-ci-cd-pipelines-have-you-built-or-maintained-and-how-did-they-improve-softw) — Medium
 - [What happens internally in a CI/CD pipeline from commit → deploy?](../topics/ci-cd.md#what-happens-internally-in-a-ci-cd-pipeline-from-commit-deploy) — Medium
 - [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) — Medium
@@ -370,6 +379,7 @@
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — Hard · tags: `System Design`
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — Medium
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — Medium
+- [How to optimize database query](../topics/databases.md#how-to-optimize-database-query) — Medium
 - [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) — Medium
 - [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — Medium · tags: `AWS`
 - [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — Medium
@@ -391,6 +401,7 @@
 - [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production) — Hard
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) — Medium
 - [How would you implement a reliable rollback strategy?](../topics/deployment-strategies.md#how-would-you-implement-a-reliable-rollback-strategy) — Hard
+- [How would you implement a zero-downtime deployment?](../topics/deployment-strategies.md#how-would-you-implement-a-zero-downtime-deployment) — Hard
 - [Suppose you are implementing a Canary Deployment where only 10% of users receive the new version. How would you implement it through your CI/CD pipeline?](../topics/deployment-strategies.md#suppose-you-are-implementing-a-canary-deployment-where-only-10-of-users-receive-) — Hard · tags: `CI/CD`, `Canary`
 - [Zero-downtime deployments](../topics/deployment-strategies.md#zero-downtime-deployments) — Medium
 
@@ -420,6 +431,7 @@
 - [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) — Medium
 - [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) — Medium
 - [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) — Medium
+- [Is DNS resolving correctly?](../topics/dns.md#is-dns-resolving-correctly) — Medium
 - [Microservice A cannot communicate with Microservice B. Both Pods are Running, DNS resolves correctly, Services and Endpoints exist, but TCP connections time out. How would you troubleshoot?](../topics/dns.md#microservice-a-cannot-communicate-with-microservice-b-both-pods-are-running-dns-) — Medium · tags: `Microservices`
 
 ### Docker
@@ -430,6 +442,7 @@
 - [A Docker image has 10 layers, and all layers are already cached. If you modify Layer 5 and rebuild the image, what will happen? Will Docker reuse the cache for Layers 6–10, or will those layers be rebuilt? Explain why.](../topics/docker.md#a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay) — Easy
 - [Can you explain how Docker works?](../topics/docker.md#can-you-explain-how-docker-works) — Medium
 - [Can you explain the concept of Docker and how do you use it in your projects?](../topics/docker.md#can-you-explain-the-concept-of-docker-and-how-do-you-use-it-in-your-projects) — Easy
+- [Can you explain your experience with Docker?](../topics/docker.md#can-you-explain-your-experience-with-docker) — Medium
 - [Can you write a command to add volume or bind mount in container](../topics/docker.md#can-you-write-a-command-to-add-volume-or-bind-mount-in-container) — Medium
 - [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) — Medium
 - [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — Medium
@@ -475,6 +488,7 @@
 - [How does docker provide isolation?](../topics/docker.md#how-does-docker-provide-isolation) — Medium
 - [How does Docker's containerization work?](../topics/docker.md#how-does-docker-s-containerization-work) — Easy
 - [How to check the vulnerabilities in docker container which is running in the production ?](../topics/docker.md#how-to-check-the-vulnerabilities-in-docker-container-which-is-running-in-the-pro) — Hard
+- [How would you use Docker to implement a Pub/Sub system?](../topics/docker.md#how-would-you-use-docker-to-implement-a-pub-sub-system) — Medium
 - [If Docker images are built in Jenkins but security scanning must happen in GitHub Actions, how would you design the workflow?](../topics/docker.md#if-docker-images-are-built-in-jenkins-but-security-scanning-must-happen-in-githu) — Medium
 - [Is your Dockerfile production-ready? What improvements would you make?](../topics/docker.md#is-your-dockerfile-production-ready-what-improvements-would-you-make) — Hard
 - [Jenkins and Docker troubleshooting](../topics/docker.md#jenkins-and-docker-troubleshooting) — Medium · tags: `Jenkins`
@@ -580,10 +594,14 @@
 - [A service shows a spike in HTTP 500/505 errors but application logs are clean. How would you investigate?](../topics/general.md#a-service-shows-a-spike-in-http-500-505-errors-but-application-logs-are-clean-ho) — Medium
 - [A source schema changes unexpectedly. How do you handle it?](../topics/general.md#a-source-schema-changes-unexpectedly-how-do-you-handle-it) — Medium
 - [A trigger is causing CPU timeout exceptions in production. How would you troubleshoot it?](../topics/general.md#a-trigger-is-causing-cpu-timeout-exceptions-in-production-how-would-you-troubles) — Hard
+- [Acknowledge & Communicate](../topics/general.md#acknowledge-communicate) — Medium
+- [Agentic AI in DevOps](../topics/general.md#agentic-ai-in-devops) — Medium
 - [Agile vs DevOps](../topics/general.md#agile-vs-devops) — Medium
+- [AI agents integrated with DevOps workflows](../topics/general.md#ai-agents-integrated-with-devops-workflows) — Medium
 - [An application suddenly becomes slow. What would you check first?](../topics/general.md#an-application-suddenly-becomes-slow-what-would-you-check-first) — Medium
 - [App is down. CPU or memory you don't know which yet. What's your first move?](../topics/general.md#app-is-down-cpu-or-memory-you-don-t-know-which-yet-what-s-your-first-move) — Medium
 - [Application latency suddenly increased. How would you troubleshoot?](../topics/general.md#application-latency-suddenly-increased-how-would-you-troubleshoot) — Medium
+- [Are NetworkPolicies blocking traffic?](../topics/general.md#are-networkpolicies-blocking-traffic) — Medium
 - [Are you comfortable with rotational/night shifts?](../topics/general.md#are-you-comfortable-with-rotational-night-shifts) — Medium
 - [Are you using volume mounts? Using volume mount services or without volume mounts?](../topics/general.md#are-you-using-volume-mounts-using-volume-mount-services-or-without-volume-mounts) — Medium
 - [Arguments ($1, $@, $#)](../topics/general.md#arguments-1) — Medium
@@ -593,7 +611,9 @@
 - [Automation project overview and tools stack hands-on experience.](../topics/general.md#automation-project-overview-and-tools-stack-hands-on-experience) — Medium
 - [Be ready to write a basic automation script, such as checking disk usage.](../topics/general.md#be-ready-to-write-a-basic-automation-script-such-as-checking-disk-usage) — Medium
 - [Benefits & culture](../topics/general.md#benefits-culture) — Medium
+- [Both builds completed successfully.](../topics/general.md#both-builds-completed-successfully) — Medium
 - [Branching strategies](../topics/general.md#branching-strategies) — Medium
+- [But the image SHA256 digests are completely different.](../topics/general.md#but-the-image-sha256-digests-are-completely-different) — Medium
 - [Can another engineer maintain it six months from now?](../topics/general.md#can-another-engineer-maintain-it-six-months-from-now) — Medium
 - [Can I explain why I built it this way?](../topics/general.md#can-i-explain-why-i-built-it-this-way) — Medium
 - [Can I reach it from outside?](../topics/general.md#can-i-reach-it-from-outside) — Medium
@@ -601,6 +621,7 @@
 - [Can we roll it back?](../topics/general.md#can-we-roll-it-back) — Medium
 - [Can you break down a complex problem?](../topics/general.md#can-you-break-down-a-complex-problem) — Medium
 - [Can you create a empty file with 100mb](../topics/general.md#can-you-create-a-empty-file-with-100mb) — Medium
+- [Can you describe a real-world DevOps project you built from scratch?](../topics/general.md#can-you-describe-a-real-world-devops-project-you-built-from-scratch) — Medium
 - [Can you describe how a system fails? Specifically — the input that breaks it, the load condition that degrades it, the dependency assumption that won't hold.](../topics/general.md#can-you-describe-how-a-system-fails-specifically-the-input-that-breaks-it-the-lo) — Medium
 - [Can you describe two production challenges you've faced and how you resolved them?](../topics/general.md#can-you-describe-two-production-challenges-you-ve-faced-and-how-you-resolved-the) — Medium
 - [Can you discuss caching strategies you have implemented?](../topics/general.md#can-you-discuss-caching-strategies-you-have-implemented) — Medium
@@ -609,6 +630,7 @@
 - [Can you explain one of your projects?](../topics/general.md#can-you-explain-one-of-your-projects) — Medium
 - [Can you explain the concept of Infrastructure as Code (IaC)?](../topics/general.md#can-you-explain-the-concept-of-infrastructure-as-code-iac) — Medium
 - [Can you explain your decisions?](../topics/general.md#can-you-explain-your-decisions) — Medium
+- [Can you provide an example of how you containerized a web application?](../topics/general.md#can-you-provide-an-example-of-how-you-containerized-a-web-application) — Medium
 - [Can you read code and find the behavioral failure — not the naming inconsistency, the thing that produces a wrong answer silently in production?](../topics/general.md#can-you-read-code-and-find-the-behavioral-failure-not-the-naming-inconsistency-t) — Hard
 - [Can you reproduce the issue?](../topics/general.md#can-you-reproduce-the-issue) — Medium
 - [Can you slow down before building and name what's missing from the requirement?](../topics/general.md#can-you-slow-down-before-building-and-name-what-s-missing-from-the-requirement) — Medium
@@ -624,11 +646,13 @@
 - [Core practices](../topics/general.md#core-practices) — Medium
 - [Correlation IDs](../topics/general.md#correlation-ids) — Medium
 - [count vs for_each](../topics/general.md#count-vs-for-each) — Medium
+- [CPU spikes to 100%](../topics/general.md#cpu-spikes-to-100) — Medium
 - [CPU usage suddenly spikes to 95% in production after a new release. There are no application errors. No infrastructure changes. What would be your step-by-step debugging approach?](../topics/general.md#cpu-usage-suddenly-spikes-to-95-in-production-after-a-new-release-there-are-no-a) — Hard
 - [CPU utilization is continuously high. How will you troubleshoot it?](../topics/general.md#cpu-utilization-is-continuously-high-how-will-you-troubleshoot-it) — Medium
 - [Current working directory?](../topics/general.md#current-working-directory) — Medium
 - [Data mismatch is reported between UI → API → DB. Explain your end-to-end debugging approach.](../topics/general.md#data-mismatch-is-reported-between-ui-api-db-explain-your-end-to-end-debugging-ap) — Hard
 - [Debug complex, distributed issues under pressure](../topics/general.md#debug-complex-distributed-issues-under-pressure) — Medium
+- [Deep Root Cause Analysis](../topics/general.md#deep-root-cause-analysis) — Medium
 - [Dependency cycles & depends_on issues](../topics/general.md#dependency-cycles-depends-on-issues) — Medium
 - [Describe a challenging bug you encountered in production. How did you investigate, resolve it, and prevent it from happening again?](../topics/general.md#describe-a-challenging-bug-you-encountered-in-production-how-did-you-investigate) — Hard
 - [Describe a challenging production issue you resolved and explain how you fixed it.](../topics/general.md#describe-a-challenging-production-issue-you-resolved-and-explain-how-you-fixed-i) — Hard
@@ -642,11 +666,15 @@
 - [Developer says requirement is not feasible - what will you do?](../topics/general.md#developer-says-requirement-is-not-feasible-what-will-you-do) — Medium
 - [Developers are overwriting each other's code. How would you solve it?](../topics/general.md#developers-are-overwriting-each-other-s-code-how-would-you-solve-it) — Medium
 - [DevOps principles](../topics/general.md#devops-principles) — Medium
+- [Difference between AsTracking() and AsNoTracking()](../topics/general.md#difference-between-astracking-and-asnotracking) — Easy
 - [Difference between BeanFactory and ApplicationContext.](../topics/general.md#difference-between-beanfactory-and-applicationcontext) — Medium
 - [Difference between chmod and chown.](../topics/general.md#difference-between-chmod-and-chown) — Easy
 - [Difference between Hard Link and Soft Link.](../topics/general.md#difference-between-hard-link-and-soft-link) — Easy
 - [Difference between local-exec and remote-exec provisioners.](../topics/general.md#difference-between-local-exec-and-remote-exec-provisioners) — Easy
+- [Difference between logs, metrics, and traces. When do you use each?](../topics/general.md#difference-between-logs-metrics-and-traces-when-do-you-use-each) — Easy
 - [Difference between Minor GC and Major GC.](../topics/general.md#difference-between-minor-gc-and-major-gc) — Medium
+- [Difference between Primary Key and Foreign Key](../topics/general.md#difference-between-primary-key-and-foreign-key) — Easy
+- [Difference between Readiness, Liveness, and Startup Probes.](../topics/general.md#difference-between-readiness-liveness-and-startup-probes) — Easy
 - [Difference between String, StringBuilder, and StringBuffer.](../topics/general.md#difference-between-string-stringbuilder-and-stringbuffer) — Easy
 - [Difference between UDP and TCP ?](../topics/general.md#difference-between-udp-and-tcp) — Easy
 - [Difference between wait and sleep.](../topics/general.md#difference-between-wait-and-sleep) — Easy
@@ -654,6 +682,7 @@
 - [Discussion around 24x7 support operations.](../topics/general.md#discussion-around-24x7-support-operations) — Medium
 - [Discussion around TechOps/Product Support environment.](../topics/general.md#discussion-around-techops-product-support-environment) — Medium
 - [Discussion around Windows/.NET-based product environment.](../topics/general.md#discussion-around-windows-net-based-product-environment) — Medium
+- [Disk usage reaches 100%](../topics/general.md#disk-usage-reaches-100) — Medium
 - [Do I need to take a course from a reputed institution?](../topics/general.md#do-i-need-to-take-a-course-from-a-reputed-institution) — Easy
 - [Do you prefer an Individual Contributor role or a Technical Leadership role?](../topics/general.md#do-you-prefer-an-individual-contributor-role-or-a-technical-leadership-role) — Medium
 - [Do you understand trade-offs?](../topics/general.md#do-you-understand-trade-offs) — Hard
@@ -665,13 +694,17 @@
 - [Experience production failures yourself.](../topics/general.md#experience-production-failures-yourself) — Hard
 - [Explain @Transactional annotation.](../topics/general.md#explain-transactional-annotation) — Medium
 - [Explain clusterIP](../topics/general.md#explain-clusterip) — Medium
+- [Explain Dependency Injection](../topics/general.md#explain-dependency-injection) — Medium
 - [Explain different type of injection in spring boot with example.](../topics/general.md#explain-different-type-of-injection-in-spring-boot-with-example) — Medium
 - [Explain HashMap internal working in detail.](../topics/general.md#explain-hashmap-internal-working-in-detail) — Medium
 - [Explain how containerization eliminated environment inconsistencies and simplified deployments.](../topics/general.md#explain-how-containerization-eliminated-environment-inconsistencies-and-simplifi) — Medium
 - [Explain how you’d leverage eBPF + Cilium to enforce network security policies at runtime, and what the advantages are over traditional CNIs?](../topics/general.md#explain-how-youd-leverage-ebpf-cilium-to-enforce-network-security-policies-at-ru) — Medium
+- [Explain indexing in detail — where did you use it in your project](../topics/general.md#explain-indexing-in-detail-where-did-you-use-it-in-your-project) — Medium
+- [Explain JWT Authentication](../topics/general.md#explain-jwt-authentication) — Medium
 - [Explain live-ness probe and ready-ness probe ?](../topics/general.md#explain-live-ness-probe-and-ready-ness-probe) — Medium
 - [Explain Liveness, Readiness, and Startup Probes.](../topics/general.md#explain-liveness-readiness-and-startup-probes) — Medium
 - [Explain logs, metrics, and traces.](../topics/general.md#explain-logs-metrics-and-traces) — Medium
+- [Explain Microservices.](../topics/general.md#explain-microservices) — Medium
 - [Explain Optional and its use cases.](../topics/general.md#explain-optional-and-its-use-cases) — Medium
 - [Explain OSI model and layer 7 and layer 4 in OSI model?](../topics/general.md#explain-osi-model-and-layer-7-and-layer-4-in-osi-model) — Medium
 - [Explain Saga Pattern with a real-world example.](../topics/general.md#explain-saga-pattern-with-a-real-world-example) — Medium
@@ -713,6 +746,7 @@
 - [How did you implement retries, circuit breakers, and idempotency?](../topics/general.md#how-did-you-implement-retries-circuit-breakers-and-idempotency) — Medium
 - [How did you optimize slow APIs in production?](../topics/general.md#how-did-you-optimize-slow-apis-in-production) — Medium
 - [How did you prevent duplicate requests?](../topics/general.md#how-did-you-prevent-duplicate-requests) — Medium
+- [How did you push the image to a registry?](../topics/general.md#how-did-you-push-the-image-to-a-registry) — Medium
 - [How did you reduce deployment cost by 40%?](../topics/general.md#how-did-you-reduce-deployment-cost-by-40) — Medium
 - [How did you secure your APIs?](../topics/general.md#how-did-you-secure-your-apis) — Medium
 - [How did you trace requests across microservices?](../topics/general.md#how-did-you-trace-requests-across-microservices) — Medium
@@ -749,6 +783,7 @@
 - [How do you handle requirement changes in the middle of a sprint without impacting delivery?](../topics/general.md#how-do-you-handle-requirement-changes-in-the-middle-of-a-sprint-without-impactin) — Medium
 - [How do you handle secrets management in a cloud environment?](../topics/general.md#how-do-you-handle-secrets-management-in-a-cloud-environment) — Medium
 - [How do you identify slow SQL queries?](../topics/general.md#how-do-you-identify-slow-sql-queries) — Medium
+- [How do you identify the bottleneck when an application becomes slow in production?](../topics/general.md#how-do-you-identify-the-bottleneck-when-an-application-becomes-slow-in-productio) — Hard
 - [How do you implement incremental loading for large datasets?](../topics/general.md#how-do-you-implement-incremental-loading-for-large-datasets) — Medium
 - [How do you implement repository governance?](../topics/general.md#how-do-you-implement-repository-governance) — Medium
 - [How do you investigate system and application logs?](../topics/general.md#how-do-you-investigate-system-and-application-logs) — Medium
@@ -784,6 +819,7 @@
 - [How do you troubleshoot a failed workflow?](../topics/general.md#how-do-you-troubleshoot-a-failed-workflow) — Medium
 - [How do you troubleshoot and optimize using X-Ray tracing?](../topics/general.md#how-do-you-troubleshoot-and-optimize-using-x-ray-tracing) — Medium
 - [How do you troubleshoot high CPU or memory usage?](../topics/general.md#how-do-you-troubleshoot-high-cpu-or-memory-usage) — Medium
+- [How do you troubleshoot issues instead of memorizing commands?](../topics/general.md#how-do-you-troubleshoot-issues-instead-of-memorizing-commands) — Medium
 - [How do you troubleshoot network connectivity layer by layer?](../topics/general.md#how-do-you-troubleshoot-network-connectivity-layer-by-layer) — Medium
 - [How do you troubleshoot node disk pressure?](../topics/general.md#how-do-you-troubleshoot-node-disk-pressure) — Medium
 - [How do you troubleshoot repository access issues?](../topics/general.md#how-do-you-troubleshoot-repository-access-issues) — Medium
@@ -794,11 +830,13 @@
 - [How does an ASG scale, and what scaling policies are available?](../topics/general.md#how-does-an-asg-scale-and-what-scaling-policies-are-available) — Hard
 - [How does an object become eligible for Garbage Collection?](../topics/general.md#how-does-an-object-become-eligible-for-garbage-collection) — Medium
 - [How does the Java Memory Model work?](../topics/general.md#how-does-the-java-memory-model-work) — Medium
+- [How long will it take me to become a DevOps Engineer?](../topics/general.md#how-long-will-it-take-me-to-become-a-devops-engineer) — Medium
 - [How many days does it really take to become a DevOps engineer?](../topics/general.md#how-many-days-does-it-really-take-to-become-a-devops-engineer) — Easy
 - [How many types of repositories are there?](../topics/general.md#how-many-types-of-repositories-are-there) — Medium
 - [How soon can you join us?](../topics/general.md#how-soon-can-you-join-us) — Medium
 - [How to connect multiple VPCs.](../topics/general.md#how-to-connect-multiple-vpcs) — Medium
 - [How to connect servers of different clouds or on-prem servers.](../topics/general.md#how-to-connect-servers-of-different-clouds-or-on-prem-servers) — Medium
+- [How to improve the performance of an API](../topics/general.md#how-to-improve-the-performance-of-an-api) — Medium
 - [How would you confirm it worked?](../topics/general.md#how-would-you-confirm-it-worked) — Medium
 - [How would you debug latency after a successful deployment?](../topics/general.md#how-would-you-debug-latency-after-a-successful-deployment) — Medium
 - [How would you decide between Flow, Apex, Platform Events, and Middleware?](../topics/general.md#how-would-you-decide-between-flow-apex-platform-events-and-middleware) — Medium
@@ -806,6 +844,7 @@
 - [How would you design a secure authentication and authorization system using JWT, OAuth 2.0, or session-based authentication?](../topics/general.md#how-would-you-design-a-secure-authentication-and-authorization-system-using-jwt-) — Hard
 - [How would you design a URL Shortener like Bit.ly?](../topics/general.md#how-would-you-design-a-url-shortener-like-bit-ly) — Hard
 - [How would you design an application that stays available even if an Availability Zone fails?](../topics/general.md#how-would-you-design-an-application-that-stays-available-even-if-an-availability) — Hard
+- [How would you handle communication between services?](../topics/general.md#how-would-you-handle-communication-between-services) — Hard
 - [How would you identify why an application is unreachable even though the server is running?](../topics/general.md#how-would-you-identify-why-an-application-is-unreachable-even-though-the-server-) — Medium
 - [How would you implement retry mechanisms for failed integrations?](../topics/general.md#how-would-you-implement-retry-mechanisms-for-failed-integrations) — Hard
 - [How would you optimize a Salesforce org suffering from performance issues?](../topics/general.md#how-would-you-optimize-a-salesforce-org-suffering-from-performance-issues) — Medium
@@ -822,6 +861,7 @@
 - [How would you test OTP functionality when the SMS service is unstable?](../topics/general.md#how-would-you-test-otp-functionality-when-the-sms-service-is-unstable) — Medium
 - [How would you troubleshoot a deployment that succeeded but users are receiving 503 errors?](../topics/general.md#how-would-you-troubleshoot-a-deployment-that-succeeded-but-users-are-receiving-5) — Medium
 - [How would you troubleshoot a port connectivity issue?](../topics/general.md#how-would-you-troubleshoot-a-port-connectivity-issue) — Medium
+- [How would you use AI agents to detect, investigate, and resolve production issues?](../topics/general.md#how-would-you-use-ai-agents-to-detect-investigate-and-resolve-production-issues) — Hard
 - [How would you utilize Gen AI in automation? Please mention the pros and cons based on your experience.](../topics/general.md#how-would-you-utilize-gen-ai-in-automation-please-mention-the-pros-and-cons-base) — Medium
 - [How would you validate UI, data, compatibility, and edge-case scenarios?](../topics/general.md#how-would-you-validate-ui-data-compatibility-and-edge-case-scenarios) — Medium
 - [How you debug](../topics/general.md#how-you-debug) — Medium
@@ -830,6 +870,8 @@
 - [How you would manage versioning for a project.](../topics/general.md#how-you-would-manage-versioning-for-a-project) — Medium
 - [I want to give a user execute permission for a file tell me how you do it?](../topics/general.md#i-want-to-give-a-user-execute-permission-for-a-file-tell-me-how-you-do-it) — Medium
 - [IaaS vs. PaaS vs. SaaS](../topics/general.md#iaas-vs-paas-vs-saas) — Medium
+- [Identify Blast Radius](../topics/general.md#identify-blast-radius) — Medium
+- [If a deployment fails midway in production, how do you recover safely?](../topics/general.md#if-a-deployment-fails-midway-in-production-how-do-you-recover-safely) — Hard
 - [If a deployment fails, how do you identify and troubleshoot the issue?](../topics/general.md#if-a-deployment-fails-how-do-you-identify-and-troubleshoot-the-issue) — Medium
 - [If production data is deleted by mistake, how will you handle the situation.](../topics/general.md#if-production-data-is-deleted-by-mistake-how-will-you-handle-the-situation) — Hard
 - [If tasked with training a team of 60+ members from functional to automation using Gen AI, what would be your plan and approach?](../topics/general.md#if-tasked-with-training-a-team-of-60-members-from-functional-to-automation-using) — Medium
@@ -840,6 +882,9 @@
 - [In Devops Life Cycle, where CI and CD will fit into?](../topics/general.md#in-devops-life-cycle-where-ci-and-cd-will-fit-into) — Medium
 - [In your experience, what has been the most difficult skill to find?](../topics/general.md#in-your-experience-what-has-been-the-most-difficult-skill-to-find) — Medium
 - [Is it secure?](../topics/general.md#is-it-secure) — Medium
+- [Is the application actually listening on that interface/port?](../topics/general.md#is-the-application-actually-listening-on-that-interface-port) — Medium
+- [Is the Network ACL blocking it?](../topics/general.md#is-the-network-acl-blocking-it) — Medium
+- [Is the port listening?](../topics/general.md#is-the-port-listening) — Medium
 - [Is the port open?](../topics/general.md#is-the-port-open) — Medium
 - [Is the process listening on the expected port?](../topics/general.md#is-the-process-listening-on-the-expected-port) — Medium
 - [Is the service running?](../topics/general.md#is-the-service-running) — Medium
@@ -852,8 +897,10 @@
 - [Networking](../topics/general.md#networking) — Medium
 - [Node Exporter aur cAdvisor mein difference?](../topics/general.md#node-exporter-aur-cadvisor-mein-difference) — Medium
 - [Once these instances are up and running, as there is some issue with instance number four I want to delete it and recreate it How would you do it?](../topics/general.md#once-these-instances-are-up-and-running-as-there-is-some-issue-with-instance-num) — Medium
+- [Permission denied issues](../topics/general.md#permission-denied-issues) — Medium
 - [Platform Support](../topics/general.md#platform-support) — Medium
 - [Practice war rooms, not just interviews.](../topics/general.md#practice-war-rooms-not-just-interviews) — Medium
+- [Prevent Future Issues](../topics/general.md#prevent-future-issues) — Medium
 - [Production deployment failed. What steps would you take?](../topics/general.md#production-deployment-failed-what-steps-would-you-take) — Hard
 - [Production deployments suddenly started failing. No code changed. Where do you begin?](../topics/general.md#production-deployments-suddenly-started-failing-no-code-changed-where-do-you-beg) — Hard
 - [Production is down. Users are impacted. What will you do?](../topics/general.md#production-is-down-users-are-impacted-what-will-you-do) — Medium
@@ -863,6 +910,7 @@
 - [Provider plugin download failed](../topics/general.md#provider-plugin-download-failed) — Medium
 - [Public Cloud vs. Private Cloud vs. Hybrid Cloud vs. Multi-Cloud](../topics/general.md#public-cloud-vs-private-cloud-vs-hybrid-cloud-vs-multi-cloud) — Medium
 - [Query Optimization Techniques.](../topics/general.md#query-optimization-techniques) — Medium
+- [Quick Mitigation](../topics/general.md#quick-mitigation) — Medium
 - [Read real outage RCAs.](../topics/general.md#read-real-outage-rcas) — Medium
 - [Readiness & liveness probes](../topics/general.md#readiness-liveness-probes) — Medium
 - [Real-world deployment scenarios](../topics/general.md#real-world-deployment-scenarios) — Medium
@@ -874,12 +922,15 @@
 - [Scenario -- Say your doing the deployment, but it is stuck in pending state, How will you troubleshoot?](../topics/general.md#scenario-say-your-doing-the-deployment-but-it-is-stuck-in-pending-state-how-will) — Medium
 - [Secrets in state files](../topics/general.md#secrets-in-state-files) — Medium
 - [Secrets Management](../topics/general.md#secrets-management) — Medium
+- [Server suddenly becomes slow](../topics/general.md#server-suddenly-becomes-slow) — Medium
+- [Service won't start](../topics/general.md#service-won-t-start) — Medium
 - [Shall we use both?](../topics/general.md#shall-we-use-both) — Medium
 - [Shall we use CMD when ENTRYPOINT is there?](../topics/general.md#shall-we-use-cmd-when-entrypoint-is-there) — Medium
 - [Shift Left Security](../topics/general.md#shift-left-security) — Medium
 - [SLIs, SLOs & SLAs](../topics/general.md#slis-slos-slas) — Medium
 - [So suppose you have a web application running and enabled ha for that. If one zone goes down, it needs to be automatically routed to the other region or availability zone. What you will do?](../topics/general.md#so-suppose-you-have-a-web-application-running-and-enabled-ha-for-that-if-one-zon) — Medium
 - [SSH login suddenly stopped working. What would you do?](../topics/general.md#ssh-login-suddenly-stopped-working-what-would-you-do) — Medium
+- [SSH stops working](../topics/general.md#ssh-stops-working) — Medium
 - [Stakeholders are giving conflicting requirements, how will you proceed?](../topics/general.md#stakeholders-are-giving-conflicting-requirements-how-will-you-proceed) — Medium
 - [State file corruption & state locking](../topics/general.md#state-file-corruption-state-locking) — Medium
 - [Stop solving toy projects.](../topics/general.md#stop-solving-toy-projects) — Medium
@@ -914,10 +965,13 @@
 - [Users report a slow application, but the servers look healthy. How would you troubleshoot?](../topics/general.md#users-report-a-slow-application-but-the-servers-look-healthy-how-would-you-troub) — Medium
 - [Variables & Conditions](../topics/general.md#variables-conditions) — Medium
 - [Walk me through a production issue you resolved.](../topics/general.md#walk-me-through-a-production-issue-you-resolved) — Medium
+- [Walk me through what happens when a user signs in to Microsoft 365.](../topics/general.md#walk-me-through-what-happens-when-a-user-signs-in-to-microsoft-365) — Medium
 - [Walk through advanced kube-probe configurations to detect business logic failures, not just HTTP 200.](../topics/general.md#walk-through-advanced-kube-probe-configurations-to-detect-business-logic-failure) — Medium
+- [Website is down but the server is alive](../topics/general.md#website-is-down-but-the-server-is-alive) — Medium
 - [What advantage does it adds? What exactly the cleanup would do?](../topics/general.md#what-advantage-does-it-adds-what-exactly-the-cleanup-would-do) — Medium
 - [What architectural or process improvements would you implement to make deployments faster, safer, and more reliable?](../topics/general.md#what-architectural-or-process-improvements-would-you-implement-to-make-deploymen) — Hard
 - [What are "sites-available" and "sites-enabled" in Apache/Nginx?](../topics/general.md#what-are-sites-available-and-sites-enabled-in-apache-nginx) — Easy
+- [What are AI tools you would consider for this task?](../topics/general.md#what-are-ai-tools-you-would-consider-for-this-task) — Easy
 - [What are Branch Policies?](../topics/general.md#what-are-branch-policies) — Easy
 - [What are Build Artifacts?](../topics/general.md#what-are-build-artifacts) — Easy
 - [What are environment variables?](../topics/general.md#what-are-environment-variables) — Easy
@@ -926,6 +980,7 @@
 - [What are Release Pipelines?](../topics/general.md#what-are-release-pipelines) — Easy
 - [What are Service Connections?](../topics/general.md#what-are-service-connections) — Easy
 - [What are Taints and Tolerations?](../topics/general.md#what-are-taints-and-tolerations) — Easy
+- [What are the basic concepts in interviews?](../topics/general.md#what-are-the-basic-concepts-in-interviews) — Easy
 - [What are the different agents you used?](../topics/general.md#what-are-the-different-agents-you-used) — Easy
 - [What are the different HTTP methods and status codes in REST APIs?](../topics/general.md#what-are-the-different-http-methods-and-status-codes-in-rest-apis) — Easy
 - [What are the different methods to create a application In another?](../topics/general.md#what-are-the-different-methods-to-create-a-application-in-another) — Easy
@@ -939,6 +994,7 @@
 - [What are the phases of the DevOps lifecycle?](../topics/general.md#what-are-the-phases-of-the-devops-lifecycle) — Easy
 - [What are the real reasons behind CrashLoopBackOff, and how do you isolate the root cause?](../topics/general.md#what-are-the-real-reasons-behind-crashloopbackoff-and-how-do-you-isolate-the-roo) — Medium
 - [What are the troubleshooting steps for CrashLoopBackOff?](../topics/general.md#what-are-the-troubleshooting-steps-for-crashloopbackoff) — Easy
+- [What are vector databases?](../topics/general.md#what-are-vector-databases) — Easy
 - [What are Virtual Threads, and what are their advantages?](../topics/general.md#what-are-virtual-threads-and-what-are-their-advantages) — Easy
 - [What are YAML Pipelines?](../topics/general.md#what-are-yaml-pipelines) — Easy
 - [What are your daily activities as a DevOps Engineer?](../topics/general.md#what-are-your-daily-activities-as-a-devops-engineer) — Easy
@@ -995,10 +1051,12 @@
 - [What is Multi-stage image?](../topics/general.md#what-is-multi-stage-image) — Easy
 - [What is node affinity, node selector ?](../topics/general.md#what-is-node-affinity-node-selector) — Easy
 - [What Is PDB?](../topics/general.md#what-is-pdb) — Easy · tags: `PDB`
+- [What is RAG?](../topics/general.md#what-is-rag) — Easy
 - [What is Requirement Traceability?](../topics/general.md#what-is-requirement-traceability) — Easy
 - [What is Self-Hosted Agent vs Microsoft-Hosted Agent?](../topics/general.md#what-is-self-hosted-agent-vs-microsoft-hosted-agent) — Easy
 - [What is Shell Scripting?](../topics/general.md#what-is-shell-scripting) — Easy
 - [What is Spring Boot?](../topics/general.md#what-is-spring-boot) — Easy
+- [What is SQL Server](../topics/general.md#what-is-sql-server) — Easy
 - [What is SSH?](../topics/general.md#what-is-ssh) — Easy
 - [What is stateless and statefile set](../topics/general.md#what-is-stateless-and-statefile-set) — Medium
 - [What is sudo?](../topics/general.md#what-is-sudo) — Easy
@@ -1027,11 +1085,13 @@
 - [What is your application technology stack?](../topics/general.md#what-is-your-application-technology-stack) — Easy
 - [What is your approach to Infrastructure as Code (IaC)? Which tools do you use, and why?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-do-you-use-and-w) — Medium
 - [What is your approach to Infrastructure as Code (IaC)? Which tools have you implemented, and what business value did they deliver?](../topics/general.md#what-is-your-approach-to-infrastructure-as-code-iac-which-tools-have-you-impleme) — Medium
+- [What is your biggest challenge right now in preparing for a DevOps career?](../topics/general.md#what-is-your-biggest-challenge-right-now-in-preparing-for-a-devops-career) — Easy
 - [What is your deployment strategy](../topics/general.md#what-is-your-deployment-strategy) — Easy
 - [What is your experience with GitHub Enterprise?](../topics/general.md#what-is-your-experience-with-github-enterprise) — Easy
 - [What is your future aspiration?](../topics/general.md#what-is-your-future-aspiration) — Easy
 - [What issues you have seen in GitHub.](../topics/general.md#what-issues-you-have-seen-in-github) — Medium
 - [What kind of cleanup have you done with the script?](../topics/general.md#what-kind-of-cleanup-have-you-done-with-the-script) — Medium
+- [What kind of problems can you solve in a DevOps role?](../topics/general.md#what-kind-of-problems-can-you-solve-in-a-devops-role) — Medium
 - [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security) — Medium
 - [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization) — Medium
 - [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with) — Medium
@@ -1061,6 +1121,7 @@
 - [What's the purpose of .gitkeep and how is it different from .gitignore?](../topics/general.md#what-s-the-purpose-of-gitkeep-and-how-is-it-different-from-gitignore) — Medium
 - [What's the toughest DevOps interview question you've faced?](../topics/general.md#what-s-the-toughest-devops-interview-question-you-ve-faced) — Medium
 - [What's the trade-off?](../topics/general.md#what-s-the-trade-off) — Hard
+- [What's your FIRST move? Check CPU? Check logs? Restart the service? Reboot the server?](../topics/general.md#what-s-your-first-move-check-cpu-check-logs-restart-the-service-reboot-the-serve) — Medium
 - [What’s the best piece of interview advice you’ve ever received?](../topics/general.md#whats-the-best-piece-of-interview-advice-youve-ever-received) — Medium
 - [What’s the difference between count and for_each? Give a real-world use case.](../topics/general.md#whats-the-difference-between-count-and-for-each-give-a-real-world-use-case) — Easy
 - [What’s the smallest mistake that taught you the biggest lesson in an interview or production environment?](../topics/general.md#whats-the-smallest-mistake-that-taught-you-the-biggest-lesson-in-an-interview-or) — Hard
@@ -1086,8 +1147,11 @@
 - [Why should we hire you?](../topics/general.md#why-should-we-hire-you) — Medium
 - [Why was LinkedList replaced with Red-Black Tree in Java 8?](../topics/general.md#why-was-linkedlist-replaced-with-red-black-tree-in-java-8) — Medium
 - [Why you'd choose this tool over an alternative, not just that you used it?](../topics/general.md#why-you-d-choose-this-tool-over-an-alternative-not-just-that-you-used-it) — Medium
+- [Why?](../topics/general.md#why) — Medium
 - [Will we know immediately if it fails?](../topics/general.md#will-we-know-immediately-if-it-fails) — Medium
 - [Will you be able to set up the Playwright framework from scratch with AI capabilities?](../topics/general.md#will-you-be-able-to-set-up-the-playwright-framework-from-scratch-with-ai-capabil) — Medium
+- [Write a LINQ query for pagination](../topics/general.md#write-a-linq-query-for-pagination) — Medium
+- [Write a LINQ query to find the 2nd highest salary](../topics/general.md#write-a-linq-query-to-find-the-2nd-highest-salary) — Medium
 - [Write an email to a client explaining the issue faced and the solution provided.](../topics/general.md#write-an-email-to-a-client-explaining-the-issue-faced-and-the-solution-provided) — Medium
 - [Write an SQL query to find the second highest salary without LIMIT or TOP.](../topics/general.md#write-an-sql-query-to-find-the-second-highest-salary-without-limit-or-top) — Medium
 - [Write Singleton implementation in Java.](../topics/general.md#write-singleton-implementation-in-java) — Medium
@@ -1105,6 +1169,7 @@
 - [Your API response time increased from 200 ms to 8 seconds in production. Where do you start debugging?](../topics/general.md#your-api-response-time-increased-from-200-ms-to-8-seconds-in-production-where-do) — Hard
 - [Your app teams demand custom AMIs. What’s your pre-prod vetting strategy at kernel and runtime?](../topics/general.md#your-app-teams-demand-custom-amis-whats-your-pre-prod-vetting-strategy-at-kernel) — Medium
 - [Your application becomes slow after deployment. How would you determine whether the issue is CPU, Memory, Network, Storage, or the application itself?](../topics/general.md#your-application-becomes-slow-after-deployment-how-would-you-determine-whether-t) — Medium
+- [Your application is not reachable. What will you check first?](../topics/general.md#your-application-is-not-reachable-what-will-you-check-first) — Medium
 - [Your application is stuck in CrashLoopBackOff. How do you investigate?](../topics/general.md#your-application-is-stuck-in-crashloopbackoff-how-do-you-investigate) — Medium
 - [Your application latency increased by 40% overnight. How would you investigate it?](../topics/general.md#your-application-latency-increased-by-40-overnight-how-would-you-investigate-it) — Medium
 - [Your application latency suddenly increased after a release. Walk me through your debugging approach.](../topics/general.md#your-application-latency-suddenly-increased-after-a-release-walk-me-through-your) — Medium
@@ -1128,6 +1193,7 @@
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — Medium
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — Medium
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — Medium
+- [How do you use Git and understand version control?](../topics/git.md#how-do-you-use-git-and-understand-version-control) — Medium
 - [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — Medium
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — Medium
 - [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — Easy
@@ -1169,6 +1235,7 @@
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — Medium
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — Medium · tags: `Jenkins`
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — Medium · tags: `Jenkins`
+- [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) — Medium
 
 ### High Availability
 
@@ -1185,6 +1252,7 @@
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — Medium · tags: `AWS`
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — Medium · tags: `AWS`
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — Medium · tags: `AWS`
+- [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — Medium
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — Medium
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — Medium
 - [IAM](../topics/iam.md#iam) — Medium
@@ -1196,8 +1264,10 @@
 ### Incident Response
 
 - [A developer accidentally commits AWS credentials to Git. What is your complete incident response process?](../topics/incident-response.md#a-developer-accidentally-commits-aws-credentials-to-git-what-is-your-complete-in) — Medium · tags: `Git`, `AWS`
+- [AI-assisted incident management](../topics/incident-response.md#ai-assisted-incident-management) — Medium
 - [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) — Medium · tags: `Kubernetes`
 - [Describe a production incident you handled from detection to resolution.](../topics/incident-response.md#describe-a-production-incident-you-handled-from-detection-to-resolution) — Hard
+- [Explain a production incident you resolved and your RCA approach.](../topics/incident-response.md#explain-a-production-incident-you-resolved-and-your-rca-approach) — Hard
 - [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) — Medium
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — Hard
 - [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) — Hard
@@ -1291,6 +1361,7 @@
 - [Why do we integrate SonarQube with Jenkins?](../topics/jenkins.md#why-do-we-integrate-sonarqube-with-jenkins) — Medium
 - [Why do we use Jenkins Agents?](../topics/jenkins.md#why-do-we-use-jenkins-agents) — Medium
 - [Write jenkins pipeline syntax](../topics/jenkins.md#write-jenkins-pipeline-syntax) — Medium
+- [you said development in jenkins how its differ from deployment?](../topics/jenkins.md#you-said-development-in-jenkins-how-its-differ-from-deployment) — Medium
 - [Your Jenkins pipeline has suddenly started failing after months of successful deployments, even though no application code has changed. What would you investigate first?](../topics/jenkins.md#your-jenkins-pipeline-has-suddenly-started-failing-after-months-of-successful-de) — Medium · tags: `CI/CD`
 - [Your Jenkins pipeline suddenly starts failing after months of successful deployments, even though no code changes were made. What would you check first?](../topics/jenkins.md#your-jenkins-pipeline-suddenly-starts-failing-after-months-of-successful-deploym) — Medium · tags: `CI/CD`
 
@@ -1320,7 +1391,9 @@
 - [Advanced Kubernetes concepts](../topics/kubernetes.md#advanced-kubernetes-concepts) — Medium
 - [An Amazon EKS application starts returning intermittent 502/503 errors immediately after deployment. How would you identify whether the issue is related to Kubernetes, the Load Balancer, or the application?](../topics/kubernetes.md#an-amazon-eks-application-starts-returning-intermittent-502-503-errors-immediate) — Medium
 - [Architecture of kubernetes](../topics/kubernetes.md#architecture-of-kubernetes) — Medium
+- [Before Kubernetes… do you know which port your application is using?](../topics/kubernetes.md#before-kubernetes-do-you-know-which-port-your-application-is-using) — Medium
 - [Build Kubernetes by hand at least once.](../topics/kubernetes.md#build-kubernetes-by-hand-at-least-once) — Medium
+- [Can a Kubernetes pod be green while the application behind it is down?](../topics/kubernetes.md#can-a-kubernetes-pod-be-green-while-the-application-behind-it-is-down) — Medium
 - [Can you explain how Kubernetes scheduling works?](../topics/kubernetes.md#can-you-explain-how-kubernetes-scheduling-works) — Medium
 - [Can you explain Kubernetes internals?](../topics/kubernetes.md#can-you-explain-kubernetes-internals) — Medium
 - [Can you tell me the types of services in kubernetes?](../topics/kubernetes.md#can-you-tell-me-the-types-of-services-in-kubernetes) — Medium
@@ -1375,13 +1448,16 @@
 - [How do you provide pod access to S3 bucket](../topics/kubernetes.md#how-do-you-provide-pod-access-to-s3-bucket) — Medium
 - [How do you restrict pod‑to‑pod communication in Kubernetes inside a cluster?](../topics/kubernetes.md#how-do-you-restrict-pod-to-pod-communication-in-kubernetes-inside-a-cluster) — Medium
 - [How do you secure a Kubernetes cluster ?](../topics/kubernetes.md#how-do-you-secure-a-kubernetes-cluster) — Medium
+- [How do you secure secrets across CI/CD, Kubernetes, and cloud services?](../topics/kubernetes.md#how-do-you-secure-secrets-across-ci-cd-kubernetes-and-cloud-services) — Medium · tags: `CI/CD`
 - [How do you securely manage secrets, credentials, and sensitive configuration in AWS and Kubernetes?](../topics/kubernetes.md#how-do-you-securely-manage-secrets-credentials-and-sensitive-configuration-in-aw) — Medium · tags: `AWS`
 - [How do you securely store and manage secrets in Kubernetes or cloud environments?](../topics/kubernetes.md#how-do-you-securely-store-and-manage-secrets-in-kubernetes-or-cloud-environments) — Medium
 - [How do you use hpa in prod env and what kind of metric target in cluster](../topics/kubernetes.md#how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster) — Medium
 - [How do your secure secrets in Kubernetes and AWS?](../topics/kubernetes.md#how-do-your-secure-secrets-in-kubernetes-and-aws) — Medium · tags: `AWS`
+- [How does a request flow from a browser to a Kubernetes pod?](../topics/kubernetes.md#how-does-a-request-flow-from-a-browser-to-a-kubernetes-pod) — Medium
 - [How does DNS work inside a Kubernetes cluster?](../topics/kubernetes.md#how-does-dns-work-inside-a-kubernetes-cluster) — Medium · tags: `DNS`
 - [How does docker use namespace and Cgroups?](../topics/kubernetes.md#how-does-docker-use-namespace-and-cgroups) — Medium · tags: `Docker`
 - [How does internal service discovery work in Kubernetes?](../topics/kubernetes.md#how-does-internal-service-discovery-work-in-kubernetes) — Medium
+- [How does Kubernetes decide which node should run a pod?](../topics/kubernetes.md#how-does-kubernetes-decide-which-node-should-run-a-pod) — Medium
 - [How does Kubernetes decide which node to schedule a pod on?](../topics/kubernetes.md#how-does-kubernetes-decide-which-node-to-schedule-a-pod-on) — Medium
 - [How does Kubernetes handle pod failures and self-healing?](../topics/kubernetes.md#how-does-kubernetes-handle-pod-failures-and-self-healing) — Medium
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — Medium
@@ -1415,6 +1491,7 @@
 - [If it deletes dead pods, what do you mean by dead pods?](../topics/kubernetes.md#if-it-deletes-dead-pods-what-do-you-mean-by-dead-pods) — Medium
 - [If the issue is related to Kubernetes or CI/CD pipeline, which team handles it?](../topics/kubernetes.md#if-the-issue-is-related-to-kubernetes-or-ci-cd-pipeline-which-team-handles-it) — Medium · tags: `CI/CD`
 - [Is the issue in CI, CD, Kubernetes, networking, or cloud infrastructure?](../topics/kubernetes.md#is-the-issue-in-ci-cd-kubernetes-networking-or-cloud-infrastructure) — Medium
+- [Is the Kubernetes Service pointing to the correct targetPort?](../topics/kubernetes.md#is-the-kubernetes-service-pointing-to-the-correct-targetport) — Medium
 - [K8S API server is having a high load, what strategies you use to optimize the performance ?](../topics/kubernetes.md#k8s-api-server-is-having-a-high-load-what-strategies-you-use-to-optimize-the-per) — Medium
 - [Kubernetes](../topics/kubernetes.md#kubernetes) — Medium
 - [Kubernetes Components & Deployments](../topics/kubernetes.md#kubernetes-components-deployments) — Medium
@@ -1451,6 +1528,8 @@
 - [What are the comparisons every interviewer asks regarding Kubernetes objects?](../topics/kubernetes.md#what-are-the-comparisons-every-interviewer-asks-regarding-kubernetes-objects) — Easy
 - [What are the rapid-fire Q&As for Kubernetes interviews?](../topics/kubernetes.md#what-are-the-rapid-fire-q-as-for-kubernetes-interviews) — Easy
 - [What are the troubleshooting steps for Pending Pods?](../topics/kubernetes.md#what-are-the-troubleshooting-steps-for-pending-pods) — Easy
+- [What do you know about Kubernetes?](../topics/kubernetes.md#what-do-you-know-about-kubernetes) — Medium
+- [what does 'Ready' mean in your Kubernetes environment?](../topics/kubernetes.md#what-does-ready-mean-in-your-kubernetes-environment) — Medium
 - [What happens during a rolling deployment in Kubernetes?](../topics/kubernetes.md#what-happens-during-a-rolling-deployment-in-kubernetes) — Medium
 - [What happens to the pods already running on that node?](../topics/kubernetes.md#what-happens-to-the-pods-already-running-on-that-node) — Medium
 - [What happens when a Kubernetes pod goes into CrashLoopBackOff?](../topics/kubernetes.md#what-happens-when-a-kubernetes-pod-goes-into-crashloopbackoff) — Medium
@@ -1494,6 +1573,7 @@
 - [Why do Pods remain in Pending even when the cluster appears healthy?](../topics/kubernetes.md#why-do-pods-remain-in-pending-even-when-the-cluster-appears-healthy) — Medium
 - [Why is a pod stuck in CrashLoopBackOff?](../topics/kubernetes.md#why-is-a-pod-stuck-in-crashloopbackoff) — Medium
 - [Why is a pod stuck in CrashLoopBackOff? How would you debug it?](../topics/kubernetes.md#why-is-a-pod-stuck-in-crashloopbackoff-how-would-you-debug-it) — Medium
+- [Why would a pod be Running but the application still be unavailable?](../topics/kubernetes.md#why-would-a-pod-be-running-but-the-application-still-be-unavailable) — Medium
 - [Why you have choose M type to R type instance for your kubernetes cluster?](../topics/kubernetes.md#why-you-have-choose-m-type-to-r-type-instance-for-your-kubernetes-cluster) — Medium
 - [Will Kubernetes immediately reschedule them to another node?](../topics/kubernetes.md#will-kubernetes-immediately-reschedule-them-to-another-node) — Medium
 - [Write a Bash script to list pods in a namespace and restart those in CrashLoopBackOff.](../topics/kubernetes.md#write-a-bash-script-to-list-pods-in-a-namespace-and-restart-those-in-crashloopba) — Medium · tags: `Bash`
@@ -1525,6 +1605,7 @@
 - [What is Linux?](../topics/linux.md#what-is-linux) — Easy
 - [What is systemd?](../topics/linux.md#what-is-systemd) — Easy
 - [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — Medium
+- [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking) — Easy
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — Medium
 - [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — Medium
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) — Medium
@@ -1561,6 +1642,7 @@
 
 ### Monitoring
 
+- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — Medium
 - [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — Easy
 - [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — Medium
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — Medium
@@ -1578,6 +1660,7 @@
 
 - [Explain NSG and how traffic flows in Azure.](../topics/network-security.md#explain-nsg-and-how-traffic-flows-in-azure) — Medium · tags: `Azure`
 - [How would you troubleshoot VM health, NSG, routing, connectivity, and SSH?](../topics/network-security.md#how-would-you-troubleshoot-vm-health-nsg-routing-connectivity-and-ssh) — Medium
+- [Is the Security Group allowing traffic?](../topics/network-security.md#is-the-security-group-allowing-traffic) — Medium
 - [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) — Medium
 - [NACL vs Security Group?](../topics/network-security.md#nacl-vs-security-group) — Medium
 - [What is the difference between security group and network ACL?](../topics/network-security.md#what-is-the-difference-between-security-group-and-network-acl) — Easy
@@ -1593,6 +1676,7 @@
 
 ### Observability
 
+- [AIOps and intelligent monitoring](../topics/observability.md#aiops-and-intelligent-monitoring) — Medium · tags: `Monitoring`
 - [FinOps & AIOps](../topics/observability.md#finops-aiops) — Medium · tags: `FinOps`
 - [How do logs, metrics, and traces work together in observability?](../topics/observability.md#how-do-logs-metrics-and-traces-work-together-in-observability) — Medium
 - [How do you monitor a production system — and what's the difference between monitoring and observability?](../topics/observability.md#how-do-you-monitor-a-production-system-and-what-s-the-difference-between-monitor) — Hard · tags: `Monitoring`
@@ -1605,6 +1689,7 @@
 - [Get comfortable being on-call.](../topics/on-call.md#get-comfortable-being-on-call) — Medium
 - [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — Hard · tags: `SRE`, `Kubernetes`
 - [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — Medium
+- [You're on-call and production is down. What's the FIRST command you run?](../topics/on-call.md#you-re-on-call-and-production-is-down-what-s-the-first-command-you-run) — Hard
 
 ### OpenTelemetry
 
@@ -1613,6 +1698,7 @@
 ### Prometheus
 
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) — Medium
+- [are you sure prometheus and grafana do log aggregation?](../topics/prometheus.md#are-you-sure-prometheus-and-grafana-do-log-aggregation) — Medium · tags: `Grafana`
 - [Compare CloudWatch, Prometheus, Grafana, and Dynatrace.](../topics/prometheus.md#compare-cloudwatch-prometheus-grafana-and-dynatrace) — Medium · tags: `Grafana`, `Monitoring`
 - [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — Medium · tags: `Grafana`
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — Medium · tags: `Grafana`, `Monitoring`, `Kubernetes`
@@ -1632,6 +1718,7 @@
 
 - [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) — Medium
 - [What is Redis?](../topics/redis.md#what-is-redis) — Easy
+- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — Medium
 
 ### Secrets
 
@@ -1686,13 +1773,16 @@
 
 ### System Design
 
+- [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) — Hard
 - [Can you explain system design?](../topics/system-design.md#can-you-explain-system-design) — Hard
 - [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — Medium
 - [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — Hard
 - [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) — Hard
 - [Designing a highly available architecture](../topics/system-design.md#designing-a-highly-available-architecture) — Hard
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) — Medium
+- [Explain the architecture of MVC in .NET Core](../topics/system-design.md#explain-the-architecture-of-mvc-in-net-core) — Hard
 - [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on) — Hard
+- [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) — Hard
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — Medium
 - [How well you understand architecture](../topics/system-design.md#how-well-you-understand-architecture) — Hard
 - [How would you design a fault-tolerant integration architecture?](../topics/system-design.md#how-would-you-design-a-fault-tolerant-integration-architecture) — Hard
@@ -1730,6 +1820,7 @@
 - [Have you worked on Terraform? How do you manage the state file? What is the Terraform architecture you are using?](../topics/terraform.md#have-you-worked-on-terraform-how-do-you-manage-the-state-file-what-is-the-terraf) — Hard · tags: `System Design`
 - [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/terraform.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) — Medium
 - [How do you call a Terraform module from another module or root module?](../topics/terraform.md#how-do-you-call-a-terraform-module-from-another-module-or-root-module) — Medium
+- [How do you design reusable Terraform modules for enterprise projects?](../topics/terraform.md#how-do-you-design-reusable-terraform-modules-for-enterprise-projects) — Hard
 - [How do you detect and fix Terraform drift?](../topics/terraform.md#how-do-you-detect-and-fix-terraform-drift) — Medium
 - [How do you handle drift detection in Terraform?](../topics/terraform.md#how-do-you-handle-drift-detection-in-terraform) — Medium
 - [How do you manage drift in Terraform?](../topics/terraform.md#how-do-you-manage-drift-in-terraform) — Medium
@@ -1738,9 +1829,11 @@
 - [How do you migrate Terraform state without recreating resources?](../topics/terraform.md#how-do-you-migrate-terraform-state-without-recreating-resources) — Medium
 - [How do you organize Terraform code for multiple environments like Dev, QA, and Production?](../topics/terraform.md#how-do-you-organize-terraform-code-for-multiple-environments-like-dev-qa-and-pro) — Hard
 - [How do you write reusable Terraform modules?](../topics/terraform.md#how-do-you-write-reusable-terraform-modules) — Medium
+- [How does Terraform build and execute its dependency graph?](../topics/terraform.md#how-does-terraform-build-and-execute-its-dependency-graph) — Medium
 - [How does Terraform dependency graph (DAG) work internally?](../topics/terraform.md#how-does-terraform-dependency-graph-dag-work-internally) — Medium
 - [How does Terraform handle state locking and consistency?](../topics/terraform.md#how-does-terraform-handle-state-locking-and-consistency) — Medium
 - [How does Terraform maintain state?](../topics/terraform.md#how-does-terraform-maintain-state) — Medium
+- [How does Terraform state locking work with S3 and DynamoDB?](../topics/terraform.md#how-does-terraform-state-locking-work-with-s3-and-dynamodb) — Medium · tags: `Databases`, `AWS`
 - [How does Terraform state locking work?](../topics/terraform.md#how-does-terraform-state-locking-work) — Medium
 - [How have you implemented Infrastructure as Code using Terraform?](../topics/terraform.md#how-have-you-implemented-infrastructure-as-code-using-terraform) — Medium
 - [How to define dependency in Terraform ?](../topics/terraform.md#how-to-define-dependency-in-terraform) — Medium
@@ -1793,6 +1886,7 @@
 - [What is drift detection](../topics/terraform.md#what-is-drift-detection) — Medium
 - [What is statefile explain more about it and where to store and why if lost if doesn't have backup how do you regain statefile](../topics/terraform.md#what-is-statefile-explain-more-about-it-and-where-to-store-and-why-if-lost-if-do) — Hard
 - [What is Terraform and how do you use it in your cloud infrastructure?](../topics/terraform.md#what-is-terraform-and-how-do-you-use-it-in-your-cloud-infrastructure) — Medium
+- [What is Terraform Drift, and how do you handle it?](../topics/terraform.md#what-is-terraform-drift-and-how-do-you-handle-it) — Easy
 - [What is Terraform Drift? How do you detect it?](../topics/terraform.md#what-is-terraform-drift-how-do-you-detect-it) — Medium
 - [What is Terraform State File, and how do you manage it?](../topics/terraform.md#what-is-terraform-state-file-and-how-do-you-manage-it) — Easy
 - [What is the difference between Terraform and AWS cloud-Formation?](../topics/terraform.md#what-is-the-difference-between-terraform-and-aws-cloud-formation) — Easy · tags: `AWS`
@@ -1840,22 +1934,22 @@
 
 ## Interview rounds
 
-- Unspecified — 1504
+- Unspecified — 1598
 - Technical Round 1 — 35
 - Managerial — 11
 - Technical — 3
 
 ## Recently added
 
-- [Describe a time a deployment went wrong. What did you learn?](../topics/general.md#describe-a-time-a-deployment-went-wrong-what-did-you-learn) — 2026-08-10
-- [What's your approach to secrets management in a CI/CD pipeline?](../topics/ci-cd.md#what-s-your-approach-to-secrets-management-in-a-ci-cd-pipeline) — 2026-08-10
-- [How do you monitor a production system — and what's the difference between monitoring and observability?](../topics/observability.md#how-do-you-monitor-a-production-system-and-what-s-the-difference-between-monitor) — 2026-08-10 · tags: `Monitoring`
-- [What is Infrastructure as Code, and why does it matter?](../topics/general.md#what-is-infrastructure-as-code-and-why-does-it-matter) — 2026-08-10
-- [Explain Blue-Green Deployment](../topics/deployment-strategies.md#explain-blue-green-deployment) — 2026-08-10 · tags: `Blue-Green`
-- [What's the difference between Docker and a virtual machine?](../topics/docker.md#what-s-the-difference-between-docker-and-a-virtual-machine) — 2026-08-10
-- [How do you handle a failed deployment in production?](../topics/general.md#how-do-you-handle-a-failed-deployment-in-production) — 2026-08-10
-- [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — 2026-08-10
-- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2026-08-10
-- [A deployment succeeds, but latency increases from 80 ms to 2 seconds. Walk me through your debugging approach.](../topics/general.md#a-deployment-succeeds-but-latency-increases-from-80-ms-to-2-seconds-walk-me-thro) — 2026-08-10
+- [Why?](../topics/general.md#why) — 2026-08-10
+- [But the image SHA256 digests are completely different.](../topics/general.md#but-the-image-sha256-digests-are-completely-different) — 2026-08-10
+- [Both builds completed successfully.](../topics/general.md#both-builds-completed-successfully) — 2026-08-10
+- [What are AI tools you would consider for this task?](../topics/general.md#what-are-ai-tools-you-would-consider-for-this-task) — 2026-08-10
+- [How would you use Docker to implement a Pub/Sub system?](../topics/docker.md#how-would-you-use-docker-to-implement-a-pub-sub-system) — 2026-08-10
+- [Can you design an event-driven pipeline with a Pub/Sub system using GCP?](../topics/ci-cd.md#can-you-design-an-event-driven-pipeline-with-a-pub-sub-system-using-gcp) — 2026-08-10 · tags: `GCP`
+- [What is Redis?](../topics/redis.md#what-is-redis) — 2026-08-10
+- [What are vector databases?](../topics/general.md#what-are-vector-databases) — 2026-08-10
+- [What is Docker?](../topics/docker.md#what-is-docker) — 2026-08-10
+- [What is RAG?](../topics/general.md#what-is-rag) — 2026-08-10
 
 [← All companies](./README.md) · [Home](../README.md)

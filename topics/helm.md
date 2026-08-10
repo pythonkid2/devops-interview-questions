@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Helm**
 
-**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 7 |
-| Easy / Medium / Hard | 0 / 7 / 0 |
+| Questions | 8 |
+| Easy / Medium / Hard | 0 / 8 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="helm-kubernetes-deployments"></a>
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — **1×** · Medium · tags: `Jenkins`
   <a id="jenkins-debugging-helm-deployments"></a>
+- [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) — **1×** · Medium
+  <a id="you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm"></a>
 
 ## Beginner
 
@@ -62,6 +64,8 @@ _None in this band yet._
   <a id="helm-kubernetes-deployments"></a>
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — 1× · tags: `Jenkins`
   <a id="jenkins-debugging-helm-deployments"></a>
+- [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) — 1×
+  <a id="you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm"></a>
 
 ## Advanced
 
@@ -78,6 +82,7 @@ _None in this band yet._
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — tags: `Jenkins`
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — tags: `Jenkins`
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use)
+- [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm)
 
 ## Companies asking
 
@@ -85,6 +90,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) — 2026-08-10
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — 2026-07-29 · tags: `Jenkins`
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — 2026-07-26 · tags: `Jenkins`
 - [Helm](../topics/helm.md#helm) — 2026-07-26
@@ -112,6 +118,7 @@ _None in this band yet._
 | [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) | Medium | 1 |
 | [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) | Medium | 2 |
 | [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) | Medium | 2 |
+| [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) | Medium | 1 |
 
 ## Learning resources
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**124** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**125** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 124 |
-| Easy / Medium / Hard | 15 / 98 / 11 |
+| Questions | 125 |
+| Easy / Medium / Hard | 15 / 99 / 11 |
 | Companies | 12 |
 
 ## Most asked
@@ -297,6 +297,8 @@
   <a id="which-aws-services-have-you-worked-on-and-where-have-you-used-them"></a>
 - [Which AWS tools did you use for cost optimization, and how did you use them?](../topics/aws.md#which-aws-tools-did-you-use-for-cost-optimization-and-how-did-you-use-them) — 1× · tags: `FinOps`
   <a id="which-aws-tools-did-you-use-for-cost-optimization-and-how-did-you-use-them"></a>
+- [Which cloud platform are you comfortable with (AWS, Azure, or GCP)?](../topics/aws.md#which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp) — 1× · tags: `Azure`, `GCP`
+  <a id="which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp"></a>
 - [Which VPC Interface Endpoints are required for AWS SSM to work without internet access?](../topics/aws.md#which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-) — 1×
   <a id="which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-"></a>
 - [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work) — 1×
@@ -466,6 +468,7 @@
 - [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them)
 - [Which AWS tools did you use for cost optimization, and how did you use them?](../topics/aws.md#which-aws-tools-did-you-use-for-cost-optimization-and-how-did-you-use-them) — tags: `FinOps`
 - [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using)
+- [Which cloud platform are you comfortable with (AWS, Azure, or GCP)?](../topics/aws.md#which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp) — tags: `Azure`, `GCP`
 - [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work)
 - [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want)
 - [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression)
@@ -493,6 +496,7 @@
 
 ## Recently added
 
+- [Which cloud platform are you comfortable with (AWS, Azure, or GCP)?](../topics/aws.md#which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp) — 2026-08-10 · tags: `Azure`, `GCP`
 - [How would you access a private EC2 instance if the private PEM key is lost and EC2 Instance Connect is not available?](../topics/aws.md#how-would-you-access-a-private-ec2-instance-if-the-private-pem-key-is-lost-and-e) — 2026-08-10
 - [What is an Amazon S3 bucket, and what are S3 Lifecycle Policies?](../topics/aws.md#what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies) — 2026-08-10
 - [What is AWS Transit Gateway?](../topics/aws.md#what-is-aws-transit-gateway) — 2026-08-10
@@ -507,7 +511,6 @@
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 2026-08-10
 - [AWS cost and performance issues](../topics/aws.md#aws-cost-and-performance-issues) — 2026-08-10
 - [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 2026-08-02
-- [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — 2026-08-02
 
 ## Related topics
 
@@ -632,6 +635,7 @@
 | [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) | Medium | 1 |
 | [Which AWS tools did you use for cost optimization, and how did you use them?](../topics/aws.md#which-aws-tools-did-you-use-for-cost-optimization-and-how-did-you-use-them) | Medium | 1 |
 | [Which cloud are you using & which AWS services are you using?](../topics/aws.md#which-cloud-are-you-using-which-aws-services-are-you-using) | Medium | 2 |
+| [Which cloud platform are you comfortable with (AWS, Azure, or GCP)?](../topics/aws.md#which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp) | Medium | 1 |
 | [Which VPC Interface Endpoints are required for AWS SSM to work without internet access?](../topics/aws.md#which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-) | Medium | 1 |
 | [Why did you choose a particular EC2 instance type (such as R5 or M5) for your worker nodes? How did you justify the decision?](../topics/aws.md#why-did-you-choose-a-particular-ec2-instance-type-such-as-r5-or-m5-for-your-work) | Medium | 1 |
 | [Write a Lambda function for any of the use cases you want?](../topics/aws.md#write-a-lambda-function-for-any-of-the-use-cases-you-want) | Medium | 1 |

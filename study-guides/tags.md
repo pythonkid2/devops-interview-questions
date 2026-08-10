@@ -8,17 +8,17 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 | Tag | Questions |
 | --- | ---: |
-| `AWS` | 38 |
-| `CI/CD` | 36 |
-| `Azure` | 31 |
+| `AWS` | 40 |
+| `CI/CD` | 37 |
+| `Azure` | 33 |
 | `System Design` | 27 |
 | `Kubernetes` | 25 |
 | `Docker` | 18 |
-| `Monitoring` | 13 |
+| `Monitoring` | 17 |
+| `Grafana` | 9 |
 | `Canary` | 8 |
-| `Grafana` | 8 |
+| `Databases` | 8 |
 | `Jenkins` | 8 |
-| `Databases` | 7 |
 | `GitOps` | 7 |
 | `Blue-Green` | 6 |
 | `DNS` | 6 |
@@ -31,6 +31,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `ArgoCD` | 4 |
 | `Azure DevOps` | 4 |
 | `FinOps` | 4 |
+| `GCP` | 4 |
 | `Linux` | 4 |
 | `Observability` | 4 |
 | `PVC` | 4 |
@@ -40,7 +41,6 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `Prometheus` | 3 |
 | `RBAC` | 3 |
 | `VPC` | 3 |
-| `GCP` | 2 |
 | `Logging` | 2 |
 | `Microservices` | 2 |
 | `OpenTelemetry` | 2 |
@@ -103,12 +103,12 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — Terraform · tags: `AWS`
 - [How do your secure secrets in Kubernetes and AWS?](../topics/kubernetes.md#how-do-your-secure-secrets-in-kubernetes-and-aws) — Kubernetes · tags: `AWS`
 - [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — Load Balancing · tags: `AWS`
+- [How does Terraform state locking work with S3 and DynamoDB?](../topics/terraform.md#how-does-terraform-state-locking-work-with-s3-and-dynamodb) — Terraform · tags: `Databases`, `AWS`
 - [How would you configure Auto Scaling in AWS while running a Kubernetes cluster?](../topics/kubernetes.md#how-would-you-configure-auto-scaling-in-aws-while-running-a-kubernetes-cluster) — Kubernetes · tags: `AWS`
 - [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — VPC · tags: `Databases`, `AWS`, `System Design`
 - [How would you migrate existing AWS resources into Terraform without recreating them?](../topics/terraform.md#how-would-you-migrate-existing-aws-resources-into-terraform-without-recreating-t) — Terraform · tags: `AWS`
+- [if cloudwatch do alerting and monitor events, then what about cloudtrail do in AWS?](../topics/alerting.md#if-cloudwatch-do-alerting-and-monitor-events-then-what-about-cloudtrail-do-in-aw) — Alerting · tags: `Monitoring`, `AWS`
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — Jenkins · tags: `AWS`
-- [Manage existing (unmanaged) AWS resources using Terraform](../topics/terraform.md#manage-existing-unmanaged-aws-resources-using-terraform) — Terraform · tags: `AWS`
-- [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — Databases · tags: `AWS`
 
 ## Azure
 
@@ -116,6 +116,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — AWS · tags: `Azure`
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — AWS · tags: `Azure`
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — AWS · tags: `Azure`, `GCP`
+- [Azure Key Vault Integration](../topics/vault.md#azure-key-vault-integration) — Vault · tags: `Azure`
 - [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — Load Balancing · tags: `Azure`
 - [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) — Azure DevOps · tags: `Azure`
 - [Explain NSG and how traffic flows in Azure.](../topics/network-security.md#explain-nsg-and-how-traffic-flows-in-azure) — Network Security · tags: `Azure`
@@ -136,12 +137,11 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — Azure DevOps · tags: `Azure`
 - [What is Azure Pipeline?](../topics/azure-devops.md#what-is-azure-pipeline) — Azure DevOps · tags: `CI/CD`, `Azure`
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — Databases · tags: `Azure`
+- [Which cloud platform are you comfortable with (AWS, Azure, or GCP)?](../topics/aws.md#which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp) — AWS · tags: `Azure`, `GCP`
 - [Why is Azure DevOps considered an ALM platform?](../topics/azure-devops.md#why-is-azure-devops-considered-an-alm-platform) — Azure DevOps · tags: `Azure`
 - [You are leading the modernization of a mission critical .NET platform serving 200 million users across 30 countries, processing 15 million transactions per day with a 99.99% uptime SLA. How would you redesign the architecture using .NET 8, C#, Microservices, Kubernetes, and Azure to improve scalability and performance?](../topics/kubernetes.md#you-are-leading-the-modernization-of-a-mission-critical-net-platform-serving-200) — Kubernetes · tags: `Azure`, `System Design`
 - [You are responsible for a global cloud platform supporting 500 million users, 8,000 microservices, and 99.99% availability across AWS, Azure, and Kubernetes. A production outage impacts $300 million in business transactions. How would you restore services, conduct root cause analysis, and prevent future incidents?](../topics/kubernetes.md#you-are-responsible-for-a-global-cloud-platform-supporting-500-million-users-800) — Kubernetes · tags: `AWS`, `Azure`
 - [Your organization is migrating a 15 year old monolithic .NET application to a cloud native microservices architecture on Microsoft Azure. How would you manage application decomposition, data migration, API integration, security, and zero downtime deployment?](../topics/deployment-strategies.md#your-organization-is-migrating-a-15-year-old-monolithic-net-application-to-a-clo) — Deployment Strategies · tags: `Azure`, `System Design`
-- [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — Kubernetes · tags: `AWS`, `Azure`, `GCP`
-- [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
 ## Azure DevOps
 
@@ -194,6 +194,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you integrate Docker with CI/CD pipelines?](../topics/docker.md#how-do-you-integrate-docker-with-ci-cd-pipelines) — Docker · tags: `CI/CD`
 - [How do you optimize a docker image build pipeline for microservices ?](../topics/docker.md#how-do-you-optimize-a-docker-image-build-pipeline-for-microservices) — Docker · tags: `CI/CD`
 - [How do you optimize Jenkins pipeline performance?](../topics/jenkins.md#how-do-you-optimize-jenkins-pipeline-performance) — Jenkins · tags: `CI/CD`
+- [How do you secure secrets across CI/CD, Kubernetes, and cloud services?](../topics/kubernetes.md#how-do-you-secure-secrets-across-ci-cd-kubernetes-and-cloud-services) — Kubernetes · tags: `CI/CD`
 - [How do you troubleshoot a failed Jenkins pipeline or GitHub Actions workflow?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow) — Jenkins · tags: `GitHub Actions`, `CI/CD`
 - [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) — Jenkins · tags: `CI/CD`
 - [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — ArgoCD · tags: `Helm`, `CI/CD`, `Git`
@@ -205,7 +206,6 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Mention integrating tools like SonarQube and Trivy into CI/CD pipelines so vulnerabilities are detected before reaching production.](../topics/devsecops.md#mention-integrating-tools-like-sonarqube-and-trivy-into-ci-cd-pipelines-so-vulne) — DevSecOps · tags: `CI/CD`
 - [Suppose you are implementing a Canary Deployment where only 10% of users receive the new version. How would you implement it through your CI/CD pipeline?](../topics/deployment-strategies.md#suppose-you-are-implementing-a-canary-deployment-where-only-10-of-users-receive-) — Deployment Strategies · tags: `CI/CD`, `Canary`
 - [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — DevSecOps · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
-- [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — Jenkins · tags: `CI/CD`
 
 ## CNI
 
@@ -218,6 +218,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — ArgoCD · tags: `Databases`
 - [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — High Availability · tags: `Databases`
 - [How do you optimize AWS costs for EC2, EKS, S3, and RDS?](../topics/eks.md#how-do-you-optimize-aws-costs-for-ec2-eks-s3-and-rds) — EKS · tags: `Databases`, `AWS`
+- [How does Terraform state locking work with S3 and DynamoDB?](../topics/terraform.md#how-does-terraform-state-locking-work-with-s3-and-dynamodb) — Terraform · tags: `Databases`, `AWS`
 - [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — VPC · tags: `Databases`, `AWS`, `System Design`
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — Kubernetes · tags: `Databases`
 - [Terraform plan suddenly wants to recreate your production database. What do you do?](../topics/terraform.md#terraform-plan-suddenly-wants-to-recreate-your-production-database-what-do-you-d) — Terraform · tags: `Databases`
@@ -277,6 +278,8 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## GCP
 
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — AWS · tags: `Azure`, `GCP`
+- [Can you design an event-driven pipeline with a Pub/Sub system using GCP?](../topics/ci-cd.md#can-you-design-an-event-driven-pipeline-with-a-pub-sub-system-using-gcp) — CI/CD · tags: `GCP`
+- [Which cloud platform are you comfortable with (AWS, Azure, or GCP)?](../topics/aws.md#which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp) — AWS · tags: `Azure`, `GCP`
 - [Your organization operates 500 Kubernetes clusters, 50,000 containers, and 2,000 production services across AWS, Azure, and GCP. How would you standardize platform engineering and governance?](../topics/kubernetes.md#your-organization-operates-500-kubernetes-clusters-50000-containers-and-2000-pro) — Kubernetes · tags: `AWS`, `Azure`, `GCP`
 
 ## Git
@@ -312,6 +315,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 ## Grafana
 
+- [are you sure prometheus and grafana do log aggregation?](../topics/prometheus.md#are-you-sure-prometheus-and-grafana-do-log-aggregation) — Prometheus · tags: `Grafana`
 - [Compare CloudWatch, Prometheus, Grafana, and Dynatrace.](../topics/prometheus.md#compare-cloudwatch-prometheus-grafana-and-dynatrace) — Prometheus · tags: `Grafana`, `Monitoring`
 - [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — Prometheus · tags: `Grafana`
 - [Have you configured alerts in Prometheus and Grafana? Explain the setup.](../topics/prometheus.md#have-you-configured-alerts-in-prometheus-and-grafana-explain-the-setup) — Prometheus · tags: `Grafana`
@@ -403,17 +407,21 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Monitoring
 
 - [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — Alerting · tags: `Monitoring`
+- [AIOps and intelligent monitoring](../topics/observability.md#aiops-and-intelligent-monitoring) — Observability · tags: `Monitoring`
 - [Compare CloudWatch, Prometheus, Grafana, and Dynatrace.](../topics/prometheus.md#compare-cloudwatch-prometheus-grafana-and-dynatrace) — Prometheus · tags: `Grafana`, `Monitoring`
 - [Explain how you implement observability using logging, metrics, tracing, and monitoring across large distributed systems.](../topics/logging.md#explain-how-you-implement-observability-using-logging-metrics-tracing-and-monito) — Logging · tags: `Observability`, `Monitoring`
 - [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — High Availability · tags: `Alerting`, `Monitoring`
+- [How do you design monitoring and alerting to reduce alert fatigue?](../topics/alerting.md#how-do-you-design-monitoring-and-alerting-to-reduce-alert-fatigue) — Alerting · tags: `Monitoring`
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — Grafana · tags: `Monitoring`
 - [How do you monitor a production system — and what's the difference between monitoring and observability?](../topics/observability.md#how-do-you-monitor-a-production-system-and-what-s-the-difference-between-monitor) — Observability · tags: `Monitoring`
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — Prometheus · tags: `Grafana`, `Monitoring`, `Kubernetes`
 - [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — Observability · tags: `Monitoring`
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — Logging · tags: `Monitoring`
+- [if cloudwatch do alerting and monitor events, then what about cloudtrail do in AWS?](../topics/alerting.md#if-cloudwatch-do-alerting-and-monitor-events-then-what-about-cloudtrail-do-in-aw) — Alerting · tags: `Monitoring`, `AWS`
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
 - [What tools do you use for logging and monitoring?](../topics/logging.md#what-tools-do-you-use-for-logging-and-monitoring) — Logging · tags: `Monitoring`
+- [you said cloudwatch for alerting, let me know what alerting seup its there in project as i know its for metrics.](../topics/alerting.md#you-said-cloudwatch-for-alerting-let-me-know-what-alerting-seup-its-there-in-pro) — Alerting · tags: `Monitoring`
 - [Your organization wants to implement end-to-end observability across microservices, Kubernetes clusters, cloud infrastructure, APIs, and databases using Prometheus, Grafana, ELK Stack, Splunk, OpenTelemetry, and Azure Monitor, aiming to reduce MTTR by 65% and improve platform reliability. How would you design the monitoring, alerting, logging, and incident management architecture?](../topics/incident-response.md#your-organization-wants-to-implement-end-to-end-observability-across-microservic) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Alerting`
 
 ## Networking

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**28** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**29** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 28 |
-| Easy / Medium / Hard | 3 / 25 / 0 |
+| Questions | 29 |
+| Easy / Medium / Hard | 4 / 25 / 0 |
 | Companies | 2 |
 
 ## Most asked
@@ -73,10 +73,10 @@
   <a id="linux-administration-networking-basics"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
   <a id="what-are-the-linux-boot-processes"></a>
+- [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking) — **1×** · Easy
+  <a id="what-is-your-experience-with-linux-and-networking"></a>
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — **1×** · Medium
   <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
-- [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — **1×** · Medium
-  <a id="which-linux-command-has-embarrassed-you-the-most"></a>
 
 ## Beginner
 
@@ -86,6 +86,8 @@
   <a id="what-is-systemd"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — 1×
   <a id="what-are-the-linux-boot-processes"></a>
+- [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking) — 1×
+  <a id="what-is-your-experience-with-linux-and-networking"></a>
 
 ## Intermediate
 
@@ -170,6 +172,7 @@ _None in this band yet._
 - [What is Linux?](../topics/linux.md#what-is-linux)
 - [What is systemd?](../topics/linux.md#what-is-systemd)
 - [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux)
+- [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking)
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment)
 - [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most)
 - [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know)
@@ -184,6 +187,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking) — 2026-08-10
 - [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) — 2026-08-10
 - [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) — 2026-08-10
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2026-08-10
@@ -198,7 +202,6 @@ _None in this band yet._
 - [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 2026-07-26
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — 2026-07-21
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — 2026-07-21
-- [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) — 2026-07-21
 
 ## Related topics
 
@@ -231,6 +234,7 @@ _None in this band yet._
 | [What is Linux?](../topics/linux.md#what-is-linux) | Easy | 3 |
 | [What is systemd?](../topics/linux.md#what-is-systemd) | Easy | 2 |
 | [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) | Medium | 2 |
+| [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking) | Easy | 1 |
 | [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) | Medium | 1 |
 | [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) | Medium | 1 |
 | [Which Linux commands do you know?](../topics/linux.md#which-linux-commands-do-you-know) | Medium | 2 |

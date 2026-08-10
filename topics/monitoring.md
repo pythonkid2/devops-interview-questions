@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**21** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**22** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 21 |
-| Easy / Medium / Hard | 3 / 16 / 2 |
+| Questions | 22 |
+| Easy / Medium / Hard | 3 / 17 / 2 |
 | Companies | 8 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — **1×** · Hard
   <a id="can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios"></a>
+- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — **1×** · Medium
+  <a id="check-monitoring-alerts"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — **1×** · Medium
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — **1×** · Medium
@@ -91,6 +93,8 @@
   <a id="monitoring-security-troubleshooting-scenarios"></a>
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — 2×
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
+- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — 1×
+  <a id="check-monitoring-alerts"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 1×
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 1×
@@ -130,6 +134,7 @@
 ### Unspecified
 
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios)
+- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts)
 - [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces)
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms)
 - [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy)
@@ -163,6 +168,7 @@
 
 ## Recently added
 
+- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — 2026-08-10
 - [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — 2026-08-10 · tags: `AWS`
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2026-08-02
 - [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 2026-07-29
@@ -177,7 +183,6 @@
 - [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — 2026-07-17
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — 2026-07-17 · tags: `CI/CD`
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — 2026-07-17
-- [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 2026-07-15
 
 ## Related topics
 
@@ -195,6 +200,7 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) | Hard | 1 |
+| [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) | Medium | 1 |
 | [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) | Easy | 2 |
 | [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) | Medium | 1 |
 | [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) | Medium | 2 |
