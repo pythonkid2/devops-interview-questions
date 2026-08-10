@@ -27,20 +27,22 @@
 
 ## Most asked
 
+- [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — **3×** · Medium
+  <a id="difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac"></a>
+- [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — **3×** · Easy
+  <a id="what-are-git-hooks-how-would-you-use-them"></a>
+- [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — **3×** · Easy
+  <a id="what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project"></a>
 - [What is Git?](../topics/git.md#what-is-git) — **3×** · Easy
   <a id="what-is-git"></a>
-- [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — **2×** · Medium
-  <a id="difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac"></a>
 - [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) — **2×** · Medium
   <a id="git-branching-merge-rebase-strategies"></a>
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — **2×** · Medium
   <a id="git-fetch-vs-git-pull"></a>
+- [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — **2×** · Medium
+  <a id="how-does-git-merge-and-rebase-differ-internally"></a>
 - [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — **2×** · Easy
   <a id="what-are-git-commands-you-know"></a>
-- [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — **2×** · Easy
-  <a id="what-are-git-hooks-how-would-you-use-them"></a>
-- [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — **2×** · Easy
-  <a id="what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project"></a>
 - [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — **2×** · Medium
   <a id="you-accidentally-deleted-the-git-folder-can-you-recover-it"></a>
 - [Git & GitHub](../topics/git.md#git-github) — **1×** · Medium
@@ -53,8 +55,6 @@
   <a id="git-github-branching-strategies"></a>
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — **1×** · Medium
   <a id="how-do-you-manage-version-control-with-git"></a>
-- [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — **1×** · Medium
-  <a id="how-does-git-merge-and-rebase-differ-internally"></a>
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — **1×** · Medium
   <a id="sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a"></a>
 - [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used) — **1×** · Easy
@@ -70,14 +70,14 @@
 
 ## Beginner
 
+- [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — 3×
+  <a id="what-are-git-hooks-how-would-you-use-them"></a>
+- [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — 3×
+  <a id="what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project"></a>
 - [What is Git?](../topics/git.md#what-is-git) — 3×
   <a id="what-is-git"></a>
 - [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — 2×
   <a id="what-are-git-commands-you-know"></a>
-- [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — 2×
-  <a id="what-are-git-hooks-how-would-you-use-them"></a>
-- [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — 2×
-  <a id="what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project"></a>
 - [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used) — 1×
   <a id="what-is-git-hooks-and-how-they-are-used"></a>
 - [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge) — 1×
@@ -87,12 +87,14 @@
 
 ## Intermediate
 
-- [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — 2×
+- [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — 3×
   <a id="difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac"></a>
 - [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) — 2×
   <a id="git-branching-merge-rebase-strategies"></a>
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) — 2×
   <a id="git-fetch-vs-git-pull"></a>
+- [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — 2×
+  <a id="how-does-git-merge-and-rebase-differ-internally"></a>
 - [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 2×
   <a id="you-accidentally-deleted-the-git-folder-can-you-recover-it"></a>
 - [Git & GitHub](../topics/git.md#git-github) — 1×
@@ -105,8 +107,6 @@
   <a id="git-github-branching-strategies"></a>
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — 1×
   <a id="how-do-you-manage-version-control-with-git"></a>
-- [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — 1×
-  <a id="how-does-git-merge-and-rebase-differ-internally"></a>
 - [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) — 1×
   <a id="sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a"></a>
 - [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) — 1×
@@ -149,6 +149,10 @@ _None in this band yet._
 
 ## Recently added
 
+- [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — 2026-08-10
+- [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — 2026-08-10
+- [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) — 2026-08-10
+- [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) — 2026-08-10
 - [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) — 2026-08-02
 - [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used) — 2026-07-30
 - [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge) — 2026-07-30
@@ -160,10 +164,6 @@ _None in this band yet._
 - [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) — 2026-07-26
 - [Git & GitHub](../topics/git.md#git-github) — 2026-07-26
 - [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) — 2026-07-20
-- [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) — 2026-07-18
-- [What is Git?](../topics/git.md#what-is-git) — 2026-07-18
-- [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — 2026-07-17
-- [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) — 2026-07-17
 
 ## Related topics
 
@@ -173,7 +173,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) | Medium | 2 |
+| [Difference between Git merge and Git rebase and when would you prefer to use each in a collaborative DevOps env](../topics/git.md#difference-between-git-merge-and-git-rebase-and-when-would-you-prefer-to-use-eac) | Medium | 3 |
 | [Git & GitHub](../topics/git.md#git-github) | Medium | 1 |
 | [Git Branching, Merge & Rebase Strategies](../topics/git.md#git-branching-merge-rebase-strategies) | Medium | 2 |
 | [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) | Medium | 1 |
@@ -181,11 +181,11 @@ _None in this band yet._
 | [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) | Medium | 2 |
 | [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) | Medium | 1 |
 | [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) | Medium | 1 |
-| [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) | Medium | 1 |
+| [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) | Medium | 2 |
 | [Sensitive secrets accidentally get committed to a Git repository, how would you address this and prevent it from happening again.](../topics/git.md#sensitive-secrets-accidentally-get-committed-to-a-git-repository-how-would-you-a) | Medium | 1 |
 | [What are Git commands you know?](../topics/git.md#what-are-git-commands-you-know) | Easy | 2 |
-| [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) | Easy | 2 |
-| [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) | Easy | 2 |
+| [What are Git hooks? How would you use them.](../topics/git.md#what-are-git-hooks-how-would-you-use-them) | Easy | 3 |
+| [What are Git submodules and when and why would you use them in a project.](../topics/git.md#what-are-git-submodules-and-when-and-why-would-you-use-them-in-a-project) | Easy | 3 |
 | [What is Git hooks and how they are used ?](../topics/git.md#what-is-git-hooks-and-how-they-are-used) | Easy | 1 |
 | [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge) | Easy | 1 |
 | [What is Git?](../topics/git.md#what-is-git) | Easy | 3 |

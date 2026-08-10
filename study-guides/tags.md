@@ -8,33 +8,34 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 | Tag | Questions |
 | --- | ---: |
-| `AWS` | 33 |
-| `CI/CD` | 33 |
+| `AWS` | 38 |
+| `CI/CD` | 36 |
 | `Azure` | 31 |
-| `Kubernetes` | 24 |
-| `System Design` | 24 |
+| `System Design` | 27 |
+| `Kubernetes` | 25 |
 | `Docker` | 18 |
 | `Monitoring` | 13 |
+| `Canary` | 8 |
 | `Grafana` | 8 |
-| `Canary` | 7 |
+| `Jenkins` | 8 |
+| `Databases` | 7 |
 | `GitOps` | 7 |
+| `Blue-Green` | 6 |
 | `DNS` | 6 |
 | `Git` | 6 |
 | `HPA` | 6 |
-| `Jenkins` | 6 |
 | `Terraform` | 6 |
-| `Blue-Green` | 5 |
-| `Databases` | 5 |
+| `GitHub Actions` | 5 |
+| `PV` | 5 |
 | `Alerting` | 4 |
 | `ArgoCD` | 4 |
 | `Azure DevOps` | 4 |
 | `FinOps` | 4 |
-| `GitHub Actions` | 4 |
 | `Linux` | 4 |
 | `Observability` | 4 |
-| `PV` | 4 |
 | `PVC` | 4 |
 | `CNI` | 3 |
+| `Deployment Strategies` | 3 |
 | `Load Balancing` | 3 |
 | `Prometheus` | 3 |
 | `RBAC` | 3 |
@@ -44,9 +45,9 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `Microservices` | 2 |
 | `OpenTelemetry` | 2 |
 | `Shell Scripting` | 2 |
+| `Storage` | 2 |
 | `Ansible` | 1 |
 | `Bash` | 1 |
-| `Deployment Strategies` | 1 |
 | `DevSecOps` | 1 |
 | `ELK` | 1 |
 | `GitLab CI` | 1 |
@@ -56,7 +57,6 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `On-Call` | 1 |
 | `PDB` | 1 |
 | `SRE` | 1 |
-| `Storage` | 1 |
 
 
 ## Alerting
@@ -89,26 +89,26 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — IAM · tags: `AWS`
 - [Does AWS provide SSL certificates? What is AWS Certificate Manager (ACM)?](../topics/certificate-management.md#does-aws-provide-ssl-certificates-what-is-aws-certificate-manager-acm) — Certificate Management · tags: `AWS`
 - [Explain the CI/CD pipeline you created for CSV validation and S3 upload.](../topics/ci-cd.md#explain-the-ci-cd-pipeline-you-created-for-csv-validation-and-s3-upload) — CI/CD · tags: `AWS`
+- [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) — Jenkins · tags: `CI/CD`, `AWS`
 - [Have you worked with CloudFront, ECR, ECR Lifecycle Policies, and AWS Tags? Explain real-world use cases.](../topics/cdn.md#have-you-worked-with-cloudfront-ecr-ecr-lifecycle-policies-and-aws-tags-explain-) — CDN · tags: `AWS`
 - [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — Docker · tags: `AWS`
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — Disaster Recovery · tags: `High Availability`, `AWS`
 - [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — Kubernetes · tags: `AWS`
+- [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — Monitoring · tags: `AWS`
 - [How do you monitor AWS resources, Kubernetes workloads, SLAs, and production systems?](../topics/kubernetes.md#how-do-you-monitor-aws-resources-kubernetes-workloads-slas-and-production-system) — Kubernetes · tags: `AWS`
+- [How do you optimize AWS costs for EC2, EKS, S3, and RDS?](../topics/eks.md#how-do-you-optimize-aws-costs-for-ec2-eks-s3-and-rds) — EKS · tags: `Databases`, `AWS`
 - [How do you securely manage secrets, credentials, and sensitive configuration in AWS and Kubernetes?](../topics/kubernetes.md#how-do-you-securely-manage-secrets-credentials-and-sensitive-configuration-in-aw) — Kubernetes · tags: `AWS`
 - [How do you set up a CICD pipeline for an AWS-hosted application?](../topics/ci-cd.md#how-do-you-set-up-a-cicd-pipeline-for-an-aws-hosted-application) — CI/CD · tags: `AWS`
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — EKS · tags: `AWS`
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — Terraform · tags: `AWS`
 - [How do your secure secrets in Kubernetes and AWS?](../topics/kubernetes.md#how-do-your-secure-secrets-in-kubernetes-and-aws) — Kubernetes · tags: `AWS`
 - [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — Load Balancing · tags: `AWS`
+- [How would you configure Auto Scaling in AWS while running a Kubernetes cluster?](../topics/kubernetes.md#how-would-you-configure-auto-scaling-in-aws-while-running-a-kubernetes-cluster) — Kubernetes · tags: `AWS`
+- [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — VPC · tags: `Databases`, `AWS`, `System Design`
 - [How would you migrate existing AWS resources into Terraform without recreating them?](../topics/terraform.md#how-would-you-migrate-existing-aws-resources-into-terraform-without-recreating-t) — Terraform · tags: `AWS`
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — Jenkins · tags: `AWS`
 - [Manage existing (unmanaged) AWS resources using Terraform](../topics/terraform.md#manage-existing-unmanaged-aws-resources-using-terraform) — Terraform · tags: `AWS`
 - [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — Databases · tags: `AWS`
-- [Suppose you are working on a Terraform script for EC2 infrastructure creation. A team member makes changes in the AWS Console, but your Terraform template is different. How do you fetch those changes into your Terraform template?](../topics/terraform.md#suppose-you-are-working-on-a-terraform-script-for-ec2-infrastructure-creation-a-) — Terraform · tags: `AWS`
-- [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — Monitoring · tags: `AWS`
-- [What is the difference between an ALB and an NLB in AWS ?](../topics/load-balancing.md#what-is-the-difference-between-an-alb-and-an-nlb-in-aws) — Load Balancing · tags: `AWS`
-- [What is the difference between Terraform and AWS cloud-Formation?](../topics/terraform.md#what-is-the-difference-between-terraform-and-aws-cloud-formation) — Terraform · tags: `AWS`
-- [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — API Gateway · tags: `Databases`, `AWS`
 
 ## Azure
 
@@ -159,6 +159,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Blue-Green & Canary deployments](../topics/deployment-strategies.md#blue-green-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Explain Blue-Green Deployment](../topics/deployment-strategies.md#explain-blue-green-deployment) — Deployment Strategies · tags: `Blue-Green`
+- [Explain Blue-Green Deployment and Canary Deployment. How have you implemented them?](../topics/deployment-strategies.md#explain-blue-green-deployment-and-canary-deployment-how-have-you-implemented-the) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 
@@ -167,6 +168,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Blue-Green & Canary deployments](../topics/deployment-strategies.md#blue-green-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [During a Canary deployment, how would you verify that the 10% deployment is healthy? What metrics would you monitor before proceeding to 100%?](../topics/deployment-strategies.md#during-a-canary-deployment-how-would-you-verify-that-the-10-deployment-is-health) — Deployment Strategies · tags: `Canary`
+- [Explain Blue-Green Deployment and Canary Deployment. How have you implemented them?](../topics/deployment-strategies.md#explain-blue-green-deployment-and-canary-deployment-how-have-you-implemented-the) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — Deployment Strategies · tags: `Blue-Green`, `Canary`
 - [Suppose you are implementing a Canary Deployment where only 10% of users receive the new version. How would you implement it through your CI/CD pipeline?](../topics/deployment-strategies.md#suppose-you-are-implementing-a-canary-deployment-where-only-10-of-users-receive-) — Deployment Strategies · tags: `CI/CD`, `Canary`
@@ -181,6 +183,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Do you execute Terraform locally or through a CI/CD pipeline? Explain the complete workflow.](../topics/terraform.md#do-you-execute-terraform-locally-or-through-a-ci-cd-pipeline-explain-the-complet) — Terraform · tags: `CI/CD`
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — Jenkins · tags: `CI/CD`
 - [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) — Jenkins · tags: `CI/CD`
+- [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) — Jenkins · tags: `CI/CD`, `AWS`
 - [Explain your experience with Jenkins and GitLab CI/CD.](../topics/jenkins.md#explain-your-experience-with-jenkins-and-gitlab-ci-cd) — Jenkins · tags: `GitLab CI`, `CI/CD`
 - [How did you tune your Jenkins pipeline?](../topics/jenkins.md#how-did-you-tune-your-jenkins-pipeline) — Jenkins · tags: `CI/CD`
 - [How do you design a CI/CD pipeline for microservices using Jenkins?](../topics/jenkins.md#how-do-you-design-a-ci-cd-pipeline-for-microservices-using-jenkins) — Jenkins · tags: `CI/CD`
@@ -189,7 +192,9 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you implement multi-branch CI/CD pipelines in GitLab or Jenkins?](../topics/jenkins.md#how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins) — Jenkins · tags: `CI/CD`
 - [How do you implement rollback strategy in Jenkins pipeline?](../topics/jenkins.md#how-do-you-implement-rollback-strategy-in-jenkins-pipeline) — Jenkins · tags: `CI/CD`
 - [How do you integrate Docker with CI/CD pipelines?](../topics/docker.md#how-do-you-integrate-docker-with-ci-cd-pipelines) — Docker · tags: `CI/CD`
+- [How do you optimize a docker image build pipeline for microservices ?](../topics/docker.md#how-do-you-optimize-a-docker-image-build-pipeline-for-microservices) — Docker · tags: `CI/CD`
 - [How do you optimize Jenkins pipeline performance?](../topics/jenkins.md#how-do-you-optimize-jenkins-pipeline-performance) — Jenkins · tags: `CI/CD`
+- [How do you troubleshoot a failed Jenkins pipeline or GitHub Actions workflow?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow) — Jenkins · tags: `GitHub Actions`, `CI/CD`
 - [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) — Jenkins · tags: `CI/CD`
 - [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — ArgoCD · tags: `Helm`, `CI/CD`, `Git`
 - [If the issue is related to Kubernetes or CI/CD pipeline, which team handles it?](../topics/kubernetes.md#if-the-issue-is-related-to-kubernetes-or-ci-cd-pipeline-which-team-handles-it) — Kubernetes · tags: `CI/CD`
@@ -201,9 +206,6 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Suppose you are implementing a Canary Deployment where only 10% of users receive the new version. How would you implement it through your CI/CD pipeline?](../topics/deployment-strategies.md#suppose-you-are-implementing-a-canary-deployment-where-only-10-of-users-receive-) — Deployment Strategies · tags: `CI/CD`, `Canary`
 - [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — DevSecOps · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 - [Walk me through your current Jenkins pipeline from code commit to deployment.](../topics/jenkins.md#walk-me-through-your-current-jenkins-pipeline-from-code-commit-to-deployment) — Jenkins · tags: `CI/CD`
-- [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — Jenkins · tags: `CI/CD`
-- [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — Monitoring · tags: `CI/CD`
-- [What is Azure Pipeline?](../topics/azure-devops.md#what-is-azure-pipeline) — Azure DevOps · tags: `CI/CD`, `Azure`
 
 ## CNI
 
@@ -215,6 +217,8 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — ArgoCD · tags: `Databases`
 - [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — High Availability · tags: `Databases`
+- [How do you optimize AWS costs for EC2, EKS, S3, and RDS?](../topics/eks.md#how-do-you-optimize-aws-costs-for-ec2-eks-s3-and-rds) — EKS · tags: `Databases`, `AWS`
+- [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — VPC · tags: `Databases`, `AWS`, `System Design`
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — Kubernetes · tags: `Databases`
 - [Terraform plan suddenly wants to recreate your production database. What do you do?](../topics/terraform.md#terraform-plan-suddenly-wants-to-recreate-your-production-database-what-do-you-d) — Terraform · tags: `Databases`
 - [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — API Gateway · tags: `Databases`, `AWS`
@@ -222,6 +226,8 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Deployment Strategies
 
 - [Describe how Kubernetes rolling updates with readiness and liveness probes ensured zero downtime during deployments.](../topics/kubernetes.md#describe-how-kubernetes-rolling-updates-with-readiness-and-liveness-probes-ensur) — Kubernetes · tags: `Deployment Strategies`
+- [How would you design a multi-region deployment in terraform, keeping zero downtime in mind ?](../topics/terraform.md#how-would-you-design-a-multi-region-deployment-in-terraform-keeping-zero-downtim) — Terraform · tags: `Deployment Strategies`, `System Design`
+- [How would you perform a zero-downtime Kubernetes cluster upgrade?](../topics/kubernetes.md#how-would-you-perform-a-zero-downtime-kubernetes-cluster-upgrade) — Kubernetes · tags: `Deployment Strategies`
 
 ## DevSecOps
 
@@ -285,6 +291,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## GitHub Actions
 
 - [How do you deploy to Kubernetes using GitHub Actions?](../topics/kubernetes.md#how-do-you-deploy-to-kubernetes-using-github-actions) — Kubernetes · tags: `GitHub Actions`
+- [How do you troubleshoot a failed Jenkins pipeline or GitHub Actions workflow?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow) — Jenkins · tags: `GitHub Actions`, `CI/CD`
 - [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — Jenkins · tags: `GitHub Actions`
 - [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — Service Mesh · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
@@ -335,7 +342,9 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 - [Docker, Kubernetes & Jenkins](../topics/kubernetes.md#docker-kubernetes-jenkins) — Kubernetes · tags: `Docker`, `Jenkins`
 - [Explain how you solved production problems using Docker, Kubernetes, Terraform, or Jenkins.](../topics/kubernetes.md#explain-how-you-solved-production-problems-using-docker-kubernetes-terraform-or-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`
+- [How can you ensure high availability in Jenkins ?](../topics/high-availability.md#how-can-you-ensure-high-availability-in-jenkins) — High Availability · tags: `Jenkins`
 - [How do you integrate Jenkins with Docker and Kubernetes?](../topics/kubernetes.md#how-do-you-integrate-jenkins-with-docker-and-kubernetes) — Kubernetes · tags: `Docker`, `Jenkins`
+- [Jenkins and Docker troubleshooting](../topics/docker.md#jenkins-and-docker-troubleshooting) — Docker · tags: `Jenkins`
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — Helm · tags: `Jenkins`
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — Helm · tags: `Jenkins`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
@@ -352,6 +361,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) — Prometheus · tags: `Grafana`, `Monitoring`, `Kubernetes`
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — Capacity Planning · tags: `Kubernetes`, `HPA`
 - [How does traffic flow from User to Ingress to Service to Pod?](../topics/ingress.md#how-does-traffic-flow-from-user-to-ingress-to-service-to-pod) — Ingress · tags: `Kubernetes`
+- [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) — High Availability · tags: `Kubernetes`
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — High Availability · tags: `Kubernetes`, `System Design`
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — Capacity Planning · tags: `Prometheus`, `Kubernetes`, `HPA`
 - [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — On-Call · tags: `SRE`, `Kubernetes`
@@ -441,6 +451,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [A Persistent Volume Claim remains in Pending state. What could be causing it?](../topics/storage.md#a-persistent-volume-claim-remains-in-pending-state-what-could-be-causing-it) — Storage · tags: `PV`
 - [Explain PV and PVC in Kubernetes.](../topics/kubernetes.md#explain-pv-and-pvc-in-kubernetes) — Kubernetes · tags: `Storage`, `PVC`, `PV`
 - [Storage (PV/PVC)](../topics/storage.md#storage-pv-pvc) — Storage · tags: `PVC`, `PV`
+- [What is a Persistent Volume (PV) in Kubernetes?](../topics/kubernetes.md#what-is-a-persistent-volume-pv-in-kubernetes) — Kubernetes · tags: `Storage`, `PV`
 - [What is the difference between PV and PVC?](../topics/storage.md#what-is-the-difference-between-pv-and-pvc) — Storage · tags: `PVC`, `PV`
 
 ## PVC
@@ -468,6 +479,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 ## Storage
 
 - [Explain PV and PVC in Kubernetes.](../topics/kubernetes.md#explain-pv-and-pvc-in-kubernetes) — Kubernetes · tags: `Storage`, `PVC`, `PV`
+- [What is a Persistent Volume (PV) in Kubernetes?](../topics/kubernetes.md#what-is-a-persistent-volume-pv-in-kubernetes) — Kubernetes · tags: `Storage`, `PV`
 
 ## System Design
 
@@ -476,13 +488,16 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — Disaster Recovery · tags: `Kubernetes`, `System Design`
 - [Design a multi-region observability and incident platform that can survive the loss of two availability zones at once.](../topics/incident-response.md#design-a-multi-region-observability-and-incident-platform-that-can-survive-the-l) — Incident Response · tags: `Observability`, `System Design`
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — Databases · tags: `System Design`
+- [Expalin a high scalable application in AWS ?](../topics/aws.md#expalin-a-high-scalable-application-in-aws) — AWS · tags: `System Design`
 - [Explain EC2, NAT, and NACL together in an AWS architecture.](../topics/aws.md#explain-ec2-nat-and-nacl-together-in-an-aws-architecture) — AWS · tags: `System Design`
 - [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) — Kubernetes · tags: `System Design`
 - [Have you worked on Terraform? How do you manage the state file? What is the Terraform architecture you are using?](../topics/terraform.md#have-you-worked-on-terraform-how-do-you-manage-the-state-file-what-is-the-terraf) — Terraform · tags: `System Design`
 - [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — High Availability · tags: `System Design`
 - [How do you design a scalable Jenkins architecture?](../topics/jenkins.md#how-do-you-design-a-scalable-jenkins-architecture) — Jenkins · tags: `System Design`
 - [How will you design a microservice architecture application in Kubernetes ?](../topics/kubernetes.md#how-will-you-design-a-microservice-architecture-application-in-kubernetes) — Kubernetes · tags: `Microservices`, `System Design`
+- [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — VPC · tags: `Databases`, `AWS`, `System Design`
 - [How would you design a highly available and fault-tolerant application architecture on AWS?](../topics/aws.md#how-would-you-design-a-highly-available-and-fault-tolerant-application-architect) — AWS · tags: `System Design`
+- [How would you design a multi-region deployment in terraform, keeping zero downtime in mind ?](../topics/terraform.md#how-would-you-design-a-multi-region-deployment-in-terraform-keeping-zero-downtim) — Terraform · tags: `Deployment Strategies`, `System Design`
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — High Availability · tags: `Kubernetes`, `System Design`
 - [Kubernetes architecture and overall cluster structure.](../topics/kubernetes.md#kubernetes-architecture-and-overall-cluster-structure) — Kubernetes · tags: `System Design`
 - [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — Azure · tags: `System Design`

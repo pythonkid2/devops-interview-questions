@@ -27,10 +27,10 @@
 
 ## Most asked
 
+- [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) — **2×** · Medium
+  <a id="how-does-dns-resolution-work-step-by-step"></a>
 - [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) — **2×** · Medium
   <a id="how-would-you-troubleshoot-a-dns-issue"></a>
-- [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) — **1×** · Medium
-  <a id="how-does-dns-resolution-work-step-by-step"></a>
 - [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) — **1×** · Medium
   <a id="in-route-53-what-do-you-mean-by-a-record-and-ac-name-record"></a>
 - [Microservice A cannot communicate with Microservice B. Both Pods are Running, DNS resolves correctly, Services and Endpoints exist, but TCP connections time out. How would you troubleshoot?](../topics/dns.md#microservice-a-cannot-communicate-with-microservice-b-both-pods-are-running-dns-) — **1×** · Medium · tags: `Microservices`
@@ -45,10 +45,10 @@
 
 ## Intermediate
 
+- [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) — 2×
+  <a id="how-does-dns-resolution-work-step-by-step"></a>
 - [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) — 2×
   <a id="how-would-you-troubleshoot-a-dns-issue"></a>
-- [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) — 1×
-  <a id="how-does-dns-resolution-work-step-by-step"></a>
 - [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) — 1×
   <a id="in-route-53-what-do-you-mean-by-a-record-and-ac-name-record"></a>
 - [Microservice A cannot communicate with Microservice B. Both Pods are Running, DNS resolves correctly, Services and Endpoints exist, but TCP connections time out. How would you troubleshoot?](../topics/dns.md#microservice-a-cannot-communicate-with-microservice-b-both-pods-are-running-dns-) — 1× · tags: `Microservices`
@@ -74,11 +74,11 @@ _None in this band yet._
 
 ## Recently added
 
+- [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) — 2026-08-10
 - [What are the components and routing policies in Route 53?](../topics/dns.md#what-are-the-components-and-routing-policies-in-route-53) — 2026-07-29
 - [Microservice A cannot communicate with Microservice B. Both Pods are Running, DNS resolves correctly, Services and Endpoints exist, but TCP connections time out. How would you troubleshoot?](../topics/dns.md#microservice-a-cannot-communicate-with-microservice-b-both-pods-are-running-dns-) — 2026-07-18 · tags: `Microservices`
 - [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) — 2026-07-18
 - [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) — 2026-07-17
-- [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) — 2026-07-17
 
 ## Related topics
 
@@ -94,7 +94,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) | Medium | 1 |
+| [How does DNS resolution work step by step?](../topics/dns.md#how-does-dns-resolution-work-step-by-step) | Medium | 2 |
 | [How would you troubleshoot a DNS issue?](../topics/dns.md#how-would-you-troubleshoot-a-dns-issue) | Medium | 2 |
 | [In route 53, what do you mean by a record and AC name record?](../topics/dns.md#in-route-53-what-do-you-mean-by-a-record-and-ac-name-record) | Medium | 1 |
 | [Microservice A cannot communicate with Microservice B. Both Pods are Running, DNS resolves correctly, Services and Endpoints exist, but TCP connections time out. How would you troubleshoot?](../topics/dns.md#microservice-a-cannot-communicate-with-microservice-b-both-pods-are-running-dns-) | Medium | 1 |

@@ -6,7 +6,7 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Company | Questions |
 | --- | ---: |
-| [Infosys](./infosys.md) | 48 |
+| [Infosys](./infosys.md) | 63 |
 | [TCS](./tcs.md) | 47 |
 | [Mphasis](./mphasis.md) | 43 |
 | [Elite Code Technologies](./elite-code-technologies.md) | 33 |
@@ -42,6 +42,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 1483 |
+| [Unknown Company](./unknown-company.md) | 1553 |
 
 [← Home](../README.md)

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Bash**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 0 / 8 / 1 |
+| Questions | 10 |
+| Easy / Medium / Hard | 0 / 9 / 1 |
 | Companies | 3 |
 
 ## Most asked
@@ -37,6 +37,8 @@
   <a id="what-is-the-meaning-of-mtime-7"></a>
 - [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) — **2×** · Medium
   <a id="what-is-the-output-of-the-following-command-echo-hi-echo-hello"></a>
+- [Why #!/bin/bash?](../topics/bash.md#why-bin-bash) — **2×** · Medium
+  <a id="why-bin-bash"></a>
 - [Write a Shell script for weekly log cleanup.](../topics/bash.md#write-a-shell-script-for-weekly-log-cleanup) — **2×** · Medium
   <a id="write-a-shell-script-for-weekly-log-cleanup"></a>
 - [Write a Shell script to monitor CPU utilization.](../topics/bash.md#write-a-shell-script-to-monitor-cpu-utilization) — **2×** · Medium
@@ -62,6 +64,8 @@ _None in this band yet._
   <a id="what-is-the-meaning-of-mtime-7"></a>
 - [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) — 2×
   <a id="what-is-the-output-of-the-following-command-echo-hi-echo-hello"></a>
+- [Why #!/bin/bash?](../topics/bash.md#why-bin-bash) — 2×
+  <a id="why-bin-bash"></a>
 - [Write a Shell script for weekly log cleanup.](../topics/bash.md#write-a-shell-script-for-weekly-log-cleanup) — 2×
   <a id="write-a-shell-script-for-weekly-log-cleanup"></a>
 - [Write a Shell script to monitor CPU utilization.](../topics/bash.md#write-a-shell-script-to-monitor-cpu-utilization) — 2×
@@ -89,6 +93,7 @@ _None in this band yet._
 ### Unspecified
 
 - [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting)
+- [Why #!/bin/bash?](../topics/bash.md#why-bin-bash)
 - [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources)
 
 ## Companies asking
@@ -99,6 +104,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Why #!/bin/bash?](../topics/bash.md#why-bin-bash) — 2026-08-10
 - [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) — 2026-08-02
 - [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 2026-07-15
 - [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) — 2026-07-15
@@ -124,6 +130,7 @@ _None in this band yet._
 | [What is the meaning of -mtime +7?](../topics/bash.md#what-is-the-meaning-of-mtime-7) | Medium | 2 |
 | [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) | Medium | 2 |
 | [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) | Medium | 1 |
+| [Why #!/bin/bash?](../topics/bash.md#why-bin-bash) | Medium | 2 |
 | [Write a Shell script for weekly log cleanup.](../topics/bash.md#write-a-shell-script-for-weekly-log-cleanup) | Medium | 2 |
 | [Write a Shell script to monitor CPU utilization.](../topics/bash.md#write-a-shell-script-to-monitor-cpu-utilization) | Medium | 2 |
 | [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) | Hard | 1 |

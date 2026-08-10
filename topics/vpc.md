@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **VPC**
 
-**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 7 |
-| Easy / Medium / Hard | 3 / 4 / 0 |
+| Questions | 8 |
+| Easy / Medium / Hard | 3 / 4 / 1 |
 | Companies | 0 |
 
 ## Most asked
@@ -35,6 +35,8 @@
   <a id="what-is-vpc"></a>
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — **1×** · Medium · tags: `Networking`
   <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
+- [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — **1×** · Hard · tags: `Databases`, `AWS`, `System Design`
+  <a id="how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and"></a>
 - [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — **1×** · Medium
   <a id="suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar"></a>
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — **1×** · Easy
@@ -64,7 +66,8 @@
 
 ## Advanced
 
-_None in this band yet._
+- [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — 1× · tags: `Databases`, `AWS`, `System Design`
+  <a id="how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and"></a>
 
 ## By interview round
 
@@ -72,6 +75,7 @@ _None in this band yet._
 
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — tags: `Networking`
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc)
+- [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — tags: `Databases`, `AWS`, `System Design`
 - [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar)
 - [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet)
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet)
@@ -84,6 +88,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — 2026-08-10 · tags: `Databases`, `AWS`, `System Design`
 - [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — 2026-07-29
 - [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — 2026-07-27
 - [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet) — 2026-07-26
@@ -108,6 +113,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) | Medium | 1 |
 | [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) | Medium | 2 |
+| [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) | Hard | 1 |
 | [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) | Medium | 1 |
 | [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet) | Easy | 2 |
 | [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) | Easy | 1 |

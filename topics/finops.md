@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **FinOps**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,20 +21,22 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 1 / 5 / 0 |
+| Questions | 7 |
+| Easy / Medium / Hard | 1 / 6 / 0 |
 | Companies | 1 |
 
 ## Most asked
 
-- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — **3×** · Medium
+- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — **4×** · Medium
   <a id="your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it"></a>
-- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — **2×** · Medium
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — **3×** · Medium
   <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 - [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) — **2×** · Easy
   <a id="how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh"></a>
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — **2×** · Medium
   <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
+- [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation) — **2×** · Medium
+  <a id="your-cloud-bill-increased-by-40-where-would-you-start-your-investigation"></a>
 - [Cost optimization scenarios](../topics/finops.md#cost-optimization-scenarios) — **1×** · Medium
   <a id="cost-optimization-scenarios"></a>
 - [How would you investigate a 40% cloud cost increase?](../topics/finops.md#how-would-you-investigate-a-40-cloud-cost-increase) — **1×** · Medium
@@ -47,12 +49,14 @@
 
 ## Intermediate
 
-- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — 3×
+- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — 4×
   <a id="your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it"></a>
-- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 2×
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 3×
   <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — 2×
   <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
+- [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation) — 2×
+  <a id="your-cloud-bill-increased-by-40-where-would-you-start-your-investigation"></a>
 - [Cost optimization scenarios](../topics/finops.md#cost-optimization-scenarios) — 1×
   <a id="cost-optimization-scenarios"></a>
 - [How would you investigate a 40% cloud cost increase?](../topics/finops.md#how-would-you-investigate-a-40-cloud-cost-increase) — 1×
@@ -71,6 +75,7 @@ _None in this band yet._
 - [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh)
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance)
 - [How would you investigate a 40% cloud cost increase?](../topics/finops.md#how-would-you-investigate-a-40-cloud-cost-increase)
+- [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation)
 - [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it)
 
 ## Companies asking
@@ -79,9 +84,10 @@ _None in this band yet._
 
 ## Recently added
 
+- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — 2026-08-10
+- [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation) — 2026-08-10
+- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 2026-08-10
 - [Cost optimization scenarios](../topics/finops.md#cost-optimization-scenarios) — 2026-07-26
-- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — 2026-07-17
-- [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 2026-07-17
 - [How would you investigate a 40% cloud cost increase?](../topics/finops.md#how-would-you-investigate-a-40-cloud-cost-increase) — 2026-07-17
 - [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) — 2026-07-16
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — 2026-07-15
@@ -96,11 +102,12 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Cost optimization scenarios](../topics/finops.md#cost-optimization-scenarios) | Medium | 1 |
-| [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) | Medium | 2 |
+| [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) | Medium | 3 |
 | [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) | Easy | 2 |
 | [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) | Medium | 2 |
 | [How would you investigate a 40% cloud cost increase?](../topics/finops.md#how-would-you-investigate-a-40-cloud-cost-increase) | Medium | 1 |
-| [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) | Medium | 3 |
+| [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation) | Medium | 2 |
+| [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) | Medium | 4 |
 
 ## Learning resources
 

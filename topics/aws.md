@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**112** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**124** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 112 |
-| Easy / Medium / Hard | 13 / 89 / 10 |
+| Questions | 124 |
+| Easy / Medium / Hard | 15 / 98 / 11 |
 | Companies | 12 |
 
 ## Most asked
@@ -33,7 +33,7 @@
   <a id="how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component"></a>
 - [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — **5×** · Medium
   <a id="you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state"></a>
-- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — **3×** · Medium
+- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — **4×** · Medium
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — **3×** · Medium
   <a id="write-an-example-for-lambda-expression"></a>
@@ -98,6 +98,10 @@
   <a id="what-are-the-different-aws-services-you-used"></a>
 - [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) — 1×
   <a id="what-are-the-limitations-of-lambda-functions"></a>
+- [What is an Amazon S3 bucket, and what are S3 Lifecycle Policies?](../topics/aws.md#what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies) — 1×
+  <a id="what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies"></a>
+- [What is AWS Transit Gateway?](../topics/aws.md#what-is-aws-transit-gateway) — 1×
+  <a id="what-is-aws-transit-gateway"></a>
 - [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it) — 1×
   <a id="what-is-aws-and-why-do-companies-use-it"></a>
 - [What is S3 object size?](../topics/aws.md#what-is-s3-object-size) — 1×
@@ -115,7 +119,7 @@
   <a id="how-would-you-split-a-monolithic-cloudformation-template-into-reusable-component"></a>
 - [You need to update a CloudFormation stack that contains both stateless and stateful resources. How would you ensure that databases are never accidentally replaced?](../topics/aws.md#you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state) — 5×
   <a id="you-need-to-update-a-cloudformation-stack-that-contains-both-stateless-and-state"></a>
-- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 3×
+- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 4×
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
 - [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 3×
   <a id="write-an-example-for-lambda-expression"></a>
@@ -169,6 +173,8 @@
   <a id="aws"></a>
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — 1× · tags: `Azure`
   <a id="aws-azure-cloud-services"></a>
+- [AWS cost and performance issues](../topics/aws.md#aws-cost-and-performance-issues) — 1×
+  <a id="aws-cost-and-performance-issues"></a>
 - [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — 1×
   <a id="aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh"></a>
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) — 1×
@@ -185,6 +191,8 @@
   <a id="do-you-have-some-experience-on-amazon-connect-or-lambda"></a>
 - [Does AWS WAF logging capture all requests? Explain.](../topics/aws.md#does-aws-waf-logging-capture-all-requests-explain) — 1×
   <a id="does-aws-waf-logging-capture-all-requests-explain"></a>
+- [Expalin a high scalable application in AWS ?](../topics/aws.md#expalin-a-high-scalable-application-in-aws) — 1× · tags: `System Design`
+  <a id="expalin-a-high-scalable-application-in-aws"></a>
 - [Explain how Auto Scaling works in AWS.](../topics/aws.md#explain-how-auto-scaling-works-in-aws) — 1×
   <a id="explain-how-auto-scaling-works-in-aws"></a>
 - [Explain your cloud migration experience from On-Premises to AWS.](../topics/aws.md#explain-your-cloud-migration-experience-from-on-premises-to-aws) — 1×
@@ -195,24 +203,36 @@
   <a id="files-are-accidentally-deleted-from-an-s3-bucket-how-would-you-recover-them"></a>
 - [Have you implemented governance guardrails in AWS Organizations?](../topics/aws.md#have-you-implemented-governance-guardrails-in-aws-organizations) — 1×
   <a id="have-you-implemented-governance-guardrails-in-aws-organizations"></a>
+- [How can you deploy EC2 instance for fault tolerance and high available applications ?](../topics/aws.md#how-can-you-deploy-ec2-instance-for-fault-tolerance-and-high-available-applicati) — 1×
+  <a id="how-can-you-deploy-ec2-instance-for-fault-tolerance-and-high-available-applicati"></a>
+- [How can you ensure cost efficient storage solution using S3 ?](../topics/aws.md#how-can-you-ensure-cost-efficient-storage-solution-using-s3) — 1×
+  <a id="how-can-you-ensure-cost-efficient-storage-solution-using-s3"></a>
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — 1× · tags: `FinOps`
   <a id="how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources"></a>
 - [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) — 1×
   <a id="how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati"></a>
+- [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use) — 1×
+  <a id="how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use"></a>
 - [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) — 1×
   <a id="how-do-you-handle-an-aws-networking-issue"></a>
+- [How do you implement Load Balancing in AWS?](../topics/aws.md#how-do-you-implement-load-balancing-in-aws) — 1×
+  <a id="how-do-you-implement-load-balancing-in-aws"></a>
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) — 1×
   <a id="how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid"></a>
 - [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) — 1×
   <a id="how-do-you-perform-security-assessments-in-aws"></a>
 - [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) — 1×
   <a id="how-do-you-prepare-for-the-aws-developer-associate-exam"></a>
+- [How do you securely manage application secrets in AWS?](../topics/aws.md#how-do-you-securely-manage-application-secrets-in-aws) — 1×
+  <a id="how-do-you-securely-manage-application-secrets-in-aws"></a>
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) — 1×
   <a id="how-good-are-you-in-aws-self-rating-question"></a>
 - [How to provide access to an S3 bucket? Required permissions?](../topics/aws.md#how-to-provide-access-to-an-s3-bucket-required-permissions) — 1×
   <a id="how-to-provide-access-to-an-s3-bucket-required-permissions"></a>
 - [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services) — 1×
   <a id="how-was-infrastructure-provisioning-handled-on-these-services"></a>
+- [How would you access a private EC2 instance if the private PEM key is lost and EC2 Instance Connect is not available?](../topics/aws.md#how-would-you-access-a-private-ec2-instance-if-the-private-pem-key-is-lost-and-e) — 1×
+  <a id="how-would-you-access-a-private-ec2-instance-if-the-private-pem-key-is-lost-and-e"></a>
 - [How would you centralize AWS WAF monitoring and troubleshooting across 200+ AWS accounts?](../topics/aws.md#how-would-you-centralize-aws-waf-monitoring-and-troubleshooting-across-200-aws-a) — 1×
   <a id="how-would-you-centralize-aws-waf-monitoring-and-troubleshooting-across-200-aws-a"></a>
 - [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/aws.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) — 1×
@@ -255,6 +275,8 @@
   <a id="what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family"></a>
 - [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) — 1×
   <a id="what-happens-when-an-aws-region-goes-down"></a>
+- [What happens when an EC2 instance in an Auto Scaling Group becomes unhealthy?](../topics/aws.md#what-happens-when-an-ec2-instance-in-an-auto-scaling-group-becomes-unhealthy) — 1×
+  <a id="what-happens-when-an-ec2-instance-in-an-auto-scaling-group-becomes-unhealthy"></a>
 - [What is AWS WAF and what is your experience with it?](../topics/aws.md#what-is-aws-waf-and-what-is-your-experience-with-it) — 1×
   <a id="what-is-aws-waf-and-what-is-your-experience-with-it"></a>
 - [What is the AWS Shared Responsibility Model?](../topics/aws.md#what-is-the-aws-shared-responsibility-model) — 1×
@@ -304,6 +326,8 @@
   <a id="how-would-you-debug-a-failing-user-data-script-without-repeatedly-relaunching-th"></a>
 - [How would you design a highly available and fault-tolerant application architecture on AWS?](../topics/aws.md#how-would-you-design-a-highly-available-and-fault-tolerant-application-architect) — 1× · tags: `System Design`
   <a id="how-would-you-design-a-highly-available-and-fault-tolerant-application-architect"></a>
+- [How would you design minimum downtime web application in AWS](../topics/aws.md#how-would-you-design-minimum-downtime-web-application-in-aws) — 1×
+  <a id="how-would-you-design-minimum-downtime-web-application-in-aws"></a>
 - [How would you troubleshoot an HTTPS Application Load Balancer that isn't serving traffic as expected?](../topics/aws.md#how-would-you-troubleshoot-an-https-application-load-balancer-that-isn-t-serving) — 1×
   <a id="how-would-you-troubleshoot-an-https-application-load-balancer-that-isn-t-serving"></a>
 - [Java Full Stack Developer (Java, Spring Boot, Microservices, React, AWS) – Can you explain the differences between microservices and monolithic architecture?](../topics/aws.md#java-full-stack-developer-java-spring-boot-microservices-react-aws-can-you-expla) — 1×
@@ -358,6 +382,7 @@
 - [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it)
 - [AWS](../topics/aws.md#aws)
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — tags: `Azure`
+- [AWS cost and performance issues](../topics/aws.md#aws-cost-and-performance-issues)
 - [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh)
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https)
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — tags: `Azure`
@@ -367,29 +392,37 @@
 - [Deploy and manage applications on AWS](../topics/aws.md#deploy-and-manage-applications-on-aws)
 - [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda)
 - [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications)
+- [Expalin a high scalable application in AWS ?](../topics/aws.md#expalin-a-high-scalable-application-in-aws) — tags: `System Design`
 - [Explain EC2, NAT, and NACL together in an AWS architecture.](../topics/aws.md#explain-ec2-nat-and-nacl-together-in-an-aws-architecture) — tags: `System Design`
 - [Explain how Auto Scaling works in AWS.](../topics/aws.md#explain-how-auto-scaling-works-in-aws)
 - [Explain your experience designing secure AWS infrastructure.](../topics/aws.md#explain-your-experience-designing-secure-aws-infrastructure)
 - [Files are accidentally deleted from an S3 bucket. How would you recover them?](../topics/aws.md#files-are-accidentally-deleted-from-an-s3-bucket-how-would-you-recover-them)
 - [Have you worked with Load Balancers?](../topics/aws.md#have-you-worked-with-load-balancers)
+- [How can you deploy EC2 instance for fault tolerance and high available applications ?](../topics/aws.md#how-can-you-deploy-ec2-instance-for-fault-tolerance-and-high-available-applicati)
+- [How can you ensure cost efficient storage solution using S3 ?](../topics/aws.md#how-can-you-ensure-cost-efficient-storage-solution-using-s3)
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — tags: `FinOps`
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh)
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts)
 - [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati)
+- [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use)
 - [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue)
+- [How do you implement Load Balancing in AWS?](../topics/aws.md#how-do-you-implement-load-balancing-in-aws)
 - [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws)
 - [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid)
 - [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws)
 - [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam)
 - [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket)
+- [How do you securely manage application secrets in AWS?](../topics/aws.md#how-do-you-securely-manage-application-secrets-in-aws)
 - [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable)
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions)
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question)
 - [How to provide access to an S3 bucket? Required permissions?](../topics/aws.md#how-to-provide-access-to-an-s3-bucket-required-permissions)
 - [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services)
+- [How would you access a private EC2 instance if the private PEM key is lost and EC2 Instance Connect is not available?](../topics/aws.md#how-would-you-access-a-private-ec2-instance-if-the-private-pem-key-is-lost-and-e)
 - [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho)
 - [How would you debug a failing User Data script without repeatedly relaunching the instance?](../topics/aws.md#how-would-you-debug-a-failing-user-data-script-without-repeatedly-relaunching-th)
 - [How would you design a highly available and fault-tolerant application architecture on AWS?](../topics/aws.md#how-would-you-design-a-highly-available-and-fault-tolerant-application-architect) — tags: `System Design`
+- [How would you design minimum downtime web application in AWS](../topics/aws.md#how-would-you-design-minimum-downtime-web-application-in-aws)
 - [How would you optimize AWS costs without impacting performance?](../topics/aws.md#how-would-you-optimize-aws-costs-without-impacting-performance)
 - [How would you protect applications against DDoS attacks in AWS?](../topics/aws.md#how-would-you-protect-applications-against-ddos-attacks-in-aws)
 - [How would you troubleshoot an HTTPS Application Load Balancer that isn't serving traffic as expected?](../topics/aws.md#how-would-you-troubleshoot-an-https-application-load-balancer-that-isn-t-serving)
@@ -412,7 +445,10 @@
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on)
 - [What checks would you perform before moving an EC2 instance from C5 to T3 family?](../topics/aws.md#what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family)
 - [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down)
+- [What happens when an EC2 instance in an Auto Scaling Group becomes unhealthy?](../topics/aws.md#what-happens-when-an-ec2-instance-in-an-auto-scaling-group-becomes-unhealthy)
 - [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3)
+- [What is an Amazon S3 bucket, and what are S3 Lifecycle Policies?](../topics/aws.md#what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies)
+- [What is AWS Transit Gateway?](../topics/aws.md#what-is-aws-transit-gateway)
 - [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it)
 - [What is AWS?](../topics/aws.md#what-is-aws)
 - [What is EC2?](../topics/aws.md#what-is-ec2)
@@ -457,21 +493,21 @@
 
 ## Recently added
 
+- [How would you access a private EC2 instance if the private PEM key is lost and EC2 Instance Connect is not available?](../topics/aws.md#how-would-you-access-a-private-ec2-instance-if-the-private-pem-key-is-lost-and-e) — 2026-08-10
+- [What is an Amazon S3 bucket, and what are S3 Lifecycle Policies?](../topics/aws.md#what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies) — 2026-08-10
+- [What is AWS Transit Gateway?](../topics/aws.md#what-is-aws-transit-gateway) — 2026-08-10
+- [How do you implement Load Balancing in AWS?](../topics/aws.md#how-do-you-implement-load-balancing-in-aws) — 2026-08-10
+- [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use) — 2026-08-10
+- [How can you ensure cost efficient storage solution using S3 ?](../topics/aws.md#how-can-you-ensure-cost-efficient-storage-solution-using-s3) — 2026-08-10
+- [How can you deploy EC2 instance for fault tolerance and high available applications ?](../topics/aws.md#how-can-you-deploy-ec2-instance-for-fault-tolerance-and-high-available-applicati) — 2026-08-10
+- [Expalin a high scalable application in AWS ?](../topics/aws.md#expalin-a-high-scalable-application-in-aws) — 2026-08-10 · tags: `System Design`
+- [How would you design minimum downtime web application in AWS](../topics/aws.md#how-would-you-design-minimum-downtime-web-application-in-aws) — 2026-08-10
+- [What happens when an EC2 instance in an Auto Scaling Group becomes unhealthy?](../topics/aws.md#what-happens-when-an-ec2-instance-in-an-auto-scaling-group-becomes-unhealthy) — 2026-08-10
+- [How do you securely manage application secrets in AWS?](../topics/aws.md#how-do-you-securely-manage-application-secrets-in-aws) — 2026-08-10
+- [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 2026-08-10
+- [AWS cost and performance issues](../topics/aws.md#aws-cost-and-performance-issues) — 2026-08-10
 - [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 2026-08-02
 - [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — 2026-08-02
-- [A few AWS services and their use cases.](../topics/aws.md#a-few-aws-services-and-their-use-cases) — 2026-08-02
-- [Remote backend & S3 permission errors](../topics/aws.md#remote-backend-s3-permission-errors) — 2026-07-30
-- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 2026-07-30
-- [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) — 2026-07-29
-- [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) — 2026-07-29
-- [Which AWS tools did you use for cost optimization, and how did you use them?](../topics/aws.md#which-aws-tools-did-you-use-for-cost-optimization-and-how-did-you-use-them) — 2026-07-29 · tags: `FinOps`
-- [What is S3 object size?](../topics/aws.md#what-is-s3-object-size) — 2026-07-29
-- [What is the minimum and maximum object size supported by Amazon S3?](../topics/aws.md#what-is-the-minimum-and-maximum-object-size-supported-by-amazon-s3) — 2026-07-29
-- [Explain EC2, NAT, and NACL together in an AWS architecture.](../topics/aws.md#explain-ec2-nat-and-nacl-together-in-an-aws-architecture) — 2026-07-29 · tags: `System Design`
-- [Can you explain AWS architecture?](../topics/aws.md#can-you-explain-aws-architecture) — 2026-07-29 · tags: `System Design`
-- [Your application works correctly in one AWS Availability Zone but fails after traffic moves to another AZ. How would you troubleshoot the infrastructure?](../topics/aws.md#your-application-works-correctly-in-one-aws-availability-zone-but-fails-after-tr) — 2026-07-29
-- [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — 2026-07-29 · tags: `Azure`, `GCP`
-- [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) — 2026-07-28
 
 ## Related topics
 
@@ -493,6 +529,7 @@
 | [An EC2 instance suddenly becomes unreachable. How would you troubleshoot it?](../topics/aws.md#an-ec2-instance-suddenly-becomes-unreachable-how-would-you-troubleshoot-it) | Medium | 1 |
 | [AWS](../topics/aws.md#aws) | Medium | 1 |
 | [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) | Medium | 1 |
+| [AWS cost and performance issues](../topics/aws.md#aws-cost-and-performance-issues) | Medium | 1 |
 | [AWS Glue jobs fail immediately after starting. What would be your first troubleshooting step?](../topics/aws.md#aws-glue-jobs-fail-immediately-after-starting-what-would-be-your-first-troublesh) | Medium | 1 |
 | [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) | Medium | 1 |
 | [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) | Medium | 1 |
@@ -504,6 +541,7 @@
 | [Do you have some experience on Amazon Connect or Lambda?](../topics/aws.md#do-you-have-some-experience-on-amazon-connect-or-lambda) | Medium | 1 |
 | [Do you hold any AWS certifications?](../topics/aws.md#do-you-hold-any-aws-certifications) | Easy | 1 |
 | [Does AWS WAF logging capture all requests? Explain.](../topics/aws.md#does-aws-waf-logging-capture-all-requests-explain) | Medium | 1 |
+| [Expalin a high scalable application in AWS ?](../topics/aws.md#expalin-a-high-scalable-application-in-aws) | Medium | 1 |
 | [Explain EC2, NAT, and NACL together in an AWS architecture.](../topics/aws.md#explain-ec2-nat-and-nacl-together-in-an-aws-architecture) | Hard | 1 |
 | [Explain how Auto Scaling works in AWS.](../topics/aws.md#explain-how-auto-scaling-works-in-aws) | Medium | 1 |
 | [Explain your cloud migration experience from On-Premises to AWS.](../topics/aws.md#explain-your-cloud-migration-experience-from-on-premises-to-aws) | Medium | 1 |
@@ -511,21 +549,27 @@
 | [Files are accidentally deleted from an S3 bucket. How would you recover them?](../topics/aws.md#files-are-accidentally-deleted-from-an-s3-bucket-how-would-you-recover-them) | Medium | 1 |
 | [Have you implemented governance guardrails in AWS Organizations?](../topics/aws.md#have-you-implemented-governance-guardrails-in-aws-organizations) | Medium | 1 |
 | [Have you worked with Load Balancers?](../topics/aws.md#have-you-worked-with-load-balancers) | Easy | 1 |
+| [How can you deploy EC2 instance for fault tolerance and high available applications ?](../topics/aws.md#how-can-you-deploy-ec2-instance-for-fault-tolerance-and-high-available-applicati) | Medium | 1 |
+| [How can you ensure cost efficient storage solution using S3 ?](../topics/aws.md#how-can-you-ensure-cost-efficient-storage-solution-using-s3) | Medium | 1 |
 | [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) | Medium | 1 |
 | [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) | Medium | 5 |
 | [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) | Medium | 2 |
 | [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) | Medium | 1 |
+| [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use) | Medium | 1 |
 | [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) | Medium | 1 |
+| [How do you implement Load Balancing in AWS?](../topics/aws.md#how-do-you-implement-load-balancing-in-aws) | Medium | 1 |
 | [How do you implement Microservices with React and AWS?](../topics/aws.md#how-do-you-implement-microservices-with-react-and-aws) | Hard | 1 |
 | [How do you monitor AWS applications? Which tools, metrics, and alerts do you consider essential?](../topics/aws.md#how-do-you-monitor-aws-applications-which-tools-metrics-and-alerts-do-you-consid) | Medium | 1 |
 | [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) | Medium | 1 |
 | [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) | Medium | 1 |
 | [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) | Medium | 2 |
+| [How do you securely manage application secrets in AWS?](../topics/aws.md#how-do-you-securely-manage-application-secrets-in-aws) | Medium | 1 |
 | [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) | Medium | 2 |
 | [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 2 |
 | [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) | Medium | 1 |
 | [How to provide access to an S3 bucket? Required permissions?](../topics/aws.md#how-to-provide-access-to-an-s3-bucket-required-permissions) | Medium | 1 |
 | [How was infrastructure provisioning handled on these services?](../topics/aws.md#how-was-infrastructure-provisioning-handled-on-these-services) | Medium | 1 |
+| [How would you access a private EC2 instance if the private PEM key is lost and EC2 Instance Connect is not available?](../topics/aws.md#how-would-you-access-a-private-ec2-instance-if-the-private-pem-key-is-lost-and-e) | Medium | 1 |
 | [How would you auto-scale GPU nodes for training workloads without wasting GPU hours on idle pods?](../topics/aws.md#how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho) | Medium | 2 |
 | [How would you centralize AWS WAF monitoring and troubleshooting across 200+ AWS accounts?](../topics/aws.md#how-would-you-centralize-aws-waf-monitoring-and-troubleshooting-across-200-aws-a) | Medium | 1 |
 | [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/aws.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) | Medium | 1 |
@@ -533,6 +577,7 @@
 | [How would you debug a failing User Data script without repeatedly relaunching the instance?](../topics/aws.md#how-would-you-debug-a-failing-user-data-script-without-repeatedly-relaunching-th) | Hard | 1 |
 | [How would you deploy AWS WAF policies across hundreds of AWS accounts?](../topics/aws.md#how-would-you-deploy-aws-waf-policies-across-hundreds-of-aws-accounts) | Medium | 1 |
 | [How would you design a highly available and fault-tolerant application architecture on AWS?](../topics/aws.md#how-would-you-design-a-highly-available-and-fault-tolerant-application-architect) | Hard | 1 |
+| [How would you design minimum downtime web application in AWS](../topics/aws.md#how-would-you-design-minimum-downtime-web-application-in-aws) | Hard | 1 |
 | [How would you enable SSM access for EC2 instances located in private subnets?](../topics/aws.md#how-would-you-enable-ssm-access-for-ec2-instances-located-in-private-subnets) | Medium | 1 |
 | [How would you enforce cloud governance and compliance controls across multiple AWS accounts?](../topics/aws.md#how-would-you-enforce-cloud-governance-and-compliance-controls-across-multiple-a) | Medium | 1 |
 | [How would you manage different security policies for multiple AWS accounts?](../topics/aws.md#how-would-you-manage-different-security-policies-for-multiple-aws-accounts) | Medium | 1 |
@@ -558,13 +603,16 @@
 | [What are Edge Locations?](../topics/aws.md#what-are-edge-locations) | Medium | 1 |
 | [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) | Easy | 1 |
 | [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) | Easy | 1 |
-| [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | Medium | 3 |
+| [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | Medium | 4 |
 | [What are triggers in CI/CD and how do you set them up in AWS Cloud Environment?](../topics/aws.md#what-are-triggers-in-ci-cd-and-how-do-you-set-them-up-in-aws-cloud-environment) | Medium | 2 |
 | [What AWS services are you currently using?](../topics/aws.md#what-aws-services-are-you-currently-using) | Medium | 2 |
 | [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) | Medium | 2 |
 | [What checks would you perform before moving an EC2 instance from C5 to T3 family?](../topics/aws.md#what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family) | Medium | 1 |
 | [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) | Medium | 1 |
+| [What happens when an EC2 instance in an Auto Scaling Group becomes unhealthy?](../topics/aws.md#what-happens-when-an-ec2-instance-in-an-auto-scaling-group-becomes-unhealthy) | Medium | 1 |
 | [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) | Easy | 2 |
+| [What is an Amazon S3 bucket, and what are S3 Lifecycle Policies?](../topics/aws.md#what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies) | Easy | 1 |
+| [What is AWS Transit Gateway?](../topics/aws.md#what-is-aws-transit-gateway) | Easy | 1 |
 | [What is AWS WAF and what is your experience with it?](../topics/aws.md#what-is-aws-waf-and-what-is-your-experience-with-it) | Medium | 1 |
 | [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it) | Easy | 1 |
 | [What is AWS?](../topics/aws.md#what-is-aws) | Easy | 2 |

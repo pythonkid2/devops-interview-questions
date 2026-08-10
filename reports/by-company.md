@@ -4,8 +4,8 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1483 |
-| [Infosys](../companies/infosys.md) | 48 |
+| [Unknown Company](../companies/unknown-company.md) | 1553 |
+| [Infosys](../companies/infosys.md) | 63 |
 | [TCS](../companies/tcs.md) | 47 |
 | [Mphasis](../companies/mphasis.md) | 43 |
 | [Elite Code Technologies](../companies/elite-code-technologies.md) | 33 |

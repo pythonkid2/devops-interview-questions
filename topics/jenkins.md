@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**86** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**88** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 86 |
-| Easy / Medium / Hard | 2 / 78 / 6 |
-| Companies | 6 |
+| Questions | 88 |
+| Easy / Medium / Hard | 2 / 80 / 6 |
+| Companies | 7 |
 
 ## Most asked
 
@@ -179,6 +179,8 @@
   <a id="a-jenkins-pipeline-completes-successfully-but-the-application-is-not-deployed-ho"></a>
 - [A shell script behaves differently when executed manually versus Jenkins. Why can this happen?](../topics/jenkins.md#a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can) — 1× · tags: `Shell Scripting`
   <a id="a-shell-script-behaves-differently-when-executed-manually-versus-jenkins-why-can"></a>
+- [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) — 1× · tags: `CI/CD`, `AWS`
+  <a id="explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an"></a>
 - [Explain your experience with Jenkins and GitLab CI/CD.](../topics/jenkins.md#explain-your-experience-with-jenkins-and-gitlab-ci-cd) — 1× · tags: `GitLab CI`, `CI/CD`
   <a id="explain-your-experience-with-jenkins-and-gitlab-ci-cd"></a>
 - [Have you configured any code quality or security tools in Jenkins pipelines?](../topics/jenkins.md#have-you-configured-any-code-quality-or-security-tools-in-jenkins-pipelines) — 1×
@@ -211,6 +213,8 @@
   <a id="how-do-you-optimize-jenkins-pipeline-performance"></a>
 - [How do you roll back a failed deployment in Jenkins?](../topics/jenkins.md#how-do-you-roll-back-a-failed-deployment-in-jenkins) — 1×
   <a id="how-do-you-roll-back-a-failed-deployment-in-jenkins"></a>
+- [How do you troubleshoot a failed Jenkins pipeline or GitHub Actions workflow?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow) — 1× · tags: `GitHub Actions`, `CI/CD`
+  <a id="how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow"></a>
 - [How do you use shared libraries in Jenkins?](../topics/jenkins.md#how-do-you-use-shared-libraries-in-jenkins) — 1×
   <a id="how-do-you-use-shared-libraries-in-jenkins"></a>
 - [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks) — 1×
@@ -289,6 +293,7 @@
 - [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes)
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — tags: `CI/CD`
 - [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) — tags: `CI/CD`
+- [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) — tags: `CI/CD`, `AWS`
 - [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture)
 - [Explain the stages in a Jenkins Pipeline.](../topics/jenkins.md#explain-the-stages-in-a-jenkins-pipeline)
 - [Explain your experience with Jenkins and GitLab CI/CD.](../topics/jenkins.md#explain-your-experience-with-jenkins-and-gitlab-ci-cd) — tags: `GitLab CI`, `CI/CD`
@@ -315,6 +320,7 @@
 - [How do you secure Jenkins in production?](../topics/jenkins.md#how-do-you-secure-jenkins-in-production)
 - [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins)
 - [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build)
+- [How do you troubleshoot a failed Jenkins pipeline or GitHub Actions workflow?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow) — tags: `GitHub Actions`, `CI/CD`
 - [How do you use shared libraries in Jenkins?](../topics/jenkins.md#how-do-you-use-shared-libraries-in-jenkins)
 - [How does Jenkins trigger automatically after a GitHub push?](../topics/jenkins.md#how-does-jenkins-trigger-automatically-after-a-github-push)
 - [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks)
@@ -360,6 +366,7 @@
 
 - [Accenture](../companies/accenture.md)
 - [Deloitte](../companies/deloitte.md)
+- [Infosys](../companies/infosys.md)
 - [Mirafra](../companies/mirafra.md)
 - [Mphasis](../companies/mphasis.md)
 - [TCS](../companies/tcs.md)
@@ -367,6 +374,8 @@
 
 ## Recently added
 
+- [How do you troubleshoot a failed Jenkins pipeline or GitHub Actions workflow?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow) — 2026-08-10 · tags: `GitHub Actions`, `CI/CD`
+- [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) — 2026-08-10 · tags: `CI/CD`, `AWS`
 - [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) — 2026-08-02 · tags: `CI/CD`
 - [How do you implement multi-branch CI/CD pipelines in GitLab or Jenkins?](../topics/jenkins.md#how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins) — 2026-07-30 · tags: `CI/CD`
 - [Lost the Jenkins admin password — how do you recover it?](../topics/jenkins.md#lost-the-jenkins-admin-password-how-do-you-recover-it) — 2026-07-29
@@ -380,8 +389,6 @@
 - [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 2026-07-26
 - [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) — 2026-07-26
 - [What are shared libraries in Jenkins and how do you write and wire them?](../topics/jenkins.md#what-are-shared-libraries-in-jenkins-and-how-do-you-write-and-wire-them) — 2026-07-26
-- [Walk through the CI/CD workflow you actually run and how you define pipelines in Jenkins.](../topics/jenkins.md#walk-through-the-ci-cd-workflow-you-actually-run-and-how-you-define-pipelines-in) — 2026-07-26 · tags: `CI/CD`
-- [A Jenkins agent frequently goes offline during deployments. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-agent-frequently-goes-offline-during-deployments-how-would-you-trouble) — 2026-07-26
 
 ## Related topics
 
@@ -408,6 +415,7 @@
 | [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) | Medium | 2 |
 | [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) | Medium | 2 |
 | [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) | Medium | 2 |
+| [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) | Medium | 1 |
 | [Explain the Jenkins architecture.](../topics/jenkins.md#explain-the-jenkins-architecture) | Medium | 2 |
 | [Explain the Jenkins pipeline you worked on.](../topics/jenkins.md#explain-the-jenkins-pipeline-you-worked-on) | Medium | 2 |
 | [Explain the stages in a Jenkins Pipeline.](../topics/jenkins.md#explain-the-stages-in-a-jenkins-pipeline) | Medium | 2 |
@@ -438,6 +446,7 @@
 | [How do you secure Jenkins in production?](../topics/jenkins.md#how-do-you-secure-jenkins-in-production) | Hard | 1 |
 | [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) | Medium | 4 |
 | [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) | Medium | 2 |
+| [How do you troubleshoot a failed Jenkins pipeline or GitHub Actions workflow?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow) | Medium | 1 |
 | [How do you use shared libraries in Jenkins?](../topics/jenkins.md#how-do-you-use-shared-libraries-in-jenkins) | Medium | 1 |
 | [How does Jenkins trigger automatically after a GitHub push?](../topics/jenkins.md#how-does-jenkins-trigger-automatically-after-a-github-push) | Medium | 2 |
 | [How would you integrate Rundeck with Jenkins for automated operational tasks?](../topics/jenkins.md#how-would-you-integrate-rundeck-with-jenkins-for-automated-operational-tasks) | Medium | 1 |

@@ -27,14 +27,14 @@
 
 ## Most asked
 
+- [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) — **3×** · Medium
+  <a id="if-you-have-to-deploy-a-self-hosted-database-what-will-you-do"></a>
+- [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — **3×** · Medium · tags: `AWS`
+  <a id="scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo"></a>
+- [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — **3×** · Medium
+  <a id="scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-"></a>
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — **2×** · Medium
   <a id="an-application-cannot-connect-to-the-database-what-would-you-check"></a>
-- [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) — **2×** · Medium
-  <a id="if-you-have-to-deploy-a-self-hosted-database-what-will-you-do"></a>
-- [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — **2×** · Medium · tags: `AWS`
-  <a id="scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo"></a>
-- [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — **2×** · Medium
-  <a id="scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-"></a>
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) — **1×** · Medium
   <a id="a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how"></a>
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — **1×** · Medium
@@ -59,14 +59,14 @@
 
 ## Intermediate
 
+- [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) — 3×
+  <a id="if-you-have-to-deploy-a-self-hosted-database-what-will-you-do"></a>
+- [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — 3× · tags: `AWS`
+  <a id="scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo"></a>
+- [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — 3×
+  <a id="scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-"></a>
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — 2×
   <a id="an-application-cannot-connect-to-the-database-what-would-you-check"></a>
-- [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) — 2×
-  <a id="if-you-have-to-deploy-a-self-hosted-database-what-will-you-do"></a>
-- [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — 2× · tags: `AWS`
-  <a id="scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo"></a>
-- [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — 2×
-  <a id="scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-"></a>
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) — 1×
   <a id="a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how"></a>
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — 1×
@@ -108,13 +108,13 @@
 
 ## Recently added
 
+- [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — 2026-08-10
+- [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) — 2026-08-10
+- [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — 2026-08-10 · tags: `AWS`
 - [Database transactions](../topics/databases.md#database-transactions) — 2026-07-29
 - [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — 2026-07-27
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — 2026-07-26 · tags: `Azure`
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — 2026-07-18
-- [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — 2026-07-17
-- [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) — 2026-07-17
-- [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — 2026-07-17 · tags: `AWS`
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — 2026-07-17
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — 2026-07-17
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — 2026-07-17 · tags: `System Design`
@@ -138,9 +138,9 @@
 | [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) | Hard | 1 |
 | [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) | Medium | 1 |
 | [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) | Medium | 1 |
-| [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) | Medium | 2 |
-| [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) | Medium | 2 |
-| [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) | Medium | 2 |
+| [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) | Medium | 3 |
+| [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) | Medium | 3 |
+| [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) | Medium | 3 |
 | [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) | Medium | 1 |
 | [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) | Easy | 1 |
 

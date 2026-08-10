@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**26** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**28** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 26 |
-| Easy / Medium / Hard | 3 / 23 / 0 |
+| Questions | 28 |
+| Easy / Medium / Hard | 3 / 25 / 0 |
 | Companies | 2 |
 
 ## Most asked
@@ -33,8 +33,12 @@
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — **2×** · Medium
   <a id="for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events"></a>
+- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — **2×** · Medium
+  <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
 - [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — **2×** · Medium
   <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
+- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — **2×** · Medium
+  <a id="how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — **2×** · Medium
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
 - [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) — **2×** · Medium
@@ -51,20 +55,20 @@
   <a id="which-linux-commands-do-you-know"></a>
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — **1×** · Medium
   <a id="can-you-write-rule-for-setting-for-iptable-in-linux"></a>
+- [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) — **1×** · Medium
+  <a id="explain-linux-permission-774"></a>
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — **1×** · Medium
   <a id="explain-the-linux-file-system-hierarchy"></a>
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — **1×** · Medium
   <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — **1×** · Medium
   <a id="how-do-you-analyze-linux-logs-to-identify-application-issues"></a>
+- [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) — **1×** · Medium
+  <a id="how-do-you-check-the-disk-space-in-linux"></a>
 - [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) — **1×** · Medium
   <a id="how-do-you-deploy-applications-on-a-linux-server"></a>
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — **1×** · Medium
   <a id="how-do-you-manage-services-in-linux"></a>
-- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — **1×** · Medium
-  <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
-- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — **1×** · Medium
-  <a id="how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — **1×** · Medium
   <a id="linux-administration-networking-basics"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
@@ -73,10 +77,6 @@
   <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
 - [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — **1×** · Medium
   <a id="which-linux-command-has-embarrassed-you-the-most"></a>
-- [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — **1×** · Medium
-  <a id="which-linux-commands-do-you-use-daily-in-your-project"></a>
-- [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — **1×** · Medium
-  <a id="which-linux-distribution-did-you-use-and-why"></a>
 
 ## Beginner
 
@@ -93,8 +93,12 @@
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — 2×
   <a id="for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events"></a>
+- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2×
+  <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
 - [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2×
   <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
+- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 2×
+  <a id="how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — 2×
   <a id="if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi"></a>
 - [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) — 2×
@@ -109,20 +113,20 @@
   <a id="which-linux-commands-do-you-know"></a>
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — 1×
   <a id="can-you-write-rule-for-setting-for-iptable-in-linux"></a>
+- [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) — 1×
+  <a id="explain-linux-permission-774"></a>
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — 1×
   <a id="explain-the-linux-file-system-hierarchy"></a>
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 1×
   <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — 1×
   <a id="how-do-you-analyze-linux-logs-to-identify-application-issues"></a>
+- [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) — 1×
+  <a id="how-do-you-check-the-disk-space-in-linux"></a>
 - [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) — 1×
   <a id="how-do-you-deploy-applications-on-a-linux-server"></a>
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — 1×
   <a id="how-do-you-manage-services-in-linux"></a>
-- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 1×
-  <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
-- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 1×
-  <a id="how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 1×
   <a id="linux-administration-networking-basics"></a>
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 1×
@@ -146,10 +150,12 @@ _None in this band yet._
 
 - [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-)
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux)
+- [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774)
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy)
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events)
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform)
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues)
+- [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux)
 - [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server)
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux)
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux)
@@ -178,21 +184,21 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) — 2026-08-10
+- [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) — 2026-08-10
+- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2026-08-10
+- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 2026-08-10
 - [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) — 2026-08-02
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 2026-08-02
 - [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — 2026-07-29
 - [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) — 2026-07-29
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — 2026-07-27
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 2026-07-27
-- [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2026-07-26
-- [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 2026-07-26
 - [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) — 2026-07-26
 - [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 2026-07-26
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — 2026-07-21
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — 2026-07-21
 - [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) — 2026-07-21
-- [Which Linux distribution did you use and why?](../topics/linux.md#which-linux-distribution-did-you-use-and-why) — 2026-07-21
-- [Which Linux commands do you use daily in your project?](../topics/linux.md#which-linux-commands-do-you-use-daily-in-your-project) — 2026-07-21
 
 ## Related topics
 
@@ -205,15 +211,17 @@ _None in this band yet._
 | --- | --- | ---: |
 | [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) | Medium | 2 |
 | [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) | Medium | 1 |
+| [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) | Medium | 1 |
 | [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) | Medium | 1 |
 | [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) | Medium | 2 |
 | [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) | Medium | 1 |
 | [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) | Medium | 1 |
+| [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) | Medium | 1 |
 | [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) | Medium | 1 |
 | [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) | Medium | 1 |
-| [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) | Medium | 1 |
+| [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) | Medium | 2 |
 | [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) | Medium | 2 |
-| [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) | Medium | 1 |
+| [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) | Medium | 2 |
 | [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) | Medium | 2 |
 | [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) | Medium | 2 |
 | [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) | Medium | 1 |

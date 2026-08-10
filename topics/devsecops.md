@@ -27,10 +27,10 @@
 
 ## Most asked
 
+- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — **3×** · Easy
+  <a id="what-is-code-smell-in-sonarqube"></a>
 - [Mention integrating tools like SonarQube and Trivy into CI/CD pipelines so vulnerabilities are detected before reaching production.](../topics/devsecops.md#mention-integrating-tools-like-sonarqube-and-trivy-into-ci-cd-pipelines-so-vulne) — **2×** · Hard · tags: `CI/CD`
   <a id="mention-integrating-tools-like-sonarqube-and-trivy-into-ci-cd-pipelines-so-vulne"></a>
-- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — **2×** · Easy
-  <a id="what-is-code-smell-in-sonarqube"></a>
 - [A ransomware attack compromises 3,000 production servers, container registries, and CI/CD pipelines across multiple regions. How would you secure the platform, recover operations, and strengthen DevSecOps controls while minimizing business disruption?](../topics/devsecops.md#a-ransomware-attack-compromises-3000-production-servers-container-registries-and) — **1×** · Hard · tags: `Docker`, `CI/CD`
   <a id="a-ransomware-attack-compromises-3000-production-servers-container-registries-and"></a>
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) — **1×** · Medium
@@ -46,7 +46,7 @@
 
 ## Beginner
 
-- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — 2×
+- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — 3×
   <a id="what-is-code-smell-in-sonarqube"></a>
 
 ## Intermediate
@@ -88,13 +88,13 @@
 
 ## Recently added
 
+- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — 2026-08-10
 - [The CTO requests a real time engineering dashboard integrating Azure DevOps, GitHub, SonarQube, Application Insights, Microsoft Fabric, Power BI, and Azure Monitor. How would you define engineering KPIs, code quality metrics, deployment health, and platform governance?](../topics/devsecops.md#the-cto-requests-a-real-time-engineering-dashboard-integrating-azure-devops-gith) — 2026-08-02 · tags: `Azure DevOps`, `Azure`
 - [The Board approves a $800 million Digital Engineering Program using .NET 8, Azure, AI, Azure OpenAI, Microsoft Fabric, Docker, Kubernetes, and DevSecOps, targeting 50% faster releases, 99.99% system availability, and 40% lower infrastructure costs. What implementation roadmap would you recommend?](../topics/devsecops.md#the-board-approves-a-800-million-digital-engineering-program-using-net-8-azure-a) — 2026-08-02 · tags: `Kubernetes`, `Docker`, `Azure`
 - [A ransomware attack compromises 3,000 production servers, container registries, and CI/CD pipelines across multiple regions. How would you secure the platform, recover operations, and strengthen DevSecOps controls while minimizing business disruption?](../topics/devsecops.md#a-ransomware-attack-compromises-3000-production-servers-container-registries-and) — 2026-07-30 · tags: `Docker`, `CI/CD`
 - [Mention integrating tools like SonarQube and Trivy into CI/CD pipelines so vulnerabilities are detected before reaching production.](../topics/devsecops.md#mention-integrating-tools-like-sonarqube-and-trivy-into-ci-cd-pipelines-so-vulne) — 2026-07-28 · tags: `CI/CD`
 - [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — 2026-07-27 · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 - [SAST & DAST](../topics/devsecops.md#sast-dast) — 2026-07-26
-- [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) — 2026-07-17
 - [Difference between code smells, bugs, vulnerabilities, and technical debt from the codebase in sonarqube.](../topics/devsecops.md#difference-between-code-smells-bugs-vulnerabilities-and-technical-debt-from-the-) — 2026-07-17
 
 ## Related topics
@@ -117,7 +117,7 @@
 | [The Board approves a $800 million Digital Engineering Program using .NET 8, Azure, AI, Azure OpenAI, Microsoft Fabric, Docker, Kubernetes, and DevSecOps, targeting 50% faster releases, 99.99% system availability, and 40% lower infrastructure costs. What implementation roadmap would you recommend?](../topics/devsecops.md#the-board-approves-a-800-million-digital-engineering-program-using-net-8-azure-a) | Medium | 1 |
 | [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) | Hard | 1 |
 | [The CTO requests a real time engineering dashboard integrating Azure DevOps, GitHub, SonarQube, Application Insights, Microsoft Fabric, Power BI, and Azure Monitor. How would you define engineering KPIs, code quality metrics, deployment health, and platform governance?](../topics/devsecops.md#the-cto-requests-a-real-time-engineering-dashboard-integrating-azure-devops-gith) | Medium | 1 |
-| [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) | Easy | 2 |
+| [What is code smell in SonarQube ?](../topics/devsecops.md#what-is-code-smell-in-sonarqube) | Easy | 3 |
 
 ## Learning resources
 

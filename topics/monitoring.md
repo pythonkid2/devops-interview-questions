@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**20** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**21** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 20 |
-| Easy / Medium / Hard | 3 / 15 / 2 |
-| Companies | 7 |
+| Questions | 21 |
+| Easy / Medium / Hard | 3 / 16 / 2 |
+| Companies | 8 |
 
 ## Most asked
 
@@ -45,6 +45,8 @@
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — **1×** · Medium
   <a id="health-checks-monitoring"></a>
+- [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — **1×** · Medium · tags: `AWS`
+  <a id="how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d"></a>
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — **1×** · Medium
   <a id="how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d"></a>
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — **1×** · Medium
@@ -93,6 +95,8 @@
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 1×
   <a id="health-checks-monitoring"></a>
+- [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — 1× · tags: `AWS`
+  <a id="how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d"></a>
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — 1×
   <a id="how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d"></a>
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 1×
@@ -131,6 +135,7 @@
 - [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy)
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring)
 - [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency)
+- [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — tags: `AWS`
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d)
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting)
 - [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack)
@@ -151,12 +156,14 @@
 - [Argyll Infotech](../companies/argyll-infotech.md)
 - [DPRSolutions](../companies/dprsolutions.md)
 - [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md)
+- [Infosys](../companies/infosys.md)
 - [Mirafra](../companies/mirafra.md)
 - [Sri-Hire](../companies/sri-hire.md)
 - [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — 2026-08-10 · tags: `AWS`
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2026-08-02
 - [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 2026-07-29
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — 2026-07-28
@@ -171,7 +178,6 @@
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — 2026-07-17 · tags: `CI/CD`
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — 2026-07-17
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 2026-07-15
-- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 2026-07-15
 
 ## Related topics
 
@@ -194,6 +200,7 @@
 | [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) | Medium | 2 |
 | [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) | Medium | 1 |
 | [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) | Medium | 2 |
+| [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) | Medium | 1 |
 | [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) | Medium | 1 |
 | [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) | Medium | 1 |
 | [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) | Easy | 1 |

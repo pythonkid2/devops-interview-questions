@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Shell Scripting**
 
-**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 4 |
-| Easy / Medium / Hard | 0 / 4 / 0 |
+| Questions | 5 |
+| Easy / Medium / Hard | 0 / 5 / 0 |
 | Companies | 1 |
 
 ## Most asked
 
+- [Can you write a simple shell script?](../topics/shell-scripting.md#can-you-write-a-simple-shell-script) — **2×** · Medium
+  <a id="can-you-write-a-simple-shell-script"></a>
 - [A cron job is not executing. How would you verify it?](../topics/shell-scripting.md#a-cron-job-is-not-executing-how-would-you-verify-it) — **1×** · Medium
   <a id="a-cron-job-is-not-executing-how-would-you-verify-it"></a>
 - [How would you restart only failed services using a shell script?](../topics/shell-scripting.md#how-would-you-restart-only-failed-services-using-a-shell-script) — **1×** · Medium
@@ -42,6 +44,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Can you write a simple shell script?](../topics/shell-scripting.md#can-you-write-a-simple-shell-script) — 2×
+  <a id="can-you-write-a-simple-shell-script"></a>
 - [A cron job is not executing. How would you verify it?](../topics/shell-scripting.md#a-cron-job-is-not-executing-how-would-you-verify-it) — 1×
   <a id="a-cron-job-is-not-executing-how-would-you-verify-it"></a>
 - [How would you restart only failed services using a shell script?](../topics/shell-scripting.md#how-would-you-restart-only-failed-services-using-a-shell-script) — 1×
@@ -60,6 +64,7 @@ _None in this band yet._
 ### Unspecified
 
 - [A cron job is not executing. How would you verify it?](../topics/shell-scripting.md#a-cron-job-is-not-executing-how-would-you-verify-it)
+- [Can you write a simple shell script?](../topics/shell-scripting.md#can-you-write-a-simple-shell-script)
 - [How would you restart only failed services using a shell script?](../topics/shell-scripting.md#how-would-you-restart-only-failed-services-using-a-shell-script)
 - [Write a shell script that checks whether five critical services are running and restarts only the failed services.](../topics/shell-scripting.md#write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-)
 - [Write down a script shell script so that it would go and identify the dead or stuck pods in the system?](../topics/shell-scripting.md#write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st)
@@ -70,6 +75,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Can you write a simple shell script?](../topics/shell-scripting.md#can-you-write-a-simple-shell-script) — 2026-08-10
 - [How would you restart only failed services using a shell script?](../topics/shell-scripting.md#how-would-you-restart-only-failed-services-using-a-shell-script) — 2026-07-26
 - [A cron job is not executing. How would you verify it?](../topics/shell-scripting.md#a-cron-job-is-not-executing-how-would-you-verify-it) — 2026-07-21
 - [Write a shell script that checks whether five critical services are running and restarts only the failed services.](../topics/shell-scripting.md#write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-) — 2026-07-20
@@ -85,6 +91,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A cron job is not executing. How would you verify it?](../topics/shell-scripting.md#a-cron-job-is-not-executing-how-would-you-verify-it) | Medium | 1 |
+| [Can you write a simple shell script?](../topics/shell-scripting.md#can-you-write-a-simple-shell-script) | Medium | 2 |
 | [How would you restart only failed services using a shell script?](../topics/shell-scripting.md#how-would-you-restart-only-failed-services-using-a-shell-script) | Medium | 1 |
 | [Write a shell script that checks whether five critical services are running and restarts only the failed services.](../topics/shell-scripting.md#write-a-shell-script-that-checks-whether-five-critical-services-are-running-and-) | Medium | 1 |
 | [Write down a script shell script so that it would go and identify the dead or stuck pods in the system?](../topics/shell-scripting.md#write-down-a-script-shell-script-so-that-it-would-go-and-identify-the-dead-or-st) | Medium | 1 |
