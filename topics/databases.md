@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Databases**
 
-**15** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**16** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 15 |
-| Easy / Medium / Hard | 1 / 13 / 1 |
+| Questions | 16 |
+| Easy / Medium / Hard | 1 / 14 / 1 |
 | Companies | 2 |
 
 ## Most asked
@@ -35,8 +35,14 @@
   <a id="scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-"></a>
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — **2×** · Medium
   <a id="an-application-cannot-connect-to-the-database-what-would-you-check"></a>
+- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — **2×** · Medium
+  <a id="horizontal-scaling-and-sharding-in-mongodb"></a>
 - [How to optimize database query](../topics/databases.md#how-to-optimize-database-query) — **2×** · Medium
   <a id="how-to-optimize-database-query"></a>
+- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — **2×** · Medium
+  <a id="mongodb-vs-sql-server"></a>
+- [50 tables run in parallel and overload the source database. How would you control ADF concurrency?](../topics/databases.md#50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control) — **1×** · Medium
+  <a id="50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control"></a>
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) — **1×** · Medium
   <a id="a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how"></a>
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — **1×** · Medium
@@ -47,12 +53,8 @@
   <a id="design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des"></a>
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — **1×** · Medium
   <a id="explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t"></a>
-- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — **1×** · Medium
-  <a id="horizontal-scaling-and-sharding-in-mongodb"></a>
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — **1×** · Medium
   <a id="how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach"></a>
-- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — **1×** · Medium
-  <a id="mongodb-vs-sql-server"></a>
 - [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — **1×** · Medium
   <a id="suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano"></a>
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — **1×** · Easy · tags: `Azure`
@@ -73,8 +75,14 @@
   <a id="scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-"></a>
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — 2×
   <a id="an-application-cannot-connect-to-the-database-what-would-you-check"></a>
+- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 2×
+  <a id="horizontal-scaling-and-sharding-in-mongodb"></a>
 - [How to optimize database query](../topics/databases.md#how-to-optimize-database-query) — 2×
   <a id="how-to-optimize-database-query"></a>
+- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 2×
+  <a id="mongodb-vs-sql-server"></a>
+- [50 tables run in parallel and overload the source database. How would you control ADF concurrency?](../topics/databases.md#50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control) — 1×
+  <a id="50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control"></a>
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) — 1×
   <a id="a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how"></a>
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — 1×
@@ -83,12 +91,8 @@
   <a id="database-transactions"></a>
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — 1×
   <a id="explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t"></a>
-- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 1×
-  <a id="horizontal-scaling-and-sharding-in-mongodb"></a>
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — 1×
   <a id="how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach"></a>
-- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 1×
-  <a id="mongodb-vs-sql-server"></a>
 - [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — 1×
   <a id="suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano"></a>
 
@@ -101,6 +105,7 @@
 
 ### Unspecified
 
+- [50 tables run in parallel and overload the source database. How would you control ADF concurrency?](../topics/databases.md#50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control)
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how)
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check)
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps)
@@ -124,9 +129,10 @@
 
 ## Recently added
 
+- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 2026-08-12
+- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 2026-08-12
+- [50 tables run in parallel and overload the source database. How would you control ADF concurrency?](../topics/databases.md#50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control) — 2026-08-12
 - [How to optimize database query](../topics/databases.md#how-to-optimize-database-query) — 2026-08-10
-- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 2026-08-10
-- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 2026-08-10
 - [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) — 2026-08-10
 - [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) — 2026-08-10
 - [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) — 2026-08-10 · tags: `AWS`
@@ -138,7 +144,6 @@
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — 2026-07-17
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — 2026-07-17 · tags: `System Design`
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) — 2026-07-17
-- [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — 2026-07-16
 
 ## Related topics
 
@@ -150,17 +155,18 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [50 tables run in parallel and overload the source database. How would you control ADF concurrency?](../topics/databases.md#50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control) | Medium | 1 |
 | [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) | Medium | 1 |
 | [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) | Medium | 2 |
 | [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) | Medium | 1 |
 | [Database transactions](../topics/databases.md#database-transactions) | Medium | 1 |
 | [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) | Hard | 1 |
 | [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) | Medium | 1 |
-| [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) | Medium | 1 |
+| [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) | Medium | 2 |
 | [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) | Medium | 1 |
 | [How to optimize database query](../topics/databases.md#how-to-optimize-database-query) | Medium | 2 |
 | [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) | Medium | 3 |
-| [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) | Medium | 1 |
+| [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) | Medium | 2 |
 | [Scenario - If you have to deploy a database on Ec2 instances, say MySQL, how will you use it and what strategy u will use ?](../topics/databases.md#scenario-if-you-have-to-deploy-a-database-on-ec2-instances-say-mysql-how-will-yo) | Medium | 3 |
 | [Scenario - Say developers comes and tell you that they are developing a new micro-service ,for which they require DynamoDB table, What would be your strategy for that ?](../topics/databases.md#scenario-say-developers-comes-and-tell-you-that-they-are-developing-a-new-micro-) | Medium | 3 |
 | [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) | Medium | 1 |

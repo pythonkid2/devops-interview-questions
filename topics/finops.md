@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — **4×** · Medium
+- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — **5×** · Medium
   <a id="your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it"></a>
 - [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — **3×** · Medium
   <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
@@ -49,7 +49,7 @@
 
 ## Intermediate
 
-- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — 4×
+- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — 5×
   <a id="your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it"></a>
 - [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 3×
   <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
@@ -84,7 +84,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — 2026-08-10
+- [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — 2026-08-12
 - [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation) — 2026-08-10
 - [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) — 2026-08-10
 - [Cost optimization scenarios](../topics/finops.md#cost-optimization-scenarios) — 2026-07-26
@@ -107,7 +107,7 @@ _None in this band yet._
 | [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) | Medium | 2 |
 | [How would you investigate a 40% cloud cost increase?](../topics/finops.md#how-would-you-investigate-a-40-cloud-cost-increase) | Medium | 1 |
 | [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation) | Medium | 2 |
-| [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) | Medium | 4 |
+| [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) | Medium | 5 |
 
 ## Learning resources
 

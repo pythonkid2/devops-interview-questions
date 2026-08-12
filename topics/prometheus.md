@@ -29,6 +29,8 @@
 
 - [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — **2×** · Medium · tags: `Grafana`
   <a id="explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor"></a>
+- [Prometheus](../topics/prometheus.md#prometheus) — **2×** · Medium
+  <a id="prometheus"></a>
 - [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) — **2×** · Medium
   <a id="prometheus-is-running-out-of-storage-what-would-you-do"></a>
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) — **1×** · Medium
@@ -45,8 +47,6 @@
   <a id="how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana"></a>
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — **1×** · Medium · tags: `Grafana`, `Monitoring`
   <a id="monitoring-with-prometheus-grafana"></a>
-- [Prometheus](../topics/prometheus.md#prometheus) — **1×** · Medium
-  <a id="prometheus"></a>
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — **1×** · Medium
   <a id="prometheus-kya-karta-hai"></a>
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — **1×** · Medium
@@ -62,6 +62,8 @@ _None in this band yet._
 
 - [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — 2× · tags: `Grafana`
   <a id="explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor"></a>
+- [Prometheus](../topics/prometheus.md#prometheus) — 2×
+  <a id="prometheus"></a>
 - [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) — 2×
   <a id="prometheus-is-running-out-of-storage-what-would-you-do"></a>
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) — 1×
@@ -78,8 +80,6 @@ _None in this band yet._
   <a id="how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana"></a>
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — 1× · tags: `Grafana`, `Monitoring`
   <a id="monitoring-with-prometheus-grafana"></a>
-- [Prometheus](../topics/prometheus.md#prometheus) — 1×
-  <a id="prometheus"></a>
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — 1×
   <a id="prometheus-kya-karta-hai"></a>
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — 1×
@@ -115,11 +115,11 @@ _None in this band yet._
 
 ## Recently added
 
+- [Prometheus](../topics/prometheus.md#prometheus) — 2026-08-12
 - [are you sure prometheus and grafana do log aggregation?](../topics/prometheus.md#are-you-sure-prometheus-and-grafana-do-log-aggregation) — 2026-08-10 · tags: `Grafana`
 - [What metrics do you monitor using Prometheus?](../topics/prometheus.md#what-metrics-do-you-monitor-using-prometheus) — 2026-08-02
 - [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) — 2026-07-29
 - [Explain how Prometheus and Grafana helped identify performance bottlenecks before customers noticed them.](../topics/prometheus.md#explain-how-prometheus-and-grafana-helped-identify-performance-bottlenecks-befor) — 2026-07-28 · tags: `Grafana`
-- [Prometheus](../topics/prometheus.md#prometheus) — 2026-07-26
 - [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) — 2026-07-18
 - [After enabling a NetworkPolicy, Prometheus can no longer scrape application metrics. What happened, and how would you fix it?](../topics/prometheus.md#after-enabling-a-networkpolicy-prometheus-can-no-longer-scrape-application-metri) — 2026-07-18
 - [Have you configured alerts in Prometheus and Grafana? Explain the setup.](../topics/prometheus.md#have-you-configured-alerts-in-prometheus-and-grafana-explain-the-setup) — 2026-07-17 · tags: `Grafana`
@@ -152,7 +152,7 @@ _None in this band yet._
 | [Have you used Prometheus for monitoring? How was it integrated with Grafana?](../topics/prometheus.md#have-you-used-prometheus-for-monitoring-how-was-it-integrated-with-grafana) | Medium | 1 |
 | [How do you monitor Kubernetes clusters using CloudWatch, Prometheus, and Grafana?](../topics/prometheus.md#how-do-you-monitor-kubernetes-clusters-using-cloudwatch-prometheus-and-grafana) | Medium | 1 |
 | [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) | Medium | 1 |
-| [Prometheus](../topics/prometheus.md#prometheus) | Medium | 1 |
+| [Prometheus](../topics/prometheus.md#prometheus) | Medium | 2 |
 | [Prometheus is running out of storage. What would you do?](../topics/prometheus.md#prometheus-is-running-out-of-storage-what-would-you-do) | Medium | 2 |
 | [Prometheus kya karta hai?](../topics/prometheus.md#prometheus-kya-karta-hai) | Medium | 1 |
 | [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) | Medium | 1 |

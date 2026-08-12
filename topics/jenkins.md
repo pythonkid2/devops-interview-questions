@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Jenkins**
 
-**89** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**90** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 89 |
-| Easy / Medium / Hard | 2 / 81 / 6 |
+| Questions | 90 |
+| Easy / Medium / Hard | 2 / 82 / 6 |
 | Companies | 7 |
 
 ## Most asked
@@ -75,8 +75,8 @@
   <a id="how-does-jenkins-trigger-automatically-after-a-github-push"></a>
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — **2×** · Medium
   <a id="if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t"></a>
-- [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — **2×** · Medium · tags: `CI/CD`
-  <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
+- [Jenkins](../topics/jenkins.md#jenkins) — **2×** · Medium
+  <a id="jenkins"></a>
 
 ## Beginner
 
@@ -135,6 +135,8 @@
   <a id="how-does-jenkins-trigger-automatically-after-a-github-push"></a>
 - [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) — 2×
   <a id="if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t"></a>
+- [Jenkins](../topics/jenkins.md#jenkins) — 2×
+  <a id="jenkins"></a>
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — 2× · tags: `CI/CD`
   <a id="jenkins-pipeline-failed-what-s-your-debugging-approach"></a>
 - [Jenkins/GitHub Actions](../topics/jenkins.md#jenkins-github-actions) — 2× · tags: `GitHub Actions`
@@ -223,8 +225,8 @@
   <a id="if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you"></a>
 - [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) — 1× · tags: `CI/CD`
   <a id="if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger"></a>
-- [Jenkins](../topics/jenkins.md#jenkins) — 1×
-  <a id="jenkins"></a>
+- [Jenkins agents and pipelines](../topics/jenkins.md#jenkins-agents-and-pipelines) — 1×
+  <a id="jenkins-agents-and-pipelines"></a>
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — 1× · tags: `CI/CD`
   <a id="jenkins-pipeline-automation"></a>
 - [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) — 1× · tags: `CI/CD`
@@ -329,6 +331,7 @@
 - [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) — tags: `CI/CD`
 - [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) — tags: `CI/CD`
 - [Jenkins](../topics/jenkins.md#jenkins)
+- [Jenkins agents and pipelines](../topics/jenkins.md#jenkins-agents-and-pipelines)
 - [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) — tags: `CI/CD`
 - [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) — tags: `CI/CD`
 - [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) — tags: `CI/CD`
@@ -377,6 +380,8 @@
 
 ## Recently added
 
+- [Jenkins](../topics/jenkins.md#jenkins) — 2026-08-12
+- [Jenkins agents and pipelines](../topics/jenkins.md#jenkins-agents-and-pipelines) — 2026-08-12
 - [you said development in jenkins how its differ from deployment?](../topics/jenkins.md#you-said-development-in-jenkins-how-its-differ-from-deployment) — 2026-08-10
 - [How do you troubleshoot a failed Jenkins pipeline or GitHub Actions workflow?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-pipeline-or-github-actions-workflow) — 2026-08-10 · tags: `GitHub Actions`, `CI/CD`
 - [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) — 2026-08-10 · tags: `CI/CD`, `AWS`
@@ -389,9 +394,7 @@
 - [Describe building automated pipelines with Jenkins that compile code, execute tests, scan images, push artifacts, and deploy automatically across environments.](../topics/jenkins.md#describe-building-automated-pipelines-with-jenkins-that-compile-code-execute-tes) — 2026-07-28
 - [How do you troubleshoot a failed Jenkins build?](../topics/jenkins.md#how-do-you-troubleshoot-a-failed-jenkins-build) — 2026-07-27
 - [Launch Jenkins on an EC2 instance.](../topics/jenkins.md#launch-jenkins-on-an-ec2-instance) — 2026-07-27 · tags: `AWS`
-- [Jenkins](../topics/jenkins.md#jenkins) — 2026-07-26
 - [Walk me through your full deployment flow and the exact stages in your Jenkinsfile.](../topics/jenkins.md#walk-me-through-your-full-deployment-flow-and-the-exact-stages-in-your-jenkinsfi) — 2026-07-26
-- [Which apps do you push through Jenkins pipelines and which deployment tools do you pair them with?](../topics/jenkins.md#which-apps-do-you-push-through-jenkins-pipelines-and-which-deployment-tools-do-y) — 2026-07-26
 
 ## Related topics
 
@@ -456,7 +459,8 @@
 | [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) | Medium | 1 |
 | [If Jenkins is working locally but not accessible through the URL, how would you troubleshoot it?](../topics/jenkins.md#if-jenkins-is-working-locally-but-not-accessible-through-the-url-how-would-you-t) | Medium | 2 |
 | [If you push code to another branch, will the Jenkins pipeline trigger?](../topics/jenkins.md#if-you-push-code-to-another-branch-will-the-jenkins-pipeline-trigger) | Medium | 1 |
-| [Jenkins](../topics/jenkins.md#jenkins) | Medium | 1 |
+| [Jenkins](../topics/jenkins.md#jenkins) | Medium | 2 |
+| [Jenkins agents and pipelines](../topics/jenkins.md#jenkins-agents-and-pipelines) | Medium | 1 |
 | [Jenkins Pipeline & Automation](../topics/jenkins.md#jenkins-pipeline-automation) | Medium | 1 |
 | [Jenkins pipeline failed — what's your debugging approach?](../topics/jenkins.md#jenkins-pipeline-failed-what-s-your-debugging-approach) | Medium | 2 |
 | [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) | Medium | 1 |

@@ -4,15 +4,15 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1647 |
+| [Unknown Company](../companies/unknown-company.md) | 1674 |
 | [Infosys](../companies/infosys.md) | 63 |
 | [TCS](../companies/tcs.md) | 47 |
 | [Mphasis](../companies/mphasis.md) | 43 |
 | [Elite Code Technologies](../companies/elite-code-technologies.md) | 33 |
 | [Accenture](../companies/accenture.md) | 32 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
+| [Deloitte](../companies/deloitte.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
-| [Deloitte](../companies/deloitte.md) | 25 |
 | [Hexaware Technologies](../companies/hexaware-technologies.md) | 25 |
 | [Global Payments](../companies/global-payments.md) | 23 |
 | [Amazon](../companies/amazon.md) | 17 |
@@ -37,5 +37,6 @@
 | [Sri-Hire](../companies/sri-hire.md) | 5 |
 | [DPRSolutions](../companies/dprsolutions.md) | 4 |
 | [Infinity wave Inc](../companies/infinity-wave-inc.md) | 3 |
+| [Delta Dental](../companies/delta-dental.md) | 1 |
 | [Deltassi](../companies/deltassi.md) | 1 |
 | [Nexiva](../companies/nexiva.md) | 1 |

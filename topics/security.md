@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — **6×** · Medium
+- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — **7×** · Medium
   <a id="how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning"></a>
 - [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — **5×** · Medium
   <a id="during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr"></a>
@@ -85,7 +85,7 @@
 
 ## Intermediate
 
-- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — 6×
+- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — 7×
   <a id="how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning"></a>
 - [During an infrastructure audit, what AWS configurations do you review before approving a production release?](../topics/security.md#during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr) — 5×
   <a id="during-an-infrastructure-audit-what-aws-configurations-do-you-review-before-appr"></a>
@@ -188,7 +188,7 @@
 
 ## Recently added
 
-- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — 2026-08-10
+- [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — 2026-08-12
 - [Difference between IAM Roles and IAM Policies.](../topics/security.md#difference-between-iam-roles-and-iam-policies) — 2026-07-17
 - [How do you manage secrets in production?](../topics/security.md#how-do-you-manage-secrets-in-production) — 2026-07-17
 - [How do you secure container images before deployment?](../topics/security.md#how-do-you-secure-container-images-before-deployment) — 2026-07-17
@@ -228,7 +228,7 @@
 | [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) | Medium | 4 |
 | [Have you integrated security tools into CI/CD pipelines?](../topics/security.md#have-you-integrated-security-tools-into-ci-cd-pipelines) | Medium | 1 |
 | [Have you worked on anything related to security during your current role?](../topics/security.md#have-you-worked-on-anything-related-to-security-during-your-current-role) | Medium | 2 |
-| [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) | Medium | 6 |
+| [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) | Medium | 7 |
 | [How do you implement security across multiple data sources in Canvas Apps?](../topics/security.md#how-do-you-implement-security-across-multiple-data-sources-in-canvas-apps) | Hard | 2 |
 | [How do you manage secrets in production?](../topics/security.md#how-do-you-manage-secrets-in-production) | Medium | 2 |
 | [How do you review and coordinate security findings with development and security teams?](../topics/security.md#how-do-you-review-and-coordinate-security-findings-with-development-and-security) | Medium | 2 |

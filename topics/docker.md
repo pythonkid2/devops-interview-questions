@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**111** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**112** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 111 |
-| Easy / Medium / Hard | 30 / 76 / 5 |
+| Questions | 112 |
+| Easy / Medium / Hard | 30 / 77 / 5 |
 | Companies | 5 |
 
 ## Most asked
@@ -49,6 +49,10 @@
   <a id="container-restarted-and-data-got-lost-how-do-you-fix-it"></a>
 - [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy) — **2×** · Medium
   <a id="difference-between-add-and-copy"></a>
+- [Docker](../topics/docker.md#docker) — **2×** · Medium
+  <a id="docker"></a>
+- [Docker and Containers](../topics/docker.md#docker-and-containers) — **2×** · Medium
+  <a id="docker-and-containers"></a>
 - [Docker architectures](../topics/docker.md#docker-architectures) — **2×** · Medium
   <a id="docker-architectures"></a>
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — **2×** · Medium
@@ -73,10 +77,6 @@
   <a id="how-does-docker-help-with-environment-consistency"></a>
 - [How does Docker layer caching work?](../topics/docker.md#how-does-docker-layer-caching-work) — **2×** · Medium
   <a id="how-does-docker-layer-caching-work"></a>
-- [What are best practices for Docker in production?](../topics/docker.md#what-are-best-practices-for-docker-in-production) — **2×** · Hard
-  <a id="what-are-best-practices-for-docker-in-production"></a>
-- [What are common Docker commands?](../topics/docker.md#what-are-common-docker-commands) — **2×** · Easy
-  <a id="what-are-common-docker-commands"></a>
 
 ## Beginner
 
@@ -159,6 +159,10 @@
   <a id="container-restarted-and-data-got-lost-how-do-you-fix-it"></a>
 - [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy) — 2×
   <a id="difference-between-add-and-copy"></a>
+- [Docker](../topics/docker.md#docker) — 2×
+  <a id="docker"></a>
+- [Docker and Containers](../topics/docker.md#docker-and-containers) — 2×
+  <a id="docker-and-containers"></a>
 - [Docker architectures](../topics/docker.md#docker-architectures) — 2×
   <a id="docker-architectures"></a>
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2×
@@ -205,14 +209,12 @@
   <a id="can-you-write-a-multi-stage-dockerfile"></a>
 - [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) — 1×
   <a id="can-you-write-a-simple-docker-file"></a>
-- [Docker](../topics/docker.md#docker) — 1×
-  <a id="docker"></a>
-- [Docker and Containers](../topics/docker.md#docker-and-containers) — 1×
-  <a id="docker-and-containers"></a>
 - [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how) — 1×
   <a id="docker-containerized-application-is-degrading-with-the-performance-over-time-how"></a>
 - [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) — 1×
   <a id="docker-fundamentals-for-net"></a>
+- [Docker image optimization and security](../topics/docker.md#docker-image-optimization-and-security) — 1×
+  <a id="docker-image-optimization-and-security"></a>
 - [Docker volumes & data persistence issues](../topics/docker.md#docker-volumes-data-persistence-issues) — 1×
   <a id="docker-volumes-data-persistence-issues"></a>
 - [Docker vs Virtual Machines](../topics/docker.md#docker-vs-virtual-machines) — 1×
@@ -335,6 +337,7 @@
 - [Docker architectures](../topics/docker.md#docker-architectures)
 - [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how)
 - [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net)
+- [Docker image optimization and security](../topics/docker.md#docker-image-optimization-and-security)
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds)
 - [Docker layers](../topics/docker.md#docker-layers)
 - [Docker networking](../topics/docker.md#docker-networking)
@@ -438,9 +441,11 @@
 
 ## Recently added
 
+- [Docker and Containers](../topics/docker.md#docker-and-containers) — 2026-08-12
+- [Docker](../topics/docker.md#docker) — 2026-08-12
+- [Docker image optimization and security](../topics/docker.md#docker-image-optimization-and-security) — 2026-08-12
 - [How would you use Docker to implement a Pub/Sub system?](../topics/docker.md#how-would-you-use-docker-to-implement-a-pub-sub-system) — 2026-08-10
 - [What is Docker?](../topics/docker.md#what-is-docker) — 2026-08-10
-- [Docker and Containers](../topics/docker.md#docker-and-containers) — 2026-08-10
 - [Can you explain your experience with Docker?](../topics/docker.md#can-you-explain-your-experience-with-docker) — 2026-08-10
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 2026-08-10
 - [What's the difference between Docker and a virtual machine?](../topics/docker.md#what-s-the-difference-between-docker-and-a-virtual-machine) — 2026-08-10
@@ -451,8 +456,6 @@
 - [How do you scan Docker images for vulnerabilities before deployment?](../topics/docker.md#how-do-you-scan-docker-images-for-vulnerabilities-before-deployment) — 2026-08-10
 - [Jenkins and Docker troubleshooting](../topics/docker.md#jenkins-and-docker-troubleshooting) — 2026-08-10 · tags: `Jenkins`
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2026-08-02
-- [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) — 2026-08-02
-- [Have you written a Dockerfile?](../topics/docker.md#have-you-written-a-dockerfile) — 2026-08-02
 
 ## Related topics
 
@@ -479,11 +482,12 @@
 | [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) | Medium | 2 |
 | [Difference between add and copy](../topics/docker.md#difference-between-add-and-copy) | Medium | 2 |
 | [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) | Easy | 6 |
-| [Docker](../topics/docker.md#docker) | Medium | 1 |
-| [Docker and Containers](../topics/docker.md#docker-and-containers) | Medium | 1 |
+| [Docker](../topics/docker.md#docker) | Medium | 2 |
+| [Docker and Containers](../topics/docker.md#docker-and-containers) | Medium | 2 |
 | [Docker architectures](../topics/docker.md#docker-architectures) | Medium | 2 |
 | [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how) | Medium | 1 |
 | [Docker fundamentals for .NET](../topics/docker.md#docker-fundamentals-for-net) | Medium | 1 |
+| [Docker image optimization and security](../topics/docker.md#docker-image-optimization-and-security) | Medium | 1 |
 | [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) | Medium | 2 |
 | [Docker layers](../topics/docker.md#docker-layers) | Medium | 2 |
 | [Docker networking](../topics/docker.md#docker-networking) | Medium | 2 |

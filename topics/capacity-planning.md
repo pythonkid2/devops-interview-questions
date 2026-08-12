@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Capacity Planning**
 
-**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 10 |
-| Easy / Medium / Hard | 1 / 6 / 3 |
+| Questions | 11 |
+| Easy / Medium / Hard | 1 / 7 / 3 |
 | Companies | 1 |
 
 ## Most asked
@@ -33,6 +33,8 @@
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
 - [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) — **2×** · Medium · tags: `Kubernetes`
   <a id="talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity"></a>
+- [Your Karpenter setup just doubled costs overnight. Fix it without disrupting autoscaling.](../topics/capacity-planning.md#your-karpenter-setup-just-doubled-costs-overnight-fix-it-without-disrupting-auto) — **2×** · Medium
+  <a id="your-karpenter-setup-just-doubled-costs-overnight-fix-it-without-disrupting-auto"></a>
 - [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits) — **1×** · Medium
   <a id="autoscaling-resource-limits"></a>
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — **1×** · Hard · tags: `HPA`
@@ -61,6 +63,8 @@
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
 - [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) — 2× · tags: `Kubernetes`
   <a id="talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity"></a>
+- [Your Karpenter setup just doubled costs overnight. Fix it without disrupting autoscaling.](../topics/capacity-planning.md#your-karpenter-setup-just-doubled-costs-overnight-fix-it-without-disrupting-auto) — 2×
+  <a id="your-karpenter-setup-just-doubled-costs-overnight-fix-it-without-disrupting-auto"></a>
 - [Autoscaling & resource limits](../topics/capacity-planning.md#autoscaling-resource-limits) — 1×
   <a id="autoscaling-resource-limits"></a>
 - [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — 1× · tags: `Kubernetes`
@@ -91,6 +95,7 @@
 - [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) — tags: `Kubernetes`
 - [What is HPA?](../topics/capacity-planning.md#what-is-hpa) — tags: `HPA`
 - [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — tags: `Kubernetes`, `HPA`
+- [Your Karpenter setup just doubled costs overnight. Fix it without disrupting autoscaling.](../topics/capacity-planning.md#your-karpenter-setup-just-doubled-costs-overnight-fix-it-without-disrupting-auto)
 
 ## Companies asking
 
@@ -98,6 +103,7 @@
 
 ## Recently added
 
+- [Your Karpenter setup just doubled costs overnight. Fix it without disrupting autoscaling.](../topics/capacity-planning.md#your-karpenter-setup-just-doubled-costs-overnight-fix-it-without-disrupting-auto) — 2026-08-12
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — 2026-08-10 · tags: `Kubernetes`, `HPA`
 - [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — 2026-08-02 · tags: `Kubernetes`
 - [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) — 2026-07-28 · tags: `Kubernetes`
@@ -133,6 +139,7 @@
 | [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) | Medium | 2 |
 | [What is HPA?](../topics/capacity-planning.md#what-is-hpa) | Easy | 1 |
 | [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) | Medium | 1 |
+| [Your Karpenter setup just doubled costs overnight. Fix it without disrupting autoscaling.](../topics/capacity-planning.md#your-karpenter-setup-just-doubled-costs-overnight-fix-it-without-disrupting-auto) | Medium | 2 |
 
 ## Learning resources
 

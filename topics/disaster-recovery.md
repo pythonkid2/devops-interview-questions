@@ -27,8 +27,10 @@
 
 ## Most asked
 
-- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — **4×** · Hard
+- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — **5×** · Hard
   <a id="how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem"></a>
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — **2×** · Medium
+  <a id="disaster-recovery"></a>
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — **2×** · Hard
   <a id="how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes"></a>
 - [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — **2×** · Medium
@@ -43,8 +45,6 @@
   <a id="design-a-disaster-recovery-strategy-rto-rpo"></a>
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — **1×** · Hard · tags: `Kubernetes`, `System Design`
   <a id="design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-"></a>
-- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — **1×** · Medium
-  <a id="disaster-recovery"></a>
 - [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) — **1×** · Medium
   <a id="have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-"></a>
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — **1×** · Medium · tags: `High Availability`, `AWS`
@@ -66,14 +66,14 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 2×
+  <a id="disaster-recovery"></a>
 - [How would you design a disaster recovery strategy?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy) — 2×
   <a id="how-would-you-design-a-disaster-recovery-strategy"></a>
 - [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 2×
   <a id="how-would-you-structure-the-failover-process-during-a-regional-outage"></a>
 - [You’re told to implement multi-region AI inference failover without DNS-based routing. What’s your plan?](../topics/disaster-recovery.md#youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou) — 2×
   <a id="youre-told-to-implement-multi-region-ai-inference-failover-without-dns-based-rou"></a>
-- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 1×
-  <a id="disaster-recovery"></a>
 - [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) — 1×
   <a id="have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-"></a>
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — 1× · tags: `High Availability`, `AWS`
@@ -89,7 +89,7 @@ _None in this band yet._
 
 ## Advanced
 
-- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 4×
+- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 5×
   <a id="how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem"></a>
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — 2×
   <a id="how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes"></a>
@@ -135,13 +135,13 @@ _None in this band yet._
 
 ## Recently added
 
-- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 2026-08-10
+- [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 2026-08-12
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 2026-08-12
 - [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) — 2026-08-02
 - [How will you plan a disaster recovery ?](../topics/disaster-recovery.md#how-will-you-plan-a-disaster-recovery) — 2026-07-30
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — 2026-07-28 · tags: `High Availability`, `AWS`
 - [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) — 2026-07-28 · tags: `DNS`
 - [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) — 2026-07-27
-- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 2026-07-26
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — 2026-07-18 · tags: `Kubernetes`, `System Design`
 - [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 2026-07-18
 - [You’re asked to ship a multi-region failover in 3 weeks, no DNS layer allowed. Your plan?](../topics/disaster-recovery.md#youre-asked-to-ship-a-multi-region-failover-in-3-weeks-no-dns-layer-allowed-your) — 2026-07-17 · tags: `DNS`
@@ -168,9 +168,9 @@ _None in this band yet._
 | [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) | Hard | 1 |
 | [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) | Hard | 1 |
 | [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) | Hard | 1 |
-| [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) | Medium | 1 |
+| [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) | Medium | 2 |
 | [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) | Medium | 1 |
-| [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Hard | 4 |
+| [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Hard | 5 |
 | [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) | Medium | 1 |
 | [How do you implement disaster recovery in a cloud-based infrastructure?](../topics/disaster-recovery.md#how-do-you-implement-disaster-recovery-in-a-cloud-based-infrastructure) | Hard | 1 |
 | [How does Route 53 perform failover routing?](../topics/disaster-recovery.md#how-does-route-53-perform-failover-routing) | Medium | 1 |

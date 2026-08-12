@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [GCP](../topics/gcp.md#gcp) — **1×** · Medium
+- [GCP](../topics/gcp.md#gcp) — **2×** · Medium
   <a id="gcp"></a>
 - [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why) — **1×** · Medium
   <a id="which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why"></a>
@@ -38,7 +38,7 @@ _None in this band yet._
 
 ## Intermediate
 
-- [GCP](../topics/gcp.md#gcp) — 1×
+- [GCP](../topics/gcp.md#gcp) — 2×
   <a id="gcp"></a>
 - [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why) — 1×
   <a id="which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why"></a>
@@ -60,7 +60,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [GCP](../topics/gcp.md#gcp) — 2026-07-26
+- [GCP](../topics/gcp.md#gcp) — 2026-08-12
 - [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why) — 2026-07-15
 
 ## Related topics
@@ -73,7 +73,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [GCP](../topics/gcp.md#gcp) | Medium | 1 |
+| [GCP](../topics/gcp.md#gcp) | Medium | 2 |
 | [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why) | Medium | 1 |
 
 ## Learning resources

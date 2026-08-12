@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-2185-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-909-informational)
+![questions](https://img.shields.io/badge/questions-2216-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-939-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,18 +18,18 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 2185 |
-| Posts processed | 909 |
-| Added this week | 218 |
+| Unique questions | 2216 |
+| Posts processed | 939 |
+| Added this week | 249 |
 
 ## Popular topics
 
 - [Kubernetes](./topics/kubernetes.md) — 257
-- [Terraform](./topics/terraform.md) — 149
-- [AWS](./topics/aws.md) — 125
-- [Docker](./topics/docker.md) — 111
-- [Jenkins](./topics/jenkins.md) — 89
-- [CI/CD](./topics/ci-cd.md) — 85
+- [Terraform](./topics/terraform.md) — 150
+- [AWS](./topics/aws.md) — 127
+- [Docker](./topics/docker.md) — 112
+- [Jenkins](./topics/jenkins.md) — 90
+- [CI/CD](./topics/ci-cd.md) — 87
 - [Incident Response](./topics/incident-response.md) — 35
 - [System Design](./topics/system-design.md) — 32
 - [Linux](./topics/linux.md) — 29
@@ -43,8 +43,8 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 - [Elite Code Technologies](./companies/elite-code-technologies.md) — 33
 - [Accenture](./companies/accenture.md) — 32
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
+- [Deloitte](./companies/deloitte.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
-- [Deloitte](./companies/deloitte.md) — 25
 - [Hexaware Technologies](./companies/hexaware-technologies.md) — 25
 - [Global Payments](./companies/global-payments.md) — 23
 

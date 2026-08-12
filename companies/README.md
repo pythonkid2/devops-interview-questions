@@ -12,8 +12,8 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [Elite Code Technologies](./elite-code-technologies.md) | 33 |
 | [Accenture](./accenture.md) | 32 |
 | [BNP Paribas](./bnp-paribas.md) | 28 |
+| [Deloitte](./deloitte.md) | 28 |
 | [Mirafra](./mirafra.md) | 28 |
-| [Deloitte](./deloitte.md) | 25 |
 | [Hexaware Technologies](./hexaware-technologies.md) | 25 |
 | [Global Payments](./global-payments.md) | 23 |
 | [Amazon](./amazon.md) | 17 |
@@ -38,6 +38,7 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [Sri-Hire](./sri-hire.md) | 5 |
 | [DPRSolutions](./dprsolutions.md) | 4 |
 | [Infinity wave Inc](./infinity-wave-inc.md) | 3 |
+| [Delta Dental](./delta-dental.md) | 1 |
 | [Deltassi](./deltassi.md) | 1 |
 | [Nexiva](./nexiva.md) | 1 |
 
@@ -45,6 +46,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 1647 |
+| [Unknown Company](./unknown-company.md) | 1674 |
 
 [← Home](../README.md)

@@ -6,12 +6,12 @@
 
 | Metric | Value |
 | --- | ---: |
-| Questions | 25 |
+| Questions | 28 |
 | Topics covered | 8 |
 
 ## Topics asked
 
-- [General](../topics/general.md) — 9
+- [General](../topics/general.md) — 12
 - [Jenkins](../topics/jenkins.md) — 4
 - [Docker](../topics/docker.md) — 3
 - [Kubernetes](../topics/kubernetes.md) — 3
@@ -67,10 +67,13 @@
 ### General
 
 - [Basic behavioral questions.](../topics/general.md#basic-behavioral-questions) — Medium
+- [Cluster sizing, Driver vs Worker, memory issues, shuffles, and optimization](../topics/general.md#cluster-sizing-driver-vs-worker-memory-issues-shuffles-and-optimization) — Medium
 - [Day-to-day work.](../topics/general.md#day-to-day-work) — Medium
 - [How do shared libraries slot into your Jenkinsfiles?](../topics/general.md#how-do-shared-libraries-slot-into-your-jenkinsfiles) — Medium
 - [How do you connect databases in your infrastructure?](../topics/general.md#how-do-you-connect-databases-in-your-infrastructure) — Medium
+- [Parsing raw data and creating structured DataFrames](../topics/general.md#parsing-raw-data-and-creating-structured-dataframes) — Medium
 - [Project history.](../topics/general.md#project-history) — Medium
+- [SCD Type 2 and real-world dimensional modeling](../topics/general.md#scd-type-2-and-real-world-dimensional-modeling) — Medium
 - [Teamwork and culture fit.](../topics/general.md#teamwork-and-culture-fit) — Medium
 - [What branching strategy keeps your release branch clean and how do you hotfix production?](../topics/general.md#what-branching-strategy-keeps-your-release-branch-clean-and-how-do-you-hotfix-pr) — Hard
 - [What’s a webhook and how do you use it in real pipelines?](../topics/general.md#whats-a-webhook-and-how-do-you-use-it-in-real-pipelines) — Medium
@@ -96,6 +99,9 @@
 
 ## Recently added
 
+- [SCD Type 2 and real-world dimensional modeling](../topics/general.md#scd-type-2-and-real-world-dimensional-modeling) — 2026-08-12
+- [Cluster sizing, Driver vs Worker, memory issues, shuffles, and optimization](../topics/general.md#cluster-sizing-driver-vs-worker-memory-issues-shuffles-and-optimization) — 2026-08-12
+- [Parsing raw data and creating structured DataFrames](../topics/general.md#parsing-raw-data-and-creating-structured-dataframes) — 2026-08-12
 - [Teamwork and culture fit.](../topics/general.md#teamwork-and-culture-fit) — 2026-07-26
 - [Basic behavioral questions.](../topics/general.md#basic-behavioral-questions) — 2026-07-26
 - [Day-to-day work.](../topics/general.md#day-to-day-work) — 2026-07-26
@@ -103,8 +109,5 @@
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) — 2026-07-26
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 2026-07-26
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — 2026-07-26
-- [How do you connect databases in your infrastructure?](../topics/general.md#how-do-you-connect-databases-in-your-infrastructure) — 2026-07-26
-- [How do you inject environment variables during Docker builds and where do you store images?](../topics/docker.md#how-do-you-inject-environment-variables-during-docker-builds-and-where-do-you-st) — 2026-07-26
-- [Which security scanning tools do you run on images at build and registry time?](../topics/general.md#which-security-scanning-tools-do-you-run-on-images-at-build-and-registry-time) — 2026-07-26
 
 [← All companies](./README.md) · [Home](../README.md)

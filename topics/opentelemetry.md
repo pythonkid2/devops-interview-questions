@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — **1×** · Medium
+- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — **2×** · Medium
   <a id="opentelemetry"></a>
 
 ## Beginner
@@ -36,7 +36,7 @@ _None in this band yet._
 
 ## Intermediate
 
-- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — 1×
+- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — 2×
   <a id="opentelemetry"></a>
 
 ## Advanced
@@ -55,7 +55,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — 2026-07-26
+- [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) — 2026-08-12
 
 ## Related topics
 
@@ -72,7 +72,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) | Medium | 1 |
+| [OpenTelemetry](../topics/opentelemetry.md#opentelemetry) | Medium | 2 |
 
 ## Learning resources
 

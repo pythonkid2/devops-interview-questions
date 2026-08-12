@@ -29,10 +29,10 @@
 
 - [What is Redis?](../topics/redis.md#what-is-redis) — **2×** · Easy
   <a id="what-is-redis"></a>
+- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — **2×** · Medium
+  <a id="when-would-you-use-redis"></a>
 - [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) — **1×** · Medium
   <a id="can-you-explain-redis-caching"></a>
-- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — **1×** · Medium
-  <a id="when-would-you-use-redis"></a>
 
 ## Beginner
 
@@ -41,10 +41,10 @@
 
 ## Intermediate
 
+- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — 2×
+  <a id="when-would-you-use-redis"></a>
 - [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) — 1×
   <a id="can-you-explain-redis-caching"></a>
-- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — 1×
-  <a id="when-would-you-use-redis"></a>
 
 ## Advanced
 
@@ -64,8 +64,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — 2026-08-12
 - [What is Redis?](../topics/redis.md#what-is-redis) — 2026-08-10
-- [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) — 2026-08-10
 - [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) — 2026-07-29
 
 ## Related topics
@@ -80,7 +80,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [Can you explain Redis caching?](../topics/redis.md#can-you-explain-redis-caching) | Medium | 1 |
 | [What is Redis?](../topics/redis.md#what-is-redis) | Easy | 2 |
-| [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) | Medium | 1 |
+| [When would you use Redis?](../topics/redis.md#when-would-you-use-redis) | Medium | 2 |
 
 ## Learning resources
 

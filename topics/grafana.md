@@ -27,12 +27,12 @@
 
 ## Most asked
 
+- [Grafana](../topics/grafana.md#grafana) — **2×** · Medium
+  <a id="grafana"></a>
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — **2×** · Medium · tags: `Monitoring`
   <a id="how-do-you-implement-monitoring-using-grafana-and-cloudwatch"></a>
 - [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — **2×** · Medium
   <a id="logs-are-missing-from-grafana-loki-how-would-you-troubleshoot"></a>
-- [Grafana](../topics/grafana.md#grafana) — **1×** · Medium
-  <a id="grafana"></a>
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — **1×** · Medium
   <a id="grafana-ka-use-kyu-hota-hai"></a>
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) — **1×** · Medium
@@ -48,12 +48,12 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Grafana](../topics/grafana.md#grafana) — 2×
+  <a id="grafana"></a>
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — 2× · tags: `Monitoring`
   <a id="how-do-you-implement-monitoring-using-grafana-and-cloudwatch"></a>
 - [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — 2×
   <a id="logs-are-missing-from-grafana-loki-how-would-you-troubleshoot"></a>
-- [Grafana](../topics/grafana.md#grafana) — 1×
-  <a id="grafana"></a>
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — 1×
   <a id="grafana-ka-use-kyu-hota-hai"></a>
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) — 1×
@@ -85,10 +85,10 @@ _None in this band yet._
 
 ## Recently added
 
+- [Grafana](../topics/grafana.md#grafana) — 2026-08-12
 - [What dashboards and alerts have you configured in Grafana?](../topics/grafana.md#what-dashboards-and-alerts-have-you-configured-in-grafana) — 2026-08-02
 - [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — 2026-07-29
 - [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) — 2026-07-27 · tags: `Monitoring`
-- [Grafana](../topics/grafana.md#grafana) — 2026-07-26
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — 2026-07-18
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) — 2026-07-17
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) — 2026-07-17
@@ -108,7 +108,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Grafana](../topics/grafana.md#grafana) | Medium | 1 |
+| [Grafana](../topics/grafana.md#grafana) | Medium | 2 |
 | [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) | Medium | 1 |
 | [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) | Medium | 1 |
 | [How do you implement monitoring using Grafana and CloudWatch?](../topics/grafana.md#how-do-you-implement-monitoring-using-grafana-and-cloudwatch) | Medium | 2 |

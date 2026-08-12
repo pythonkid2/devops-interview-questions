@@ -29,12 +29,12 @@
 
 - [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — **3×** · Medium · tags: `DevSecOps`
   <a id="how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac"></a>
+- [SRE](../topics/sre.md#sre) — **2×** · Medium
+  <a id="sre"></a>
 - [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — **1×** · Hard
   <a id="can-you-explain-the-concept-of-chaos-engineering"></a>
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) — **1×** · Medium
   <a id="does-your-project-needs-ai-also-with-devops-sre-tools"></a>
-- [SRE](../topics/sre.md#sre) — **1×** · Medium
-  <a id="sre"></a>
 - [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — **1×** · Medium
   <a id="what-is-the-difference-between-slos-and-slis"></a>
 
@@ -46,10 +46,10 @@ _None in this band yet._
 
 - [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — 3× · tags: `DevSecOps`
   <a id="how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac"></a>
+- [SRE](../topics/sre.md#sre) — 2×
+  <a id="sre"></a>
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) — 1×
   <a id="does-your-project-needs-ai-also-with-devops-sre-tools"></a>
-- [SRE](../topics/sre.md#sre) — 1×
-  <a id="sre"></a>
 - [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — 1×
   <a id="what-is-the-difference-between-slos-and-slis"></a>
 
@@ -74,8 +74,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [SRE](../topics/sre.md#sre) — 2026-08-12
 - [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — 2026-07-26 · tags: `DevSecOps`
-- [SRE](../topics/sre.md#sre) — 2026-07-26
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) — 2026-07-17
 - [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — 2026-07-15
 - [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — 2026-07-15
@@ -97,7 +97,7 @@ _None in this band yet._
 | [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) | Hard | 1 |
 | [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) | Medium | 1 |
 | [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) | Medium | 3 |
-| [SRE](../topics/sre.md#sre) | Medium | 1 |
+| [SRE](../topics/sre.md#sre) | Medium | 2 |
 | [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) | Medium | 1 |
 
 ## Learning resources

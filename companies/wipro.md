@@ -17,7 +17,7 @@
 
 ## Most repeated
 
-- [Spark performance optimization](../topics/general.md#spark-performance-optimization) — 2× · General
+- [Spark performance optimization](../topics/general.md#spark-performance-optimization) — 3× · General
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) — 1× · System Design
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 1× · Azure
 - [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — 1× · Azure
@@ -53,7 +53,7 @@
 
 ## Recently added
 
-- [Spark performance optimization](../topics/general.md#spark-performance-optimization) — 2026-08-10
+- [Spark performance optimization](../topics/general.md#spark-performance-optimization) — 2026-08-12
 - [End-to-end project discussion & real-world scenarios](../topics/general.md#end-to-end-project-discussion-real-world-scenarios) — 2026-07-27
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 2026-07-27
 - [SCD Type 2 implementation](../topics/general.md#scd-type-2-implementation) — 2026-07-27

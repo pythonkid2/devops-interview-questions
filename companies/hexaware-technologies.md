@@ -19,26 +19,26 @@
 
 ## Most repeated
 
-- [Abstract Class – When to use](../topics/general.md#abstract-class-when-to-use) — 1× · General
-- [Angular HTTP Interceptor to send Bearer Token with every request](../topics/general.md#angular-http-interceptor-to-send-bearer-token-with-every-request) — 1× · General
-- [API Gateway and Gateway Patterns](../topics/api-gateway.md#api-gateway-and-gateway-patterns) — 1× · API Gateway
-- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — 1× · Azure
-- [Benefits of Microservices](../topics/general.md#benefits-of-microservices) — 1× · General
-- [Bulkhead Isolation Pattern (Polly)](../topics/general.md#bulkhead-isolation-pattern-polly) — 1× · General
-- [Circuit Breaker Pattern](../topics/general.md#circuit-breaker-pattern) — 1× · General
-- [Clustered vs Non-Clustered Index](../topics/general.md#clustered-vs-non-clustered-index) — 1× · General
-- [Dependency Injection in .NET Core (Controller → Service → Repository → Program.cs registration)](../topics/general.md#dependency-injection-in-net-core-controller-service-repository-program-cs-regist) — 1× · General
-- [Docker and Containers](../topics/docker.md#docker-and-containers) — 1× · Docker
-- [Exponential Backoff](../topics/general.md#exponential-backoff) — 1× · General
-- [gRPC and Protocol Buffers](../topics/general.md#grpc-and-protocol-buffers) — 1× · General
-- [Handling Performance Issues after Production Release](../topics/general.md#handling-performance-issues-after-production-release) — 1× · General
-- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 1× · Databases
-- [Message Brokers used in projects and implementation](../topics/general.md#message-brokers-used-in-projects-and-implementation) — 1× · General
-- [Microservices](../topics/general.md#microservices) — 1× · General
-- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 1× · Databases
-- [Monolithic vs Microservices](../topics/general.md#monolithic-vs-microservices) — 1× · General
-- [Pseudocode for Retry Mechanism](../topics/general.md#pseudocode-for-retry-mechanism) — 1× · General
-- [Rate Limiting](../topics/general.md#rate-limiting) — 1× · General
+- [Abstract Class – When to use](../topics/general.md#abstract-class-when-to-use) — 2× · General
+- [Angular HTTP Interceptor to send Bearer Token with every request](../topics/general.md#angular-http-interceptor-to-send-bearer-token-with-every-request) — 2× · General
+- [API Gateway and Gateway Patterns](../topics/api-gateway.md#api-gateway-and-gateway-patterns) — 2× · API Gateway
+- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — 2× · Azure
+- [Benefits of Microservices](../topics/general.md#benefits-of-microservices) — 2× · General
+- [Bulkhead Isolation Pattern (Polly)](../topics/general.md#bulkhead-isolation-pattern-polly) — 2× · General
+- [Circuit Breaker Pattern](../topics/general.md#circuit-breaker-pattern) — 2× · General
+- [Clustered vs Non-Clustered Index](../topics/general.md#clustered-vs-non-clustered-index) — 2× · General
+- [Dependency Injection in .NET Core (Controller → Service → Repository → Program.cs registration)](../topics/general.md#dependency-injection-in-net-core-controller-service-repository-program-cs-regist) — 2× · General
+- [Docker and Containers](../topics/docker.md#docker-and-containers) — 2× · Docker
+- [Exponential Backoff](../topics/general.md#exponential-backoff) — 2× · General
+- [gRPC and Protocol Buffers](../topics/general.md#grpc-and-protocol-buffers) — 2× · General
+- [Handling Performance Issues after Production Release](../topics/general.md#handling-performance-issues-after-production-release) — 2× · General
+- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 2× · Databases
+- [Message Brokers used in projects and implementation](../topics/general.md#message-brokers-used-in-projects-and-implementation) — 2× · General
+- [Microservices](../topics/general.md#microservices) — 2× · General
+- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 2× · Databases
+- [Monolithic vs Microservices](../topics/general.md#monolithic-vs-microservices) — 2× · General
+- [Pseudocode for Retry Mechanism](../topics/general.md#pseudocode-for-retry-mechanism) — 2× · General
+- [Rate Limiting](../topics/general.md#rate-limiting) — 2× · General
 
 ## By topic
 
@@ -84,15 +84,15 @@
 
 ## Recently added
 
-- [Clustered vs Non-Clustered Index](../topics/general.md#clustered-vs-non-clustered-index) — 2026-08-10
-- [Stored Procedure Performance Optimization](../topics/general.md#stored-procedure-performance-optimization) — 2026-08-10
-- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 2026-08-10
-- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 2026-08-10
-- [Handling Performance Issues after Production Release](../topics/general.md#handling-performance-issues-after-production-release) — 2026-08-10
-- [Real-time use cases of Interfaces](../topics/general.md#real-time-use-cases-of-interfaces) — 2026-08-10
-- [Abstract Class – When to use](../topics/general.md#abstract-class-when-to-use) — 2026-08-10
-- [Rate Limiting](../topics/general.md#rate-limiting) — 2026-08-10
-- [API Gateway and Gateway Patterns](../topics/api-gateway.md#api-gateway-and-gateway-patterns) — 2026-08-10
-- [Salary Calculation using OOP principles and SOLID concepts](../topics/general.md#salary-calculation-using-oop-principles-and-solid-concepts) — 2026-08-10
+- [Clustered vs Non-Clustered Index](../topics/general.md#clustered-vs-non-clustered-index) — 2026-08-12
+- [Stored Procedure Performance Optimization](../topics/general.md#stored-procedure-performance-optimization) — 2026-08-12
+- [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 2026-08-12
+- [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 2026-08-12
+- [Handling Performance Issues after Production Release](../topics/general.md#handling-performance-issues-after-production-release) — 2026-08-12
+- [Real-time use cases of Interfaces](../topics/general.md#real-time-use-cases-of-interfaces) — 2026-08-12
+- [Abstract Class – When to use](../topics/general.md#abstract-class-when-to-use) — 2026-08-12
+- [Rate Limiting](../topics/general.md#rate-limiting) — 2026-08-12
+- [API Gateway and Gateway Patterns](../topics/api-gateway.md#api-gateway-and-gateway-patterns) — 2026-08-12
+- [Salary Calculation using OOP principles and SOLID concepts](../topics/general.md#salary-calculation-using-oop-principles-and-solid-concepts) — 2026-08-12
 
 [← All companies](./README.md) · [Home](../README.md)

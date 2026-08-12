@@ -27,6 +27,8 @@
 
 ## Most asked
 
+- [Ansible](../topics/ansible.md#ansible) — **2×** · Medium
+  <a id="ansible"></a>
 - [Explain the structure of an Ansible playbook.](../topics/ansible.md#explain-the-structure-of-an-ansible-playbook) — **2×** · Medium
   <a id="explain-the-structure-of-an-ansible-playbook"></a>
 - [For what purpose did you use Ansible?](../topics/ansible.md#for-what-purpose-did-you-use-ansible) — **2×** · Medium
@@ -39,8 +41,6 @@
   <a id="a-playbook-succeeded-on-some-servers-but-failed-on-others-how-would-you-investig"></a>
 - [An Ansible playbook reports success, but configuration changes are missing on some servers. How would you investigate?](../topics/ansible.md#an-ansible-playbook-reports-success-but-configuration-changes-are-missing-on-som) — **1×** · Medium
   <a id="an-ansible-playbook-reports-success-but-configuration-changes-are-missing-on-som"></a>
-- [Ansible](../topics/ansible.md#ansible) — **1×** · Medium
-  <a id="ansible"></a>
 - [Configuration Management (Ansible)](../topics/ansible.md#configuration-management-ansible) — **1×** · Medium
   <a id="configuration-management-ansible"></a>
 - [Explain idempotency in Ansible with a real example.](../topics/ansible.md#explain-idempotency-in-ansible-with-a-real-example) — **1×** · Medium
@@ -66,6 +66,8 @@ _None in this band yet._
 
 ## Intermediate
 
+- [Ansible](../topics/ansible.md#ansible) — 2×
+  <a id="ansible"></a>
 - [Explain the structure of an Ansible playbook.](../topics/ansible.md#explain-the-structure-of-an-ansible-playbook) — 2×
   <a id="explain-the-structure-of-an-ansible-playbook"></a>
 - [For what purpose did you use Ansible?](../topics/ansible.md#for-what-purpose-did-you-use-ansible) — 2×
@@ -78,8 +80,6 @@ _None in this band yet._
   <a id="a-playbook-succeeded-on-some-servers-but-failed-on-others-how-would-you-investig"></a>
 - [An Ansible playbook reports success, but configuration changes are missing on some servers. How would you investigate?](../topics/ansible.md#an-ansible-playbook-reports-success-but-configuration-changes-are-missing-on-som) — 1×
   <a id="an-ansible-playbook-reports-success-but-configuration-changes-are-missing-on-som"></a>
-- [Ansible](../topics/ansible.md#ansible) — 1×
-  <a id="ansible"></a>
 - [Configuration Management (Ansible)](../topics/ansible.md#configuration-management-ansible) — 1×
   <a id="configuration-management-ansible"></a>
 - [Explain idempotency in Ansible with a real example.](../topics/ansible.md#explain-idempotency-in-ansible-with-a-real-example) — 1×
@@ -138,7 +138,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [Ansible](../topics/ansible.md#ansible) — 2026-07-26
+- [Ansible](../topics/ansible.md#ansible) — 2026-08-12
 - [How do you securely store passwords or secrets in Ansible?](../topics/ansible.md#how-do-you-securely-store-passwords-or-secrets-in-ansible) — 2026-07-26
 - [A playbook succeeded on some servers but failed on others. How would you investigate?](../topics/ansible.md#a-playbook-succeeded-on-some-servers-but-failed-on-others-how-would-you-investig) — 2026-07-26
 - [Explain idempotency in Ansible with a real example.](../topics/ansible.md#explain-idempotency-in-ansible-with-a-real-example) — 2026-07-26
@@ -164,7 +164,7 @@ _None in this band yet._
 | --- | --- | ---: |
 | [A playbook succeeded on some servers but failed on others. How would you investigate?](../topics/ansible.md#a-playbook-succeeded-on-some-servers-but-failed-on-others-how-would-you-investig) | Medium | 1 |
 | [An Ansible playbook reports success, but configuration changes are missing on some servers. How would you investigate?](../topics/ansible.md#an-ansible-playbook-reports-success-but-configuration-changes-are-missing-on-som) | Medium | 1 |
-| [Ansible](../topics/ansible.md#ansible) | Medium | 1 |
+| [Ansible](../topics/ansible.md#ansible) | Medium | 2 |
 | [Configuration Management (Ansible)](../topics/ansible.md#configuration-management-ansible) | Medium | 1 |
 | [Explain idempotency in Ansible with a real example.](../topics/ansible.md#explain-idempotency-in-ansible-with-a-real-example) | Medium | 1 |
 | [Explain the role of SSH keys in Ansible.](../topics/ansible.md#explain-the-role-of-ssh-keys-in-ansible) | Medium | 1 |

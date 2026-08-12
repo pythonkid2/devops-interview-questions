@@ -21,8 +21,8 @@
 
 ## Most repeated
 
+- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 3× · Terraform
 - [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2× · Terraform
-- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 2× · Terraform
 - [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — 1× · Kubernetes
 - [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/terraform.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — 1× · Terraform
 - [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 1× · GitHub Actions
@@ -67,7 +67,7 @@
 
 ## Recently added
 
-- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 2026-07-26
+- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 2026-08-12
 - [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2026-07-15
 - [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 2026-07-15
 - [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — 2026-07-15

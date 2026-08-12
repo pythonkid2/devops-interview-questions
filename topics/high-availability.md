@@ -27,10 +27,12 @@
 
 ## Most asked
 
-- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — **7×** · Hard · tags: `Kubernetes`, `System Design`
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — **8×** · Hard · tags: `Kubernetes`, `System Design`
   <a id="how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit"></a>
 - [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — **2×** · Medium · tags: `System Design`
   <a id="high-availability-vs-read-scalability"></a>
+- [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — **2×** · Medium · tags: `Databases`
+  <a id="how-do-you-ensure-high-availability-for-rds"></a>
 - [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — **2×** · Medium
   <a id="why-are-multi-az-and-replicas-used-for-databases"></a>
 - [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — **1×** · Medium · tags: `VPC`, `AWS`
@@ -41,8 +43,6 @@
   <a id="how-can-you-ensure-high-availability-in-jenkins"></a>
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — **1×** · Medium · tags: `Alerting`, `Monitoring`
   <a id="how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and"></a>
-- [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — **1×** · Medium · tags: `Databases`
-  <a id="how-do-you-ensure-high-availability-for-rds"></a>
 - [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) — **1×** · Medium · tags: `Kubernetes`
   <a id="how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state"></a>
 
@@ -54,6 +54,8 @@ _None in this band yet._
 
 - [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — 2× · tags: `System Design`
   <a id="high-availability-vs-read-scalability"></a>
+- [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — 2× · tags: `Databases`
+  <a id="how-do-you-ensure-high-availability-for-rds"></a>
 - [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) — 2×
   <a id="why-are-multi-az-and-replicas-used-for-databases"></a>
 - [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — 1× · tags: `VPC`, `AWS`
@@ -64,14 +66,12 @@ _None in this band yet._
   <a id="how-can-you-ensure-high-availability-in-jenkins"></a>
 - [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) — 1× · tags: `Alerting`, `Monitoring`
   <a id="how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and"></a>
-- [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — 1× · tags: `Databases`
-  <a id="how-do-you-ensure-high-availability-for-rds"></a>
 - [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) — 1× · tags: `Kubernetes`
   <a id="how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state"></a>
 
 ## Advanced
 
-- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 7× · tags: `Kubernetes`, `System Design`
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 8× · tags: `Kubernetes`, `System Design`
   <a id="how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit"></a>
 
 ## By interview round
@@ -95,10 +95,10 @@ _None in this band yet._
 
 ## Recently added
 
-- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 2026-08-10 · tags: `Kubernetes`, `System Design`
+- [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — 2026-08-12 · tags: `Databases`
+- [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 2026-08-12 · tags: `Kubernetes`, `System Design`
 - [How can you ensure high availability in Jenkins ?](../topics/high-availability.md#how-can-you-ensure-high-availability-in-jenkins) — 2026-08-10 · tags: `Jenkins`
 - [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) — 2026-08-10 · tags: `Kubernetes`
-- [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — 2026-07-29 · tags: `Databases`
 - [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — 2026-07-28 · tags: `VPC`, `AWS`
 - [High Availability in Azure](../topics/high-availability.md#high-availability-in-azure) — 2026-07-26 · tags: `Azure`
 - [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) — 2026-07-18 · tags: `System Design`
@@ -124,9 +124,9 @@ _None in this band yet._
 | [High availability vs read scalability?](../topics/high-availability.md#high-availability-vs-read-scalability) | Medium | 2 |
 | [How can you ensure high availability in Jenkins ?](../topics/high-availability.md#how-can-you-ensure-high-availability-in-jenkins) | Medium | 1 |
 | [How do you achieve high availability targets like 99% uptime using monitoring and alerting?](../topics/high-availability.md#how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and) | Medium | 1 |
-| [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) | Medium | 1 |
+| [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) | Medium | 2 |
 | [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) | Medium | 1 |
-| [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) | Hard | 7 |
+| [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) | Hard | 8 |
 | [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) | Medium | 2 |
 
 ## Learning resources

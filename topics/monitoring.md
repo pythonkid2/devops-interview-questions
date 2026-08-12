@@ -27,6 +27,8 @@
 
 ## Most asked
 
+- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — **2×** · Medium
+  <a id="check-monitoring-alerts"></a>
 - [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — **2×** · Easy
   <a id="difference-between-logs-metrics-and-traces"></a>
 - [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — **2×** · Medium
@@ -37,12 +39,12 @@
   <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — **2×** · Medium
   <a id="monitoring-security-troubleshooting-scenarios"></a>
+- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — **2×** · Medium
+  <a id="what-monitoring-tools-are-you-using"></a>
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — **2×** · Medium
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
 - [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — **1×** · Hard
   <a id="can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios"></a>
-- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — **1×** · Medium
-  <a id="check-monitoring-alerts"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — **1×** · Medium
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — **1×** · Medium
@@ -65,8 +67,6 @@
   <a id="what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail"></a>
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — **1×** · Easy
   <a id="what-is-your-approach-to-using-cloudwatch-logs-and-metrics"></a>
-- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — **1×** · Medium
-  <a id="what-monitoring-tools-are-you-using"></a>
 - [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — **1×** · Medium
   <a id="what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool"></a>
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — **1×** · Medium
@@ -83,6 +83,8 @@
 
 ## Intermediate
 
+- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — 2×
+  <a id="check-monitoring-alerts"></a>
 - [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — 2×
   <a id="explain-your-monitoring-and-alerting-strategy"></a>
 - [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) — 2×
@@ -91,10 +93,10 @@
   <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2×
   <a id="monitoring-security-troubleshooting-scenarios"></a>
+- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 2×
+  <a id="what-monitoring-tools-are-you-using"></a>
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — 2×
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
-- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — 1×
-  <a id="check-monitoring-alerts"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 1×
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 1×
@@ -111,8 +113,6 @@
   <a id="what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated"></a>
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — 1× · tags: `AWS`
   <a id="what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail"></a>
-- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 1×
-  <a id="what-monitoring-tools-are-you-using"></a>
 - [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — 1×
   <a id="what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool"></a>
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — 1×
@@ -168,10 +168,10 @@
 
 ## Recently added
 
-- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — 2026-08-10
+- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 2026-08-12
+- [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — 2026-08-12
 - [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — 2026-08-10 · tags: `AWS`
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2026-08-02
-- [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 2026-07-29
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — 2026-07-28
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 2026-07-28
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 2026-07-20
@@ -200,7 +200,7 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) | Hard | 1 |
-| [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) | Medium | 1 |
+| [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) | Medium | 2 |
 | [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) | Easy | 2 |
 | [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) | Medium | 1 |
 | [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) | Medium | 2 |
@@ -217,7 +217,7 @@
 | [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) | Medium | 1 |
 | [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) | Medium | 1 |
 | [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) | Easy | 1 |
-| [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) | Medium | 1 |
+| [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) | Medium | 2 |
 | [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) | Medium | 2 |
 | [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) | Medium | 1 |
 | [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) | Medium | 1 |

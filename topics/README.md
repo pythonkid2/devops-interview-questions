@@ -8,7 +8,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [AWS](./aws.md) | 125 |
+| [AWS](./aws.md) | 127 |
 | [Azure](./azure.md) | 25 |
 | [CloudFormation](./cloudformation.md) | 5 |
 | [GCP](./gcp.md) | 2 |
@@ -18,25 +18,25 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Kubernetes](./kubernetes.md) | 257 |
-| [Docker](./docker.md) | 111 |
+| [Docker](./docker.md) | 112 |
 | [EKS](./eks.md) | 20 |
 | [ArgoCD](./argocd.md) | 10 |
-| [Helm](./helm.md) | 8 |
+| [Helm](./helm.md) | 9 |
 | [GKE](./gke.md) | 1 |
 
 ## IaC
 
 | Topic | Questions |
 | --- | ---: |
-| [Terraform](./terraform.md) | 149 |
+| [Terraform](./terraform.md) | 150 |
 | [Ansible](./ansible.md) | 16 |
 
 ## CI/CD
 
 | Topic | Questions |
 | --- | ---: |
-| [Jenkins](./jenkins.md) | 89 |
-| [CI/CD](./ci-cd.md) | 85 |
+| [Jenkins](./jenkins.md) | 90 |
+| [CI/CD](./ci-cd.md) | 87 |
 | [Deployment Strategies](./deployment-strategies.md) | 22 |
 | [Azure DevOps](./azure-devops.md) | 12 |
 | [GitHub Actions](./github-actions.md) | 8 |
@@ -46,7 +46,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Monitoring](./monitoring.md) | 22 |
-| [Observability](./observability.md) | 15 |
+| [Observability](./observability.md) | 16 |
 | [Prometheus](./prometheus.md) | 13 |
 | [Grafana](./grafana.md) | 7 |
 | [Alerting](./alerting.md) | 6 |
@@ -86,7 +86,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | --- | ---: |
 | [Incident Response](./incident-response.md) | 35 |
 | [Disaster Recovery](./disaster-recovery.md) | 16 |
-| [Capacity Planning](./capacity-planning.md) | 10 |
+| [Capacity Planning](./capacity-planning.md) | 11 |
 | [High Availability](./high-availability.md) | 9 |
 | [SRE](./sre.md) | 5 |
 | [On-Call](./on-call.md) | 4 |
@@ -112,7 +112,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Databases](./databases.md) | 15 |
+| [Databases](./databases.md) | 16 |
 | [Kafka](./kafka.md) | 10 |
 | [Storage](./storage.md) | 8 |
 | [Redis](./redis.md) | 3 |
@@ -129,7 +129,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 811 |
+| [General](./general.md) | 831 |
 
 
 [← Home](../README.md)

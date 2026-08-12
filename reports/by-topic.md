@@ -4,13 +4,13 @@
 
 | Topic | Questions |
 | --- | ---: |
-| [General](../topics/general.md) | 811 |
+| [General](../topics/general.md) | 831 |
 | [Kubernetes](../topics/kubernetes.md) | 257 |
-| [Terraform](../topics/terraform.md) | 149 |
-| [AWS](../topics/aws.md) | 125 |
-| [Docker](../topics/docker.md) | 111 |
-| [Jenkins](../topics/jenkins.md) | 89 |
-| [CI/CD](../topics/ci-cd.md) | 85 |
+| [Terraform](../topics/terraform.md) | 150 |
+| [AWS](../topics/aws.md) | 127 |
+| [Docker](../topics/docker.md) | 112 |
+| [Jenkins](../topics/jenkins.md) | 90 |
+| [CI/CD](../topics/ci-cd.md) | 87 |
 | [Incident Response](../topics/incident-response.md) | 35 |
 | [System Design](../topics/system-design.md) | 32 |
 | [Linux](../topics/linux.md) | 29 |
@@ -21,24 +21,24 @@
 | [Git](../topics/git.md) | 21 |
 | [EKS](../topics/eks.md) | 20 |
 | [Ansible](../topics/ansible.md) | 16 |
+| [Databases](../topics/databases.md) | 16 |
 | [Disaster Recovery](../topics/disaster-recovery.md) | 16 |
-| [Databases](../topics/databases.md) | 15 |
-| [Observability](../topics/observability.md) | 15 |
+| [Observability](../topics/observability.md) | 16 |
 | [IAM](../topics/iam.md) | 13 |
 | [Prometheus](../topics/prometheus.md) | 13 |
 | [Azure DevOps](../topics/azure-devops.md) | 12 |
 | [Load Balancing](../topics/load-balancing.md) | 12 |
+| [Capacity Planning](../topics/capacity-planning.md) | 11 |
 | [Ingress](../topics/ingress.md) | 11 |
 | [ArgoCD](../topics/argocd.md) | 10 |
 | [Bash](../topics/bash.md) | 10 |
-| [Capacity Planning](../topics/capacity-planning.md) | 10 |
 | [Kafka](../topics/kafka.md) | 10 |
 | [Networking](../topics/networking.md) | 10 |
 | [Python](../topics/python.md) | 10 |
+| [Helm](../topics/helm.md) | 9 |
 | [High Availability](../topics/high-availability.md) | 9 |
 | [DevSecOps](../topics/devsecops.md) | 8 |
 | [GitHub Actions](../topics/github-actions.md) | 8 |
-| [Helm](../topics/helm.md) | 8 |
 | [Storage](../topics/storage.md) | 8 |
 | [VPC](../topics/vpc.md) | 8 |
 | [FinOps](../topics/finops.md) | 7 |

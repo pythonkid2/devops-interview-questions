@@ -14,7 +14,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `System Design` | 27 |
 | `Kubernetes` | 25 |
 | `Docker` | 18 |
-| `Monitoring` | 17 |
+| `Monitoring` | 18 |
 | `Grafana` | 9 |
 | `Canary` | 8 |
 | `Databases` | 8 |
@@ -419,6 +419,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you use CloudWatch Anomaly Detection and Cost Anomaly Detection?](../topics/observability.md#how-do-you-use-cloudwatch-anomaly-detection-and-cost-anomaly-detection) — Observability · tags: `Monitoring`
 - [How Will you do monitoring and logging if there are multi cloud platforms. What solution will you provide.](../topics/logging.md#how-will-you-do-monitoring-and-logging-if-there-are-multi-cloud-platforms-what-s) — Logging · tags: `Monitoring`
 - [if cloudwatch do alerting and monitor events, then what about cloudtrail do in AWS?](../topics/alerting.md#if-cloudwatch-do-alerting-and-monitor-events-then-what-about-cloudtrail-do-in-aw) — Alerting · tags: `Monitoring`, `AWS`
+- [Monitoring and observability](../topics/observability.md#monitoring-and-observability) — Observability · tags: `Monitoring`
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
 - [What tools do you use for logging and monitoring?](../topics/logging.md#what-tools-do-you-use-for-logging-and-monitoring) — Logging · tags: `Monitoring`
 - [you said cloudwatch for alerting, let me know what alerting seup its there in project as i know its for metrics.](../topics/alerting.md#you-said-cloudwatch-for-alerting-let-me-know-what-alerting-seup-its-there-in-pro) — Alerting · tags: `Monitoring`

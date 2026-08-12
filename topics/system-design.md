@@ -27,9 +27,9 @@
 
 ## Most asked
 
-- [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — **6×** · Hard
+- [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — **7×** · Hard
   <a id="design-a-self-healing-platform-for-critical-production-services"></a>
-- [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — **6×** · Hard
+- [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — **7×** · Hard
   <a id="how-would-you-handle-cascading-failures-across-multiple-microservices"></a>
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) — **3×** · Medium
   <a id="explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region"></a>
@@ -101,9 +101,9 @@ _None in this band yet._
 
 ## Advanced
 
-- [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — 6×
+- [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — 7×
   <a id="design-a-self-healing-platform-for-critical-production-services"></a>
-- [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 6×
+- [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 7×
   <a id="how-would-you-handle-cascading-failures-across-multiple-microservices"></a>
 - [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) — 2×
   <a id="net-core-architecture"></a>
@@ -206,11 +206,11 @@ _None in this band yet._
 
 ## Recently added
 
+- [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 2026-08-12
+- [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — 2026-08-12
 - [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) — 2026-08-10
 - [Explain the architecture of MVC in .NET Core](../topics/system-design.md#explain-the-architecture-of-mvc-in-net-core) — 2026-08-10
 - [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) — 2026-08-10
-- [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 2026-08-10
-- [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — 2026-08-10
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) — 2026-08-10
 - [Give an example of a time you changed an architecture decision after seeing production data that contradicted the original plan.](../topics/system-design.md#give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod) — 2026-08-02
 - [Explain the exact process you’d use to contain a cascading failure caused by a bad config rollout across production tenants.](../topics/system-design.md#explain-the-exact-process-youd-use-to-contain-a-cascading-failure-caused-by-a-ba) — 2026-08-02
@@ -236,7 +236,7 @@ _None in this band yet._
 | [Backend architecture interview](../topics/system-design.md#backend-architecture-interview) | Hard | 1 |
 | [Can you explain system design?](../topics/system-design.md#can-you-explain-system-design) | Hard | 1 |
 | [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) | Medium | 1 |
-| [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) | Hard | 6 |
+| [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) | Hard | 7 |
 | [Design a self-healing production platform.](../topics/system-design.md#design-a-self-healing-production-platform) | Hard | 1 |
 | [Design and build scalable backend services using Node.js](../topics/system-design.md#design-and-build-scalable-backend-services-using-node-js) | Hard | 1 |
 | [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) | Hard | 2 |
@@ -254,7 +254,7 @@ _None in this band yet._
 | [How would you design a fault-tolerant integration architecture?](../topics/system-design.md#how-would-you-design-a-fault-tolerant-integration-architecture) | Hard | 1 |
 | [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) | Hard | 2 |
 | [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications) | Hard | 1 |
-| [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) | Hard | 6 |
+| [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) | Hard | 7 |
 | [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) | Medium | 1 |
 | [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) | Hard | 1 |
 | [System Design](../topics/system-design.md#system-design) | Hard | 2 |

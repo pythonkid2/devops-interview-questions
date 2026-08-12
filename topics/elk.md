@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [ELK](../topics/elk.md#elk) — **1×** · Medium
+- [ELK](../topics/elk.md#elk) — **2×** · Medium
   <a id="elk"></a>
 - [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch) — **1×** · Medium
   <a id="explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch"></a>
@@ -38,7 +38,7 @@ _None in this band yet._
 
 ## Intermediate
 
-- [ELK](../topics/elk.md#elk) — 1×
+- [ELK](../topics/elk.md#elk) — 2×
   <a id="elk"></a>
 - [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch) — 1×
   <a id="explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch"></a>
@@ -60,8 +60,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [ELK](../topics/elk.md#elk) — 2026-08-12
 - [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch) — 2026-07-30
-- [ELK](../topics/elk.md#elk) — 2026-07-26
 
 ## Related topics
 
@@ -78,7 +78,7 @@ _None in this band yet._
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [ELK](../topics/elk.md#elk) | Medium | 1 |
+| [ELK](../topics/elk.md#elk) | Medium | 2 |
 | [Explain ELK cluster flow ? How did you setup the cluster from the scratch ?](../topics/elk.md#explain-elk-cluster-flow-how-did-you-setup-the-cluster-from-the-scratch) | Medium | 1 |
 
 ## Learning resources

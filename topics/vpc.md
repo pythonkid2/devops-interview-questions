@@ -33,6 +33,8 @@
   <a id="tell-me-the-difference-between-public-subnet-vs-private-subnet"></a>
 - [What is VPC?](../topics/vpc.md#what-is-vpc) — **2×** · Easy
   <a id="what-is-vpc"></a>
+- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — **2×** · Medium
+  <a id="what-we-actually-do-in-vpc-peering"></a>
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — **1×** · Medium · tags: `Networking`
   <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
 - [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — **1×** · Hard · tags: `Databases`, `AWS`, `System Design`
@@ -41,8 +43,6 @@
   <a id="suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar"></a>
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — **1×** · Easy
   <a id="what-are-the-difference-between-these-two-private-and-public-subnet"></a>
-- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — **1×** · Medium
-  <a id="what-we-actually-do-in-vpc-peering"></a>
 
 ## Beginner
 
@@ -57,12 +57,12 @@
 
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) — 2×
   <a id="how-to-create-different-subnets-in-vpc"></a>
+- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — 2×
+  <a id="what-we-actually-do-in-vpc-peering"></a>
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — 1× · tags: `Networking`
   <a id="how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured"></a>
 - [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — 1×
   <a id="suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar"></a>
-- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — 1×
-  <a id="what-we-actually-do-in-vpc-peering"></a>
 
 ## Advanced
 
@@ -88,8 +88,8 @@
 
 ## Recently added
 
+- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — 2026-08-12
 - [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — 2026-08-10 · tags: `Databases`, `AWS`, `System Design`
-- [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — 2026-07-29
 - [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — 2026-07-27
 - [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet) — 2026-07-26
 - [What is VPC?](../topics/vpc.md#what-is-vpc) — 2026-07-18
@@ -118,7 +118,7 @@
 | [Tell me the difference between Public Subnet vs Private Subnet?](../topics/vpc.md#tell-me-the-difference-between-public-subnet-vs-private-subnet) | Easy | 2 |
 | [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) | Easy | 1 |
 | [What is VPC?](../topics/vpc.md#what-is-vpc) | Easy | 2 |
-| [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) | Medium | 1 |
+| [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) | Medium | 2 |
 
 ## Learning resources
 

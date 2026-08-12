@@ -27,18 +27,18 @@
 
 ## Most asked
 
-- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — **6×** · Hard · tags: `GitOps`
+- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — **7×** · Hard · tags: `GitOps`
   <a id="design-a-gitops-workflow-for-20-teams-with-independent-release-cycles"></a>
+- [GitOps](../topics/argocd.md#gitops) — **2×** · Medium · tags: `GitOps`
+  <a id="gitops"></a>
+- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — **2×** · Medium
+  <a id="how-do-you-automate-deployment-rollbacks-in-argocd"></a>
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — **1×** · Hard · tags: `Git`, `GitOps`
   <a id="a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w"></a>
 - [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — **1×** · Medium · tags: `GitOps`
   <a id="argocd-gitops"></a>
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — **1×** · Medium · tags: `Databases`
   <a id="argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre"></a>
-- [GitOps](../topics/argocd.md#gitops) — **1×** · Medium · tags: `GitOps`
-  <a id="gitops"></a>
-- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — **1×** · Medium
-  <a id="how-do-you-automate-deployment-rollbacks-in-argocd"></a>
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — **1×** · Hard · tags: `GitOps`
   <a id="how-would-you-design-a-gitops-workflow-for-multiple-teams"></a>
 - [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — **1×** · Medium · tags: `Helm`, `CI/CD`, `Git`
@@ -54,14 +54,14 @@ _None in this band yet._
 
 ## Intermediate
 
+- [GitOps](../topics/argocd.md#gitops) — 2× · tags: `GitOps`
+  <a id="gitops"></a>
+- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — 2×
+  <a id="how-do-you-automate-deployment-rollbacks-in-argocd"></a>
 - [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — 1× · tags: `GitOps`
   <a id="argocd-gitops"></a>
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — 1× · tags: `Databases`
   <a id="argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre"></a>
-- [GitOps](../topics/argocd.md#gitops) — 1× · tags: `GitOps`
-  <a id="gitops"></a>
-- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — 1×
-  <a id="how-do-you-automate-deployment-rollbacks-in-argocd"></a>
 - [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — 1× · tags: `Helm`, `CI/CD`, `Git`
   <a id="if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire"></a>
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — 1×
@@ -71,7 +71,7 @@ _None in this band yet._
 
 ## Advanced
 
-- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 6× · tags: `GitOps`
+- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 7× · tags: `GitOps`
   <a id="design-a-gitops-workflow-for-20-teams-with-independent-release-cycles"></a>
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — 1× · tags: `Git`, `GitOps`
   <a id="a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w"></a>
@@ -99,10 +99,10 @@ _None in this band yet._
 
 ## Recently added
 
-- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 2026-08-10 · tags: `GitOps`
+- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — 2026-08-12
+- [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 2026-08-12 · tags: `GitOps`
+- [GitOps](../topics/argocd.md#gitops) — 2026-08-12 · tags: `GitOps`
 - [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — 2026-08-02 · tags: `Helm`, `CI/CD`, `Git`
-- [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) — 2026-07-29
-- [GitOps](../topics/argocd.md#gitops) — 2026-07-26 · tags: `GitOps`
 - [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) — 2026-07-20 · tags: `GitOps`
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — 2026-07-18 · tags: `Git`, `GitOps`
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — 2026-07-18 · tags: `Databases`
@@ -125,9 +125,9 @@ _None in this band yet._
 | [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) | Hard | 1 |
 | [ArgoCD & GitOps](../topics/argocd.md#argocd-gitops) | Medium | 1 |
 | [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) | Medium | 1 |
-| [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) | Hard | 6 |
-| [GitOps](../topics/argocd.md#gitops) | Medium | 1 |
-| [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) | Medium | 1 |
+| [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) | Hard | 7 |
+| [GitOps](../topics/argocd.md#gitops) | Medium | 2 |
+| [How do you automate deployment rollbacks in ArgoCD?](../topics/argocd.md#how-do-you-automate-deployment-rollbacks-in-argocd) | Medium | 2 |
 | [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) | Hard | 1 |
 | [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) | Medium | 1 |
 | [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) | Medium | 1 |

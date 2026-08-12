@@ -31,6 +31,8 @@
   <a id="an-iam-user-has-admin-access-but-s3-access-is-denied-why"></a>
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — **2×** · Medium · tags: `AWS`
   <a id="aws-iam-ec2-lambda-load-balancers"></a>
+- [IAM](../topics/iam.md#iam) — **2×** · Medium
+  <a id="iam"></a>
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — **2×** · Medium · tags: `Kubernetes`, `RBAC`
   <a id="in-kubernetes-what-is-rbac"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — **2×** · Medium · tags: `RBAC`
@@ -47,8 +49,6 @@
   <a id="how-do-you-handle-iam-roles-for-applications"></a>
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — **1×** · Medium
   <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
-- [IAM](../topics/iam.md#iam) — **1×** · Medium
-  <a id="iam"></a>
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — **1×** · Medium · tags: `ArgoCD`, `Terraform`, `RBAC`
   <a id="terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all"></a>
 - [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — **1×** · Easy
@@ -67,6 +67,8 @@
   <a id="an-iam-user-has-admin-access-but-s3-access-is-denied-why"></a>
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — 2× · tags: `AWS`
   <a id="aws-iam-ec2-lambda-load-balancers"></a>
+- [IAM](../topics/iam.md#iam) — 2×
+  <a id="iam"></a>
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — 2× · tags: `Kubernetes`, `RBAC`
   <a id="in-kubernetes-what-is-rbac"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — 2× · tags: `RBAC`
@@ -81,8 +83,6 @@
   <a id="how-do-you-handle-iam-roles-for-applications"></a>
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — 1×
   <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
-- [IAM](../topics/iam.md#iam) — 1×
-  <a id="iam"></a>
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — 1× · tags: `ArgoCD`, `Terraform`, `RBAC`
   <a id="terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all"></a>
 
@@ -115,13 +115,13 @@ _None in this band yet._
 
 ## Recently added
 
+- [IAM](../topics/iam.md#iam) — 2026-08-12
 - [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — 2026-08-10
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) — 2026-08-10
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — 2026-08-02 · tags: `AWS`
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — 2026-07-28
 - [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — 2026-07-28
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — 2026-07-26 · tags: `Kubernetes`, `RBAC`
-- [IAM](../topics/iam.md#iam) — 2026-07-26
 - [What is IAM?](../topics/iam.md#what-is-iam) — 2026-07-18
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — 2026-07-18 · tags: `ArgoCD`, `Terraform`, `RBAC`
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — 2026-07-18 · tags: `AWS`
@@ -149,7 +149,7 @@ _None in this band yet._
 | [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) | Medium | 1 |
 | [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) | Medium | 1 |
 | [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) | Medium | 1 |
-| [IAM](../topics/iam.md#iam) | Medium | 1 |
+| [IAM](../topics/iam.md#iam) | Medium | 2 |
 | [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) | Medium | 2 |
 | [RBAC & Security](../topics/iam.md#rbac-security) | Medium | 2 |
 | [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) | Medium | 1 |

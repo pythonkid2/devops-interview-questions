@@ -27,32 +27,32 @@
 
 ## Most asked
 
+- [Azure](../topics/azure.md#azure) — **2×** · Medium
+  <a id="azure"></a>
+- [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) — **2×** · Medium
+  <a id="azure-data-factory-adf-scenarios"></a>
+- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — **2×** · Medium
+  <a id="azure-function-deployment"></a>
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — **2×** · Medium
   <a id="azure-azure-devops"></a>
+- [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — **2×** · Medium
+  <a id="have-you-worked-with-azure-functions"></a>
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — **2×** · Medium
   <a id="how-will-you-troubleshoot-connectivity-issues-in-azure"></a>
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — **2×** · Medium
   <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — **2×** · Hard
   <a id="when-would-you-choose-an-azure-function-over-power-automate"></a>
-- [Azure](../topics/azure.md#azure) — **1×** · Medium
-  <a id="azure"></a>
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — **1×** · Medium
   <a id="azure-blob-storage-vs-adls-gen2"></a>
-- [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) — **1×** · Medium
-  <a id="azure-data-factory-adf-scenarios"></a>
 - [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — **1×** · Medium
   <a id="azure-data-factory-scenario-based-questions"></a>
 - [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — **1×** · Medium
   <a id="azure-databricks-unity-catalog"></a>
-- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — **1×** · Medium
-  <a id="azure-function-deployment"></a>
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — **1×** · Medium
   <a id="azure-regions-availability-zones"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — **1×** · Medium
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
-- [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — **1×** · Medium
-  <a id="have-you-worked-with-azure-functions"></a>
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — **1×** · Hard
   <a id="implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code"></a>
 - [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — **1×** · Hard · tags: `System Design`
@@ -97,30 +97,30 @@
 
 ## Intermediate
 
+- [Azure](../topics/azure.md#azure) — 2×
+  <a id="azure"></a>
+- [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) — 2×
+  <a id="azure-data-factory-adf-scenarios"></a>
+- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — 2×
+  <a id="azure-function-deployment"></a>
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — 2×
   <a id="azure-azure-devops"></a>
+- [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — 2×
+  <a id="have-you-worked-with-azure-functions"></a>
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) — 2×
   <a id="how-will-you-troubleshoot-connectivity-issues-in-azure"></a>
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) — 2×
   <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
-- [Azure](../topics/azure.md#azure) — 1×
-  <a id="azure"></a>
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 1×
   <a id="azure-blob-storage-vs-adls-gen2"></a>
-- [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) — 1×
-  <a id="azure-data-factory-adf-scenarios"></a>
 - [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — 1×
   <a id="azure-data-factory-scenario-based-questions"></a>
 - [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — 1×
   <a id="azure-databricks-unity-catalog"></a>
-- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — 1×
-  <a id="azure-function-deployment"></a>
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — 1×
   <a id="azure-regions-availability-zones"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — 1×
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
-- [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — 1×
-  <a id="have-you-worked-with-azure-functions"></a>
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — 1×
   <a id="the-azure-shared-responsibility-model"></a>
 - [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) — 1×
@@ -180,9 +180,10 @@
 
 ## Recently added
 
-- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — 2026-08-10
-- [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) — 2026-08-10
-- [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — 2026-08-10
+- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — 2026-08-12
+- [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) — 2026-08-12
+- [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — 2026-08-12
+- [Azure](../topics/azure.md#azure) — 2026-08-12
 - [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) — 2026-08-10
 - [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — 2026-08-02 · tags: `System Design`
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 2026-07-27
@@ -193,7 +194,6 @@
 - [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — 2026-07-26
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — 2026-07-26
 - [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) — 2026-07-26
-- [Azure](../topics/azure.md#azure) — 2026-07-26
 - [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) — 2026-07-26
 
 ## Related topics
@@ -206,16 +206,16 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Azure](../topics/azure.md#azure) | Medium | 1 |
+| [Azure](../topics/azure.md#azure) | Medium | 2 |
 | [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) | Medium | 1 |
-| [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) | Medium | 1 |
+| [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) | Medium | 2 |
 | [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) | Medium | 1 |
 | [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) | Medium | 1 |
-| [Azure Function Deployment](../topics/azure.md#azure-function-deployment) | Medium | 1 |
+| [Azure Function Deployment](../topics/azure.md#azure-function-deployment) | Medium | 2 |
 | [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) | Medium | 1 |
 | [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) | Medium | 2 |
 | [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) | Medium | 1 |
-| [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) | Medium | 1 |
+| [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) | Medium | 2 |
 | [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) | Medium | 2 |
 | [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) | Hard | 1 |
 | [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) | Hard | 1 |

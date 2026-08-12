@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **CI/CD**
 
-**85** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**87** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,15 +21,15 @@
 
 | | |
 | --- | ---: |
-| Questions | 85 |
-| Easy / Medium / Hard | 12 / 59 / 14 |
+| Questions | 87 |
+| Easy / Medium / Hard | 12 / 61 / 14 |
 | Companies | 13 |
 
 ## Most asked
 
-- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — **9×** · Medium
+- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — **10×** · Medium
   <a id="your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes"></a>
-- [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — **6×** · Hard
+- [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — **7×** · Hard
   <a id="how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d"></a>
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — **6×** · Medium
   <a id="what-is-the-difference-between-continuous-delivery-and-continuous-deployment"></a>
@@ -57,6 +57,8 @@
   <a id="what-is-the-ideal-pipeline-would-look-in-your-mind-explain-strategies"></a>
 - [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks) — **2×** · Medium
   <a id="build-fails-even-though-the-pipeline-runs-what-usually-breaks"></a>
+- [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) — **2×** · Medium
+  <a id="can-you-explain-ci-cd-pipelines"></a>
 - [CICD successfully completed but application failed in prod env so how do you troubleshoot and what could be the issue.](../topics/ci-cd.md#cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro) — **2×** · Hard
   <a id="cicd-successfully-completed-but-application-failed-in-prod-env-so-how-do-you-tro"></a>
 - [Explain the complete CI/CD flow that you built end-to-end.](../topics/ci-cd.md#explain-the-complete-ci-cd-flow-that-you-built-end-to-end) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="how-do-you-implement-zero-downtime-deployments"></a>
 - [How does a pipeline handle parallel jobs and dependencies?](../topics/ci-cd.md#how-does-a-pipeline-handle-parallel-jobs-and-dependencies) — **2×** · Medium
   <a id="how-does-a-pipeline-handle-parallel-jobs-and-dependencies"></a>
-- [How would you design a CI/CD pipeline with an automatic rollback strategy?](../topics/ci-cd.md#how-would-you-design-a-ci-cd-pipeline-with-an-automatic-rollback-strategy) — **2×** · Hard
-  <a id="how-would-you-design-a-ci-cd-pipeline-with-an-automatic-rollback-strategy"></a>
 
 ## Beginner
 
@@ -107,7 +107,7 @@
 
 ## Intermediate
 
-- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 9×
+- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 10×
   <a id="your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes"></a>
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — 6×
   <a id="what-is-the-difference-between-continuous-delivery-and-continuous-deployment"></a>
@@ -123,6 +123,8 @@
   <a id="have-you-optimized-ci-cd-pipeline-what-problem-you-have-faced"></a>
 - [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks) — 2×
   <a id="build-fails-even-though-the-pipeline-runs-what-usually-breaks"></a>
+- [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) — 2×
+  <a id="can-you-explain-ci-cd-pipelines"></a>
 - [Explain the complete CI/CD flow that you built end-to-end.](../topics/ci-cd.md#explain-the-complete-ci-cd-flow-that-you-built-end-to-end) — 2×
   <a id="explain-the-complete-ci-cd-flow-that-you-built-end-to-end"></a>
 - [Explain your role in setting up the CI/CD pipeline and the tasks for which the DevOps team needs to be approached.](../topics/ci-cd.md#explain-your-role-in-setting-up-the-ci-cd-pipeline-and-the-tasks-for-which-the-d) — 2×
@@ -139,6 +141,8 @@
   <a id="in-a-well-designed-ci-cd-pipeline-for-a-critical-banking-application-is-it-accep"></a>
 - [List all the CI/CD solutions you have worked on and the reasons for having more than one approach.](../topics/ci-cd.md#list-all-the-ci-cd-solutions-you-have-worked-on-and-the-reasons-for-having-more-) — 2×
   <a id="list-all-the-ci-cd-solutions-you-have-worked-on-and-the-reasons-for-having-more-"></a>
+- [Pipeline Failure Handling Strategies](../topics/ci-cd.md#pipeline-failure-handling-strategies) — 2×
+  <a id="pipeline-failure-handling-strategies"></a>
 - [What happens internally in a CI/CD pipeline from commit → deploy?](../topics/ci-cd.md#what-happens-internally-in-a-ci-cd-pipeline-from-commit-deploy) — 2×
   <a id="what-happens-internally-in-a-ci-cd-pipeline-from-commit-deploy"></a>
 - [What was your role in the CI/CD pipeline?](../topics/ci-cd.md#what-was-your-role-in-the-ci-cd-pipeline) — 2×
@@ -165,8 +169,6 @@
   <a id="ai-powered-ci-cd"></a>
 - [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) — 1×
   <a id="can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod"></a>
-- [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) — 1×
-  <a id="can-you-explain-ci-cd-pipelines"></a>
 - [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) — 1×
   <a id="can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project"></a>
 - [CI/CD, rollback and security best practices](../topics/ci-cd.md#ci-cd-rollback-and-security-best-practices) — 1×
@@ -201,12 +203,14 @@
   <a id="if-an-l3-team-created-the-pipeline-how-do-you-understand-and-troubleshoot-it"></a>
 - [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops) — 1×
   <a id="migrate-github-repositories-to-azure-devops"></a>
-- [Pipeline Failure Handling Strategies](../topics/ci-cd.md#pipeline-failure-handling-strategies) — 1×
-  <a id="pipeline-failure-handling-strategies"></a>
 - [Run a Hello World pipeline.](../topics/ci-cd.md#run-a-hello-world-pipeline) — 1×
   <a id="run-a-hello-world-pipeline"></a>
+- [Sensitive customer data is being moved to ADLS. How would you secure the pipeline and credentials?](../topics/ci-cd.md#sensitive-customer-data-is-being-moved-to-adls-how-would-you-secure-the-pipeline) — 1×
+  <a id="sensitive-customer-data-is-being-moved-to-adls-how-would-you-secure-the-pipeline"></a>
 - [Suppose Jenkins currently handles Development, DevOps, and Security pipelines. How would you move security scanning stages from Jenkins to GitHub Actions?](../topics/ci-cd.md#suppose-jenkins-currently-handles-development-devops-and-security-pipelines-how-) — 1×
   <a id="suppose-jenkins-currently-handles-development-devops-and-security-pipelines-how-"></a>
+- [The pipeline succeeds, but the target has fewer records than the source. How would you identify and reconcile the missing records?](../topics/ci-cd.md#the-pipeline-succeeds-but-the-target-has-fewer-records-than-the-source-how-would) — 1×
+  <a id="the-pipeline-succeeds-but-the-target-has-fewer-records-than-the-source-how-would"></a>
 - [Understand the complete pipeline flow and what happens when a build fails.](../topics/ci-cd.md#understand-the-complete-pipeline-flow-and-what-happens-when-a-build-fails) — 1×
   <a id="understand-the-complete-pipeline-flow-and-what-happens-when-a-build-fails"></a>
 - [What CI/CD pipeline did you use to deploy your application?](../topics/ci-cd.md#what-ci-cd-pipeline-did-you-use-to-deploy-your-application) — 1×
@@ -228,7 +232,7 @@
 
 ## Advanced
 
-- [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — 6×
+- [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — 7×
   <a id="how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d"></a>
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — 5× · tags: `System Design`
   <a id="ci-cd-pipeline-architecture"></a>
@@ -326,6 +330,8 @@
 - [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops)
 - [Pipeline Failure Handling Strategies](../topics/ci-cd.md#pipeline-failure-handling-strategies)
 - [Run a Hello World pipeline.](../topics/ci-cd.md#run-a-hello-world-pipeline)
+- [Sensitive customer data is being moved to ADLS. How would you secure the pipeline and credentials?](../topics/ci-cd.md#sensitive-customer-data-is-being-moved-to-adls-how-would-you-secure-the-pipeline)
+- [The pipeline succeeds, but the target has fewer records than the source. How would you identify and reconcile the missing records?](../topics/ci-cd.md#the-pipeline-succeeds-but-the-target-has-fewer-records-than-the-source-how-would)
 - [Understand the complete pipeline flow and what happens when a build fails.](../topics/ci-cd.md#understand-the-complete-pipeline-flow-and-what-happens-when-a-build-fails)
 - [What are the different sections in declarative pipeline?](../topics/ci-cd.md#what-are-the-different-sections-in-declarative-pipeline)
 - [What are the different ways to create a pipeline?](../topics/ci-cd.md#what-are-the-different-ways-to-create-a-pipeline)
@@ -374,21 +380,21 @@
 
 ## Recently added
 
+- [Pipeline Failure Handling Strategies](../topics/ci-cd.md#pipeline-failure-handling-strategies) — 2026-08-12
+- [The pipeline succeeds, but the target has fewer records than the source. How would you identify and reconcile the missing records?](../topics/ci-cd.md#the-pipeline-succeeds-but-the-target-has-fewer-records-than-the-source-how-would) — 2026-08-12
+- [Sensitive customer data is being moved to ADLS. How would you secure the pipeline and credentials?](../topics/ci-cd.md#sensitive-customer-data-is-being-moved-to-adls-how-would-you-secure-the-pipeline) — 2026-08-12
+- [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — 2026-08-12
+- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 2026-08-12
+- [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) — 2026-08-12
 - [Can you design an event-driven pipeline with a Pub/Sub system using GCP?](../topics/ci-cd.md#can-you-design-an-event-driven-pipeline-with-a-pub-sub-system-using-gcp) — 2026-08-10 · tags: `GCP`
 - [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) — 2026-08-10
-- [Pipeline Failure Handling Strategies](../topics/ci-cd.md#pipeline-failure-handling-strategies) — 2026-08-10
 - [AI-powered CI/CD](../topics/ci-cd.md#ai-powered-ci-cd) — 2026-08-10
 - [What CI/CD pipeline did you use to deploy your application?](../topics/ci-cd.md#what-ci-cd-pipeline-did-you-use-to-deploy-your-application) — 2026-08-10
 - [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — 2026-08-10
 - [What's your approach to secrets management in a CI/CD pipeline?](../topics/ci-cd.md#what-s-your-approach-to-secrets-management-in-a-ci-cd-pipeline) — 2026-08-10
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — 2026-08-10
-- [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — 2026-08-10
-- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 2026-08-10
 - [How does a pipeline handle parallel jobs and dependencies?](../topics/ci-cd.md#how-does-a-pipeline-handle-parallel-jobs-and-dependencies) — 2026-08-10
 - [What happens internally in a CI/CD pipeline from commit → deploy?](../topics/ci-cd.md#what-happens-internally-in-a-ci-cd-pipeline-from-commit-deploy) — 2026-08-10
-- [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) — 2026-08-10
-- [What would you do if your pipeline suddenly takes 30 minutes instead of 5?](../topics/ci-cd.md#what-would-you-do-if-your-pipeline-suddenly-takes-30-minutes-instead-of-5) — 2026-08-10
-- [How would you design a CI/CD pipeline with an automatic rollback strategy?](../topics/ci-cd.md#how-would-you-design-a-ci-cd-pipeline-with-an-automatic-rollback-strategy) — 2026-08-10
 
 ## Related topics
 
@@ -409,7 +415,7 @@
 | [Build fails even though the pipeline runs—what usually breaks?](../topics/ci-cd.md#build-fails-even-though-the-pipeline-runs-what-usually-breaks) | Medium | 2 |
 | [Can you describe your experience with CI/CD using CodePipeline, CodeBuild, and CodeDeploy?](../topics/ci-cd.md#can-you-describe-your-experience-with-ci-cd-using-codepipeline-codebuild-and-cod) | Medium | 1 |
 | [Can you design an event-driven pipeline with a Pub/Sub system using GCP?](../topics/ci-cd.md#can-you-design-an-event-driven-pipeline-with-a-pub-sub-system-using-gcp) | Hard | 1 |
-| [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) | Medium | 1 |
+| [Can you explain CI/CD pipelines?](../topics/ci-cd.md#can-you-explain-ci-cd-pipelines) | Medium | 2 |
 | [Can you explain the CI/CD flow in your current or previous project?](../topics/ci-cd.md#can-you-explain-the-ci-cd-flow-in-your-current-or-previous-project) | Medium | 1 |
 | [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) | Hard | 5 |
 | [CI/CD pipeline failures & production rollback](../topics/ci-cd.md#ci-cd-pipeline-failures-production-rollback) | Hard | 1 |
@@ -445,16 +451,18 @@
 | [How have you used artifact repositories in your CI/CD pipelines?](../topics/ci-cd.md#how-have-you-used-artifact-repositories-in-your-ci-cd-pipelines) | Medium | 1 |
 | [How would you design a CI/CD pipeline with an automatic rollback strategy?](../topics/ci-cd.md#how-would-you-design-a-ci-cd-pipeline-with-an-automatic-rollback-strategy) | Hard | 2 |
 | [How would you design a YAML pipeline where deployment to Production is possible only after successful testing and manual approval?](../topics/ci-cd.md#how-would-you-design-a-yaml-pipeline-where-deployment-to-production-is-possible-) | Hard | 1 |
-| [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) | Hard | 6 |
+| [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) | Hard | 7 |
 | [How would you integrate vulnerability scanning tools such as Trivy or Snyk into GitHub Actions?](../topics/ci-cd.md#how-would-you-integrate-vulnerability-scanning-tools-such-as-trivy-or-snyk-into-) | Medium | 1 |
 | [How would you optimize a pipeline that takes 25 minutes to complete?](../topics/ci-cd.md#how-would-you-optimize-a-pipeline-that-takes-25-minutes-to-complete) | Medium | 2 |
 | [If an L3 team created the pipeline, how do you understand and troubleshoot it?](../topics/ci-cd.md#if-an-l3-team-created-the-pipeline-how-do-you-understand-and-troubleshoot-it) | Medium | 1 |
 | [In a well-designed CI/CD pipeline for a critical banking application, is it acceptable to push code directly to production without automated testing if the developer is confident and time is limited?](../topics/ci-cd.md#in-a-well-designed-ci-cd-pipeline-for-a-critical-banking-application-is-it-accep) | Medium | 2 |
 | [List all the CI/CD solutions you have worked on and the reasons for having more than one approach.](../topics/ci-cd.md#list-all-the-ci-cd-solutions-you-have-worked-on-and-the-reasons-for-having-more-) | Medium | 2 |
 | [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops) | Medium | 1 |
-| [Pipeline Failure Handling Strategies](../topics/ci-cd.md#pipeline-failure-handling-strategies) | Medium | 1 |
+| [Pipeline Failure Handling Strategies](../topics/ci-cd.md#pipeline-failure-handling-strategies) | Medium | 2 |
 | [Run a Hello World pipeline.](../topics/ci-cd.md#run-a-hello-world-pipeline) | Medium | 1 |
+| [Sensitive customer data is being moved to ADLS. How would you secure the pipeline and credentials?](../topics/ci-cd.md#sensitive-customer-data-is-being-moved-to-adls-how-would-you-secure-the-pipeline) | Medium | 1 |
 | [Suppose Jenkins currently handles Development, DevOps, and Security pipelines. How would you move security scanning stages from Jenkins to GitHub Actions?](../topics/ci-cd.md#suppose-jenkins-currently-handles-development-devops-and-security-pipelines-how-) | Medium | 1 |
+| [The pipeline succeeds, but the target has fewer records than the source. How would you identify and reconcile the missing records?](../topics/ci-cd.md#the-pipeline-succeeds-but-the-target-has-fewer-records-than-the-source-how-would) | Medium | 1 |
 | [Understand the complete pipeline flow and what happens when a build fails.](../topics/ci-cd.md#understand-the-complete-pipeline-flow-and-what-happens-when-a-build-fails) | Medium | 1 |
 | [What are the different sections in declarative pipeline?](../topics/ci-cd.md#what-are-the-different-sections-in-declarative-pipeline) | Easy | 1 |
 | [What are the different ways to create a pipeline?](../topics/ci-cd.md#what-are-the-different-ways-to-create-a-pipeline) | Easy | 1 |
@@ -481,7 +489,7 @@
 | [Write YAML templates for Azure DevOps Pipelines.](../topics/ci-cd.md#write-yaml-templates-for-azure-devops-pipelines) | Easy | 1 |
 | [Your CI/CD deployment breaks after a code merge. How do you identify the root cause?](../topics/ci-cd.md#your-ci-cd-deployment-breaks-after-a-code-merge-how-do-you-identify-the-root-cau) | Medium | 2 |
 | [Your CI/CD deployment failed. The rollback pipeline also failed because it depends on the deployment stage. How would you redesign the pipeline to avoid this situation?](../topics/ci-cd.md#your-ci-cd-deployment-failed-the-rollback-pipeline-also-failed-because-it-depend) | Medium | 1 |
-| [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) | Medium | 9 |
+| [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) | Medium | 10 |
 | [Your CI/CD platform executes 25,000 deployments per month, but deployment success has dropped from 99.5% to 91%. How would you identify and eliminate the root causes?](../topics/ci-cd.md#your-ci-cd-platform-executes-25000-deployments-per-month-but-deployment-success-) | Medium | 1 |
 | [Your deployment pipeline succeeds, but the application fails after deployment. What would be your next steps?](../topics/ci-cd.md#your-deployment-pipeline-succeeds-but-the-application-fails-after-deployment-wha) | Medium | 2 |
 | [Your GitLab pipeline is triggered successfully, but no jobs are executed. What would you check first?](../topics/ci-cd.md#your-gitlab-pipeline-is-triggered-successfully-but-no-jobs-are-executed-what-wou) | Medium | 1 |

@@ -27,9 +27,9 @@
 
 ## Most asked
 
-- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — **8×** · Hard
+- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — **9×** · Hard
   <a id="how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident"></a>
-- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — **5×** · Hard
+- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — **6×** · Hard
   <a id="explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec"></a>
 - [Tell me about a major incident or outage you handled. How did you respond, and what improvements were implemented afterward?](../topics/incident-response.md#tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha) — **3×** · Medium
   <a id="tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha"></a>
@@ -39,6 +39,8 @@
   <a id="explain-one-challenging-production-incident-and-how-you-resolved-it"></a>
 - [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident) — **2×** · Hard
   <a id="how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident"></a>
+- [Incident Response](../topics/incident-response.md#incident-response) — **2×** · Medium
+  <a id="incident-response"></a>
 - [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) — **2×** · Hard
   <a id="production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han"></a>
 - [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="how-do-you-handle-on-call-support-and-incident-management"></a>
 - [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident) — **1×** · Hard
   <a id="how-do-you-respond-to-a-production-incident"></a>
-- [Incident Management](../topics/incident-response.md#incident-management) — **1×** · Medium
-  <a id="incident-management"></a>
 
 ## Beginner
 
@@ -88,6 +88,8 @@ _None in this band yet._
   <a id="tell-me-about-a-major-incident-or-outage-you-handled-how-did-you-respond-and-wha"></a>
 - [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) — 2×
   <a id="explain-one-challenging-production-incident-and-how-you-resolved-it"></a>
+- [Incident Response](../topics/incident-response.md#incident-response) — 2×
+  <a id="incident-response"></a>
 - [Tell us about a production incident and how you resolved it.](../topics/incident-response.md#tell-us-about-a-production-incident-and-how-you-resolved-it) — 2×
   <a id="tell-us-about-a-production-incident-and-how-you-resolved-it"></a>
 - [A developer accidentally commits AWS credentials to Git. What is your complete incident response process?](../topics/incident-response.md#a-developer-accidentally-commits-aws-credentials-to-git-what-is-your-complete-in) — 1× · tags: `Git`, `AWS`
@@ -100,8 +102,6 @@ _None in this band yet._
   <a id="how-do-you-handle-on-call-support-and-incident-management"></a>
 - [Incident Management](../topics/incident-response.md#incident-management) — 1×
   <a id="incident-management"></a>
-- [Incident Response](../topics/incident-response.md#incident-response) — 1×
-  <a id="incident-response"></a>
 - [Real incident-based thinking](../topics/incident-response.md#real-incident-based-thinking) — 1×
   <a id="real-incident-based-thinking"></a>
 - [The Board approves a ₹600 Crore Cloud, AI, and Platform Engineering Transformation with an expectation of 50% faster deployments and 70% reduction in MTTR within 18 months. What execution strategy would you recommend?](../topics/incident-response.md#the-board-approves-a-600-crore-cloud-ai-and-platform-engineering-transformation-) — 1×
@@ -115,9 +115,9 @@ _None in this band yet._
 
 ## Advanced
 
-- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 8×
+- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 9×
   <a id="how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident"></a>
-- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 5×
+- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 6×
   <a id="explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec"></a>
 - [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) — 2×
   <a id="describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r"></a>
@@ -207,10 +207,11 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2026-08-12
+- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 2026-08-12
+- [Incident Response](../topics/incident-response.md#incident-response) — 2026-08-12
 - [AI-assisted incident management](../topics/incident-response.md#ai-assisted-incident-management) — 2026-08-10
 - [Explain a production incident you resolved and your RCA approach.](../topics/incident-response.md#explain-a-production-incident-you-resolved-and-your-rca-approach) — 2026-08-10
-- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2026-08-10
-- [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 2026-08-10
 - [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) — 2026-08-10
 - [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident) — 2026-08-10
 - [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) — 2026-08-10
@@ -221,7 +222,6 @@ _None in this band yet._
 - [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) — 2026-07-30 · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Observability`
 - [Your organization performs 250,000 deployments annually, but the change failure rate has increased to 18% and MTTR exceeds 3 hours. How would you redesign the CI/CD pipeline, release strategy, and platform engineering practices?](../topics/incident-response.md#your-organization-performs-250000-deployments-annually-but-the-change-failure-ra) — 2026-07-30 · tags: `CI/CD`
 - [Walk me through a production incident you personally handled — what was your role?](../topics/incident-response.md#walk-me-through-a-production-incident-you-personally-handled-what-was-your-role) — 2026-07-29
-- [Walk me through your worst production incident. What was it about? What did you do? What would you have done differently?](../topics/incident-response.md#walk-me-through-your-worst-production-incident-what-was-it-about-what-did-you-do) — 2026-07-29
 
 ## Related topics
 
@@ -248,15 +248,15 @@ _None in this band yet._
 | [Design a multi-region observability and incident platform that can survive the loss of two availability zones at once.](../topics/incident-response.md#design-a-multi-region-observability-and-incident-platform-that-can-survive-the-l) | Hard | 1 |
 | [Explain a production incident you resolved and your RCA approach.](../topics/incident-response.md#explain-a-production-incident-you-resolved-and-your-rca-approach) | Hard | 1 |
 | [Explain one challenging production incident and how you resolved it.](../topics/incident-response.md#explain-one-challenging-production-incident-and-how-you-resolved-it) | Medium | 2 |
-| [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) | Hard | 5 |
+| [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) | Hard | 6 |
 | [Explain your production incident management process.](../topics/incident-response.md#explain-your-production-incident-management-process) | Hard | 1 |
 | [Have you worked on incident management / production incidents?](../topics/incident-response.md#have-you-worked-on-incident-management-production-incidents) | Hard | 1 |
-| [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) | Hard | 8 |
+| [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) | Hard | 9 |
 | [How do you handle on-call support and incident management?](../topics/incident-response.md#how-do-you-handle-on-call-support-and-incident-management) | Medium | 1 |
 | [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident) | Hard | 2 |
 | [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident) | Hard | 1 |
 | [Incident Management](../topics/incident-response.md#incident-management) | Medium | 1 |
-| [Incident Response](../topics/incident-response.md#incident-response) | Medium | 1 |
+| [Incident Response](../topics/incident-response.md#incident-response) | Medium | 2 |
 | [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) | Hard | 1 |
 | [Production incident response](../topics/incident-response.md#production-incident-response) | Hard | 1 |
 | [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) | Hard | 2 |
