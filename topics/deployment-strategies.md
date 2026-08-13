@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Deployment Strategies**
 
-**22** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**23** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 22 |
-| Easy / Medium / Hard | 2 / 10 / 10 |
-| Companies | 4 |
+| Questions | 23 |
+| Easy / Medium / Hard | 3 / 10 / 10 |
+| Companies | 5 |
 
 ## Most asked
 
@@ -65,6 +65,8 @@
   <a id="suppose-you-are-implementing-a-canary-deployment-where-only-10-of-users-receive-"></a>
 - [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) — **1×** · Easy · tags: `Canary`
   <a id="what-is-canary-deployment"></a>
+- [What is the difference between blue-green deployment and canary deployment?](../topics/deployment-strategies.md#what-is-the-difference-between-blue-green-deployment-and-canary-deployment) — **1×** · Easy · tags: `Blue-Green`, `Canary`
+  <a id="what-is-the-difference-between-blue-green-deployment-and-canary-deployment"></a>
 - [You must migrate a business-critical platform across clouds with zero downtime. What is your strategy?](../topics/deployment-strategies.md#you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w) — **1×** · Medium
   <a id="you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w"></a>
 - [Your organization is migrating a 15 year old monolithic .NET application to a cloud native microservices architecture on Microsoft Azure. How would you manage application decomposition, data migration, API integration, security, and zero downtime deployment?](../topics/deployment-strategies.md#your-organization-is-migrating-a-15-year-old-monolithic-net-application-to-a-clo) — **1×** · Hard · tags: `Azure`, `System Design`
@@ -78,6 +80,8 @@
   <a id="explain-the-difference-between-rolling-blue-green-and-canary-deployments"></a>
 - [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) — 1× · tags: `Canary`
   <a id="what-is-canary-deployment"></a>
+- [What is the difference between blue-green deployment and canary deployment?](../topics/deployment-strategies.md#what-is-the-difference-between-blue-green-deployment-and-canary-deployment) — 1× · tags: `Blue-Green`, `Canary`
+  <a id="what-is-the-difference-between-blue-green-deployment-and-canary-deployment"></a>
 
 ## Intermediate
 
@@ -148,6 +152,7 @@
 - [How would you implement a zero-downtime deployment?](../topics/deployment-strategies.md#how-would-you-implement-a-zero-downtime-deployment)
 - [Suppose you are implementing a Canary Deployment where only 10% of users receive the new version. How would you implement it through your CI/CD pipeline?](../topics/deployment-strategies.md#suppose-you-are-implementing-a-canary-deployment-where-only-10-of-users-receive-) — tags: `CI/CD`, `Canary`
 - [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) — tags: `Canary`
+- [What is the difference between blue-green deployment and canary deployment?](../topics/deployment-strategies.md#what-is-the-difference-between-blue-green-deployment-and-canary-deployment) — tags: `Blue-Green`, `Canary`
 - [You must migrate a business-critical platform across clouds with zero downtime. What is your strategy?](../topics/deployment-strategies.md#you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w)
 - [Your organization is migrating a 15 year old monolithic .NET application to a cloud native microservices architecture on Microsoft Azure. How would you manage application decomposition, data migration, API integration, security, and zero downtime deployment?](../topics/deployment-strategies.md#your-organization-is-migrating-a-15-year-old-monolithic-net-application-to-a-clo) — tags: `Azure`, `System Design`
 - [Zero-downtime deployments](../topics/deployment-strategies.md#zero-downtime-deployments)
@@ -157,10 +162,12 @@
 - [Amazon](../companies/amazon.md)
 - [Elite Code Technologies](../companies/elite-code-technologies.md)
 - [Infosys](../companies/infosys.md)
+- [Oracle](../companies/oracle.md)
 - [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [What is the difference between blue-green deployment and canary deployment?](../topics/deployment-strategies.md#what-is-the-difference-between-blue-green-deployment-and-canary-deployment) — 2026-08-13 · tags: `Blue-Green`, `Canary`
 - [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production) — 2026-08-12
 - [Design a rollback strategy that works even if the deployment stage fails.](../topics/deployment-strategies.md#design-a-rollback-strategy-that-works-even-if-the-deployment-stage-fails) — 2026-08-12
 - [Blue-Green & Canary deployments](../topics/deployment-strategies.md#blue-green-canary-deployments) — 2026-08-12 · tags: `Blue-Green`, `Canary`
@@ -175,7 +182,6 @@
 - [During a Canary deployment, how would you verify that the 10% deployment is healthy? What metrics would you monitor before proceeding to 100%?](../topics/deployment-strategies.md#during-a-canary-deployment-how-would-you-verify-that-the-10-deployment-is-health) — 2026-08-02 · tags: `Canary`
 - [Suppose you are implementing a Canary Deployment where only 10% of users receive the new version. How would you implement it through your CI/CD pipeline?](../topics/deployment-strategies.md#suppose-you-are-implementing-a-canary-deployment-where-only-10-of-users-receive-) — 2026-08-02 · tags: `CI/CD`, `Canary`
 - [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — 2026-07-28 · tags: `Blue-Green`, `Canary`
-- [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) — 2026-07-28 · tags: `Canary`
 
 ## Related topics
 
@@ -207,6 +213,7 @@
 | [How would you implement a zero-downtime deployment?](../topics/deployment-strategies.md#how-would-you-implement-a-zero-downtime-deployment) | Hard | 1 |
 | [Suppose you are implementing a Canary Deployment where only 10% of users receive the new version. How would you implement it through your CI/CD pipeline?](../topics/deployment-strategies.md#suppose-you-are-implementing-a-canary-deployment-where-only-10-of-users-receive-) | Hard | 1 |
 | [What is Canary Deployment?](../topics/deployment-strategies.md#what-is-canary-deployment) | Easy | 1 |
+| [What is the difference between blue-green deployment and canary deployment?](../topics/deployment-strategies.md#what-is-the-difference-between-blue-green-deployment-and-canary-deployment) | Easy | 1 |
 | [You must migrate a business-critical platform across clouds with zero downtime. What is your strategy?](../topics/deployment-strategies.md#you-must-migrate-a-business-critical-platform-across-clouds-with-zero-downtime-w) | Medium | 1 |
 | [Your organization is migrating a 15 year old monolithic .NET application to a cloud native microservices architecture on Microsoft Azure. How would you manage application decomposition, data migration, API integration, security, and zero downtime deployment?](../topics/deployment-strategies.md#your-organization-is-migrating-a-15-year-old-monolithic-net-application-to-a-clo) | Hard | 1 |
 | [Zero-downtime deployments](../topics/deployment-strategies.md#zero-downtime-deployments) | Medium | 1 |

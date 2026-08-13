@@ -37,14 +37,14 @@
   <a id="what-is-the-meaning-of-mtime-7"></a>
 - [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) — **2×** · Medium
   <a id="what-is-the-output-of-the-following-command-echo-hi-echo-hello"></a>
+- [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) — **2×** · Medium
+  <a id="what-repetitive-tasks-have-you-automated-using-bash-shell-scripting"></a>
 - [Why #!/bin/bash?](../topics/bash.md#why-bin-bash) — **2×** · Medium
   <a id="why-bin-bash"></a>
 - [Write a Shell script for weekly log cleanup.](../topics/bash.md#write-a-shell-script-for-weekly-log-cleanup) — **2×** · Medium
   <a id="write-a-shell-script-for-weekly-log-cleanup"></a>
 - [Write a Shell script to monitor CPU utilization.](../topics/bash.md#write-a-shell-script-to-monitor-cpu-utilization) — **2×** · Medium
   <a id="write-a-shell-script-to-monitor-cpu-utilization"></a>
-- [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) — **1×** · Medium
-  <a id="what-repetitive-tasks-have-you-automated-using-bash-shell-scripting"></a>
 - [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — **1×** · Hard
   <a id="write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources"></a>
 
@@ -64,14 +64,14 @@ _None in this band yet._
   <a id="what-is-the-meaning-of-mtime-7"></a>
 - [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) — 2×
   <a id="what-is-the-output-of-the-following-command-echo-hi-echo-hello"></a>
+- [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) — 2×
+  <a id="what-repetitive-tasks-have-you-automated-using-bash-shell-scripting"></a>
 - [Why #!/bin/bash?](../topics/bash.md#why-bin-bash) — 2×
   <a id="why-bin-bash"></a>
 - [Write a Shell script for weekly log cleanup.](../topics/bash.md#write-a-shell-script-for-weekly-log-cleanup) — 2×
   <a id="write-a-shell-script-for-weekly-log-cleanup"></a>
 - [Write a Shell script to monitor CPU utilization.](../topics/bash.md#write-a-shell-script-to-monitor-cpu-utilization) — 2×
   <a id="write-a-shell-script-to-monitor-cpu-utilization"></a>
-- [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) — 1×
-  <a id="what-repetitive-tasks-have-you-automated-using-bash-shell-scripting"></a>
 
 ## Advanced
 
@@ -104,8 +104,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) — 2026-08-13
 - [Why #!/bin/bash?](../topics/bash.md#why-bin-bash) — 2026-08-10
-- [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) — 2026-08-02
 - [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 2026-07-15
 - [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) — 2026-07-15
 - [What is the meaning of -mtime +7?](../topics/bash.md#what-is-the-meaning-of-mtime-7) — 2026-07-15
@@ -129,7 +129,7 @@ _None in this band yet._
 | [What automation tasks have you done using Shell scripting?](../topics/bash.md#what-automation-tasks-have-you-done-using-shell-scripting) | Medium | 2 |
 | [What is the meaning of -mtime +7?](../topics/bash.md#what-is-the-meaning-of-mtime-7) | Medium | 2 |
 | [What is the output of the following command? echo hi \|\| echo hello](../topics/bash.md#what-is-the-output-of-the-following-command-echo-hi-echo-hello) | Medium | 2 |
-| [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) | Medium | 1 |
+| [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) | Medium | 2 |
 | [Why #!/bin/bash?](../topics/bash.md#why-bin-bash) | Medium | 2 |
 | [Write a Shell script for weekly log cleanup.](../topics/bash.md#write-a-shell-script-for-weekly-log-cleanup) | Medium | 2 |
 | [Write a Shell script to monitor CPU utilization.](../topics/bash.md#write-a-shell-script-to-monitor-cpu-utilization) | Medium | 2 |

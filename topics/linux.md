@@ -33,6 +33,8 @@
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — **2×** · Medium
   <a id="for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events"></a>
+- [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — **2×** · Medium
+  <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — **2×** · Medium
   <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
 - [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — **2×** · Medium
@@ -59,8 +61,6 @@
   <a id="explain-linux-permission-774"></a>
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — **1×** · Medium
   <a id="explain-the-linux-file-system-hierarchy"></a>
-- [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — **1×** · Medium
-  <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — **1×** · Medium
   <a id="how-do-you-analyze-linux-logs-to-identify-application-issues"></a>
 - [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) — **1×** · Medium
@@ -95,6 +95,8 @@
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
 - [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — 2×
   <a id="for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events"></a>
+- [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 2×
+  <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2×
   <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
 - [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2×
@@ -119,8 +121,6 @@
   <a id="explain-linux-permission-774"></a>
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) — 1×
   <a id="explain-the-linux-file-system-hierarchy"></a>
-- [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 1×
-  <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — 1×
   <a id="how-do-you-analyze-linux-logs-to-identify-application-issues"></a>
 - [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) — 1×
@@ -187,13 +187,13 @@ _None in this band yet._
 
 ## Recently added
 
+- [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 2026-08-13
 - [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking) — 2026-08-10
 - [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) — 2026-08-10
 - [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) — 2026-08-10
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2026-08-10
 - [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 2026-08-10
 - [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) — 2026-08-02
-- [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 2026-08-02
 - [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — 2026-07-29
 - [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) — 2026-07-29
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — 2026-07-27
@@ -217,7 +217,7 @@ _None in this band yet._
 | [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) | Medium | 1 |
 | [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) | Medium | 1 |
 | [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) | Medium | 2 |
-| [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) | Medium | 1 |
+| [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) | Medium | 2 |
 | [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) | Medium | 1 |
 | [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) | Medium | 1 |
 | [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) | Medium | 1 |

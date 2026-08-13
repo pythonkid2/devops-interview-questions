@@ -4,10 +4,11 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1674 |
+| [Unknown Company](../companies/unknown-company.md) | 1803 |
 | [Infosys](../companies/infosys.md) | 63 |
 | [TCS](../companies/tcs.md) | 47 |
 | [Mphasis](../companies/mphasis.md) | 43 |
+| [Oracle](../companies/oracle.md) | 37 |
 | [Elite Code Technologies](../companies/elite-code-technologies.md) | 33 |
 | [Accenture](../companies/accenture.md) | 32 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
@@ -20,7 +21,6 @@
 | [PwC](../companies/pwc.md) | 13 |
 | [SpaceTech Inc.](../companies/spacetech-inc.md) | 13 |
 | [L&T Technology Services](../companies/l-t-technology-services.md) | 12 |
-| [Oracle](../companies/oracle.md) | 12 |
 | [NVIDIA](../companies/nvidia.md) | 11 |
 | [Wipro](../companies/wipro.md) | 11 |
 | [Argyll Infotech](../companies/argyll-infotech.md) | 10 |
@@ -37,6 +37,7 @@
 | [Sri-Hire](../companies/sri-hire.md) | 5 |
 | [DPRSolutions](../companies/dprsolutions.md) | 4 |
 | [Infinity wave Inc](../companies/infinity-wave-inc.md) | 3 |
+| [Optum](../companies/optum.md) | 3 |
 | [Delta Dental](../companies/delta-dental.md) | 1 |
 | [Deltassi](../companies/deltassi.md) | 1 |
 | [Nexiva](../companies/nexiva.md) | 1 |

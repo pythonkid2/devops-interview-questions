@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Databases**
 
-**16** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**18** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 16 |
-| Easy / Medium / Hard | 1 / 14 / 1 |
+| Questions | 18 |
+| Easy / Medium / Hard | 1 / 15 / 2 |
 | Companies | 2 |
 
 ## Most asked
@@ -45,8 +45,12 @@
   <a id="50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control"></a>
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) — **1×** · Medium
   <a id="a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how"></a>
+- [A mission-critical .NET platform experiences API failures, database bottlenecks, security vulnerabilities, and recurring production incidents. How would you identify root causes, improve performance, and build an enterprise-grade resilient architecture?](../topics/databases.md#a-mission-critical-net-platform-experiences-api-failures-database-bottlenecks-se) — **1×** · Hard · tags: `System Design`
+  <a id="a-mission-critical-net-platform-experiences-api-failures-database-bottlenecks-se"></a>
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — **1×** · Medium
   <a id="an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps"></a>
+- [Database partitioning](../topics/databases.md#database-partitioning) — **1×** · Medium
+  <a id="database-partitioning"></a>
 - [Database transactions](../topics/databases.md#database-transactions) — **1×** · Medium
   <a id="database-transactions"></a>
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — **1×** · Hard · tags: `System Design`
@@ -87,6 +91,8 @@
   <a id="a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how"></a>
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) — 1×
   <a id="an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps"></a>
+- [Database partitioning](../topics/databases.md#database-partitioning) — 1×
+  <a id="database-partitioning"></a>
 - [Database transactions](../topics/databases.md#database-transactions) — 1×
   <a id="database-transactions"></a>
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — 1×
@@ -98,6 +104,8 @@
 
 ## Advanced
 
+- [A mission-critical .NET platform experiences API failures, database bottlenecks, security vulnerabilities, and recurring production incidents. How would you identify root causes, improve performance, and build an enterprise-grade resilient architecture?](../topics/databases.md#a-mission-critical-net-platform-experiences-api-failures-database-bottlenecks-se) — 1× · tags: `System Design`
+  <a id="a-mission-critical-net-platform-experiences-api-failures-database-bottlenecks-se"></a>
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — 1× · tags: `System Design`
   <a id="design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des"></a>
 
@@ -107,8 +115,10 @@
 
 - [50 tables run in parallel and overload the source database. How would you control ADF concurrency?](../topics/databases.md#50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control)
 - [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how)
+- [A mission-critical .NET platform experiences API failures, database bottlenecks, security vulnerabilities, and recurring production incidents. How would you identify root causes, improve performance, and build an enterprise-grade resilient architecture?](../topics/databases.md#a-mission-critical-net-platform-experiences-api-failures-database-bottlenecks-se) — tags: `System Design`
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check)
 - [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps)
+- [Database partitioning](../topics/databases.md#database-partitioning)
 - [Database transactions](../topics/databases.md#database-transactions)
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — tags: `System Design`
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t)
@@ -129,6 +139,8 @@
 
 ## Recently added
 
+- [A mission-critical .NET platform experiences API failures, database bottlenecks, security vulnerabilities, and recurring production incidents. How would you identify root causes, improve performance, and build an enterprise-grade resilient architecture?](../topics/databases.md#a-mission-critical-net-platform-experiences-api-failures-database-bottlenecks-se) — 2026-08-13 · tags: `System Design`
+- [Database partitioning](../topics/databases.md#database-partitioning) — 2026-08-13
 - [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) — 2026-08-12
 - [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) — 2026-08-12
 - [50 tables run in parallel and overload the source database. How would you control ADF concurrency?](../topics/databases.md#50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control) — 2026-08-12
@@ -142,8 +154,6 @@
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — 2026-07-18
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — 2026-07-17
 - [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — 2026-07-17
-- [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — 2026-07-17 · tags: `System Design`
-- [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) — 2026-07-17
 
 ## Related topics
 
@@ -157,8 +167,10 @@
 | --- | --- | ---: |
 | [50 tables run in parallel and overload the source database. How would you control ADF concurrency?](../topics/databases.md#50-tables-run-in-parallel-and-overload-the-source-database-how-would-you-control) | Medium | 1 |
 | [A database query that previously took milliseconds now takes several seconds. How would you optimize it?](../topics/databases.md#a-database-query-that-previously-took-milliseconds-now-takes-several-seconds-how) | Medium | 1 |
+| [A mission-critical .NET platform experiences API failures, database bottlenecks, security vulnerabilities, and recurring production incidents. How would you identify root causes, improve performance, and build an enterprise-grade resilient architecture?](../topics/databases.md#a-mission-critical-net-platform-experiences-api-failures-database-bottlenecks-se) | Hard | 1 |
 | [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) | Medium | 2 |
 | [An RDS database goes down during business hours. What would be your first steps?](../topics/databases.md#an-rds-database-goes-down-during-business-hours-what-would-be-your-first-steps) | Medium | 1 |
+| [Database partitioning](../topics/databases.md#database-partitioning) | Medium | 1 |
 | [Database transactions](../topics/databases.md#database-transactions) | Medium | 1 |
 | [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) | Hard | 1 |
 | [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) | Medium | 1 |

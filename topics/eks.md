@@ -170,6 +170,7 @@
 
 - [Docker](./docker.md)
 - [Kubernetes](./kubernetes.md)
+- [AKS](./aks.md)
 - [GKE](./gke.md)
 - [Helm](./helm.md)
 - [ArgoCD](./argocd.md)

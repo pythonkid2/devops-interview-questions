@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Storage**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 4 / 4 / 0 |
+| Questions | 9 |
+| Easy / Medium / Hard | 4 / 5 / 0 |
 | Companies | 3 |
 
 ## Most asked
@@ -39,6 +39,8 @@
   <a id="how-does-rag-work"></a>
 - [How would you increase an existing EBS volume by 50 GB without downtime?](../topics/storage.md#how-would-you-increase-an-existing-ebs-volume-by-50-gb-without-downtime) — **1×** · Medium
   <a id="how-would-you-increase-an-existing-ebs-volume-by-50-gb-without-downtime"></a>
+- [PVC binding issues](../topics/storage.md#pvc-binding-issues) — **1×** · Medium · tags: `PVC`
+  <a id="pvc-binding-issues"></a>
 - [What are the different types of Amazon EBS volumes?](../topics/storage.md#what-are-the-different-types-of-amazon-ebs-volumes) — **1×** · Easy
   <a id="what-are-the-different-types-of-amazon-ebs-volumes"></a>
 - [What is the difference between PV and PVC?](../topics/storage.md#what-is-the-difference-between-pv-and-pvc) — **1×** · Easy · tags: `PVC`, `PV`
@@ -65,6 +67,8 @@
   <a id="explain-the-ebs-volume-types-and-their-use-cases"></a>
 - [How would you increase an existing EBS volume by 50 GB without downtime?](../topics/storage.md#how-would-you-increase-an-existing-ebs-volume-by-50-gb-without-downtime) — 1×
   <a id="how-would-you-increase-an-existing-ebs-volume-by-50-gb-without-downtime"></a>
+- [PVC binding issues](../topics/storage.md#pvc-binding-issues) — 1× · tags: `PVC`
+  <a id="pvc-binding-issues"></a>
 
 ## Advanced
 
@@ -78,6 +82,7 @@ _None in this band yet._
 - [Explain the EBS volume types and their use cases.](../topics/storage.md#explain-the-ebs-volume-types-and-their-use-cases)
 - [How does RAG work?](../topics/storage.md#how-does-rag-work)
 - [How would you increase an existing EBS volume by 50 GB without downtime?](../topics/storage.md#how-would-you-increase-an-existing-ebs-volume-by-50-gb-without-downtime)
+- [PVC binding issues](../topics/storage.md#pvc-binding-issues) — tags: `PVC`
 - [Storage (PV/PVC)](../topics/storage.md#storage-pv-pvc) — tags: `PVC`, `PV`
 - [What are the different types of Amazon EBS volumes?](../topics/storage.md#what-are-the-different-types-of-amazon-ebs-volumes)
 - [What is PVC?](../topics/storage.md#what-is-pvc) — tags: `PVC`
@@ -91,6 +96,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [PVC binding issues](../topics/storage.md#pvc-binding-issues) — 2026-08-13 · tags: `PVC`
 - [What are the different types of Amazon EBS volumes?](../topics/storage.md#what-are-the-different-types-of-amazon-ebs-volumes) — 2026-07-29
 - [How would you increase an existing EBS volume by 50 GB without downtime?](../topics/storage.md#how-would-you-increase-an-existing-ebs-volume-by-50-gb-without-downtime) — 2026-07-29
 - [Explain the EBS volume types and their use cases.](../topics/storage.md#explain-the-ebs-volume-types-and-their-use-cases) — 2026-07-28
@@ -114,6 +120,7 @@ _None in this band yet._
 | [Explain the EBS volume types and their use cases.](../topics/storage.md#explain-the-ebs-volume-types-and-their-use-cases) | Medium | 1 |
 | [How does RAG work?](../topics/storage.md#how-does-rag-work) | Easy | 1 |
 | [How would you increase an existing EBS volume by 50 GB without downtime?](../topics/storage.md#how-would-you-increase-an-existing-ebs-volume-by-50-gb-without-downtime) | Medium | 1 |
+| [PVC binding issues](../topics/storage.md#pvc-binding-issues) | Medium | 1 |
 | [Storage (PV/PVC)](../topics/storage.md#storage-pv-pvc) | Medium | 2 |
 | [What are the different types of Amazon EBS volumes?](../topics/storage.md#what-are-the-different-types-of-amazon-ebs-volumes) | Easy | 1 |
 | [What is PVC?](../topics/storage.md#what-is-pvc) | Easy | 2 |

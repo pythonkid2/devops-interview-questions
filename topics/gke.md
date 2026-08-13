@@ -62,6 +62,7 @@ _None in this band yet._
 - [Docker](./docker.md)
 - [Kubernetes](./kubernetes.md)
 - [EKS](./eks.md)
+- [AKS](./aks.md)
 - [Helm](./helm.md)
 - [ArgoCD](./argocd.md)
 

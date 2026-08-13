@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**127** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**129** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 127 |
-| Easy / Medium / Hard | 15 / 101 / 11 |
-| Companies | 12 |
+| Questions | 129 |
+| Easy / Medium / Hard | 15 / 103 / 11 |
+| Companies | 13 |
 
 ## Most asked
 
@@ -59,6 +59,8 @@
   <a id="how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho"></a>
 - [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la) — **2×** · Medium
   <a id="i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la"></a>
+- [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — **2×** · Medium
+  <a id="is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms"></a>
 - [S3 replication silently failed for 2 days. Who caught it and why?](../topics/aws.md#s3-replication-silently-failed-for-2-days-who-caught-it-and-why) — **2×** · Medium
   <a id="s3-replication-silently-failed-for-2-days-who-caught-it-and-why"></a>
 - [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) — **2×** · Medium
@@ -75,8 +77,6 @@
   <a id="what-aws-services-have-you-used-explain-your-experience-in-detail"></a>
 - [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) — **2×** · Medium
   <a id="what-happens-when-an-aws-region-goes-down"></a>
-- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — **2×** · Easy
-  <a id="what-is-amazon-s3"></a>
 
 ## Beginner
 
@@ -143,6 +143,8 @@
   <a id="how-would-you-auto-scale-gpu-nodes-for-training-workloads-without-wasting-gpu-ho"></a>
 - [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la) — 2×
   <a id="i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la"></a>
+- [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — 2×
+  <a id="is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms"></a>
 - [S3 replication silently failed for 2 days. Who caught it and why?](../topics/aws.md#s3-replication-silently-failed-for-2-days-who-caught-it-and-why) — 2×
   <a id="s3-replication-silently-failed-for-2-days-who-caught-it-and-why"></a>
 - [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) — 2×
@@ -189,6 +191,8 @@
   <a id="aws-provides-an-http-endpoint-how-would-you-enable-https"></a>
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — 1× · tags: `Azure`
   <a id="aws-azure-cloud-fundamentals"></a>
+- [Can you describe your experience with cloud providers like AWS, Azure, or GCP?](../topics/aws.md#can-you-describe-your-experience-with-cloud-providers-like-aws-azure-or-gcp) — 1× · tags: `Azure`, `GCP`
+  <a id="can-you-describe-your-experience-with-cloud-providers-like-aws-azure-or-gcp"></a>
 - [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage) — 1×
   <a id="can-you-tell-me-the-types-of-s3-storage"></a>
 - [Deploy and manage applications on AWS](../topics/aws.md#deploy-and-manage-applications-on-aws) — 1×
@@ -259,8 +263,6 @@
   <a id="how-would-you-protect-applications-against-ddos-attacks-in-aws"></a>
 - [If a legitimate request receives a 403 Access Denied error due to AWS WAF, how would you troubleshoot it?](../topics/aws.md#if-a-legitimate-request-receives-a-403-access-denied-error-due-to-aws-waf-how-wo) — 1×
   <a id="if-a-legitimate-request-receives-a-403-access-denied-error-due-to-aws-waf-how-wo"></a>
-- [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — 1×
-  <a id="is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms"></a>
 - [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) — 1×
   <a id="one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y"></a>
 - [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3) — 1×
@@ -269,6 +271,8 @@
   <a id="remote-backend-s3-permission-errors"></a>
 - [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically) — 1×
   <a id="scaling-ec2-instances-automatically"></a>
+- [services of the aws cloud what are cloud services in the market?](../topics/aws.md#services-of-the-aws-cloud-what-are-cloud-services-in-the-market) — 1×
+  <a id="services-of-the-aws-cloud-what-are-cloud-services-in-the-market"></a>
 - [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) — 1×
   <a id="suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r"></a>
 - [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi) — 1×
@@ -394,6 +398,7 @@
 - [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https)
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — tags: `Azure`
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — tags: `Azure`, `GCP`
+- [Can you describe your experience with cloud providers like AWS, Azure, or GCP?](../topics/aws.md#can-you-describe-your-experience-with-cloud-providers-like-aws-azure-or-gcp) — tags: `Azure`, `GCP`
 - [Can you explain AWS architecture?](../topics/aws.md#can-you-explain-aws-architecture) — tags: `System Design`
 - [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage)
 - [Deploy and manage applications on AWS](../topics/aws.md#deploy-and-manage-applications-on-aws)
@@ -442,6 +447,7 @@
 - [Remote backend & S3 permission errors](../topics/aws.md#remote-backend-s3-permission-errors)
 - [S3 replication silently failed for 2 days. Who caught it and why?](../topics/aws.md#s3-replication-silently-failed-for-2-days-who-caught-it-and-why)
 - [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically)
+- [services of the aws cloud what are cloud services in the market?](../topics/aws.md#services-of-the-aws-cloud-what-are-cloud-services-in-the-market)
 - [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r)
 - [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio)
 - [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check)
@@ -495,6 +501,7 @@
 - [Infosys](../companies/infosys.md)
 - [L&T Technology Services](../companies/l-t-technology-services.md)
 - [NVIDIA](../companies/nvidia.md)
+- [Oracle](../companies/oracle.md)
 - [PwC](../companies/pwc.md)
 - [SpaceTech Inc.](../companies/spacetech-inc.md)
 - [Swageazy](../companies/swageazy.md)
@@ -502,6 +509,9 @@
 
 ## Recently added
 
+- [services of the aws cloud what are cloud services in the market?](../topics/aws.md#services-of-the-aws-cloud-what-are-cloud-services-in-the-market) — 2026-08-13
+- [Can you describe your experience with cloud providers like AWS, Azure, or GCP?](../topics/aws.md#can-you-describe-your-experience-with-cloud-providers-like-aws-azure-or-gcp) — 2026-08-13 · tags: `Azure`, `GCP`
+- [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — 2026-08-13
 - [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) — 2026-08-12
 - [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) — 2026-08-12
 - [S3 replication silently failed for 2 days. Who caught it and why?](../topics/aws.md#s3-replication-silently-failed-for-2-days-who-caught-it-and-why) — 2026-08-12
@@ -514,9 +524,6 @@
 - [How do you implement Load Balancing in AWS?](../topics/aws.md#how-do-you-implement-load-balancing-in-aws) — 2026-08-10
 - [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use) — 2026-08-10
 - [How can you ensure cost efficient storage solution using S3 ?](../topics/aws.md#how-can-you-ensure-cost-efficient-storage-solution-using-s3) — 2026-08-10
-- [How can you deploy EC2 instance for fault tolerance and high available applications ?](../topics/aws.md#how-can-you-deploy-ec2-instance-for-fault-tolerance-and-high-available-applicati) — 2026-08-10
-- [Expalin a high scalable application in AWS ?](../topics/aws.md#expalin-a-high-scalable-application-in-aws) — 2026-08-10 · tags: `System Design`
-- [How would you design minimum downtime web application in AWS](../topics/aws.md#how-would-you-design-minimum-downtime-web-application-in-aws) — 2026-08-10
 
 ## Related topics
 
@@ -544,6 +551,7 @@
 | [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) | Medium | 1 |
 | [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) | Medium | 1 |
 | [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) | Medium | 2 |
+| [Can you describe your experience with cloud providers like AWS, Azure, or GCP?](../topics/aws.md#can-you-describe-your-experience-with-cloud-providers-like-aws-azure-or-gcp) | Medium | 1 |
 | [Can you explain AWS architecture?](../topics/aws.md#can-you-explain-aws-architecture) | Hard | 1 |
 | [Can you tell me the types of s3 storage?](../topics/aws.md#can-you-tell-me-the-types-of-s3-storage) | Medium | 1 |
 | [Deploy and manage applications on AWS](../topics/aws.md#deploy-and-manage-applications-on-aws) | Medium | 1 |
@@ -598,13 +606,14 @@
 | [I have to deploy an application, In which scenario you will choose EC2 and AWS lambda ?](../topics/aws.md#i-have-to-deploy-an-application-in-which-scenario-you-will-choose-ec2-and-aws-la) | Medium | 2 |
 | [If a legitimate request receives a 403 Access Denied error due to AWS WAF, how would you troubleshoot it?](../topics/aws.md#if-a-legitimate-request-receives-a-403-access-denied-error-due-to-aws-waf-how-wo) | Medium | 1 |
 | [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/aws.md#infrastructure-as-code-iac-terraform-cloudformation) | Easy | 1 |
-| [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) | Medium | 1 |
+| [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) | Medium | 2 |
 | [Java Full Stack Developer (Java, Spring Boot, Microservices, React, AWS) – Can you explain the differences between microservices and monolithic architecture?](../topics/aws.md#java-full-stack-developer-java-spring-boot-microservices-react-aws-can-you-expla) | Hard | 1 |
 | [One problem always comes when your AWS costs suddenly get increased, what would you wanna do to cross verify that?](../topics/aws.md#one-problem-always-comes-when-your-aws-costs-suddenly-get-increased-what-would-y) | Medium | 1 |
 | [Reduce latency for globally distributed users accessing S3](../topics/aws.md#reduce-latency-for-globally-distributed-users-accessing-s3) | Medium | 1 |
 | [Remote backend & S3 permission errors](../topics/aws.md#remote-backend-s3-permission-errors) | Medium | 1 |
 | [S3 replication silently failed for 2 days. Who caught it and why?](../topics/aws.md#s3-replication-silently-failed-for-2-days-who-caught-it-and-why) | Medium | 2 |
 | [Scaling EC2 instances automatically](../topics/aws.md#scaling-ec2-instances-automatically) | Medium | 1 |
+| [services of the aws cloud what are cloud services in the market?](../topics/aws.md#services-of-the-aws-cloud-what-are-cloud-services-in-the-market) | Medium | 1 |
 | [Suppose you have an EC2 instance via SSH, And instance is running, but it is not reachable. So, how are you gonna troubleshoot?](../topics/aws.md#suppose-you-have-an-ec2-instance-via-ssh-and-instance-is-running-but-it-is-not-r) | Medium | 1 |
 | [Tell me step by step, from basic to end level, how you deploy your Java application on an EC2 server?](../topics/aws.md#tell-me-step-by-step-from-basic-to-end-level-how-you-deploy-your-java-applicatio) | Medium | 2 |
 | [Unable to connect to EC2 using a PEM key. What would you check?](../topics/aws.md#unable-to-connect-to-ec2-using-a-pem-key-what-would-you-check) | Medium | 2 |

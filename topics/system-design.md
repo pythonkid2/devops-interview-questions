@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **System Design**
 
-**32** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**38** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 32 |
-| Easy / Medium / Hard | 0 / 7 / 25 |
-| Companies | 6 |
+| Questions | 38 |
+| Easy / Medium / Hard | 0 / 9 / 29 |
+| Companies | 7 |
 
 ## Most asked
 
@@ -94,6 +94,10 @@ _None in this band yet._
   <a id="describe-a-software-project-where-you-significantly-improved-performance-scalabi"></a>
 - [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — 1×
   <a id="how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan"></a>
+- [Performance and scalability](../topics/system-design.md#performance-and-scalability) — 1×
+  <a id="performance-and-scalability"></a>
+- [Scalability and reliability](../topics/system-design.md#scalability-and-reliability) — 1×
+  <a id="scalability-and-reliability"></a>
 - [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) — 1×
   <a id="scalability-vs-elasticity"></a>
 - [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) — 1×
@@ -145,10 +149,18 @@ _None in this band yet._
   <a id="how-would-you-design-a-fault-tolerant-integration-architecture"></a>
 - [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications) — 1×
   <a id="how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications"></a>
+- [Lakehouse architecture](../topics/system-design.md#lakehouse-architecture) — 1×
+  <a id="lakehouse-architecture"></a>
+- [Medallion architecture](../topics/system-design.md#medallion-architecture) — 1×
+  <a id="medallion-architecture"></a>
 - [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) — 1×
   <a id="solid-understanding-of-data-structures-algorithms-dsa-and-system-design"></a>
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) — 1×
   <a id="understand-trade-offs-across-architecture-and-operations"></a>
+- [What is your experience with serverless architecture?](../topics/system-design.md#what-is-your-experience-with-serverless-architecture) — 1×
+  <a id="what-is-your-experience-with-serverless-architecture"></a>
+- [Why was the architecture designed that way?](../topics/system-design.md#why-was-the-architecture-designed-that-way) — 1×
+  <a id="why-was-the-architecture-designed-that-way"></a>
 - [You are onboarding a new customer with 5 million+ users. How would you design the complete application architecture as a Solution Architect?](../topics/system-design.md#you-are-onboarding-a-new-customer-with-5-million-users-how-would-you-design-the-) — 1×
   <a id="you-are-onboarding-a-new-customer-with-5-million-users-how-would-you-design-the-"></a>
 
@@ -186,13 +198,19 @@ _None in this band yet._
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform)
 - [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications)
 - [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices)
+- [Lakehouse architecture](../topics/system-design.md#lakehouse-architecture)
+- [Medallion architecture](../topics/system-design.md#medallion-architecture)
+- [Performance and scalability](../topics/system-design.md#performance-and-scalability)
+- [Scalability and reliability](../topics/system-design.md#scalability-and-reliability)
 - [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity)
 - [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design)
 - [System Design](../topics/system-design.md#system-design)
 - [System Design (LLD/HLD)](../topics/system-design.md#system-design-lld-hld)
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations)
 - [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar)
+- [What is your experience with serverless architecture?](../topics/system-design.md#what-is-your-experience-with-serverless-architecture)
 - [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity)
+- [Why was the architecture designed that way?](../topics/system-design.md#why-was-the-architecture-designed-that-way)
 - [You are onboarding a new customer with 5 million+ users. How would you design the complete application architecture as a Solution Architect?](../topics/system-design.md#you-are-onboarding-a-new-customer-with-5-million-users-how-would-you-design-the-)
 
 ## Companies asking
@@ -201,11 +219,18 @@ _None in this band yet._
 - [Infosys](../companies/infosys.md)
 - [Merge](../companies/merge.md)
 - [Mirafra](../companies/mirafra.md)
+- [Oracle](../companies/oracle.md)
 - [Swageazy](../companies/swageazy.md)
 - [Wipro](../companies/wipro.md)
 
 ## Recently added
 
+- [Why was the architecture designed that way?](../topics/system-design.md#why-was-the-architecture-designed-that-way) — 2026-08-13
+- [Performance and scalability](../topics/system-design.md#performance-and-scalability) — 2026-08-13
+- [Scalability and reliability](../topics/system-design.md#scalability-and-reliability) — 2026-08-13
+- [Medallion architecture](../topics/system-design.md#medallion-architecture) — 2026-08-13
+- [Lakehouse architecture](../topics/system-design.md#lakehouse-architecture) — 2026-08-13
+- [What is your experience with serverless architecture?](../topics/system-design.md#what-is-your-experience-with-serverless-architecture) — 2026-08-13
 - [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 2026-08-12
 - [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — 2026-08-12
 - [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) — 2026-08-10
@@ -215,12 +240,6 @@ _None in this band yet._
 - [Give an example of a time you changed an architecture decision after seeing production data that contradicted the original plan.](../topics/system-design.md#give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod) — 2026-08-02
 - [Explain the exact process you’d use to contain a cascading failure caused by a bad config rollout across production tenants.](../topics/system-design.md#explain-the-exact-process-youd-use-to-contain-a-cascading-failure-caused-by-a-ba) — 2026-08-02
 - [Backend architecture interview](../topics/system-design.md#backend-architecture-interview) — 2026-08-02
-- [You are onboarding a new customer with 5 million+ users. How would you design the complete application architecture as a Solution Architect?](../topics/system-design.md#you-are-onboarding-a-new-customer-with-5-million-users-how-would-you-design-the-) — 2026-08-02
-- [Exact coding and system design questions from each round](../topics/system-design.md#exact-coding-and-system-design-questions-from-each-round) — 2026-07-30
-- [System Design (LLD/HLD)](../topics/system-design.md#system-design-lld-hld) — 2026-07-30
-- [Can you explain system design?](../topics/system-design.md#can-you-explain-system-design) — 2026-07-29
-- [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — 2026-07-29
-- [System Design](../topics/system-design.md#system-design) — 2026-07-29
 
 ## Related topics
 
@@ -255,13 +274,19 @@ _None in this band yet._
 | [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) | Hard | 2 |
 | [How would you design a scalable trigger framework for enterprise applications?](../topics/system-design.md#how-would-you-design-a-scalable-trigger-framework-for-enterprise-applications) | Hard | 1 |
 | [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) | Hard | 7 |
+| [Lakehouse architecture](../topics/system-design.md#lakehouse-architecture) | Hard | 1 |
+| [Medallion architecture](../topics/system-design.md#medallion-architecture) | Hard | 1 |
+| [Performance and scalability](../topics/system-design.md#performance-and-scalability) | Medium | 1 |
+| [Scalability and reliability](../topics/system-design.md#scalability-and-reliability) | Medium | 1 |
 | [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) | Medium | 1 |
 | [Solid understanding of Data Structures & Algorithms (DSA) and system design](../topics/system-design.md#solid-understanding-of-data-structures-algorithms-dsa-and-system-design) | Hard | 1 |
 | [System Design](../topics/system-design.md#system-design) | Hard | 2 |
 | [System Design (LLD/HLD)](../topics/system-design.md#system-design-lld-hld) | Hard | 2 |
 | [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) | Hard | 1 |
 | [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) | Medium | 2 |
+| [What is your experience with serverless architecture?](../topics/system-design.md#what-is-your-experience-with-serverless-architecture) | Hard | 1 |
 | [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) | Medium | 1 |
+| [Why was the architecture designed that way?](../topics/system-design.md#why-was-the-architecture-designed-that-way) | Hard | 1 |
 | [You are onboarding a new customer with 5 million+ users. How would you design the complete application architecture as a Solution Architect?](../topics/system-design.md#you-are-onboarding-a-new-customer-with-5-million-users-how-would-you-design-the-) | Hard | 1 |
 
 ## Learning resources

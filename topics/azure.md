@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Azure**
 
-**25** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**29** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 25 |
-| Easy / Medium / Hard | 7 / 15 / 3 |
+| Questions | 29 |
+| Easy / Medium / Hard | 8 / 18 / 3 |
 | Companies | 8 |
 
 ## Most asked
@@ -53,6 +53,12 @@
   <a id="azure-regions-availability-zones"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — **1×** · Medium
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
+- [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub) — **1×** · Medium
+  <a id="explain-azure-service-bus-vs-event-grid-vs-event-hub"></a>
+- [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en) — **1×** · Medium
+  <a id="following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en"></a>
+- [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application) — **1×** · Medium
+  <a id="how-do-you-integrate-azure-openai-with-a-net-core-application"></a>
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — **1×** · Hard
   <a id="implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code"></a>
 - [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — **1×** · Hard · tags: `System Design`
@@ -63,25 +69,21 @@
   <a id="what-azure-interview-question-do-you-think-is-the-most-valuable"></a>
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — **1×** · Easy
   <a id="what-is-an-azure-resource-group"></a>
+- [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it) — **1×** · Easy
+  <a id="what-is-azure-api-management-and-why-would-you-use-it"></a>
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — **1×** · Easy
   <a id="what-is-azure-boards"></a>
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — **1×** · Easy
   <a id="what-is-azure-repos"></a>
 - [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — **1×** · Easy
   <a id="what-is-azure-resource-manager-arm"></a>
-- [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — **1×** · Easy
-  <a id="what-is-azure-test-plans"></a>
-- [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) — **1×** · Easy
-  <a id="what-is-microsoft-azure"></a>
-- [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions) — **1×** · Easy
-  <a id="what-is-the-difference-between-azure-app-service-and-azure-functions"></a>
-- [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) — **1×** · Medium
-  <a id="what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv"></a>
 
 ## Beginner
 
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — 1×
   <a id="what-is-an-azure-resource-group"></a>
+- [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it) — 1×
+  <a id="what-is-azure-api-management-and-why-would-you-use-it"></a>
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — 1×
   <a id="what-is-azure-boards"></a>
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — 1×
@@ -121,6 +123,12 @@
   <a id="azure-regions-availability-zones"></a>
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — 1×
   <a id="design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t"></a>
+- [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub) — 1×
+  <a id="explain-azure-service-bus-vs-event-grid-vs-event-hub"></a>
+- [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en) — 1×
+  <a id="following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en"></a>
+- [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application) — 1×
+  <a id="how-do-you-integrate-azure-openai-with-a-net-core-application"></a>
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — 1×
   <a id="the-azure-shared-responsibility-model"></a>
 - [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) — 1×
@@ -150,7 +158,10 @@
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones)
 - [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops)
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t)
+- [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub)
+- [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en)
 - [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions)
+- [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application)
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure)
 - [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code)
 - [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — tags: `System Design`
@@ -158,6 +169,7 @@
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model)
 - [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable)
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group)
+- [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it)
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards)
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos)
 - [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm)
@@ -180,6 +192,10 @@
 
 ## Recently added
 
+- [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en) — 2026-08-13
+- [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application) — 2026-08-13
+- [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it) — 2026-08-13
+- [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub) — 2026-08-13
 - [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — 2026-08-12
 - [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) — 2026-08-12
 - [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — 2026-08-12
@@ -191,10 +207,6 @@
 - [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — 2026-07-27
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — 2026-07-26
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — 2026-07-26
-- [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — 2026-07-26
-- [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — 2026-07-26
-- [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) — 2026-07-26
-- [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) — 2026-07-26
 
 ## Related topics
 
@@ -215,7 +227,10 @@
 | [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) | Medium | 1 |
 | [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) | Medium | 2 |
 | [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/azure.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) | Medium | 1 |
+| [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub) | Medium | 1 |
+| [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en) | Medium | 1 |
 | [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) | Medium | 2 |
+| [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application) | Medium | 1 |
 | [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) | Medium | 2 |
 | [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) | Hard | 1 |
 | [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) | Hard | 1 |
@@ -223,6 +238,7 @@
 | [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) | Medium | 1 |
 | [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) | Medium | 1 |
 | [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) | Easy | 1 |
+| [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it) | Easy | 1 |
 | [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) | Easy | 1 |
 | [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) | Easy | 1 |
 | [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) | Easy | 1 |
