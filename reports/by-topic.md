@@ -4,7 +4,7 @@
 
 | Topic | Questions |
 | --- | ---: |
-| [General](../topics/general.md) | 948 |
+| [General](../topics/general.md) | 965 |
 | [Kubernetes](../topics/kubernetes.md) | 260 |
 | [Terraform](../topics/terraform.md) | 151 |
 | [AWS](../topics/aws.md) | 129 |
@@ -22,9 +22,9 @@
 | [EKS](../topics/eks.md) | 20 |
 | [Databases](../topics/databases.md) | 18 |
 | [Disaster Recovery](../topics/disaster-recovery.md) | 18 |
+| [IAM](../topics/iam.md) | 18 |
 | [Ansible](../topics/ansible.md) | 16 |
 | [Observability](../topics/observability.md) | 16 |
-| [IAM](../topics/iam.md) | 14 |
 | [Capacity Planning](../topics/capacity-planning.md) | 13 |
 | [Prometheus](../topics/prometheus.md) | 13 |
 | [Azure DevOps](../topics/azure-devops.md) | 12 |
@@ -50,9 +50,9 @@
 | [Logging](../topics/logging.md) | 6 |
 | [SRE](../topics/sre.md) | 6 |
 | [CloudFormation](../topics/cloudformation.md) | 5 |
+| [Microservices](../topics/microservices.md) | 5 |
 | [Service Mesh](../topics/service-mesh.md) | 5 |
 | [Shell Scripting](../topics/shell-scripting.md) | 5 |
-| [Microservices](../topics/microservices.md) | 4 |
 | [On-Call](../topics/on-call.md) | 4 |
 | [Vault](../topics/vault.md) | 4 |
 | [CDN](../topics/cdn.md) | 3 |

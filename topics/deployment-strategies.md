@@ -41,6 +41,8 @@
   <a id="explain-the-difference-between-rolling-blue-green-and-canary-deployments"></a>
 - [Explain your rollback strategy during production deployments.](../topics/deployment-strategies.md#explain-your-rollback-strategy-during-production-deployments) — **2×** · Hard
   <a id="explain-your-rollback-strategy-during-production-deployments"></a>
+- [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) — **2×** · Hard
+  <a id="how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails"></a>
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) — **2×** · Medium
   <a id="how-do-you-perform-a-rolling-update"></a>
 - [A production deployment failed, and users are impacted. What would your rollback strategy look like?](../topics/deployment-strategies.md#a-production-deployment-failed-and-users-are-impacted-what-would-your-rollback-s) — **1×** · Hard
@@ -53,8 +55,6 @@
   <a id="explain-blue-green-deployment-and-canary-deployment-how-have-you-implemented-the"></a>
 - [How do you design a rollback strategy for a failed production deployment?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) — **1×** · Hard
   <a id="how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment"></a>
-- [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) — **1×** · Hard
-  <a id="how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails"></a>
 - [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — **1×** · Medium · tags: `Blue-Green`, `Canary`
   <a id="how-do-you-implement-blue-green-and-canary-deployments"></a>
 - [How would you implement a reliable rollback strategy?](../topics/deployment-strategies.md#how-would-you-implement-a-reliable-rollback-strategy) — **1×** · Hard
@@ -114,12 +114,12 @@
   <a id="how-do-you-ensure-zero-downtime-deployments-in-production"></a>
 - [Explain your rollback strategy during production deployments.](../topics/deployment-strategies.md#explain-your-rollback-strategy-during-production-deployments) — 2×
   <a id="explain-your-rollback-strategy-during-production-deployments"></a>
+- [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) — 2×
+  <a id="how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails"></a>
 - [A production deployment failed, and users are impacted. What would your rollback strategy look like?](../topics/deployment-strategies.md#a-production-deployment-failed-and-users-are-impacted-what-would-your-rollback-s) — 1×
   <a id="a-production-deployment-failed-and-users-are-impacted-what-would-your-rollback-s"></a>
 - [How do you design a rollback strategy for a failed production deployment?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) — 1×
   <a id="how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment"></a>
-- [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) — 1×
-  <a id="how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails"></a>
 - [How would you implement a reliable rollback strategy?](../topics/deployment-strategies.md#how-would-you-implement-a-reliable-rollback-strategy) — 1×
   <a id="how-would-you-implement-a-reliable-rollback-strategy"></a>
 - [How would you implement a zero-downtime deployment?](../topics/deployment-strategies.md#how-would-you-implement-a-zero-downtime-deployment) — 1×
@@ -167,6 +167,7 @@
 
 ## Recently added
 
+- [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) — 2026-08-15
 - [What is the difference between blue-green deployment and canary deployment?](../topics/deployment-strategies.md#what-is-the-difference-between-blue-green-deployment-and-canary-deployment) — 2026-08-13 · tags: `Blue-Green`, `Canary`
 - [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production) — 2026-08-12
 - [Design a rollback strategy that works even if the deployment stage fails.](../topics/deployment-strategies.md#design-a-rollback-strategy-that-works-even-if-the-deployment-stage-fails) — 2026-08-12
@@ -175,7 +176,6 @@
 - [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — 2026-08-10 · tags: `Blue-Green`, `Canary`
 - [Explain Blue-Green Deployment](../topics/deployment-strategies.md#explain-blue-green-deployment) — 2026-08-10 · tags: `Blue-Green`
 - [Explain Blue-Green Deployment and Canary Deployment. How have you implemented them?](../topics/deployment-strategies.md#explain-blue-green-deployment-and-canary-deployment-how-have-you-implemented-the) — 2026-08-10 · tags: `Blue-Green`, `Canary`
-- [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) — 2026-08-10
 - [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — 2026-08-10 · tags: `Blue-Green`, `Canary`
 - [Describe your strategy for zero-downtime data migrations between entirely different storage backends.](../topics/deployment-strategies.md#describe-your-strategy-for-zero-downtime-data-migrations-between-entirely-differ) — 2026-08-02
 - [Your organization is migrating a 15 year old monolithic .NET application to a cloud native microservices architecture on Microsoft Azure. How would you manage application decomposition, data migration, API integration, security, and zero downtime deployment?](../topics/deployment-strategies.md#your-organization-is-migrating-a-15-year-old-monolithic-net-application-to-a-clo) — 2026-08-02 · tags: `Azure`, `System Design`
@@ -205,7 +205,7 @@
 | [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) | Easy | 3 |
 | [Explain your rollback strategy during production deployments.](../topics/deployment-strategies.md#explain-your-rollback-strategy-during-production-deployments) | Hard | 2 |
 | [How do you design a rollback strategy for a failed production deployment?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-for-a-failed-production-deployment) | Hard | 1 |
-| [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) | Hard | 1 |
+| [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) | Hard | 2 |
 | [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production) | Hard | 4 |
 | [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) | Medium | 1 |
 | [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) | Medium | 2 |

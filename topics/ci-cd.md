@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — **11×** · Medium
+- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — **12×** · Medium
   <a id="your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes"></a>
 - [How would you implement multi-environment CI/CD while preventing configuration drift?](../topics/ci-cd.md#how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d) — **7×** · Hard
   <a id="how-would-you-implement-multi-environment-ci-cd-while-preventing-configuration-d"></a>
@@ -107,7 +107,7 @@
 
 ## Intermediate
 
-- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 11×
+- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 12×
   <a id="your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes"></a>
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — 6×
   <a id="what-is-the-difference-between-continuous-delivery-and-continuous-deployment"></a>
@@ -387,9 +387,9 @@
 
 ## Recently added
 
+- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 2026-08-15
 - [How do you handle database migrations in a CI/CD pipeline?](../topics/ci-cd.md#how-do-you-handle-database-migrations-in-a-ci-cd-pipeline) — 2026-08-13 · tags: `Databases`
 - [How does the .NET middleware pipeline work? Build a custom one.](../topics/ci-cd.md#how-does-the-net-middleware-pipeline-work-build-a-custom-one) — 2026-08-13
-- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 2026-08-13
 - [What is your experience with CI/CD pipelines?](../topics/ci-cd.md#what-is-your-experience-with-ci-cd-pipelines) — 2026-08-13
 - [If an L3 team created the pipeline, how do you understand and troubleshoot it?](../topics/ci-cd.md#if-an-l3-team-created-the-pipeline-how-do-you-understand-and-troubleshoot-it) — 2026-08-13
 - [Explain the CI/CD pipeline you created for CSV validation and S3 upload.](../topics/ci-cd.md#explain-the-ci-cd-pipeline-you-created-for-csv-validation-and-s3-upload) — 2026-08-13 · tags: `AWS`
@@ -498,7 +498,7 @@
 | [Write YAML templates for Azure DevOps Pipelines.](../topics/ci-cd.md#write-yaml-templates-for-azure-devops-pipelines) | Easy | 1 |
 | [Your CI/CD deployment breaks after a code merge. How do you identify the root cause?](../topics/ci-cd.md#your-ci-cd-deployment-breaks-after-a-code-merge-how-do-you-identify-the-root-cau) | Medium | 2 |
 | [Your CI/CD deployment failed. The rollback pipeline also failed because it depends on the deployment stage. How would you redesign the pipeline to avoid this situation?](../topics/ci-cd.md#your-ci-cd-deployment-failed-the-rollback-pipeline-also-failed-because-it-depend) | Medium | 1 |
-| [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) | Medium | 11 |
+| [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) | Medium | 12 |
 | [Your CI/CD platform executes 25,000 deployments per month, but deployment success has dropped from 99.5% to 91%. How would you identify and eliminate the root causes?](../topics/ci-cd.md#your-ci-cd-platform-executes-25000-deployments-per-month-but-deployment-success-) | Medium | 1 |
 | [Your deployment pipeline succeeds, but the application fails after deployment. What would be your next steps?](../topics/ci-cd.md#your-deployment-pipeline-succeeds-but-the-application-fails-after-deployment-wha) | Medium | 2 |
 | [Your GitLab pipeline is triggered successfully, but no jobs are executed. What would you check first?](../topics/ci-cd.md#your-gitlab-pipeline-is-triggered-successfully-but-no-jobs-are-executed-what-wou) | Medium | 1 |

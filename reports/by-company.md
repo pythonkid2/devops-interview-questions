@@ -4,7 +4,7 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1803 |
+| [Unknown Company](../companies/unknown-company.md) | 1816 |
 | [Infosys](../companies/infosys.md) | 63 |
 | [TCS](../companies/tcs.md) | 47 |
 | [Mphasis](../companies/mphasis.md) | 43 |
@@ -14,9 +14,9 @@
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
 | [Deloitte](../companies/deloitte.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
+| [Amazon](../companies/amazon.md) | 26 |
 | [Hexaware Technologies](../companies/hexaware-technologies.md) | 25 |
 | [Global Payments](../companies/global-payments.md) | 23 |
-| [Amazon](../companies/amazon.md) | 17 |
 | [Capgemini](../companies/capgemini.md) | 13 |
 | [PwC](../companies/pwc.md) | 13 |
 | [SpaceTech Inc.](../companies/spacetech-inc.md) | 13 |

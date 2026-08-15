@@ -6,12 +6,12 @@
 
 | Metric | Value |
 | --- | ---: |
-| Questions | 1803 |
+| Questions | 1816 |
 | Topics covered | 63 |
 
 ## Topics asked
 
-- [General](../topics/general.md) — 727
+- [General](../topics/general.md) — 735
 - [Kubernetes](../topics/kubernetes.md) — 211
 - [Terraform](../topics/terraform.md) — 114
 - [AWS](../topics/aws.md) — 99
@@ -26,12 +26,12 @@
 - [Deployment Strategies](../topics/deployment-strategies.md) — 16
 - [Databases](../topics/databases.md) — 15
 - [EKS](../topics/eks.md) — 15
+- [IAM](../topics/iam.md) — 15
 - [Monitoring](../topics/monitoring.md) — 13
 - [Security](../topics/security.md) — 13
 - [Azure DevOps](../topics/azure-devops.md) — 12
 - [Disaster Recovery](../topics/disaster-recovery.md) — 12
 - [Capacity Planning](../topics/capacity-planning.md) — 11
-- [IAM](../topics/iam.md) — 11
 - [Prometheus](../topics/prometheus.md) — 11
 - [ArgoCD](../topics/argocd.md) — 10
 - [Load Balancing](../topics/load-balancing.md) — 10
@@ -50,9 +50,9 @@
 - [API Gateway](../topics/api-gateway.md) — 5
 - [DNS](../topics/dns.md) — 5
 - [GitHub Actions](../topics/github-actions.md) — 5
+- [Microservices](../topics/microservices.md) — 5
 - [Storage](../topics/storage.md) — 5
 - [Logging](../topics/logging.md) — 4
-- [Microservices](../topics/microservices.md) — 4
 - [On-Call](../topics/on-call.md) — 4
 - [SRE](../topics/sre.md) — 4
 - [CDN](../topics/cdn.md) — 3
@@ -77,14 +77,15 @@
 
 ## Most repeated
 
-- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 11× · CI/CD
+- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 12× · CI/CD
+- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — 10× · Kubernetes
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — 9× · Incident Response
-- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — 9× · Kubernetes
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — 8× · High Availability · tags: `Kubernetes`, `System Design`
 - [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) — 8× · Kubernetes
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — 7× · ArgoCD · tags: `GitOps`
 - [Design a rollback strategy that works even if the deployment stage fails.](../topics/deployment-strategies.md#design-a-rollback-strategy-that-works-even-if-the-deployment-stage-fails) — 7× · Deployment Strategies
 - [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — 7× · System Design
+- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 7× · Incident Response
 - [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — 7× · SLOs · tags: `Alerting`
 - [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — 7× · Security
 - [How would you handle cascading failures across multiple microservices?](../topics/system-design.md#how-would-you-handle-cascading-failures-across-multiple-microservices) — 7× · System Design
@@ -94,9 +95,8 @@
 - [Terraform state is 300MB and planning takes 15 minutes. How would you optimize it?](../topics/terraform.md#terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it) — 7× · Terraform
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — 7× · Kubernetes
 - [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/kubernetes.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do) — 7× · Kubernetes
+- [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — 6× · Terraform
 - [Difference between CMD and ENTRYPOINT.](../topics/docker.md#difference-between-cmd-and-entrypoint) — 6× · Docker
-- [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — 6× · Kubernetes
-- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 6× · Incident Response
 
 ## By topic
 
@@ -948,6 +948,7 @@
 - [IaaS vs. PaaS vs. SaaS](../topics/general.md#iaas-vs-paas-vs-saas) — Medium
 - [Idempotency](../topics/general.md#idempotency) — Medium
 - [Identify Blast Radius](../topics/general.md#identify-blast-radius) — Medium
+- [Identity vs Resource-Based Policies](../topics/general.md#identity-vs-resource-based-policies) — Medium
 - [If a deployment fails midway in production, how do you recover safely?](../topics/general.md#if-a-deployment-fails-midway-in-production-how-do-you-recover-safely) — Hard
 - [If a deployment fails, how do you identify and troubleshoot the issue?](../topics/general.md#if-a-deployment-fails-how-do-you-identify-and-troubleshoot-the-issue) — Medium
 - [If production data is deleted by mistake, how will you handle the situation.](../topics/general.md#if-production-data-is-deleted-by-mistake-how-will-you-handle-the-situation) — Hard
@@ -993,6 +994,7 @@
 - [Performance improvements](../topics/general.md#performance-improvements) — Medium
 - [Performance tuning](../topics/general.md#performance-tuning) — Medium
 - [Permission denied issues](../topics/general.md#permission-denied-issues) — Medium
+- [Permission Evaluation](../topics/general.md#permission-evaluation) — Medium
 - [Pessimistic locking vs Optimistic locking](../topics/general.md#pessimistic-locking-vs-optimistic-locking) — Medium
 - [Platform Support](../topics/general.md#platform-support) — Medium
 - [Practice war rooms, not just interviews.](../topics/general.md#practice-war-rooms-not-just-interviews) — Medium
@@ -1143,6 +1145,7 @@
 - [What does the "/etc" directory contain?](../topics/general.md#what-does-the-etc-directory-contain) — Medium
 - [What exact details will you include in BRD vs FRD in a real project?](../topics/general.md#what-exact-details-will-you-include-in-brd-vs-frd-in-a-real-project) — Medium
 - [What happens during HashMap resizing?](../topics/general.md#what-happens-during-hashmap-resizing) — Medium
+- [What happens if there is no timeout?](../topics/general.md#what-happens-if-there-is-no-timeout) — Medium
 - [What happens if we use only ENTRYPOINT?](../topics/general.md#what-happens-if-we-use-only-entrypoint) — Medium
 - [What happens internally when @Transactional is used?](../topics/general.md#what-happens-internally-when-transactional-is-used) — Medium
 - [What happens internally when you run kubectl apply?](../topics/general.md#what-happens-internally-when-you-run-kubectl-apply) — Medium
@@ -1152,6 +1155,7 @@
 - [What happens when your application crashes due to multiple users or sudden high traffic?](../topics/general.md#what-happens-when-your-application-crashes-due-to-multiple-users-or-sudden-high-) — Medium
 - [What happens when your system goes down - how do you approach it?](../topics/general.md#what-happens-when-your-system-goes-down-how-do-you-approach-it) — Medium
 - [What if port 22 is closed?](../topics/general.md#what-if-port-22-is-closed) — Medium
+- [What if the logs don't show the root cause?](../topics/general.md#what-if-the-logs-don-t-show-the-root-cause) — Medium
 - [What if the required user doesn't exist on the target machine?](../topics/general.md#what-if-the-required-user-doesn-t-exist-on-the-target-machine) — Medium
 - [What if the target user doesn't exist?](../topics/general.md#what-if-the-target-user-doesn-t-exist) — Medium
 - [What if you don't have access to the target server?](../topics/general.md#what-if-you-don-t-have-access-to-the-target-server) — Medium
@@ -1230,6 +1234,7 @@
 - [What issues you have seen in GitHub.](../topics/general.md#what-issues-you-have-seen-in-github) — Medium
 - [What kind of cleanup have you done with the script?](../topics/general.md#what-kind-of-cleanup-have-you-done-with-the-script) — Medium
 - [What kind of problems can you solve in a DevOps role?](../topics/general.md#what-kind-of-problems-can-you-solve-in-a-devops-role) — Medium
+- [What makes this a senior-level answer?](../topics/general.md#what-makes-this-a-senior-level-answer) — Medium
 - [What percentage of the exam is focused on security?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-security) — Medium
 - [What percentage of the exam is focused on troubleshooting and optimization?](../topics/general.md#what-percentage-of-the-exam-is-focused-on-troubleshooting-and-optimization) — Medium
 - [What real exam-style questions have you practiced with?](../topics/general.md#what-real-exam-style-questions-have-you-practiced-with) — Medium
@@ -1254,6 +1259,7 @@
 - [What would you do if the state file became corrupted?](../topics/general.md#what-would-you-do-if-the-state-file-became-corrupted) — Medium
 - [What would you do if your application suddenly became slow in production?](../topics/general.md#what-would-you-do-if-your-application-suddenly-became-slow-in-production) — Hard
 - [What would you do if your modules become difficult to maintain?](../topics/general.md#what-would-you-do-if-your-modules-become-difficult-to-maintain) — Medium
+- [What would you implement to fix the issue?](../topics/general.md#what-would-you-implement-to-fix-the-issue) — Medium
 - [What's one interview question that genuinely made you think?](../topics/general.md#what-s-one-interview-question-that-genuinely-made-you-think) — Medium
 - [What's one interview question you answered technically... but still got rejected for?](../topics/general.md#what-s-one-interview-question-you-answered-technically-but-still-got-rejected-fo) — Medium
 - [What's the difference between IaaS, PaaS, and SaaS?](../topics/general.md#what-s-the-difference-between-iaas-paas-and-saas) — Medium
@@ -1294,6 +1300,7 @@
 - [Will we know immediately if it fails?](../topics/general.md#will-we-know-immediately-if-it-fails) — Medium
 - [Will you be able to set up the Playwright framework from scratch with AI capabilities?](../topics/general.md#will-you-be-able-to-set-up-the-playwright-framework-from-scratch-with-ai-capabil) — Medium
 - [Window functions](../topics/general.md#window-functions) — Medium
+- [Would you increase the thread pool size?](../topics/general.md#would-you-increase-the-thread-pool-size) — Medium
 - [Write a LINQ query for pagination](../topics/general.md#write-a-linq-query-for-pagination) — Medium
 - [Write a LINQ query to find the 2nd highest salary](../topics/general.md#write-a-linq-query-to-find-the-2nd-highest-salary) — Medium
 - [Write an email to a client explaining the issue faced and the solution provided.](../topics/general.md#write-an-email-to-a-client-explaining-the-issue-faced-and-the-solution-provided) — Medium
@@ -1326,6 +1333,7 @@
 - [Your manager asks for a quick business justification for a costly CR. You have 10 minutes. What will you include?](../topics/general.md#your-manager-asks-for-a-quick-business-justification-for-a-costly-cr-you-have-10) — Medium
 - [Your production server suddenly goes down. What do you do first?](../topics/general.md#your-production-server-suddenly-goes-down-what-do-you-do-first) — Medium
 - [Your project is on track. Suddenly a dependency team delays by 3 weeks. How do you save the release?](../topics/general.md#your-project-is-on-track-suddenly-a-dependency-team-delays-by-3-weeks-how-do-you) — Medium
+- [Your Spring Boot API suddenly starts returning 500 errors in production. How would you investigate?](../topics/general.md#your-spring-boot-api-suddenly-starts-returning-500-errors-in-production-how-woul) — Hard
 - [Your Spring Boot application starts returning HTTP 500 after deployment. What's your approach?](../topics/general.md#your-spring-boot-application-starts-returning-http-500-after-deployment-what-s-y) — Medium
 - [Your team is deploying 50 times a day. How do you ensure stability without slowing releases?](../topics/general.md#your-team-is-deploying-50-times-a-day-how-do-you-ensure-stability-without-slowin) — Medium
 
@@ -1404,6 +1412,10 @@
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — Medium
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — Medium
 - [IAM](../topics/iam.md#iam) — Medium
+- [IAM Best Practices & Interview Revision](../topics/iam.md#iam-best-practices-interview-revision) — Medium
+- [IAM Policies](../topics/iam.md#iam-policies) — Medium
+- [IAM Roles & Temporary Credentials](../topics/iam.md#iam-roles-temporary-credentials) — Medium
+- [IAM Users & Groups](../topics/iam.md#iam-users-groups) — Medium
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — Medium · tags: `Kubernetes`, `RBAC`
 - [RBAC & Security](../topics/iam.md#rbac-security) — Medium · tags: `RBAC`
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — Medium · tags: `ArgoCD`, `Terraform`, `RBAC`
@@ -1790,6 +1802,7 @@
 - [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices) — Medium
 - [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) — Medium
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — Medium
+- [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) — Medium
 
 ### Monitoring
 
@@ -2094,22 +2107,22 @@
 
 ## Interview rounds
 
-- Unspecified — 1754
+- Unspecified — 1767
 - Technical Round 1 — 35
 - Managerial — 11
 - Technical — 3
 
 ## Recently added
 
-- [Handling critical issues](../topics/general.md#handling-critical-issues) — 2026-08-13
-- [Cost optimization](../topics/finops.md#cost-optimization) — 2026-08-13
-- [Performance improvements](../topics/general.md#performance-improvements) — 2026-08-13
-- [Migration](../topics/general.md#migration) — 2026-08-13
-- [Stakeholder management](../topics/general.md#stakeholder-management) — 2026-08-13
-- [Mentoring](../topics/general.md#mentoring) — 2026-08-13
-- [Technical decisions](../topics/general.md#technical-decisions) — 2026-08-13
-- [Production incidents](../topics/general.md#production-incidents) — 2026-08-13
-- [How did you monitor the solution?](../topics/general.md#how-did-you-monitor-the-solution) — 2026-08-13
-- [How did you ensure data quality?](../topics/general.md#how-did-you-ensure-data-quality) — 2026-08-13
+- [If you had to redesign your current DevOps platform today, what would you do differently?](../topics/general.md#if-you-had-to-redesign-your-current-devops-platform-today-what-would-you-do-diff) — 2026-08-15
+- [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2026-08-15
+- [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation) — 2026-08-15
+- [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) — 2026-08-15
+- [How would you manage secrets securely across multiple Kubernetes clusters and environments?](../topics/kubernetes.md#how-would-you-manage-secrets-securely-across-multiple-kubernetes-clusters-and-en) — 2026-08-15
+- [Your application latency suddenly increased after a release. Walk me through your debugging approach.](../topics/general.md#your-application-latency-suddenly-increased-after-a-release-walk-me-through-your) — 2026-08-15
+- [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) — 2026-08-15
+- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — 2026-08-15
+- [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — 2026-08-15
+- [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — 2026-08-15
 
 [← All companies](./README.md) · [Home](../README.md)

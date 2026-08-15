@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-2372-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-999-informational)
+![questions](https://img.shields.io/badge/questions-2394-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-1029-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,9 +18,9 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 2372 |
-| Posts processed | 999 |
-| Added this week | 405 |
+| Unique questions | 2394 |
+| Posts processed | 1029 |
+| Added this week | 427 |
 
 ## Popular topics
 
@@ -46,7 +46,7 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
 - [Deloitte](./companies/deloitte.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
-- [Hexaware Technologies](./companies/hexaware-technologies.md) — 25
+- [Amazon](./companies/amazon.md) — 26
 
 ## Repository map
 

@@ -74,7 +74,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Security](./security.md) | 25 |
-| [IAM](./iam.md) | 14 |
+| [IAM](./iam.md) | 18 |
 | [DevSecOps](./devsecops.md) | 10 |
 | [Network Security](./network-security.md) | 7 |
 | [Vault](./vault.md) | 4 |
@@ -124,13 +124,13 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | --- | ---: |
 | [System Design](./system-design.md) | 38 |
 | [FinOps](./finops.md) | 9 |
-| [Microservices](./microservices.md) | 4 |
+| [Microservices](./microservices.md) | 5 |
 
 ## Other
 
 | Topic | Questions |
 | --- | ---: |
-| [General](./general.md) | 948 |
+| [General](./general.md) | 965 |
 
 
 [← Home](../README.md)

@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — **9×** · Hard
+- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — **10×** · Hard
   <a id="how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production"></a>
 - [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) — **8×** · Medium
   <a id="how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime"></a>
@@ -49,6 +49,8 @@
   <a id="what-is-blue-green-deployment"></a>
 - [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — **5×** · Easy · tags: `Docker`
   <a id="what-is-the-difference-between-docker-and-kubernetes"></a>
+- [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) — **4×** · Medium
+  <a id="how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er"></a>
 - [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — **4×** · Medium
   <a id="how-does-kubernetes-service-discovery-work"></a>
 - [What is Exit Status 2 in Kubernetes?](../topics/kubernetes.md#what-is-exit-status-2-in-kubernetes) — **4×** · Medium
@@ -59,8 +61,6 @@
   <a id="explain-the-kubernetes-architecture"></a>
 - [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) — **3×** · Medium
   <a id="how-do-you-implement-rbac-in-kubernetes"></a>
-- [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) — **3×** · Medium
-  <a id="how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er"></a>
 - [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — **3×** · Medium
   <a id="how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff"></a>
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — **3×** · Medium
@@ -151,6 +151,8 @@
   <a id="what-indicators-tell-you-that-the-issue-is-in-the-kubernetes-control-plane-versu"></a>
 - [What is Blue-Green Deployment?](../topics/kubernetes.md#what-is-blue-green-deployment) — 5×
   <a id="what-is-blue-green-deployment"></a>
+- [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) — 4×
+  <a id="how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er"></a>
 - [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — 4×
   <a id="how-does-kubernetes-service-discovery-work"></a>
 - [What is Exit Status 2 in Kubernetes?](../topics/kubernetes.md#what-is-exit-status-2-in-kubernetes) — 4×
@@ -159,8 +161,6 @@
   <a id="a-pod-is-running-but-the-application-is-not-accessible-what-would-you-check"></a>
 - [How do you implement RBAC in Kubernetes?](../topics/kubernetes.md#how-do-you-implement-rbac-in-kubernetes) — 3×
   <a id="how-do-you-implement-rbac-in-kubernetes"></a>
-- [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) — 3×
-  <a id="how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er"></a>
 - [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 3×
   <a id="how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff"></a>
 - [How does Kubernetes perform self-healing?](../topics/kubernetes.md#how-does-kubernetes-perform-self-healing) — 3×
@@ -275,6 +275,8 @@
   <a id="how-to-resolve-storage-issue-in-a-pod"></a>
 - [How will you set up the Rest Assured framework when APIs are internal to Kubernetes clusters?](../topics/kubernetes.md#how-will-you-set-up-the-rest-assured-framework-when-apis-are-internal-to-kuberne) — 2×
   <a id="how-will-you-set-up-the-rest-assured-framework-when-apis-are-internal-to-kuberne"></a>
+- [How would you manage secrets securely across multiple Kubernetes clusters and environments?](../topics/kubernetes.md#how-would-you-manage-secrets-securely-across-multiple-kubernetes-clusters-and-en) — 2×
+  <a id="how-would-you-manage-secrets-securely-across-multiple-kubernetes-clusters-and-en"></a>
 - [How would you perform a zero-downtime Kubernetes cluster upgrade?](../topics/kubernetes.md#how-would-you-perform-a-zero-downtime-kubernetes-cluster-upgrade) — 2× · tags: `Deployment Strategies`
   <a id="how-would-you-perform-a-zero-downtime-kubernetes-cluster-upgrade"></a>
 - [How would you troubleshoot intermittent 503 errors in Kubernetes?](../topics/kubernetes.md#how-would-you-troubleshoot-intermittent-503-errors-in-kubernetes) — 2×
@@ -449,8 +451,6 @@
   <a id="how-would-you-configure-auto-scaling-in-aws-while-running-a-kubernetes-cluster"></a>
 - [How would you enforce security policies so that Pods cannot: Run as root, Use the latest image tag, Have a writable root filesystem?](../topics/kubernetes.md#how-would-you-enforce-security-policies-so-that-pods-cannot-run-as-root-use-the-) — 1×
   <a id="how-would-you-enforce-security-policies-so-that-pods-cannot-run-as-root-use-the-"></a>
-- [How would you manage secrets securely across multiple Kubernetes clusters and environments?](../topics/kubernetes.md#how-would-you-manage-secrets-securely-across-multiple-kubernetes-clusters-and-en) — 1×
-  <a id="how-would-you-manage-secrets-securely-across-multiple-kubernetes-clusters-and-en"></a>
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — 1× · tags: `Databases`
   <a id="how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w"></a>
 - [How would you perform a zero-downtime deployment for a microservices application running on Kubernetes?](../topics/kubernetes.md#how-would-you-perform-a-zero-downtime-deployment-for-a-microservices-application) — 1×
@@ -546,7 +546,7 @@
 
 ## Advanced
 
-- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — 9×
+- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — 10×
   <a id="how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production"></a>
 - [Explain the Kubernetes architecture.](../topics/kubernetes.md#explain-the-kubernetes-architecture) — 3× · tags: `System Design`
   <a id="explain-the-kubernetes-architecture"></a>
@@ -908,10 +908,12 @@
 
 ## Recently added
 
+- [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) — 2026-08-15
+- [How would you manage secrets securely across multiple Kubernetes clusters and environments?](../topics/kubernetes.md#how-would-you-manage-secrets-securely-across-multiple-kubernetes-clusters-and-en) — 2026-08-15
+- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — 2026-08-15
 - [i don't want to use kubernetes how you will create a Devops Environment in AWS ?](../topics/kubernetes.md#i-don-t-want-to-use-kubernetes-how-you-will-create-a-devops-environment-in-aws) — 2026-08-13 · tags: `AWS`
 - [kubectl describe pod](../topics/kubernetes.md#kubectl-describe-pod) — 2026-08-13
 - [A Kubernetes Pod is stuck in the Pending state. How would you troubleshoot it?](../topics/kubernetes.md#a-kubernetes-pod-is-stuck-in-the-pending-state-how-would-you-troubleshoot-it) — 2026-08-13
-- [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) — 2026-08-13
 - [How would you perform a zero-downtime Kubernetes cluster upgrade?](../topics/kubernetes.md#how-would-you-perform-a-zero-downtime-kubernetes-cluster-upgrade) — 2026-08-13 · tags: `Deployment Strategies`
 - [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — 2026-08-13 · tags: `Docker`
 - [Trace a request from load balancer to pod — and name what secures every hop.](../topics/kubernetes.md#trace-a-request-from-load-balancer-to-pod-and-name-what-secures-every-hop) — 2026-08-13 · tags: `Load Balancing`
@@ -921,8 +923,6 @@
 - [How do you secure a Kubernetes cluster ?](../topics/kubernetes.md#how-do-you-secure-a-kubernetes-cluster) — 2026-08-12
 - [Write a Bash script to list pods in a namespace and restart those in CrashLoopBackOff.](../topics/kubernetes.md#write-a-bash-script-to-list-pods-in-a-namespace-and-restart-those-in-crashloopba) — 2026-08-12 · tags: `Bash`
 - [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) — 2026-08-12
-- [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — 2026-08-12
-- [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/kubernetes.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do) — 2026-08-12
 
 ## Related topics
 
@@ -1029,12 +1029,12 @@
 | [How do you integrate GitHub or Bitbucket with Kubernetes? Explain the steps.](../topics/kubernetes.md#how-do-you-integrate-github-or-bitbucket-with-kubernetes-explain-the-steps) | Hard | 2 |
 | [How do you integrate Jenkins with Docker and Kubernetes?](../topics/kubernetes.md#how-do-you-integrate-jenkins-with-docker-and-kubernetes) | Medium | 1 |
 | [How do you investigate a Kubernetes CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-investigate-a-kubernetes-crashloopbackoff) | Medium | 1 |
-| [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) | Medium | 3 |
+| [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) | Medium | 4 |
 | [How do you investigate node-level problems in Kubernetes?](../topics/kubernetes.md#how-do-you-investigate-node-level-problems-in-kubernetes) | Medium | 1 |
 | [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) | Medium | 2 |
 | [How do you monitor AWS resources, Kubernetes workloads, SLAs, and production systems?](../topics/kubernetes.md#how-do-you-monitor-aws-resources-kubernetes-workloads-slas-and-production-system) | Hard | 1 |
 | [How do you perform a zero-downtime deployment in Kubernetes?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-deployment-in-kubernetes) | Medium | 2 |
-| [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) | Hard | 9 |
+| [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) | Hard | 10 |
 | [How do you provide pod access to S3 bucket](../topics/kubernetes.md#how-do-you-provide-pod-access-to-s3-bucket) | Medium | 2 |
 | [How do you restrict pod‑to‑pod communication in Kubernetes inside a cluster?](../topics/kubernetes.md#how-do-you-restrict-pod-to-pod-communication-in-kubernetes-inside-a-cluster) | Medium | 1 |
 | [How do you roll back a failed Kubernetes deployment?](../topics/kubernetes.md#how-do-you-roll-back-a-failed-kubernetes-deployment) | Medium | 2 |
@@ -1075,7 +1075,7 @@
 | [How would you dynamically scale a Kubernetes deployment ?](../topics/kubernetes.md#how-would-you-dynamically-scale-a-kubernetes-deployment) | Hard | 1 |
 | [How would you enforce security policies so that Pods cannot: Run as root, Use the latest image tag, Have a writable root filesystem?](../topics/kubernetes.md#how-would-you-enforce-security-policies-so-that-pods-cannot-run-as-root-use-the-) | Medium | 1 |
 | [How would you handle CUDA driver upgrades in Kubernetes without disrupting thousands of running AI pods?](../topics/kubernetes.md#how-would-you-handle-cuda-driver-upgrades-in-kubernetes-without-disrupting-thous) | Hard | 2 |
-| [How would you manage secrets securely across multiple Kubernetes clusters and environments?](../topics/kubernetes.md#how-would-you-manage-secrets-securely-across-multiple-kubernetes-clusters-and-en) | Medium | 1 |
+| [How would you manage secrets securely across multiple Kubernetes clusters and environments?](../topics/kubernetes.md#how-would-you-manage-secrets-securely-across-multiple-kubernetes-clusters-and-en) | Medium | 2 |
 | [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) | Medium | 1 |
 | [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) | Medium | 8 |
 | [How would you perform a zero-downtime deployment for a microservices application running on Kubernetes?](../topics/kubernetes.md#how-would-you-perform-a-zero-downtime-deployment-for-a-microservices-application) | Medium | 1 |

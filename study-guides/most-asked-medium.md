@@ -8,7 +8,7 @@ Browse by level: [Easy](./most-asked-easy.md) · [Medium](./most-asked-medium.md
 
 | # | Question | Topic | Asked |
 | ---: | --- | --- | ---: |
-| 1 | [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) | CI/CD | 11 |
+| 1 | [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) | CI/CD | 12 |
 | 2 | [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) | Kubernetes | 8 |
 | 3 | [What is Terraform?](../topics/terraform.md#what-is-terraform) | Terraform | 8 |
 | 4 | [What is the difference between CMD and ENTRYPOINT?](../topics/docker.md#what-is-the-difference-between-cmd-and-entrypoint) | Docker | 8 |
@@ -18,11 +18,11 @@ Browse by level: [Easy](./most-asked-easy.md) · [Medium](./most-asked-medium.md
 | 8 | [Terraform state is 300MB and planning takes 15 minutes. How would you optimize it?](../topics/terraform.md#terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it) | Terraform | 7 |
 | 9 | [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) | Terraform | 7 |
 | 10 | [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/kubernetes.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do) | Kubernetes | 7 |
-| 11 | [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) | Kubernetes | 6 |
-| 12 | [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) | Docker | 6 |
-| 13 | [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) | CI/CD | 6 |
-| 14 | [A deployment succeeds, but latency increases from 80 ms to 2 seconds. Walk me through your debugging approach.](../topics/general.md#a-deployment-succeeds-but-latency-increases-from-80-ms-to-2-seconds-walk-me-thro) | General | 5 |
-| 15 | [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) | Terraform | 5 |
+| 11 | [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) | Terraform | 6 |
+| 12 | [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) | Kubernetes | 6 |
+| 13 | [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) | Docker | 6 |
+| 14 | [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/ci-cd.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) | CI/CD | 6 |
+| 15 | [A deployment succeeds, but latency increases from 80 ms to 2 seconds. Walk me through your debugging approach.](../topics/general.md#a-deployment-succeeds-but-latency-increases-from-80-ms-to-2-seconds-walk-me-thro) | General | 5 |
 | 16 | [After deployment, application latency suddenly doubles while CPU and memory remain normal. How would you approach the investigation?](../topics/kubernetes.md#after-deployment-application-latency-suddenly-doubles-while-cpu-and-memory-remai) | Kubernetes | 5 |
 | 17 | [An application works perfectly in one Availability Zone but intermittently fails in another. What AWS networking components would you verify first?](../topics/networking.md#an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails) | Networking | 5 |
 | 18 | [During a node group upgrade, several workloads become unavailable even though replicas exist. What production checks would you perform?](../topics/kubernetes.md#during-a-node-group-upgrade-several-workloads-become-unavailable-even-though-rep) | Kubernetes | 5 |
@@ -47,16 +47,16 @@ Browse by level: [Easy](./most-asked-easy.md) · [Medium](./most-asked-medium.md
 | 37 | [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) | CI/CD | 4 |
 | 38 | [Give an example where you helped resolve a SonarQube finding.](../topics/security.md#give-an-example-where-you-helped-resolve-a-sonarqube-finding) | Security | 4 |
 | 39 | [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) | Terraform | 4 |
-| 40 | [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) | CI/CD | 4 |
-| 41 | [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) | Jenkins | 4 |
-| 42 | [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) | Kubernetes | 4 |
-| 43 | [If you joined tomorrow as a Senior DevOps Engineer with a ₹55 LPA package, what would your 100-day DevOps transformation roadmap look like, and what measurable engineering, operational, reliability, and business outcomes would you commit to delivering within your first year?](../topics/general.md#if-you-joined-tomorrow-as-a-senior-devops-engineer-with-a-55-lpa-package-what-wo) | General | 4 |
-| 44 | [Production is down. Users are impacted. What will you do?](../topics/general.md#production-is-down-users-are-impacted-what-will-you-do) | General | 4 |
-| 45 | [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | AWS | 4 |
-| 46 | [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) | CI/CD | 4 |
-| 47 | [What is Exit Status 2 in Kubernetes?](../topics/kubernetes.md#what-is-exit-status-2-in-kubernetes) | Kubernetes | 4 |
-| 48 | [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) | GitHub Actions | 4 |
-| 49 | [A Pod is running but the application is not accessible. What would you check?](../topics/kubernetes.md#a-pod-is-running-but-the-application-is-not-accessible-what-would-you-check) | Kubernetes | 3 |
-| 50 | [Blue-Green & Canary deployments](../topics/deployment-strategies.md#blue-green-canary-deployments) | Deployment Strategies | 3 |
+| 40 | [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) | Kubernetes | 4 |
+| 41 | [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) | CI/CD | 4 |
+| 42 | [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) | Jenkins | 4 |
+| 43 | [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) | Kubernetes | 4 |
+| 44 | [How would you troubleshoot a deployment that succeeded but users are receiving 503 errors?](../topics/general.md#how-would-you-troubleshoot-a-deployment-that-succeeded-but-users-are-receiving-5) | General | 4 |
+| 45 | [If you joined tomorrow as a Senior DevOps Engineer with a ₹55 LPA package, what would your 100-day DevOps transformation roadmap look like, and what measurable engineering, operational, reliability, and business outcomes would you commit to delivering within your first year?](../topics/general.md#if-you-joined-tomorrow-as-a-senior-devops-engineer-with-a-55-lpa-package-what-wo) | General | 4 |
+| 46 | [Production is down. Users are impacted. What will you do?](../topics/general.md#production-is-down-users-are-impacted-what-will-you-do) | General | 4 |
+| 47 | [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | AWS | 4 |
+| 48 | [What is Continuous Integration (CI)?](../topics/ci-cd.md#what-is-continuous-integration-ci) | CI/CD | 4 |
+| 49 | [What is Exit Status 2 in Kubernetes?](../topics/kubernetes.md#what-is-exit-status-2-in-kubernetes) | Kubernetes | 4 |
+| 50 | [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) | GitHub Actions | 4 |
 
 [← Study guides](./README.md)

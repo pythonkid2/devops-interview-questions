@@ -35,7 +35,7 @@
   <a id="terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it"></a>
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — **7×** · Medium
   <a id="what-is-a-terraform-state-file-and-why-is-it-important"></a>
-- [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — **5×** · Medium
+- [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — **6×** · Medium
   <a id="a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re"></a>
 - [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — **5×** · Medium
   <a id="what-is-state-locking-in-terraform"></a>
@@ -129,7 +129,7 @@
   <a id="terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it"></a>
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 7×
   <a id="what-is-a-terraform-state-file-and-why-is-it-important"></a>
-- [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — 5×
+- [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — 6×
   <a id="a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re"></a>
 - [What is state locking in Terraform?](../topics/terraform.md#what-is-state-locking-in-terraform) — 5×
   <a id="what-is-state-locking-in-terraform"></a>
@@ -568,7 +568,7 @@
 
 ## Recently added
 
-- [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — 2026-08-13
+- [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — 2026-08-15
 - [What is the purpose of using Terraform in DevOps?](../topics/terraform.md#what-is-the-purpose-of-using-terraform-in-devops) — 2026-08-13
 - [What are Terraform workspaces?](../topics/terraform.md#what-are-terraform-workspaces) — 2026-08-13
 - [What are Terraform modules and why do we use them?](../topics/terraform.md#what-are-terraform-modules-and-why-do-we-use-them) — 2026-08-13
@@ -593,7 +593,7 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A terraform apply failed after creating half of the infrastructure. Some resources exist. Some don't. How would you recover without recreating everything?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-of-the-infrastructure-some-resource) | Medium | 1 |
-| [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) | Medium | 5 |
+| [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) | Medium | 6 |
 | [Automate EC2 instance tagging based on environment using Terraform.](../topics/terraform.md#automate-ec2-instance-tagging-based-on-environment-using-terraform) | Medium | 2 |
 | [Basic Terraform concepts.](../topics/terraform.md#basic-terraform-concepts) | Medium | 1 |
 | [Can you explain Terraform state files and how you manage/organize them?](../topics/terraform.md#can-you-explain-terraform-state-files-and-how-you-manage-organize-them) | Medium | 1 |

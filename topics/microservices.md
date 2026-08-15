@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Microservices**
 
-**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 4 |
-| Easy / Medium / Hard | 0 / 3 / 1 |
+| Questions | 5 |
+| Easy / Medium / Hard | 0 / 4 / 1 |
 | Companies | 0 |
 
 ## Most asked
@@ -35,6 +35,8 @@
   <a id="how-would-you-manage-secrets-for-100-microservices"></a>
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — **1×** · Medium
   <a id="one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro"></a>
+- [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) — **1×** · Medium
+  <a id="what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano"></a>
 
 ## Beginner
 
@@ -48,6 +50,8 @@ _None in this band yet._
   <a id="how-would-you-manage-secrets-for-100-microservices"></a>
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — 1×
   <a id="one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro"></a>
+- [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) — 1×
+  <a id="what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano"></a>
 
 ## Advanced
 
@@ -62,6 +66,7 @@ _None in this band yet._
 - [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices)
 - [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials)
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro)
+- [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano)
 
 ## Companies asking
 
@@ -69,6 +74,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) — 2026-08-15
 - [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) — 2026-08-12
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — 2026-07-17
 - [How would you handle cascading microservice failures?](../topics/microservices.md#how-would-you-handle-cascading-microservice-failures) — 2026-07-17
@@ -87,6 +93,7 @@ _None in this band yet._
 | [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices) | Medium | 1 |
 | [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) | Medium | 7 |
 | [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) | Medium | 1 |
+| [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) | Medium | 1 |
 
 ## Learning resources
 

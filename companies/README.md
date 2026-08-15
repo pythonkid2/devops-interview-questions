@@ -15,9 +15,9 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 | [BNP Paribas](./bnp-paribas.md) | 28 |
 | [Deloitte](./deloitte.md) | 28 |
 | [Mirafra](./mirafra.md) | 28 |
+| [Amazon](./amazon.md) | 26 |
 | [Hexaware Technologies](./hexaware-technologies.md) | 25 |
 | [Global Payments](./global-payments.md) | 23 |
-| [Amazon](./amazon.md) | 17 |
 | [Capgemini](./capgemini.md) | 13 |
 | [PwC](./pwc.md) | 13 |
 | [SpaceTech Inc.](./spacetech-inc.md) | 13 |
@@ -47,6 +47,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 1803 |
+| [Unknown Company](./unknown-company.md) | 1816 |
 
 [← Home](../README.md)
