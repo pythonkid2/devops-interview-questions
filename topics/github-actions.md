@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **GitHub Actions**
 
-**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 7 |
-| Easy / Medium / Hard | 1 / 6 / 0 |
+| Questions | 8 |
+| Easy / Medium / Hard | 1 / 7 / 0 |
 | Companies | 3 |
 
 ## Most asked
@@ -37,6 +37,8 @@
   <a id="what-are-runners-in-github-actions"></a>
 - [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — **1×** · Medium · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
   <a id="a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail"></a>
+- [Explain CI/CD and GitHub Actions.](../topics/github-actions.md#explain-ci-cd-and-github-actions) — **1×** · Medium · tags: `CI/CD`
+  <a id="explain-ci-cd-and-github-actions"></a>
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) — **1×** · Medium
   <a id="explain-github-webhooks-apis-and-github-actions"></a>
 - [How would you integrate vulnerability scanning tools such as Trivy or Snyk into GitHub Actions?](../topics/github-actions.md#how-would-you-integrate-vulnerability-scanning-tools-such-as-trivy-or-snyk-into-) — **1×** · Medium · tags: `Security`
@@ -57,6 +59,8 @@
   <a id="how-do-you-implement-ci-cd-for-a-net-application-using-azure-devops-or-github-ac"></a>
 - [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — 1× · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
   <a id="a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail"></a>
+- [Explain CI/CD and GitHub Actions.](../topics/github-actions.md#explain-ci-cd-and-github-actions) — 1× · tags: `CI/CD`
+  <a id="explain-ci-cd-and-github-actions"></a>
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) — 1×
   <a id="explain-github-webhooks-apis-and-github-actions"></a>
 - [How would you integrate vulnerability scanning tools such as Trivy or Snyk into GitHub Actions?](../topics/github-actions.md#how-would-you-integrate-vulnerability-scanning-tools-such-as-trivy-or-snyk-into-) — 1× · tags: `Security`
@@ -79,6 +83,7 @@ _None in this band yet._
 ### Unspecified
 
 - [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
+- [Explain CI/CD and GitHub Actions.](../topics/github-actions.md#explain-ci-cd-and-github-actions) — tags: `CI/CD`
 - [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions)
 - [GitHub Actions](../topics/github-actions.md#github-actions)
 - [How do you implement CI/CD for a .NET application using Azure DevOps or GitHub Actions?](../topics/github-actions.md#how-do-you-implement-ci-cd-for-a-net-application-using-azure-devops-or-github-ac) — tags: `Azure DevOps`, `CI/CD`, `Azure`
@@ -92,6 +97,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [Explain CI/CD and GitHub Actions.](../topics/github-actions.md#explain-ci-cd-and-github-actions) — 2026-08-19 · tags: `CI/CD`
 - [How do you implement CI/CD for a .NET application using Azure DevOps or GitHub Actions?](../topics/github-actions.md#how-do-you-implement-ci-cd-for-a-net-application-using-azure-devops-or-github-ac) — 2026-08-13 · tags: `Azure DevOps`, `CI/CD`, `Azure`
 - [GitHub Actions](../topics/github-actions.md#github-actions) — 2026-08-12
 - [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — 2026-07-29 · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
@@ -112,6 +118,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) | Medium | 1 |
+| [Explain CI/CD and GitHub Actions.](../topics/github-actions.md#explain-ci-cd-and-github-actions) | Medium | 1 |
 | [Explain GitHub Webhooks, APIs, and GitHub Actions.](../topics/github-actions.md#explain-github-webhooks-apis-and-github-actions) | Medium | 1 |
 | [GitHub Actions](../topics/github-actions.md#github-actions) | Medium | 3 |
 | [How do you implement CI/CD for a .NET application using Azure DevOps or GitHub Actions?](../topics/github-actions.md#how-do-you-implement-ci-cd-for-a-net-application-using-azure-devops-or-github-ac) | Medium | 2 |

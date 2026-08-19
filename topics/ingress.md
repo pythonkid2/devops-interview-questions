@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Ingress**
 
-**12** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**13** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,20 +21,20 @@
 
 | | |
 | --- | ---: |
-| Questions | 12 |
-| Easy / Medium / Hard | 5 / 6 / 1 |
-| Companies | 2 |
+| Questions | 13 |
+| Easy / Medium / Hard | 6 / 6 / 1 |
+| Companies | 3 |
 
 ## Most asked
 
+- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/ingress.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — **3×** · Medium · tags: `Load Balancing`
+  <a id="explain-load-balancer-reverse-proxy-and-ingress-with-real-examples"></a>
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — **3×** · Easy
   <a id="what-is-an-ingress"></a>
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — **2×** · Easy · tags: `Load Balancing`
   <a id="difference-between-ingress-and-loadbalancer"></a>
 - [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) — **2×** · Easy
   <a id="difference-between-ingress-and-service"></a>
-- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/ingress.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — **2×** · Medium · tags: `Load Balancing`
-  <a id="explain-load-balancer-reverse-proxy-and-ingress-with-real-examples"></a>
 - [Types of service and difference between service and ingress](../topics/ingress.md#types-of-service-and-difference-between-service-and-ingress) — **2×** · Easy
   <a id="types-of-service-and-difference-between-service-and-ingress"></a>
 - [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) — **2×** · Medium · tags: `Kubernetes`, `DNS`
@@ -47,6 +47,8 @@
   <a id="how-does-traffic-flow-from-user-to-ingress-to-service-to-pod"></a>
 - [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho) — **1×** · Hard
   <a id="ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho"></a>
+- [What are Services & Ingress?](../topics/ingress.md#what-are-services-ingress) — **1×** · Easy
+  <a id="what-are-services-ingress"></a>
 - [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress) — **1×** · Easy
   <a id="what-is-the-difference-between-service-and-ingress"></a>
 - [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons) — **1×** · Medium
@@ -62,12 +64,14 @@
   <a id="difference-between-ingress-and-service"></a>
 - [Types of service and difference between service and ingress](../topics/ingress.md#types-of-service-and-difference-between-service-and-ingress) — 2×
   <a id="types-of-service-and-difference-between-service-and-ingress"></a>
+- [What are Services & Ingress?](../topics/ingress.md#what-are-services-ingress) — 1×
+  <a id="what-are-services-ingress"></a>
 - [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress) — 1×
   <a id="what-is-the-difference-between-service-and-ingress"></a>
 
 ## Intermediate
 
-- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/ingress.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — 2× · tags: `Load Balancing`
+- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/ingress.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — 3× · tags: `Load Balancing`
   <a id="explain-load-balancer-reverse-proxy-and-ingress-with-real-examples"></a>
 - [Your application is running, but users can't access it. Would you check the Pod, Service, Ingress, DNS, or something else first?](../topics/ingress.md#your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se) — 2× · tags: `Kubernetes`, `DNS`
   <a id="your-application-is-running-but-users-can-t-access-it-would-you-check-the-pod-se"></a>
@@ -97,6 +101,7 @@
 - [How does traffic flow from User to Ingress to Service to Pod?](../topics/ingress.md#how-does-traffic-flow-from-user-to-ingress-to-service-to-pod) — tags: `Kubernetes`
 - [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho)
 - [Types of service and difference between service and ingress](../topics/ingress.md#types-of-service-and-difference-between-service-and-ingress)
+- [What are Services & Ingress?](../topics/ingress.md#what-are-services-ingress)
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress)
 - [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress)
 - [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons)
@@ -105,10 +110,13 @@
 ## Companies asking
 
 - [Infosys](../companies/infosys.md)
+- [Kotraya Technologies](../companies/kotraya-technologies.md)
 - [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [What are Services & Ingress?](../topics/ingress.md#what-are-services-ingress) — 2026-08-19
+- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/ingress.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — 2026-08-19 · tags: `Load Balancing`
 - [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons) — 2026-07-30
 - [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) — 2026-07-28
 - [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho) — 2026-07-28
@@ -118,7 +126,6 @@
 - [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) — 2026-07-18 · tags: `Kubernetes`, `Docker`
 - [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) — 2026-07-17
 - [Types of service and difference between service and ingress](../topics/ingress.md#types-of-service-and-difference-between-service-and-ingress) — 2026-07-17
-- [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/ingress.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) — 2026-07-17 · tags: `Load Balancing`
 - [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) — 2026-07-16 · tags: `Load Balancing`
 - [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) — 2026-07-16
 
@@ -139,11 +146,12 @@
 | [Difference between Ingress and LoadBalancer?](../topics/ingress.md#difference-between-ingress-and-loadbalancer) | Easy | 2 |
 | [Difference between ingress and service ?](../topics/ingress.md#difference-between-ingress-and-service) | Easy | 2 |
 | [Explain Ingress and its advantages.](../topics/ingress.md#explain-ingress-and-its-advantages) | Medium | 1 |
-| [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/ingress.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) | Medium | 2 |
+| [Explain Load Balancer, Reverse Proxy, and Ingress with real examples.](../topics/ingress.md#explain-load-balancer-reverse-proxy-and-ingress-with-real-examples) | Medium | 3 |
 | [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) | Medium | 1 |
 | [How does traffic flow from User to Ingress to Service to Pod?](../topics/ingress.md#how-does-traffic-flow-from-user-to-ingress-to-service-to-pod) | Medium | 1 |
 | [Ingress controller not routing efficiently during peak traffic — how to troubleshoot & scale?](../topics/ingress.md#ingress-controller-not-routing-efficiently-during-peak-traffic-how-to-troublesho) | Hard | 1 |
 | [Types of service and difference between service and ingress](../topics/ingress.md#types-of-service-and-difference-between-service-and-ingress) | Easy | 2 |
+| [What are Services & Ingress?](../topics/ingress.md#what-are-services-ingress) | Easy | 1 |
 | [What is an Ingress?](../topics/ingress.md#what-is-an-ingress) | Easy | 3 |
 | [What is the difference between Service and Ingress?](../topics/ingress.md#what-is-the-difference-between-service-and-ingress) | Easy | 1 |
 | [Why people prefer ingress over load balancers ? Reasons?](../topics/ingress.md#why-people-prefer-ingress-over-load-balancers-reasons) | Medium | 1 |

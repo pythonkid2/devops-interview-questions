@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**28** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**30** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 28 |
-| Easy / Medium / Hard | 4 / 24 / 0 |
-| Companies | 2 |
+| Questions | 30 |
+| Easy / Medium / Hard | 4 / 26 / 0 |
+| Companies | 4 |
 
 ## Most asked
 
+- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — **3×** · Medium
+  <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [What is Linux?](../topics/linux.md#what-is-linux) — **3×** · Easy
   <a id="what-is-linux"></a>
 - [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) — **2×** · Medium
@@ -35,8 +37,6 @@
   <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — **2×** · Medium
   <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
-- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — **2×** · Medium
-  <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — **2×** · Medium
   <a id="how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — **2×** · Medium
@@ -67,16 +67,16 @@
   <a id="how-do-you-deploy-applications-on-a-linux-server"></a>
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — **1×** · Medium
   <a id="how-do-you-manage-services-in-linux"></a>
+- [How do you use Linux exit codes in automation?](../topics/linux.md#how-do-you-use-linux-exit-codes-in-automation) — **1×** · Medium
+  <a id="how-do-you-use-linux-exit-codes-in-automation"></a>
+- [Linux](../topics/linux.md#linux) — **1×** · Medium
+  <a id="linux"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — **1×** · Medium
   <a id="linux-administration-networking-basics"></a>
 - [What are the Linux boot processes?](../topics/linux.md#what-are-the-linux-boot-processes) — **1×** · Easy
   <a id="what-are-the-linux-boot-processes"></a>
 - [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking) — **1×** · Easy
   <a id="what-is-your-experience-with-linux-and-networking"></a>
-- [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — **1×** · Medium
-  <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
-- [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — **1×** · Medium
-  <a id="which-linux-command-has-embarrassed-you-the-most"></a>
 
 ## Beginner
 
@@ -91,14 +91,14 @@
 
 ## Intermediate
 
+- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 3×
+  <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) — 2×
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 2×
   <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2×
   <a id="how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux"></a>
-- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2×
-  <a id="how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server"></a>
 - [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) — 2×
   <a id="how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space"></a>
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) — 2×
@@ -127,6 +127,10 @@
   <a id="how-do-you-deploy-applications-on-a-linux-server"></a>
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — 1×
   <a id="how-do-you-manage-services-in-linux"></a>
+- [How do you use Linux exit codes in automation?](../topics/linux.md#how-do-you-use-linux-exit-codes-in-automation) — 1×
+  <a id="how-do-you-use-linux-exit-codes-in-automation"></a>
+- [Linux](../topics/linux.md#linux) — 1×
+  <a id="linux"></a>
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 1×
   <a id="linux-administration-networking-basics"></a>
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 1×
@@ -158,10 +162,12 @@ _None in this band yet._
 - [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server)
 - [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux)
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux)
+- [How do you use Linux exit codes in automation?](../topics/linux.md#how-do-you-use-linux-exit-codes-in-automation)
 - [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server)
 - [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space)
 - [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi)
 - [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive)
+- [Linux](../topics/linux.md#linux)
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics)
 - [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting)
 - [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts)
@@ -181,9 +187,14 @@ _None in this band yet._
 
 - [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md)
 - [Infosys](../companies/infosys.md)
+- [Kotraya Technologies](../companies/kotraya-technologies.md)
+- [UST](../companies/ust.md)
 
 ## Recently added
 
+- [Linux](../topics/linux.md#linux) — 2026-08-19
+- [How do you use Linux exit codes in automation?](../topics/linux.md#how-do-you-use-linux-exit-codes-in-automation) — 2026-08-19
+- [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) — 2026-08-19
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 2026-08-13
 - [What is your experience with Linux and Networking?](../topics/linux.md#what-is-your-experience-with-linux-and-networking) — 2026-08-10
 - [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) — 2026-08-10
@@ -196,9 +207,6 @@ _None in this band yet._
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) — 2026-07-27
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — 2026-07-27
 - [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) — 2026-07-26
-- [What is the best interview question you ask to identify a genuinely strong Linux/DevOps engineer?](../topics/linux.md#what-is-the-best-interview-question-you-ask-to-identify-a-genuinely-strong-linux) — 2026-07-26
-- [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) — 2026-07-21
-- [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) — 2026-07-21
 
 ## Related topics
 
@@ -219,10 +227,12 @@ _None in this band yet._
 | [How do you deploy applications on a Linux server?](../topics/linux.md#how-do-you-deploy-applications-on-a-linux-server) | Medium | 1 |
 | [How do you manage services in Linux?](../topics/linux.md#how-do-you-manage-services-in-linux) | Medium | 1 |
 | [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) | Medium | 2 |
-| [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) | Medium | 2 |
+| [How do you use Linux exit codes in automation?](../topics/linux.md#how-do-you-use-linux-exit-codes-in-automation) | Medium | 1 |
+| [How would you debug high CPU, memory, or disk utilization on a Linux server?](../topics/linux.md#how-would-you-debug-high-cpu-memory-or-disk-utilization-on-a-linux-server) | Medium | 3 |
 | [How would you troubleshoot a Linux server that's running out of disk space?](../topics/linux.md#how-would-you-troubleshoot-a-linux-server-that-s-running-out-of-disk-space) | Medium | 2 |
 | [If you installed a package on Linux and it worked yesterday but failed today, which logs would you check?](../topics/linux.md#if-you-installed-a-package-on-linux-and-it-worked-yesterday-but-failed-today-whi) | Medium | 2 |
 | [Learn Linux until debugging becomes instinctive.](../topics/linux.md#learn-linux-until-debugging-becomes-instinctive) | Medium | 2 |
+| [Linux](../topics/linux.md#linux) | Medium | 1 |
 | [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) | Medium | 1 |
 | [Linux Administration & Shell Scripting](../topics/linux.md#linux-administration-shell-scripting) | Medium | 2 |
 | [Linux kernel concepts](../topics/linux.md#linux-kernel-concepts) | Medium | 2 |

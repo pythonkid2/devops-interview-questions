@@ -4,6 +4,6 @@
 
 | Difficulty | Count |
 | --- | ---: |
-| Easy | 341 |
-| Medium | 1744 |
-| Hard | 309 |
+| Easy | 380 |
+| Medium | 1868 |
+| Hard | 335 |

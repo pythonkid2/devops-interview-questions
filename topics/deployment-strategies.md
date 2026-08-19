@@ -23,7 +23,7 @@
 | --- | ---: |
 | Questions | 56 |
 | Easy / Medium / Hard | 5 / 28 / 23 |
-| Companies | 7 |
+| Companies | 8 |
 
 ## Most asked
 
@@ -43,6 +43,10 @@
   <a id="explain-blue-green-deployment"></a>
 - [Explain the difference between Rolling, Blue-Green, and Canary deployments.](../topics/deployment-strategies.md#explain-the-difference-between-rolling-blue-green-and-canary-deployments) — **3×** · Easy · tags: `Blue-Green`, `Canary`
   <a id="explain-the-difference-between-rolling-blue-green-and-canary-deployments"></a>
+- [How do you implement rollback if deployment fails?](../topics/deployment-strategies.md#how-do-you-implement-rollback-if-deployment-fails) — **3×** · Medium
+  <a id="how-do-you-implement-rollback-if-deployment-fails"></a>
+- [How do you implement zero-downtime deployments?](../topics/deployment-strategies.md#how-do-you-implement-zero-downtime-deployments) — **3×** · Medium
+  <a id="how-do-you-implement-zero-downtime-deployments"></a>
 - [A deployment failed in Production. How would you troubleshoot?](../topics/deployment-strategies.md#a-deployment-failed-in-production-how-would-you-troubleshoot) — **2×** · Hard · tags: `Incident Response`
   <a id="a-deployment-failed-in-production-how-would-you-troubleshoot"></a>
 - [A Jenkins pipeline completed successfully, but the latest changes are not visible in production. What components would you verify before concluding the deployment failed?](../topics/deployment-strategies.md#a-jenkins-pipeline-completed-successfully-but-the-latest-changes-are-not-visible) — **2×** · Hard · tags: `Jenkins`, `CI/CD`
@@ -59,10 +63,6 @@
   <a id="how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails"></a>
 - [How do you handle a failed deployment in production?](../topics/deployment-strategies.md#how-do-you-handle-a-failed-deployment-in-production) — **2×** · Hard
   <a id="how-do-you-handle-a-failed-deployment-in-production"></a>
-- [How do you implement rollback if deployment fails?](../topics/deployment-strategies.md#how-do-you-implement-rollback-if-deployment-fails) — **2×** · Medium
-  <a id="how-do-you-implement-rollback-if-deployment-fails"></a>
-- [How do you implement zero-downtime deployments?](../topics/deployment-strategies.md#how-do-you-implement-zero-downtime-deployments) — **2×** · Medium
-  <a id="how-do-you-implement-zero-downtime-deployments"></a>
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) — **2×** · Medium
   <a id="how-do-you-perform-a-rolling-update"></a>
 - [How do you roll back a failed Kubernetes deployment?](../topics/deployment-strategies.md#how-do-you-roll-back-a-failed-kubernetes-deployment) — **2×** · Medium · tags: `Kubernetes`
@@ -101,12 +101,12 @@
   <a id="difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-"></a>
 - [Explain Blue-Green Deployment](../topics/deployment-strategies.md#explain-blue-green-deployment) — 3× · tags: `Blue-Green`
   <a id="explain-blue-green-deployment"></a>
+- [How do you implement rollback if deployment fails?](../topics/deployment-strategies.md#how-do-you-implement-rollback-if-deployment-fails) — 3×
+  <a id="how-do-you-implement-rollback-if-deployment-fails"></a>
+- [How do you implement zero-downtime deployments?](../topics/deployment-strategies.md#how-do-you-implement-zero-downtime-deployments) — 3×
+  <a id="how-do-you-implement-zero-downtime-deployments"></a>
 - [Helm rollback worked. App still broken. Logs silent. What now?](../topics/deployment-strategies.md#helm-rollback-worked-app-still-broken-logs-silent-what-now) — 2× · tags: `Helm`
   <a id="helm-rollback-worked-app-still-broken-logs-silent-what-now"></a>
-- [How do you implement rollback if deployment fails?](../topics/deployment-strategies.md#how-do-you-implement-rollback-if-deployment-fails) — 2×
-  <a id="how-do-you-implement-rollback-if-deployment-fails"></a>
-- [How do you implement zero-downtime deployments?](../topics/deployment-strategies.md#how-do-you-implement-zero-downtime-deployments) — 2×
-  <a id="how-do-you-implement-zero-downtime-deployments"></a>
 - [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) — 2×
   <a id="how-do-you-perform-a-rolling-update"></a>
 - [How do you roll back a failed Kubernetes deployment?](../topics/deployment-strategies.md#how-do-you-roll-back-a-failed-kubernetes-deployment) — 2× · tags: `Kubernetes`
@@ -267,11 +267,14 @@
 - [Elite Code Technologies](../companies/elite-code-technologies.md)
 - [Global Payments](../companies/global-payments.md)
 - [Infosys](../companies/infosys.md)
+- [Kotraya Technologies](../companies/kotraya-technologies.md)
 - [Oracle](../companies/oracle.md)
 - [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [How do you implement rollback if deployment fails?](../topics/deployment-strategies.md#how-do-you-implement-rollback-if-deployment-fails) — 2026-08-19
+- [How do you implement zero-downtime deployments?](../topics/deployment-strategies.md#how-do-you-implement-zero-downtime-deployments) — 2026-08-19
 - [How do you design a rollback strategy if the deployment stage itself fails?](../topics/deployment-strategies.md#how-do-you-design-a-rollback-strategy-if-the-deployment-stage-itself-fails) — 2026-08-15
 - [What is the difference between blue-green deployment and canary deployment?](../topics/deployment-strategies.md#what-is-the-difference-between-blue-green-deployment-and-canary-deployment) — 2026-08-13 · tags: `Blue-Green`, `Canary`
 - [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production) — 2026-08-12
@@ -285,8 +288,6 @@
 - [Explain Blue-Green Deployment](../topics/deployment-strategies.md#explain-blue-green-deployment) — 2026-08-10 · tags: `Blue-Green`
 - [How do you handle a failed deployment in production?](../topics/deployment-strategies.md#how-do-you-handle-a-failed-deployment-in-production) — 2026-08-10
 - [Explain Blue-Green Deployment and Canary Deployment. How have you implemented them?](../topics/deployment-strategies.md#explain-blue-green-deployment-and-canary-deployment-how-have-you-implemented-the) — 2026-08-10 · tags: `Blue-Green`, `Canary`
-- [How would you design a CI/CD pipeline with an automatic rollback strategy?](../topics/deployment-strategies.md#how-would-you-design-a-ci-cd-pipeline-with-an-automatic-rollback-strategy) — 2026-08-10 · tags: `CI/CD`
-- [Difference between blue-green and canary and roll-out deployments ? which is more expensive?](../topics/deployment-strategies.md#difference-between-blue-green-and-canary-and-roll-out-deployments-which-is-more-) — 2026-08-10 · tags: `Blue-Green`, `Canary`
 
 ## Related topics
 
@@ -328,9 +329,9 @@
 | [How do you handle a failed deployment in production?](../topics/deployment-strategies.md#how-do-you-handle-a-failed-deployment-in-production) | Hard | 2 |
 | [How do you handle rollback if a deployment fails?](../topics/deployment-strategies.md#how-do-you-handle-rollback-if-a-deployment-fails) | Medium | 1 |
 | [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) | Medium | 1 |
-| [How do you implement rollback if deployment fails?](../topics/deployment-strategies.md#how-do-you-implement-rollback-if-deployment-fails) | Medium | 2 |
+| [How do you implement rollback if deployment fails?](../topics/deployment-strategies.md#how-do-you-implement-rollback-if-deployment-fails) | Medium | 3 |
 | [How do you implement rollback strategy in Jenkins pipeline?](../topics/deployment-strategies.md#how-do-you-implement-rollback-strategy-in-jenkins-pipeline) | Medium | 1 |
-| [How do you implement zero-downtime deployments?](../topics/deployment-strategies.md#how-do-you-implement-zero-downtime-deployments) | Medium | 2 |
+| [How do you implement zero-downtime deployments?](../topics/deployment-strategies.md#how-do-you-implement-zero-downtime-deployments) | Medium | 3 |
 | [How do you perform a rolling update?](../topics/deployment-strategies.md#how-do-you-perform-a-rolling-update) | Medium | 2 |
 | [How do you roll back a failed deployment in Jenkins?](../topics/deployment-strategies.md#how-do-you-roll-back-a-failed-deployment-in-jenkins) | Medium | 1 |
 | [How do you roll back a failed Kubernetes deployment?](../topics/deployment-strategies.md#how-do-you-roll-back-a-failed-kubernetes-deployment) | Medium | 2 |

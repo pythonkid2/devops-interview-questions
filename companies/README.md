@@ -6,18 +6,20 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Company | Questions |
 | --- | ---: |
+| [Accenture](./accenture.md) | 65 |
 | [Infosys](./infosys.md) | 63 |
-| [TCS](./tcs.md) | 47 |
+| [Deloitte](./deloitte.md) | 53 |
+| [TCS](./tcs.md) | 52 |
 | [Mphasis](./mphasis.md) | 43 |
 | [Oracle](./oracle.md) | 37 |
 | [Elite Code Technologies](./elite-code-technologies.md) | 33 |
-| [Accenture](./accenture.md) | 32 |
 | [BNP Paribas](./bnp-paribas.md) | 28 |
-| [Deloitte](./deloitte.md) | 28 |
 | [Mirafra](./mirafra.md) | 28 |
+| [Kotraya Technologies](./kotraya-technologies.md) | 27 |
 | [Amazon](./amazon.md) | 26 |
 | [Hexaware Technologies](./hexaware-technologies.md) | 25 |
 | [Global Payments](./global-payments.md) | 23 |
+| [UST](./ust.md) | 17 |
 | [Capgemini](./capgemini.md) | 13 |
 | [PwC](./pwc.md) | 13 |
 | [SpaceTech Inc.](./spacetech-inc.md) | 13 |
@@ -47,6 +49,6 @@ Interview questions grouped by employer. Empty / anonymous labels are demoted.
 
 | Label | Questions |
 | --- | ---: |
-| [Unknown Company](./unknown-company.md) | 1816 |
+| [Unknown Company](./unknown-company.md) | 1898 |
 
 [← Home](../README.md)

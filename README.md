@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-2394-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-1089-informational)
+![questions](https://img.shields.io/badge/questions-2583-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-1105-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -18,35 +18,35 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 
 | Metric | Value |
 | --- | ---: |
-| Unique questions | 2394 |
-| Posts processed | 1089 |
-| Added this week | 178 |
+| Unique questions | 2583 |
+| Posts processed | 1105 |
+| Added this week | 367 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 236
-- [Terraform](./topics/terraform.md) — 140
-- [AWS](./topics/aws.md) — 115
-- [Docker](./topics/docker.md) — 105
-- [Jenkins](./topics/jenkins.md) — 83
-- [CI/CD](./topics/ci-cd.md) — 71
-- [Incident Response](./topics/incident-response.md) — 69
+- [Kubernetes](./topics/kubernetes.md) — 260
+- [Terraform](./topics/terraform.md) — 141
+- [AWS](./topics/aws.md) — 121
+- [Docker](./topics/docker.md) — 108
+- [Jenkins](./topics/jenkins.md) — 91
+- [CI/CD](./topics/ci-cd.md) — 79
+- [Incident Response](./topics/incident-response.md) — 72
 - [Deployment Strategies](./topics/deployment-strategies.md) — 56
-- [System Design](./topics/system-design.md) — 38
-- [Linux](./topics/linux.md) — 28
+- [System Design](./topics/system-design.md) — 44
+- [Azure](./topics/azure.md) — 42
 
 ## Popular companies
 
+- [Accenture](./companies/accenture.md) — 65
 - [Infosys](./companies/infosys.md) — 63
-- [TCS](./companies/tcs.md) — 47
+- [Deloitte](./companies/deloitte.md) — 53
+- [TCS](./companies/tcs.md) — 52
 - [Mphasis](./companies/mphasis.md) — 43
 - [Oracle](./companies/oracle.md) — 37
 - [Elite Code Technologies](./companies/elite-code-technologies.md) — 33
-- [Accenture](./companies/accenture.md) — 32
 - [BNP Paribas](./companies/bnp-paribas.md) — 28
-- [Deloitte](./companies/deloitte.md) — 28
 - [Mirafra](./companies/mirafra.md) — 28
-- [Amazon](./companies/amazon.md) — 26
+- [Kotraya Technologies](./companies/kotraya-technologies.md) — 27
 
 ## Repository map
 

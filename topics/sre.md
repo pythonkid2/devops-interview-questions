@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **SRE**
 
-**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 4 |
-| Easy / Medium / Hard | 1 / 3 / 0 |
-| Companies | 1 |
+| Questions | 5 |
+| Easy / Medium / Hard | 2 / 3 / 0 |
+| Companies | 2 |
 
 ## Most asked
 
@@ -33,11 +33,15 @@
   <a id="sre"></a>
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) — **1×** · Medium
   <a id="does-your-project-needs-ai-also-with-devops-sre-tools"></a>
+- [What are your responsibilities as an SRE beyond monitoring?](../topics/sre.md#what-are-your-responsibilities-as-an-sre-beyond-monitoring) — **1×** · Easy · tags: `Monitoring`
+  <a id="what-are-your-responsibilities-as-an-sre-beyond-monitoring"></a>
 - [What is the role of a Site Reliability Engineer (SRE)?](../topics/sre.md#what-is-the-role-of-a-site-reliability-engineer-sre) — **1×** · Easy
   <a id="what-is-the-role-of-a-site-reliability-engineer-sre"></a>
 
 ## Beginner
 
+- [What are your responsibilities as an SRE beyond monitoring?](../topics/sre.md#what-are-your-responsibilities-as-an-sre-beyond-monitoring) — 1× · tags: `Monitoring`
+  <a id="what-are-your-responsibilities-as-an-sre-beyond-monitoring"></a>
 - [What is the role of a Site Reliability Engineer (SRE)?](../topics/sre.md#what-is-the-role-of-a-site-reliability-engineer-sre) — 1×
   <a id="what-is-the-role-of-a-site-reliability-engineer-sre"></a>
 
@@ -61,14 +65,17 @@ _None in this band yet._
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools)
 - [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — tags: `DevSecOps`
 - [SRE](../topics/sre.md#sre)
+- [What are your responsibilities as an SRE beyond monitoring?](../topics/sre.md#what-are-your-responsibilities-as-an-sre-beyond-monitoring) — tags: `Monitoring`
 - [What is the role of a Site Reliability Engineer (SRE)?](../topics/sre.md#what-is-the-role-of-a-site-reliability-engineer-sre)
 
 ## Companies asking
 
 - [Oracle](../companies/oracle.md)
+- [UST](../companies/ust.md)
 
 ## Recently added
 
+- [What are your responsibilities as an SRE beyond monitoring?](../topics/sre.md#what-are-your-responsibilities-as-an-sre-beyond-monitoring) — 2026-08-19 · tags: `Monitoring`
 - [What is the role of a Site Reliability Engineer (SRE)?](../topics/sre.md#what-is-the-role-of-a-site-reliability-engineer-sre) — 2026-08-13
 - [SRE](../topics/sre.md#sre) — 2026-08-12
 - [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — 2026-07-26 · tags: `DevSecOps`
@@ -91,6 +98,7 @@ _None in this band yet._
 | [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) | Medium | 1 |
 | [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) | Medium | 3 |
 | [SRE](../topics/sre.md#sre) | Medium | 2 |
+| [What are your responsibilities as an SRE beyond monitoring?](../topics/sre.md#what-are-your-responsibilities-as-an-sre-beyond-monitoring) | Easy | 1 |
 | [What is the role of a Site Reliability Engineer (SRE)?](../topics/sre.md#what-is-the-role-of-a-site-reliability-engineer-sre) | Easy | 1 |
 
 ## Learning resources

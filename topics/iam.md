@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **IAM**
 
-**26** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**28** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 26 |
-| Easy / Medium / Hard | 5 / 20 / 1 |
-| Companies | 4 |
+| Questions | 28 |
+| Easy / Medium / Hard | 5 / 22 / 1 |
+| Companies | 5 |
 
 ## Most asked
 
@@ -53,6 +53,8 @@
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — **1×** · Medium
   <a id="explain-iam-roles-vs-iam-policies-with-a-real-world-scenario"></a>
+- [Explain IAM Roles vs IAM Policies.](../topics/iam.md#explain-iam-roles-vs-iam-policies) — **1×** · Medium
+  <a id="explain-iam-roles-vs-iam-policies"></a>
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) — **1×** · Medium
   <a id="explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e"></a>
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — **1×** · Medium
@@ -71,12 +73,10 @@
   <a id="iam-roles-temporary-credentials"></a>
 - [IAM Users & Groups](../topics/iam.md#iam-users-groups) — **1×** · Medium
   <a id="iam-users-groups"></a>
+- [Interview RBAC: RBAC controls who can perform which actions on which Azure resources.](../topics/iam.md#interview-rbac-rbac-controls-who-can-perform-which-actions-on-which-azure-resour) — **1×** · Medium · tags: `Azure`, `RBAC`
+  <a id="interview-rbac-rbac-controls-who-can-perform-which-actions-on-which-azure-resour"></a>
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — **1×** · Medium · tags: `ArgoCD`, `Terraform`, `RBAC`
   <a id="terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all"></a>
-- [What IAM permissions are required for AWS Systems Manager?](../topics/iam.md#what-iam-permissions-are-required-for-aws-systems-manager) — **1×** · Medium · tags: `AWS`
-  <a id="what-iam-permissions-are-required-for-aws-systems-manager"></a>
-- [What is IRSA and how is it used in Kubernetes?](../topics/iam.md#what-is-irsa-and-how-is-it-used-in-kubernetes) — **1×** · Easy · tags: `Kubernetes`, `IRSA`
-  <a id="what-is-irsa-and-how-is-it-used-in-kubernetes"></a>
 
 ## Beginner
 
@@ -113,6 +113,8 @@
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — 1×
   <a id="explain-iam-roles-vs-iam-policies-with-a-real-world-scenario"></a>
+- [Explain IAM Roles vs IAM Policies.](../topics/iam.md#explain-iam-roles-vs-iam-policies) — 1×
+  <a id="explain-iam-roles-vs-iam-policies"></a>
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) — 1×
   <a id="explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e"></a>
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — 1×
@@ -129,6 +131,8 @@
   <a id="iam-roles-temporary-credentials"></a>
 - [IAM Users & Groups](../topics/iam.md#iam-users-groups) — 1×
   <a id="iam-users-groups"></a>
+- [Interview RBAC: RBAC controls who can perform which actions on which Azure resources.](../topics/iam.md#interview-rbac-rbac-controls-who-can-perform-which-actions-on-which-azure-resour) — 1× · tags: `Azure`, `RBAC`
+  <a id="interview-rbac-rbac-controls-who-can-perform-which-actions-on-which-azure-resour"></a>
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — 1× · tags: `ArgoCD`, `Terraform`, `RBAC`
   <a id="terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all"></a>
 - [What IAM permissions are required for AWS Systems Manager?](../topics/iam.md#what-iam-permissions-are-required-for-aws-systems-manager) — 1× · tags: `AWS`
@@ -158,6 +162,7 @@
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — tags: `AWS`
 - [Difference between IAM Roles and IAM Policies.](../topics/iam.md#difference-between-iam-roles-and-iam-policies)
 - [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario)
+- [Explain IAM Roles vs IAM Policies.](../topics/iam.md#explain-iam-roles-vs-iam-policies)
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e)
 - [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/iam.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) — tags: `Kubernetes`, `RBAC`
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications)
@@ -169,6 +174,7 @@
 - [IAM Roles & Temporary Credentials](../topics/iam.md#iam-roles-temporary-credentials)
 - [IAM Users & Groups](../topics/iam.md#iam-users-groups)
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — tags: `Kubernetes`, `RBAC`
+- [Interview RBAC: RBAC controls who can perform which actions on which Azure resources.](../topics/iam.md#interview-rbac-rbac-controls-who-can-perform-which-actions-on-which-azure-resour) — tags: `Azure`, `RBAC`
 - [RBAC & Security](../topics/iam.md#rbac-security) — tags: `RBAC`
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — tags: `ArgoCD`, `Terraform`, `RBAC`
 - [What is IAM?](../topics/iam.md#what-is-iam)
@@ -180,11 +186,14 @@
 
 - [Global Payments](../companies/global-payments.md)
 - [Infosys](../companies/infosys.md)
+- [Kotraya Technologies](../companies/kotraya-technologies.md)
 - [Oracle](../companies/oracle.md)
 - [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [Explain IAM Roles vs IAM Policies.](../topics/iam.md#explain-iam-roles-vs-iam-policies) — 2026-08-19
+- [Interview RBAC: RBAC controls who can perform which actions on which Azure resources.](../topics/iam.md#interview-rbac-rbac-controls-who-can-perform-which-actions-on-which-azure-resour) — 2026-08-19 · tags: `Azure`, `RBAC`
 - [IAM Best Practices & Interview Revision](../topics/iam.md#iam-best-practices-interview-revision) — 2026-08-15
 - [IAM Policies](../topics/iam.md#iam-policies) — 2026-08-15
 - [IAM Roles & Temporary Credentials](../topics/iam.md#iam-roles-temporary-credentials) — 2026-08-15
@@ -198,13 +207,12 @@
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) — 2026-07-28
 - [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — 2026-07-28
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — 2026-07-26 · tags: `Kubernetes`, `RBAC`
-- [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — 2026-07-18 · tags: `ArgoCD`, `Terraform`, `RBAC`
-- [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — 2026-07-18 · tags: `AWS`
 
 ## Related topics
 
 - [Secrets](./secrets.md)
 - [Security](./security.md)
+- [Azure AD](./azure-ad.md)
 - [DevSecOps](./devsecops.md)
 - [Vault](./vault.md)
 - [Network Security](./network-security.md)
@@ -219,6 +227,7 @@
 | [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) | Medium | 2 |
 | [Difference between IAM Roles and IAM Policies.](../topics/iam.md#difference-between-iam-roles-and-iam-policies) | Easy | 3 |
 | [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) | Medium | 1 |
+| [Explain IAM Roles vs IAM Policies.](../topics/iam.md#explain-iam-roles-vs-iam-policies) | Medium | 1 |
 | [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) | Medium | 1 |
 | [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/iam.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) | Medium | 2 |
 | [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) | Medium | 1 |
@@ -232,6 +241,7 @@
 | [IAM Roles & Temporary Credentials](../topics/iam.md#iam-roles-temporary-credentials) | Medium | 1 |
 | [IAM Users & Groups](../topics/iam.md#iam-users-groups) | Medium | 1 |
 | [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) | Medium | 2 |
+| [Interview RBAC: RBAC controls who can perform which actions on which Azure resources.](../topics/iam.md#interview-rbac-rbac-controls-who-can-perform-which-actions-on-which-azure-resour) | Medium | 1 |
 | [RBAC & Security](../topics/iam.md#rbac-security) | Medium | 2 |
 | [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) | Medium | 1 |
 | [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/iam.md#what-do-you-mean-by-rbac-iam-kubernetes-context) | Medium | 2 |

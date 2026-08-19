@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Python**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 0 / 8 / 0 |
+| Questions | 9 |
+| Easy / Medium / Hard | 1 / 8 / 0 |
 | Companies | 4 |
 
 ## Most asked
@@ -43,10 +43,13 @@
   <a id="data-scientist-python-machine-learning-deep-learning-nlp-can-you-explain-a-recen"></a>
 - [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) — **1×** · Medium
   <a id="how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh"></a>
+- [What are the basic OOP concepts in Python?](../topics/python.md#what-are-the-basic-oop-concepts-in-python) — **1×** · Easy
+  <a id="what-are-the-basic-oop-concepts-in-python"></a>
 
 ## Beginner
 
-_None in this band yet._
+- [What are the basic OOP concepts in Python?](../topics/python.md#what-are-the-basic-oop-concepts-in-python) — 1×
+  <a id="what-are-the-basic-oop-concepts-in-python"></a>
 
 ## Intermediate
 
@@ -89,6 +92,7 @@ _None in this band yet._
 - [Data Scientist (Python, Machine Learning, Deep Learning, NLP) – Can you explain a recent project where you applied NLP?](../topics/python.md#data-scientist-python-machine-learning-deep-learning-nlp-can-you-explain-a-recen)
 - [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh)
 - [How do you schedule a recurring backup of cloud storage using Python?](../topics/python.md#how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python)
+- [What are the basic OOP concepts in Python?](../topics/python.md#what-are-the-basic-oop-concepts-in-python)
 
 ## Companies asking
 
@@ -99,6 +103,7 @@ _None in this band yet._
 
 ## Recently added
 
+- [What are the basic OOP concepts in Python?](../topics/python.md#what-are-the-basic-oop-concepts-in-python) — 2026-08-19
 - [How do you schedule a recurring backup of cloud storage using Python?](../topics/python.md#how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python) — 2026-08-12
 - [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../topics/python.md#you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-) — 2026-07-16
 - [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) — 2026-07-15
@@ -123,6 +128,7 @@ _None in this band yet._
 | [Do you have Python experience? How much exposure do you have?](../topics/python.md#do-you-have-python-experience-how-much-exposure-do-you-have) | Medium | 2 |
 | [How do you approach scripting in languages like Groovy, Shell, Python, and Power shell?](../topics/python.md#how-do-you-approach-scripting-in-languages-like-groovy-shell-python-and-power-sh) | Medium | 1 |
 | [How do you schedule a recurring backup of cloud storage using Python?](../topics/python.md#how-do-you-schedule-a-recurring-backup-of-cloud-storage-using-python) | Medium | 2 |
+| [What are the basic OOP concepts in Python?](../topics/python.md#what-are-the-basic-oop-concepts-in-python) | Easy | 1 |
 | [You mentioned writing Python and VBA scripts for test report generation. Can you explain that?](../topics/python.md#you-mentioned-writing-python-and-vba-scripts-for-test-report-generation-can-you-) | Medium | 2 |
 
 ## Learning resources

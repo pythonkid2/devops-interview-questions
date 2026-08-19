@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**19** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**21** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 19 |
-| Easy / Medium / Hard | 1 / 17 / 1 |
+| Questions | 21 |
+| Easy / Medium / Hard | 1 / 18 / 2 |
 | Companies | 7 |
 
 ## Most asked
@@ -41,6 +41,8 @@
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
 - [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/monitoring.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — **2×** · Medium
   <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
+- [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) — **1×** · Medium · tags: `Kubernetes`, `Docker`, `CI/CD`, `Git`
+  <a id="deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — **1×** · Medium
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — **1×** · Medium
@@ -53,6 +55,8 @@
   <a id="how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin"></a>
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — **1×** · Medium
   <a id="infrastructure-monitoring-troubleshooting"></a>
+- [Interview architecture: Design with compute + storage + database + network + identity + security + monitoring.](../topics/monitoring.md#interview-architecture-design-with-compute-storage-database-network-identity-sec) — **1×** · Hard · tags: `Databases`, `System Design`
+  <a id="interview-architecture-design-with-compute-storage-database-network-identity-sec"></a>
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — **1×** · Hard · tags: `System Design`
   <a id="production-mein-monitoring-architecture-kaise-design-karoge"></a>
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — **1×** · Medium · tags: `AWS`
@@ -87,6 +91,8 @@
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
 - [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/monitoring.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 2×
   <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
+- [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) — 1× · tags: `Kubernetes`, `Docker`, `CI/CD`, `Git`
+  <a id="deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 1×
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 1×
@@ -110,6 +116,8 @@
 
 ## Advanced
 
+- [Interview architecture: Design with compute + storage + database + network + identity + security + monitoring.](../topics/monitoring.md#interview-architecture-design-with-compute-storage-database-network-identity-sec) — 1× · tags: `Databases`, `System Design`
+  <a id="interview-architecture-design-with-compute-storage-database-network-identity-sec"></a>
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — 1× · tags: `System Design`
   <a id="production-mein-monitoring-architecture-kaise-design-karoge"></a>
 
@@ -128,11 +136,13 @@
 ### Unspecified
 
 - [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts)
+- [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) — tags: `Kubernetes`, `Docker`, `CI/CD`, `Git`
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms)
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring)
 - [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — tags: `AWS`
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d)
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting)
+- [Interview architecture: Design with compute + storage + database + network + identity + security + monitoring.](../topics/monitoring.md#interview-architecture-design-with-compute-storage-database-network-identity-sec) — tags: `Databases`, `System Design`
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue)
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios)
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — tags: `System Design`
@@ -155,6 +165,8 @@
 
 ## Recently added
 
+- [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) — 2026-08-19 · tags: `Kubernetes`, `Docker`, `CI/CD`, `Git`
+- [Interview architecture: Design with compute + storage + database + network + identity + security + monitoring.](../topics/monitoring.md#interview-architecture-design-with-compute-storage-database-network-identity-sec) — 2026-08-19 · tags: `Databases`, `System Design`
 - [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) — 2026-08-12
 - [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — 2026-08-12
 - [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — 2026-08-10 · tags: `AWS`
@@ -168,8 +180,6 @@
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — 2026-07-17
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — 2026-07-17
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 2026-07-15
-- [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/monitoring.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) — 2026-07-15 · tags: `AWS`
-- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 2026-07-15 · tags: `Azure`
 
 ## Related topics
 
@@ -187,6 +197,7 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) | Medium | 2 |
+| [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) | Medium | 1 |
 | [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) | Medium | 1 |
 | [Explain your CPU monitoring script line by line.](../topics/monitoring.md#explain-your-cpu-monitoring-script-line-by-line) | Medium | 2 |
 | [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) | Medium | 1 |
@@ -194,6 +205,7 @@
 | [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) | Medium | 1 |
 | [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/monitoring.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) | Medium | 1 |
 | [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) | Medium | 1 |
+| [Interview architecture: Design with compute + storage + database + network + identity + security + monitoring.](../topics/monitoring.md#interview-architecture-design-with-compute-storage-database-network-identity-sec) | Hard | 1 |
 | [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) | Medium | 2 |
 | [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) | Medium | 2 |
 | [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) | Hard | 1 |

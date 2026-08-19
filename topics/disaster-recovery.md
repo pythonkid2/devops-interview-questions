@@ -29,7 +29,7 @@
 
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — **5×** · Hard
   <a id="how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem"></a>
-- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — **2×** · Medium
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — **3×** · Medium
   <a id="disaster-recovery"></a>
 - [How would you design a disaster recovery strategy with an RTO of under 5 minutes?](../topics/disaster-recovery.md#how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes) — **2×** · Hard
   <a id="how-would-you-design-a-disaster-recovery-strategy-with-an-rto-of-under-5-minutes"></a>
@@ -71,7 +71,7 @@
 
 ## Intermediate
 
-- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 2×
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 3×
   <a id="disaster-recovery"></a>
 - [How would you structure the failover process during a regional outage?](../topics/disaster-recovery.md#how-would-you-structure-the-failover-process-during-a-regional-outage) — 2× · tags: `Incident Response`
   <a id="how-would-you-structure-the-failover-process-during-a-regional-outage"></a>
@@ -145,10 +145,10 @@
 
 ## Recently added
 
+- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 2026-08-19
 - [what is Rpo and Rto?](../topics/disaster-recovery.md#what-is-rpo-and-rto) — 2026-08-13
 - [How do you approach disaster recovery in a cloud environment?](../topics/disaster-recovery.md#how-do-you-approach-disaster-recovery-in-a-cloud-environment) — 2026-08-13
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — 2026-08-12
-- [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) — 2026-08-12
 - [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) — 2026-08-02
 - [How will you plan a disaster recovery ?](../topics/disaster-recovery.md#how-will-you-plan-a-disaster-recovery) — 2026-07-30
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — 2026-07-28 · tags: `High Availability`, `AWS`
@@ -178,7 +178,7 @@
 | [A ransomware attack compromises 15,000 production servers across 20 countries, disrupting mission-critical services. How would you lead disaster recovery and platform restoration?](../topics/disaster-recovery.md#a-ransomware-attack-compromises-15000-production-servers-across-20-countries-dis) | Hard | 1 |
 | [Design a disaster recovery strategy (RTO/RPO).](../topics/disaster-recovery.md#design-a-disaster-recovery-strategy-rto-rpo) | Hard | 1 |
 | [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) | Hard | 1 |
-| [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) | Medium | 2 |
+| [Disaster Recovery](../topics/disaster-recovery.md#disaster-recovery) | Medium | 3 |
 | [Have you worked on Disaster Recovery (DR)? Explain your strategy, including RTO, RPO, failover, and traffic redirection.](../topics/disaster-recovery.md#have-you-worked-on-disaster-recovery-dr-explain-your-strategy-including-rto-rpo-) | Medium | 1 |
 | [How do you approach disaster recovery in a cloud environment?](../topics/disaster-recovery.md#how-do-you-approach-disaster-recovery-in-a-cloud-environment) | Medium | 1 |
 | [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) | Hard | 5 |

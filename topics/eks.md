@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **EKS**
 
-**22** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**24** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 22 |
-| Easy / Medium / Hard | 1 / 19 / 2 |
+| Questions | 24 |
+| Easy / Medium / Hard | 1 / 21 / 2 |
 | Companies | 4 |
 
 ## Most asked
@@ -53,6 +53,10 @@
   <a id="how-did-you-design-your-eks-cluster"></a>
 - [How did you design your Kubernetes (EKS) architecture, and what were the key design decisions?](../topics/eks.md#how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design) — **1×** · Hard · tags: `Kubernetes`, `System Design`
   <a id="how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design"></a>
+- [How do you authenticate to EKS clusters and securely manage secrets?](../topics/eks.md#how-do-you-authenticate-to-eks-clusters-and-securely-manage-secrets) — **1×** · Medium
+  <a id="how-do-you-authenticate-to-eks-clusters-and-securely-manage-secrets"></a>
+- [How do you connect and manage services such as Databases, EC2, EKS, and ECS?](../topics/eks.md#how-do-you-connect-and-manage-services-such-as-databases-ec2-eks-and-ecs) — **1×** · Medium · tags: `AWS`
+  <a id="how-do-you-connect-and-manage-services-such-as-databases-ec2-eks-and-ecs"></a>
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — **1×** · Medium · tags: `Kubernetes`
   <a id="how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes"></a>
 - [How do you deploy applications on Amazon EKS? What are the advantages over Amazon ECS?](../topics/eks.md#how-do-you-deploy-applications-on-amazon-eks-what-are-the-advantages-over-amazon) — **1×** · Medium
@@ -101,6 +105,10 @@
   <a id="explain-the-complete-eks-upgrade-process-step-by-step"></a>
 - [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — 1× · tags: `Kubernetes`
   <a id="explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f"></a>
+- [How do you authenticate to EKS clusters and securely manage secrets?](../topics/eks.md#how-do-you-authenticate-to-eks-clusters-and-securely-manage-secrets) — 1×
+  <a id="how-do-you-authenticate-to-eks-clusters-and-securely-manage-secrets"></a>
+- [How do you connect and manage services such as Databases, EC2, EKS, and ECS?](../topics/eks.md#how-do-you-connect-and-manage-services-such-as-databases-ec2-eks-and-ecs) — 1× · tags: `AWS`
+  <a id="how-do-you-connect-and-manage-services-such-as-databases-ec2-eks-and-ecs"></a>
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — 1× · tags: `Kubernetes`
   <a id="how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes"></a>
 - [How do you deploy applications on Amazon EKS? What are the advantages over Amazon ECS?](../topics/eks.md#how-do-you-deploy-applications-on-amazon-eks-what-are-the-advantages-over-amazon) — 1×
@@ -143,6 +151,8 @@
 - [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster)
 - [How did you design your Kubernetes (EKS) architecture, and what were the key design decisions?](../topics/eks.md#how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design) — tags: `Kubernetes`, `System Design`
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe)
+- [How do you authenticate to EKS clusters and securely manage secrets?](../topics/eks.md#how-do-you-authenticate-to-eks-clusters-and-securely-manage-secrets)
+- [How do you connect and manage services such as Databases, EC2, EKS, and ECS?](../topics/eks.md#how-do-you-connect-and-manage-services-such-as-databases-ec2-eks-and-ecs) — tags: `AWS`
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — tags: `Kubernetes`
 - [How do you deploy applications on Amazon EKS? What are the advantages over Amazon ECS?](../topics/eks.md#how-do-you-deploy-applications-on-amazon-eks-what-are-the-advantages-over-amazon)
 - [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — tags: `Kubernetes`
@@ -164,6 +174,8 @@
 
 ## Recently added
 
+- [How do you authenticate to EKS clusters and securely manage secrets?](../topics/eks.md#how-do-you-authenticate-to-eks-clusters-and-securely-manage-secrets) — 2026-08-19
+- [How do you connect and manage services such as Databases, EC2, EKS, and ECS?](../topics/eks.md#how-do-you-connect-and-manage-services-such-as-databases-ec2-eks-and-ecs) — 2026-08-19 · tags: `AWS`
 - [How do you optimize AWS costs for EC2, EKS, S3, and RDS?](../topics/eks.md#how-do-you-optimize-aws-costs-for-ec2-eks-s3-and-rds) — 2026-08-10 · tags: `Databases`, `AWS`
 - [How do you deploy applications on Amazon EKS? What are the advantages over Amazon ECS?](../topics/eks.md#how-do-you-deploy-applications-on-amazon-eks-what-are-the-advantages-over-amazon) — 2026-08-10
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — 2026-08-10
@@ -177,8 +189,6 @@
 - [What are the steps you will take in your upgrading EKS cluster?](../topics/eks.md#what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster) — 2026-07-17
 - [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster) — 2026-07-17
 - [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) — 2026-07-17 · tags: `Kubernetes`
-- [Can you explain how did you tune eks cluster?](../topics/eks.md#can-you-explain-how-did-you-tune-eks-cluster) — 2026-07-17
-- [What happens when systemd units fail intermittently on EKS nodes? How do you detect and heal?](../topics/eks.md#what-happens-when-systemd-units-fail-intermittently-on-eks-nodes-how-do-you-dete) — 2026-07-17 · tags: `Linux`
 
 ## Related topics
 
@@ -203,6 +213,8 @@
 | [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) | Hard | 1 |
 | [How did you design your Kubernetes (EKS) architecture, and what were the key design decisions?](../topics/eks.md#how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design) | Hard | 1 |
 | [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) | Medium | 2 |
+| [How do you authenticate to EKS clusters and securely manage secrets?](../topics/eks.md#how-do-you-authenticate-to-eks-clusters-and-securely-manage-secrets) | Medium | 1 |
+| [How do you connect and manage services such as Databases, EC2, EKS, and ECS?](../topics/eks.md#how-do-you-connect-and-manage-services-such-as-databases-ec2-eks-and-ecs) | Medium | 1 |
 | [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) | Medium | 1 |
 | [How do you deploy applications on Amazon EKS? What are the advantages over Amazon ECS?](../topics/eks.md#how-do-you-deploy-applications-on-amazon-eks-what-are-the-advantages-over-amazon) | Medium | 1 |
 | [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) | Medium | 2 |

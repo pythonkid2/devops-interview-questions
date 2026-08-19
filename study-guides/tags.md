@@ -8,40 +8,41 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 | Tag | Questions |
 | --- | ---: |
-| `AWS` | 63 |
-| `CI/CD` | 56 |
-| `Azure` | 48 |
-| `Kubernetes` | 47 |
-| `System Design` | 44 |
-| `Monitoring` | 25 |
-| `Docker` | 20 |
+| `AWS` | 69 |
+| `CI/CD` | 63 |
+| `Azure` | 55 |
+| `Kubernetes` | 50 |
+| `System Design` | 47 |
+| `Monitoring` | 26 |
+| `Docker` | 22 |
 | `Jenkins` | 18 |
-| `Databases` | 12 |
+| `Databases` | 13 |
+| `Terraform` | 13 |
 | `Grafana` | 11 |
-| `Terraform` | 11 |
 | `Canary` | 10 |
 | `Blue-Green` | 9 |
+| `Git` | 9 |
 | `GitHub Actions` | 9 |
 | `HPA` | 9 |
+| `RBAC` | 9 |
 | `Deployment Strategies` | 8 |
 | `DNS` | 8 |
-| `Git` | 8 |
 | `GitOps` | 8 |
 | `Load Balancing` | 7 |
-| `RBAC` | 7 |
+| `Azure DevOps` | 6 |
 | `GCP` | 6 |
 | `Incident Response` | 6 |
 | `PV` | 6 |
 | `PVC` | 6 |
-| `Azure DevOps` | 5 |
 | `Logging` | 5 |
+| `VPC` | 5 |
 | `Alerting` | 4 |
 | `ArgoCD` | 4 |
 | `FinOps` | 4 |
 | `Linux` | 4 |
 | `Networking` | 4 |
 | `Observability` | 4 |
-| `VPC` | 4 |
+| `Redis` | 4 |
 | `CNI` | 3 |
 | `ELK` | 3 |
 | `Prometheus` | 3 |
@@ -53,6 +54,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `OpenTelemetry` | 2 |
 | `PDB` | 2 |
 | `Python` | 2 |
+| `Security` | 2 |
 | `Storage` | 2 |
 | `Bash` | 1 |
 | `CloudFormation` | 1 |
@@ -61,11 +63,12 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 | `EKS` | 1 |
 | `GitLab CI` | 1 |
 | `High Availability` | 1 |
+| `IAM` | 1 |
 | `Ingress` | 1 |
 | `IRSA` | 1 |
 | `NCCL` | 1 |
-| `Security` | 1 |
 | `SRE` | 1 |
+| `Vault` | 1 |
 
 
 ## Alerting
@@ -104,6 +107,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) — Jenkins · tags: `CI/CD`, `AWS`
 - [Have you worked with CloudFront, ECR, ECR Lifecycle Policies, and AWS Tags? Explain real-world use cases.](../topics/cdn.md#have-you-worked-with-cloudfront-ecr-ecr-lifecycle-policies-and-aws-tags-explain-) — CDN · tags: `AWS`
 - [How do you build and push a Docker image to AWS ECR?](../topics/docker.md#how-do-you-build-and-push-a-docker-image-to-aws-ecr) — Docker · tags: `AWS`
+- [How do you connect and manage services such as Databases, EC2, EKS, and ECS?](../topics/eks.md#how-do-you-connect-and-manage-services-such-as-databases-ec2-eks-and-ecs) — EKS · tags: `AWS`
 - [How do you ensure high availability and disaster recovery in AWS?](../topics/disaster-recovery.md#how-do-you-ensure-high-availability-and-disaster-recovery-in-aws) — Disaster Recovery · tags: `High Availability`, `AWS`
 - [How do you import an existing AWS resource into Terraform?](../topics/terraform.md#how-do-you-import-an-existing-aws-resource-into-terraform) — Terraform · tags: `AWS`
 - [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — Kubernetes · tags: `AWS`
@@ -117,8 +121,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you write Terraform code to provision a standard AWS EC2 instance?](../topics/terraform.md#how-do-you-write-terraform-code-to-provision-a-standard-aws-ec2-instance) — Terraform · tags: `AWS`
 - [How do your secure secrets in Kubernetes and AWS?](../topics/kubernetes.md#how-do-your-secure-secrets-in-kubernetes-and-aws) — Kubernetes · tags: `AWS`
 - [How does AWS Load Balancer route traffic?](../topics/load-balancing.md#how-does-aws-load-balancer-route-traffic) — Load Balancing · tags: `AWS`
-- [How does Terraform state locking work with S3 and DynamoDB?](../topics/terraform.md#how-does-terraform-state-locking-work-with-s3-and-dynamodb) — Terraform · tags: `Databases`, `AWS`
-- [How would you bring existing AWS resources (created outside Terraform) under Terraform management?](../topics/terraform.md#how-would-you-bring-existing-aws-resources-created-outside-terraform-under-terra) — Terraform · tags: `AWS`
+- [How does on-prem Kubernetes connect privately to AWS Redis?](../topics/kubernetes.md#how-does-on-prem-kubernetes-connect-privately-to-aws-redis) — Kubernetes · tags: `Redis`, `AWS`
 
 ## Azure
 
@@ -127,6 +130,8 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) — AWS · tags: `Azure`
 - [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — AWS · tags: `Azure`, `GCP`
 - [Azure App Service vs Azure Functions vs AKS — when do you use which?](../topics/aks.md#azure-app-service-vs-azure-functions-vs-aks-when-do-you-use-which) — AKS · tags: `Azure`
+- [Azure Cache for Redis](../topics/redis.md#azure-cache-for-redis) — Redis · tags: `Azure`
+- [Azure DevOps & CI/CD](../topics/azure-devops.md#azure-devops-ci-cd) — Azure DevOps · tags: `CI/CD`, `Azure`
 - [Azure Key Vault Integration](../topics/vault.md#azure-key-vault-integration) — Vault · tags: `Azure`
 - [Azure Kubernetes Service (AKS) & Docker](../topics/aks.md#azure-kubernetes-service-aks-docker) — AKS · tags: `Kubernetes`, `Docker`, `Azure`
 - [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) — Azure DevOps · tags: `Azure`
@@ -136,6 +141,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [DevOps Engineer (AWS, Azure, Kubernetes, Terraform, Jenkins) – How do you implement continuous deployment in your workflow?](../topics/kubernetes.md#devops-engineer-aws-azure-kubernetes-terraform-jenkins-how-do-you-implement-cont) — Kubernetes · tags: `Terraform`, `Jenkins`, `AWS`, `Azure`
 - [Difference between Azure Load Balancer and Azure Application Gateway.](../topics/load-balancing.md#difference-between-azure-load-balancer-and-azure-application-gateway) — Load Balancing · tags: `Azure`
 - [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) — Azure DevOps · tags: `Azure`
+- [Explain Azure Active Directory / Microsoft Entra ID authentication.](../topics/azure-ad.md#explain-azure-active-directory-microsoft-entra-id-authentication) — Azure AD · tags: `Azure`
 - [Explain NSG and how traffic flows in Azure.](../topics/network-security.md#explain-nsg-and-how-traffic-flows-in-azure) — Network Security · tags: `Azure`
 - [High Availability in Azure](../topics/high-availability.md#high-availability-in-azure) — High Availability · tags: `Azure`
 - [How do you achieve traceability in Azure DevOps?](../topics/azure-devops.md#how-do-you-achieve-traceability-in-azure-devops) — Azure DevOps · tags: `Azure`
@@ -145,19 +151,17 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you manage application secrets securely in Azure (e.g., Key Vault)?](../topics/vault.md#how-do-you-manage-application-secrets-securely-in-azure-e-g-key-vault) — Vault · tags: `Azure`
 - [How do you manage secrets in Azure? (Key Vault, Managed Identity)](../topics/vault.md#how-do-you-manage-secrets-in-azure-key-vault-managed-identity) — Vault · tags: `Azure`
 - [How do you secure Azure DevOps?](../topics/azure-devops.md#how-do-you-secure-azure-devops) — Azure DevOps · tags: `Azure`
+- [How do you securely manage secrets in Azure DevOps and AKS?](../topics/aks.md#how-do-you-securely-manage-secrets-in-azure-devops-and-aks) — AKS · tags: `Azure DevOps`, `Azure`
 - [How do you store secrets in Azure DevOps?](../topics/azure-devops.md#how-do-you-store-secrets-in-azure-devops) — Azure DevOps · tags: `Azure`
-- [How would you design an enterprise Azure DevOps ALM process?](../topics/azure-devops.md#how-would-you-design-an-enterprise-azure-devops-alm-process) — Azure DevOps · tags: `Azure`
-- [Migrate GitHub repositories to Azure DevOps.](../topics/azure-devops.md#migrate-github-repositories-to-azure-devops) — Azure DevOps · tags: `Azure`
-- [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — Service Mesh · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
-- [The Board approves a $800 million Digital Engineering Program using .NET 8, Azure, AI, Azure OpenAI, Microsoft Fabric, Docker, Kubernetes, and DevSecOps, targeting 50% faster releases, 99.99% system availability, and 40% lower infrastructure costs. What implementation roadmap would you recommend?](../topics/devsecops.md#the-board-approves-a-800-million-digital-engineering-program-using-net-8-azure-a) — DevSecOps · tags: `Kubernetes`, `Docker`, `Azure`
-- [The CTO launches a large-scale application modernization programme involving .NET 8, Azure, Kubernetes, DevSecOps, Terraform, CI/CD, and Cloud-Native Architecture. What migration roadmap, governance framework, and technical strategy would you recommend?](../topics/devsecops.md#the-cto-launches-a-large-scale-application-modernization-programme-involving-net) — DevSecOps · tags: `Kubernetes`, `Terraform`, `CI/CD`, `Azure`
-- [The CTO requests a real time engineering dashboard integrating Azure DevOps, GitHub, SonarQube, Application Insights, Microsoft Fabric, Power BI, and Azure Monitor. How would you define engineering KPIs, code quality metrics, deployment health, and platform governance?](../topics/devsecops.md#the-cto-requests-a-real-time-engineering-dashboard-integrating-azure-devops-gith) — DevSecOps · tags: `Azure DevOps`, `Azure`
+- [How would you configure Microsoft Entra ID and RBAC for an Azure Function accessing Azure AI Search, Key Vault, and Azure OpenAI?](../topics/azure-ad.md#how-would-you-configure-microsoft-entra-id-and-rbac-for-an-azure-function-access) — Azure AD · tags: `Vault`, `IAM`, `Azure`, `RBAC`
+- [How would you design a scalable CI/CD pipeline in Azure DevOps?](../topics/azure-devops.md#how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops) — Azure DevOps · tags: `CI/CD`, `Azure`, `System Design`
 
 ## Azure DevOps
 
 - [A GitHub Actions/Azure DevOps pipeline passes the build and test stages but fails only during deployment. How would you determine whether the problem is in the pipeline or AWS infrastructure?](../topics/github-actions.md#a-github-actions-azure-devops-pipeline-passes-the-build-and-test-stages-but-fail) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `AWS`, `Azure`
 - [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/docker.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) — Docker · tags: `Terraform`, `Azure DevOps`, `Azure`, `System Design`
 - [How do you implement CI/CD for a .NET application using Azure DevOps or GitHub Actions?](../topics/github-actions.md#how-do-you-implement-ci-cd-for-a-net-application-using-azure-devops-or-github-ac) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `Azure`
+- [How do you securely manage secrets in Azure DevOps and AKS?](../topics/aks.md#how-do-you-securely-manage-secrets-in-azure-devops-and-aks) — AKS · tags: `Azure DevOps`, `Azure`
 - [The CTO requests a real time engineering dashboard integrating Azure DevOps, GitHub, SonarQube, Application Insights, Microsoft Fabric, Power BI, and Azure Monitor. How would you define engineering KPIs, code quality metrics, deployment health, and platform governance?](../topics/devsecops.md#the-cto-requests-a-real-time-engineering-dashboard-integrating-azure-devops-gith) — DevSecOps · tags: `Azure DevOps`, `Azure`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
@@ -199,17 +203,21 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [A Jenkins pipeline has suddenly started failing after yesterday's deployment. What's your troubleshooting approach?](../topics/jenkins.md#a-jenkins-pipeline-has-suddenly-started-failing-after-yesterday-s-deployment-wha) — Jenkins · tags: `CI/CD`
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — Jenkins · tags: `CI/CD`, `Git`
 - [A ransomware attack compromises 3,000 production servers, container registries, and CI/CD pipelines across multiple regions. How would you secure the platform, recover operations, and strengthen DevSecOps controls while minimizing business disruption?](../topics/devsecops.md#a-ransomware-attack-compromises-3000-production-servers-container-registries-and) — DevSecOps · tags: `Docker`, `CI/CD`
+- [Azure DevOps & CI/CD](../topics/azure-devops.md#azure-devops-ci-cd) — Azure DevOps · tags: `CI/CD`, `Azure`
 - [CI/CD pipeline failures & production rollback](../topics/deployment-strategies.md#ci-cd-pipeline-failures-production-rollback) — Deployment Strategies · tags: `CI/CD`
 - [CI/CD, rollback and security best practices](../topics/deployment-strategies.md#ci-cd-rollback-and-security-best-practices) — Deployment Strategies · tags: `CI/CD`
+- [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) — Monitoring · tags: `Kubernetes`, `Docker`, `CI/CD`, `Git`
 - [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/kubernetes.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — Kubernetes · tags: `CI/CD`
 - [Do you execute Terraform locally or through a CI/CD pipeline? Explain the complete workflow.](../topics/terraform.md#do-you-execute-terraform-locally-or-through-a-ci-cd-pipeline-explain-the-complet) — Terraform · tags: `CI/CD`
 - [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — Jenkins · tags: `CI/CD`
 - [Explain a Jenkins Pipeline structure and the purpose of its various stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-structure-and-the-purpose-of-its-various-stages) — Jenkins · tags: `CI/CD`
+- [Explain CI/CD and GitHub Actions.](../topics/github-actions.md#explain-ci-cd-and-github-actions) — GitHub Actions · tags: `CI/CD`
 - [Explain flow in Jenkins pipeline.](../topics/jenkins.md#explain-flow-in-jenkins-pipeline) — Jenkins · tags: `CI/CD`
 - [Explain how Docker fits into your CI/CD pipeline project.](../topics/docker.md#explain-how-docker-fits-into-your-ci-cd-pipeline-project) — Docker · tags: `CI/CD`
 - [Explain the complete CI/CD pipeline you have implemented using Jenkins, GitHub, and AWS services.](../topics/jenkins.md#explain-the-complete-ci-cd-pipeline-you-have-implemented-using-jenkins-github-an) — Jenkins · tags: `CI/CD`, `AWS`
 - [Explain the Jenkins pipeline you worked on.](../topics/jenkins.md#explain-the-jenkins-pipeline-you-worked-on) — Jenkins · tags: `CI/CD`
 - [Explain the stages in a Jenkins Pipeline.](../topics/jenkins.md#explain-the-stages-in-a-jenkins-pipeline) — Jenkins · tags: `CI/CD`
+- [Explain your end-to-end CI/CD workflow. Which type of Jenkins pipeline do you use and why?](../topics/jenkins.md#explain-your-end-to-end-ci-cd-workflow-which-type-of-jenkins-pipeline-do-you-use) — Jenkins · tags: `CI/CD`
 - [Explain your experience with Jenkins and GitLab CI/CD.](../topics/jenkins.md#explain-your-experience-with-jenkins-and-gitlab-ci-cd) — Jenkins · tags: `GitLab CI`, `CI/CD`
 - [How did you tune your Jenkins pipeline?](../topics/jenkins.md#how-did-you-tune-your-jenkins-pipeline) — Jenkins · tags: `CI/CD`
 - [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/prometheus.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — Prometheus · tags: `Grafana`, `Kubernetes`, `Docker`, `Terraform`
@@ -218,10 +226,6 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How do you implement CI/CD for a .NET application using Azure DevOps or GitHub Actions?](../topics/github-actions.md#how-do-you-implement-ci-cd-for-a-net-application-using-azure-devops-or-github-ac) — GitHub Actions · tags: `Azure DevOps`, `CI/CD`, `Azure`
 - [How do you implement multi-branch CI/CD pipelines in GitLab or Jenkins?](../topics/jenkins.md#how-do-you-implement-multi-branch-ci-cd-pipelines-in-gitlab-or-jenkins) — Jenkins · tags: `CI/CD`
 - [How do you implement rollback strategy in Jenkins pipeline?](../topics/deployment-strategies.md#how-do-you-implement-rollback-strategy-in-jenkins-pipeline) — Deployment Strategies · tags: `Jenkins`, `CI/CD`
-- [How do you integrate Docker with CI/CD pipelines?](../topics/docker.md#how-do-you-integrate-docker-with-ci-cd-pipelines) — Docker · tags: `CI/CD`
-- [How do you optimize a docker image build pipeline for microservices ?](../topics/docker.md#how-do-you-optimize-a-docker-image-build-pipeline-for-microservices) — Docker · tags: `CI/CD`
-- [How do you optimize Jenkins pipeline performance?](../topics/jenkins.md#how-do-you-optimize-jenkins-pipeline-performance) — Jenkins · tags: `CI/CD`
-- [How do you pass environment variables in a Jenkins Pipeline?](../topics/jenkins.md#how-do-you-pass-environment-variables-in-a-jenkins-pipeline) — Jenkins · tags: `CI/CD`
 
 ## CloudFormation
 
@@ -248,6 +252,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — VPC · tags: `Databases`, `AWS`, `System Design`
 - [How would you migrate a 200 GB PostgreSQL database between Kubernetes clusters with less than 10 minutes of downtime?](../topics/kubernetes.md#how-would-you-migrate-a-200-gb-postgresql-database-between-kubernetes-clusters-w) — Kubernetes · tags: `Databases`
 - [If the Kubernetes etcd database is lost, what would be your disaster recovery approach?](../topics/disaster-recovery.md#if-the-kubernetes-etcd-database-is-lost-what-would-be-your-disaster-recovery-app) — Disaster Recovery · tags: `Kubernetes`, `Databases`
+- [Interview architecture: Design with compute + storage + database + network + identity + security + monitoring.](../topics/monitoring.md#interview-architecture-design-with-compute-storage-database-network-identity-sec) — Monitoring · tags: `Databases`, `System Design`
 - [Terraform plan suddenly wants to recreate your production database. What do you do?](../topics/terraform.md#terraform-plan-suddenly-wants-to-recreate-your-production-database-what-do-you-d) — Terraform · tags: `Databases`
 - [What is your experience with Lambda, DynamoDB, API Gateway, and the AWS SDKs?](../topics/api-gateway.md#what-is-your-experience-with-lambda-dynamodb-api-gateway-and-the-aws-sdks) — API Gateway · tags: `Databases`, `AWS`
 - [Why do we use an S3 bucket and DynamoDB for Terraform state?](../topics/terraform.md#why-do-we-use-an-s3-bucket-and-dynamodb-for-terraform-state) — Terraform · tags: `Databases`, `AWS`
@@ -286,6 +291,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [A production Kubernetes workload needs a configuration change without rebuilding its container image. How would you implement the change safely?](../topics/kubernetes.md#a-production-kubernetes-workload-needs-a-configuration-change-without-rebuilding) — Kubernetes · tags: `Docker`
 - [A ransomware attack compromises 3,000 production servers, container registries, and CI/CD pipelines across multiple regions. How would you secure the platform, recover operations, and strengthen DevSecOps controls while minimizing business disruption?](../topics/devsecops.md#a-ransomware-attack-compromises-3000-production-servers-container-registries-and) — DevSecOps · tags: `Docker`, `CI/CD`
 - [Azure Kubernetes Service (AKS) & Docker](../topics/aks.md#azure-kubernetes-service-aks-docker) — AKS · tags: `Kubernetes`, `Docker`, `Azure`
+- [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) — Monitoring · tags: `Kubernetes`, `Docker`, `CI/CD`, `Git`
 - [Difference between Docker Compose and Kubernetes?](../topics/kubernetes.md#difference-between-docker-compose-and-kubernetes) — Kubernetes · tags: `Docker`
 - [Difference between Pod and Container?](../topics/kubernetes.md#difference-between-pod-and-container) — Kubernetes · tags: `Docker`
 - [Docker, Kubernetes & Jenkins](../topics/kubernetes.md#docker-kubernetes-jenkins) — Kubernetes · tags: `Docker`, `Jenkins`
@@ -299,6 +305,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [The Board approves a $800 million Digital Engineering Program using .NET 8, Azure, AI, Azure OpenAI, Microsoft Fabric, Docker, Kubernetes, and DevSecOps, targeting 50% faster releases, 99.99% system availability, and 40% lower infrastructure costs. What implementation roadmap would you recommend?](../topics/devsecops.md#the-board-approves-a-800-million-digital-engineering-program-using-net-8-azure-a) — DevSecOps · tags: `Kubernetes`, `Docker`, `Azure`
 - [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — Kubernetes · tags: `Docker`
 - [What is your experience with containerization and orchestration technologies such as Docker, Kubernetes, and OpenShift, and how have you used them in production environments?](../topics/kubernetes.md#what-is-your-experience-with-containerization-and-orchestration-technologies-suc) — Kubernetes · tags: `Docker`
+- [Which deployment tools have you used (Docker, Kubernetes, Helm, Terraform)?](../topics/helm.md#which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform) — Helm · tags: `Kubernetes`, `Docker`, `Terraform`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
 
 ## EKS
@@ -332,6 +339,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [A developer accidentally commits AWS credentials to Git. What is your complete incident response process?](../topics/incident-response.md#a-developer-accidentally-commits-aws-credentials-to-git-what-is-your-complete-in) — Incident Response · tags: `Git`, `AWS`
 - [A developer asks if they can promote an application from Staging to Production without updating Git. How would you respond in a GitOps environment?](../topics/argocd.md#a-developer-asks-if-they-can-promote-an-application-from-staging-to-production-w) — ArgoCD · tags: `Git`, `GitOps`
 - [A Jenkins pipeline stopped triggering after a Git push. How would you troubleshoot it?](../topics/jenkins.md#a-jenkins-pipeline-stopped-triggering-after-a-git-push-how-would-you-troubleshoo) — Jenkins · tags: `CI/CD`, `Git`
+- [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) — Monitoring · tags: `Kubernetes`, `Docker`, `CI/CD`, `Git`
 - [How do you configure and integrate tools like Jira, GIT/Bitbucket, Jenkins, Artifactory, and Ansible Tower?](../topics/ansible.md#how-do-you-configure-and-integrate-tools-like-jira-git-bitbucket-jenkins-artifac) — Ansible · tags: `Jenkins`, `Git`
 - [How would you securely manage secrets in a Kubernetes environment without storing them in Git?](../topics/kubernetes.md#how-would-you-securely-manage-secrets-in-a-kubernetes-environment-without-storin) — Kubernetes · tags: `Git`
 - [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — ArgoCD · tags: `Helm`, `CI/CD`, `Git`
@@ -400,6 +408,10 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [What is HPA?](../topics/capacity-planning.md#what-is-hpa) — Capacity Planning · tags: `HPA`
 - [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — Capacity Planning · tags: `Kubernetes`, `HPA`
 
+## IAM
+
+- [How would you configure Microsoft Entra ID and RBAC for an Azure Function accessing Azure AI Search, Key Vault, and Azure OpenAI?](../topics/azure-ad.md#how-would-you-configure-microsoft-entra-id-and-rbac-for-an-azure-function-access) — Azure AD · tags: `Vault`, `IAM`, `Azure`, `RBAC`
+
 ## Incident Response
 
 - [A critical production deployment fails during a global release, affecting 80 million users and resulting in an estimated ₹350 Crore business impact. How would you investigate the root cause, coordinate incident response, perform rollback or recovery, and implement preventive controls to eliminate similar failures in future releases?](../topics/deployment-strategies.md#a-critical-production-deployment-fails-during-a-global-release-affecting-80-mill) — Deployment Strategies · tags: `Incident Response`
@@ -444,6 +456,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [An Amazon EKS application starts returning intermittent 502/503 errors immediately after deployment. How would you identify whether the issue is related to Kubernetes, the Load Balancer, or the application?](../topics/incident-response.md#an-amazon-eks-application-starts-returning-intermittent-502-503-errors-immediate) — Incident Response · tags: `EKS`, `Kubernetes`, `Load Balancing`
 - [Any critical incident that happened within your system related to kubernetes, And how you were able to fix it?](../topics/incident-response.md#any-critical-incident-that-happened-within-your-system-related-to-kubernetes-and) — Incident Response · tags: `Kubernetes`
 - [Azure Kubernetes Service (AKS) & Docker](../topics/aks.md#azure-kubernetes-service-aks-docker) — AKS · tags: `Kubernetes`, `Docker`, `Azure`
+- [Deploy a real application using: Git → CI/CD → Docker → Kubernetes → Cloud → Monitoring](../topics/monitoring.md#deploy-a-real-application-using-git-ci-cd-docker-kubernetes-cloud-monitoring) — Monitoring · tags: `Kubernetes`, `Docker`, `CI/CD`, `Git`
 - [Design a multi-cluster Kubernetes architecture with an Active cluster in Mumbai and a DR cluster in Singapore (RTO: 15 min, RPO: 1 min).](../topics/disaster-recovery.md#design-a-multi-cluster-kubernetes-architecture-with-an-active-cluster-in-mumbai-) — Disaster Recovery · tags: `Kubernetes`, `System Design`
 - [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/iam.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) — IAM · tags: `Kubernetes`, `RBAC`
 - [Explain the Memory Ladder — Cluster → Namespace → Deployment → ReplicaSet → Pod → Container → Service → Ingress.](../topics/ingress.md#explain-the-memory-ladder-cluster-namespace-deployment-replicaset-pod-container-) — Ingress · tags: `Kubernetes`, `Docker`
@@ -469,7 +482,6 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — IAM · tags: `Kubernetes`, `RBAC`
 - [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — On-Call · tags: `Kubernetes`
 - [Kubernetes pods are Running but users receive 503 errors. What will you check?](../topics/incident-response.md#kubernetes-pods-are-running-but-users-receive-503-errors-what-will-you-check) — Incident Response · tags: `Kubernetes`
-- [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/incident-response.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — Incident Response · tags: `Ingress`, `Kubernetes`
 
 ## Linux
 
@@ -523,6 +535,7 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Monitoring and observability](../topics/observability.md#monitoring-and-observability) — Observability · tags: `Monitoring`
 - [Monitoring with Prometheus & Grafana](../topics/prometheus.md#monitoring-with-prometheus-grafana) — Prometheus · tags: `Grafana`, `Monitoring`
 - [Monitoring, Troubleshooting & Production Support](../topics/incident-response.md#monitoring-troubleshooting-production-support) — Incident Response · tags: `Monitoring`
+- [What are your responsibilities as an SRE beyond monitoring?](../topics/sre.md#what-are-your-responsibilities-as-an-sre-beyond-monitoring) — SRE · tags: `Monitoring`
 - [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/deployment-strategies.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — Deployment Strategies · tags: `Monitoring`, `CI/CD`
 - [What is the purpose of Prometheus and Grafana in monitoring?](../topics/prometheus.md#what-is-the-purpose-of-prometheus-and-grafana-in-monitoring) — Prometheus · tags: `Grafana`, `Monitoring`
 - [What tools do you use for logging and monitoring?](../topics/logging.md#what-tools-do-you-use-for-logging-and-monitoring) — Logging · tags: `Monitoring`
@@ -595,14 +608,24 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 
 - [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/iam.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) — IAM · tags: `Kubernetes`, `RBAC`
 - [How do you implement RBAC in Kubernetes?](../topics/iam.md#how-do-you-implement-rbac-in-kubernetes) — IAM · tags: `Kubernetes`, `RBAC`
+- [How would you configure Microsoft Entra ID and RBAC for an Azure Function accessing Azure AI Search, Key Vault, and Azure OpenAI?](../topics/azure-ad.md#how-would-you-configure-microsoft-entra-id-and-rbac-for-an-azure-function-access) — Azure AD · tags: `Vault`, `IAM`, `Azure`, `RBAC`
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — IAM · tags: `Kubernetes`, `RBAC`
+- [Interview RBAC: RBAC controls who can perform which actions on which Azure resources.](../topics/iam.md#interview-rbac-rbac-controls-who-can-perform-which-actions-on-which-azure-resour) — IAM · tags: `Azure`, `RBAC`
 - [RBAC & Security](../topics/iam.md#rbac-security) — IAM · tags: `RBAC`
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — IAM · tags: `ArgoCD`, `Terraform`, `RBAC`
 - [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/iam.md#what-do-you-mean-by-rbac-iam-kubernetes-context) — IAM · tags: `Kubernetes`, `RBAC`
 - [What is RBAC and its components](../topics/iam.md#what-is-rbac-and-its-components) — IAM · tags: `RBAC`
 
+## Redis
+
+- [How does on-prem Kubernetes connect privately to AWS Redis?](../topics/kubernetes.md#how-does-on-prem-kubernetes-connect-privately-to-aws-redis) — Kubernetes · tags: `Redis`, `AWS`
+- [Security Group vs NACL for Redis access?](../topics/network-security.md#security-group-vs-nacl-for-redis-access) — Network Security · tags: `Redis`
+- [Suppose the Spring Boot application is running in Kubernetes, but Redis is an existing AWS ElastiCache cluster. How would you configure the application to access Redis?](../topics/kubernetes.md#suppose-the-spring-boot-application-is-running-in-kubernetes-but-redis-is-an-exi) — Kubernetes · tags: `Redis`, `AWS`
+- [What if Kubernetes is running on-premises and Redis is in an AWS VPC?](../topics/kubernetes.md#what-if-kubernetes-is-running-on-premises-and-redis-is-in-an-aws-vpc) — Kubernetes · tags: `VPC`, `Redis`, `AWS`
+
 ## Security
 
+- [How do you perform Docker image vulnerability scanning during build time and at the registry level?](../topics/docker.md#how-do-you-perform-docker-image-vulnerability-scanning-during-build-time-and-at-) — Docker · tags: `Security`
 - [How would you integrate vulnerability scanning tools such as Trivy or Snyk into GitHub Actions?](../topics/github-actions.md#how-would-you-integrate-vulnerability-scanning-tools-such-as-trivy-or-snyk-into-) — GitHub Actions · tags: `Security`
 
 ## Shell Scripting
@@ -647,11 +670,11 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [How would you design a modular Terraform architecture for large-scale AWS environments?](../topics/terraform.md#how-would-you-design-a-modular-terraform-architecture-for-large-scale-aws-enviro) — Terraform · tags: `AWS`, `System Design`
 - [How would you design a multi-region deployment in terraform, keeping zero downtime in mind ?](../topics/terraform.md#how-would-you-design-a-multi-region-deployment-in-terraform-keeping-zero-downtim) — Terraform · tags: `Deployment Strategies`, `System Design`
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — High Availability · tags: `Kubernetes`, `System Design`
+- [How would you design a scalable CI/CD pipeline in Azure DevOps?](../topics/azure-devops.md#how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops) — Azure DevOps · tags: `CI/CD`, `Azure`, `System Design`
 - [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/vpc.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — VPC · tags: `System Design`
+- [Interview architecture: Design with compute + storage + database + network + identity + security + monitoring.](../topics/monitoring.md#interview-architecture-design-with-compute-storage-database-network-identity-sec) — Monitoring · tags: `Databases`, `System Design`
 - [Java Full Stack Developer (Java, Spring Boot, Microservices, React, AWS) – Can you explain the differences between microservices and monolithic architecture?](../topics/aws.md#java-full-stack-developer-java-spring-boot-microservices-react-aws-can-you-expla) — AWS · tags: `System Design`
 - [Kubernetes architecture and overall cluster structure.](../topics/kubernetes.md#kubernetes-architecture-and-overall-cluster-structure) — Kubernetes · tags: `System Design`
-- [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — Azure · tags: `System Design`
-- [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) — Incident Response · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Observability`
 
 ## Terraform
 
@@ -660,17 +683,24 @@ Use GitHub search: `IRSA`, `OIDC`, `HPA`, etc.
 - [Explain how you solved production problems using Docker, Kubernetes, Terraform, or Jenkins.](../topics/kubernetes.md#explain-how-you-solved-production-problems-using-docker-kubernetes-terraform-or-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`
 - [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/capacity-planning.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) — Capacity Planning · tags: `Terraform`, `HPA`
 - [How do Jenkins, Docker, Kubernetes, Terraform, Prometheus, and Grafana work together in a complete CI/CD pipeline?](../topics/prometheus.md#how-do-jenkins-docker-kubernetes-terraform-prometheus-and-grafana-work-together-) — Prometheus · tags: `Grafana`, `Kubernetes`, `Docker`, `Terraform`
+- [How do you create and manage Kubernetes clusters using Terraform?](../topics/kubernetes.md#how-do-you-create-and-manage-kubernetes-clusters-using-terraform) — Kubernetes · tags: `Terraform`
 - [How do you spin up Kubernetes clusters with Terraform and what do the master and worker nodes actually do?](../topics/kubernetes.md#how-do-you-spin-up-kubernetes-clusters-with-terraform-and-what-do-the-master-and) — Kubernetes · tags: `Terraform`
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — IAM · tags: `ArgoCD`, `Terraform`, `RBAC`
 - [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — Service Mesh · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
 - [The CTO approves a ₹1,400 Crore Enterprise DevOps Transformation Program to modernize software delivery across 400 engineering teams using CI/CD, Infrastructure as Code (Terraform), Kubernetes, GitOps, DevSecOps, and Cloud Automation, targeting 70% faster release cycles and 60% fewer production incidents. What implementation roadmap, governance model, and change management strategy would you recommend?](../topics/devsecops.md#the-cto-approves-a-1400-crore-enterprise-devops-transformation-program-to-modern) — DevSecOps · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `CI/CD`
 - [The CTO launches a large-scale application modernization programme involving .NET 8, Azure, Kubernetes, DevSecOps, Terraform, CI/CD, and Cloud-Native Architecture. What migration roadmap, governance framework, and technical strategy would you recommend?](../topics/devsecops.md#the-cto-launches-a-large-scale-application-modernization-programme-involving-net) — DevSecOps · tags: `Kubernetes`, `Terraform`, `CI/CD`, `Azure`
+- [Which deployment tools have you used (Docker, Kubernetes, Helm, Terraform)?](../topics/helm.md#which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform) — Helm · tags: `Kubernetes`, `Docker`, `Terraform`
 - [Your organization supports over 300 million users across 50 countries, deploying applications that process more than 15 billion API requests daily. Frequent deployment failures and infrastructure bottlenecks are impacting customer experience and business revenue. How would you design a highly available DevOps platform using Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps, and AWS/Azure to achieve 99.99% uptime and 80% deployment automation?](../topics/kubernetes.md#your-organization-supports-over-300-million-users-across-50-countries-deploying-) — Kubernetes · tags: `Docker`, `Terraform`, `Jenkins`, `GitHub Actions`
+
+## Vault
+
+- [How would you configure Microsoft Entra ID and RBAC for an Azure Function accessing Azure AI Search, Key Vault, and Azure OpenAI?](../topics/azure-ad.md#how-would-you-configure-microsoft-entra-id-and-rbac-for-an-azure-function-access) — Azure AD · tags: `Vault`, `IAM`, `Azure`, `RBAC`
 
 ## VPC
 
 - [App communication with EC2 in private subnet behind Multi-AZ LB](../topics/high-availability.md#app-communication-with-ec2-in-private-subnet-behind-multi-az-lb) — High Availability · tags: `VPC`, `AWS`
 - [Import an existing VPC into Terraform](../topics/terraform.md#import-an-existing-vpc-into-terraform) — Terraform · tags: `VPC`
+- [What if Kubernetes is running on-premises and Redis is in an AWS VPC?](../topics/kubernetes.md#what-if-kubernetes-is-running-on-premises-and-redis-is-in-an-aws-vpc) — Kubernetes · tags: `VPC`, `Redis`, `AWS`
 - [When designing a VPC architecture, should a Load Balancer be placed in a public subnet or private subnet? Why?](../topics/load-balancing.md#when-designing-a-vpc-architecture-should-a-load-balancer-be-placed-in-a-public-s) — Load Balancing · tags: `VPC`, `System Design`
 - [You need to provision a VPC with 3 public subnets and 2 private subnets across 2 AZs. How will you do it using Terraform?](../topics/terraform.md#you-need-to-provision-a-vpc-with-3-public-subnets-and-2-private-subnets-across-2) — Terraform · tags: `VPC`
 

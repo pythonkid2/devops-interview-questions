@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Network Security**
 
-**12** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**13** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 12 |
-| Easy / Medium / Hard | 2 / 10 / 0 |
-| Companies | 0 |
+| Questions | 13 |
+| Easy / Medium / Hard | 2 / 11 / 0 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -47,6 +47,8 @@
   <a id="is-the-security-group-allowing-traffic"></a>
 - [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) — **1×** · Medium
   <a id="is-the-security-group-configured"></a>
+- [Security Group vs NACL for Redis access?](../topics/network-security.md#security-group-vs-nacl-for-redis-access) — **1×** · Medium · tags: `Redis`
+  <a id="security-group-vs-nacl-for-redis-access"></a>
 - [What is AWS WAF and what is your experience with it?](../topics/network-security.md#what-is-aws-waf-and-what-is-your-experience-with-it) — **1×** · Easy · tags: `AWS`
   <a id="what-is-aws-waf-and-what-is-your-experience-with-it"></a>
 - [What is the difference between security group and network ACL?](../topics/network-security.md#what-is-the-difference-between-security-group-and-network-acl) — **1×** · Easy
@@ -81,6 +83,8 @@
   <a id="is-the-security-group-allowing-traffic"></a>
 - [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) — 1×
   <a id="is-the-security-group-configured"></a>
+- [Security Group vs NACL for Redis access?](../topics/network-security.md#security-group-vs-nacl-for-redis-access) — 1× · tags: `Redis`
+  <a id="security-group-vs-nacl-for-redis-access"></a>
 
 ## Advanced
 
@@ -104,14 +108,16 @@ _None in this band yet._
 - [Is the Security Group allowing traffic?](../topics/network-security.md#is-the-security-group-allowing-traffic)
 - [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured)
 - [NACL vs Security Group?](../topics/network-security.md#nacl-vs-security-group)
+- [Security Group vs NACL for Redis access?](../topics/network-security.md#security-group-vs-nacl-for-redis-access) — tags: `Redis`
 - [What is the difference between security group and network ACL?](../topics/network-security.md#what-is-the-difference-between-security-group-and-network-acl)
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [UST](../companies/ust.md)
 
 ## Recently added
 
+- [Security Group vs NACL for Redis access?](../topics/network-security.md#security-group-vs-nacl-for-redis-access) — 2026-08-19 · tags: `Redis`
 - [Is the Security Group allowing traffic?](../topics/network-security.md#is-the-security-group-allowing-traffic) — 2026-08-10
 - [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) — 2026-07-27
 - [How would you troubleshoot VM health, NSG, routing, connectivity, and SSH?](../topics/network-security.md#how-would-you-troubleshoot-vm-health-nsg-routing-connectivity-and-ssh) — 2026-07-18
@@ -130,6 +136,7 @@ _None in this band yet._
 - [IAM](./iam.md)
 - [Secrets](./secrets.md)
 - [Security](./security.md)
+- [Azure AD](./azure-ad.md)
 - [DevSecOps](./devsecops.md)
 - [Vault](./vault.md)
 - [Certificate Management](./certificate-management.md)
@@ -148,6 +155,7 @@ _None in this band yet._
 | [Is the Security Group allowing traffic?](../topics/network-security.md#is-the-security-group-allowing-traffic) | Medium | 1 |
 | [Is the Security Group configured?](../topics/network-security.md#is-the-security-group-configured) | Medium | 1 |
 | [NACL vs Security Group?](../topics/network-security.md#nacl-vs-security-group) | Medium | 2 |
+| [Security Group vs NACL for Redis access?](../topics/network-security.md#security-group-vs-nacl-for-redis-access) | Medium | 1 |
 | [What is AWS WAF and what is your experience with it?](../topics/network-security.md#what-is-aws-waf-and-what-is-your-experience-with-it) | Easy | 1 |
 | [What is the difference between security group and network ACL?](../topics/network-security.md#what-is-the-difference-between-security-group-and-network-acl) | Easy | 1 |
 

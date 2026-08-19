@@ -3,17 +3,19 @@
 [Home](../README.md) > [Study guides](./README.md) > **Rounds**
 
 
-## Unspecified (2245)
+## Unspecified (2434)
 
 - [Your CI/CD pipeline takes 60 minutes. How would you reduce it to under 5 minutes?](../topics/ci-cd.md#your-ci-cd-pipeline-takes-60-minutes-how-would-you-reduce-it-to-under-5-minutes) — CI/CD
 - [How do you perform a zero-downtime Kubernetes cluster upgrade in production?](../topics/kubernetes.md#how-do-you-perform-a-zero-downtime-kubernetes-cluster-upgrade-in-production) — Kubernetes · tags: `Deployment Strategies`
 - [How do you correlate logs, metrics, and traces during a production incident?](../topics/incident-response.md#how-do-you-correlate-logs-metrics-and-traces-during-a-production-incident) — Incident Response
+- [What is the difference between CMD and ENTRYPOINT?](../topics/general.md#what-is-the-difference-between-cmd-and-entrypoint) — General
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — High Availability · tags: `Kubernetes`, `System Design`
 - [How would you migrate a stateful application to Kubernetes with minimal downtime?](../topics/kubernetes.md#how-would-you-migrate-a-stateful-application-to-kubernetes-with-minimal-downtime) — Kubernetes
-- [What is the difference between CMD and ENTRYPOINT?](../topics/general.md#what-is-the-difference-between-cmd-and-entrypoint) — General
 - [Design a GitOps workflow for 20+ teams with independent release cycles.](../topics/argocd.md#design-a-gitops-workflow-for-20-teams-with-independent-release-cycles) — ArgoCD · tags: `GitOps`
 - [Design a rollback strategy that works even if the deployment stage fails.](../topics/deployment-strategies.md#design-a-rollback-strategy-that-works-even-if-the-deployment-stage-fails) — Deployment Strategies
 - [Design a self-healing platform for critical production services.](../topics/system-design.md#design-a-self-healing-platform-for-critical-production-services) — System Design
+- [Difference between CMD and ENTRYPOINT.](../topics/general.md#difference-between-cmd-and-entrypoint) — General
+- [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — Kubernetes
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — Incident Response
 - [How do you design SLO-based alerting that minimizes alert fatigue?](../topics/slos.md#how-do-you-design-slo-based-alerting-that-minimizes-alert-fatigue) — SLOs · tags: `Alerting`
 - [How do you implement runtime security beyond image vulnerability scanning?](../topics/security.md#how-do-you-implement-runtime-security-beyond-image-vulnerability-scanning) — Security
@@ -22,29 +24,27 @@
 - [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) — Microservices
 - [Terraform partially created infrastructure before failing. How would you recover safely?](../topics/terraform.md#terraform-partially-created-infrastructure-before-failing-how-would-you-recover-) — Terraform
 - [Terraform state is 300MB and planning takes 15 minutes. How would you optimize it?](../topics/terraform.md#terraform-state-is-300mb-and-planning-takes-15-minutes-how-would-you-optimize-it) — Terraform
+- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — Docker
 - [What is a Service in Kubernetes?](../topics/kubernetes.md#what-is-a-service-in-kubernetes) — Kubernetes
 - [Your Kubernetes cluster is healthy but requests intermittently return 503. How do you troubleshoot it?](../topics/incident-response.md#your-kubernetes-cluster-is-healthy-but-requests-intermittently-return-503-how-do) — Incident Response · tags: `Kubernetes`
 - [A terraform apply failed after creating half the infrastructure. How would you recover safely?](../topics/terraform.md#a-terraform-apply-failed-after-creating-half-the-infrastructure-how-would-you-re) — Terraform
-- [Difference between CMD and ENTRYPOINT.](../topics/general.md#difference-between-cmd-and-entrypoint) — General
-- [Difference between Deployment, StatefulSet, DaemonSet, and Job.](../topics/kubernetes.md#difference-between-deployment-statefulset-daemonset-and-job) — Kubernetes
-- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — Docker
 - [What is the difference between Continuous Delivery and Continuous Deployment?](../topics/general.md#what-is-the-difference-between-continuous-delivery-and-continuous-deployment) — General
 - [A deployment succeeds, but latency increases from 80 ms to 2 seconds. Walk me through your debugging approach.](../topics/deployment-strategies.md#a-deployment-succeeds-but-latency-increases-from-80-ms-to-2-seconds-walk-me-thro) — Deployment Strategies
 - [CI/CD Pipeline Architecture](../topics/ci-cd.md#ci-cd-pipeline-architecture) — CI/CD · tags: `System Design`
+- [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — CI/CD
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — AWS
 - [How do you design a disaster recovery strategy with defined RTO and RPO requirements?](../topics/disaster-recovery.md#how-do-you-design-a-disaster-recovery-strategy-with-defined-rto-and-rpo-requirem) — Disaster Recovery
+- [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) — CI/CD
 - [How do you troubleshoot a failed CI/CD pipeline?](../topics/ci-cd.md#how-do-you-troubleshoot-a-failed-ci-cd-pipeline) — CI/CD
+- [How does Kubernetes Service Discovery work?](../topics/kubernetes.md#how-does-kubernetes-service-discovery-work) — Kubernetes
 - [Tell me about yourself.](../topics/general.md#tell-me-about-yourself) — General
+- [What is a CI/CD pipeline?](../topics/ci-cd.md#what-is-a-ci-cd-pipeline) — CI/CD
 - [What is Blue-Green Deployment?](../topics/deployment-strategies.md#what-is-blue-green-deployment) — Deployment Strategies · tags: `Blue-Green`
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — Docker
 - [What is the difference between Docker and Kubernetes?](../topics/kubernetes.md#what-is-the-difference-between-docker-and-kubernetes) — Kubernetes · tags: `Docker`
 - [Your cloud bill suddenly increased by 40% overnight. How would you investigate it?](../topics/finops.md#your-cloud-bill-suddenly-increased-by-40-overnight-how-would-you-investigate-it) — FinOps
-- [Explain your CI/CD pipeline from code commit to production.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-from-code-commit-to-production) — CI/CD
+- [Difference between count and for_each.](../topics/general.md#difference-between-count-and-for-each) — General
 - [Explain your CI/CD pipeline project end-to-end.](../topics/ci-cd.md#explain-your-ci-cd-pipeline-project-end-to-end) — CI/CD
-- [How do you ensure zero-downtime deployments in production?](../topics/deployment-strategies.md#how-do-you-ensure-zero-downtime-deployments-in-production) — Deployment Strategies
-- [How do you investigate intermittent pod restarts when logs don't show obvious errors?](../topics/kubernetes.md#how-do-you-investigate-intermittent-pod-restarts-when-logs-don-t-show-obvious-er) — Kubernetes
-- [How do you manage secrets securely in CI/CD pipelines?](../topics/ci-cd.md#how-do-you-manage-secrets-securely-in-ci-cd-pipelines) — CI/CD
-- [How do you securely store credentials in Jenkins?](../topics/jenkins.md#how-do-you-securely-store-credentials-in-jenkins) — Jenkins
 
 ## Technical Round 1 (74)
 

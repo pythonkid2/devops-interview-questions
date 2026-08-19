@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Azure**
 
-**26** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**42** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 26 |
-| Easy / Medium / Hard | 8 / 17 / 1 |
-| Companies | 5 |
+| Questions | 42 |
+| Easy / Medium / Hard | 11 / 30 / 1 |
+| Companies | 7 |
 
 ## Most asked
 
@@ -41,45 +41,49 @@
   <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — **2×** · Medium
   <a id="when-would-you-choose-an-azure-function-over-power-automate"></a>
+- [Azure App Service](../topics/azure.md#azure-app-service) — **1×** · Medium
+  <a id="azure-app-service"></a>
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — **1×** · Medium
   <a id="azure-blob-storage-vs-adls-gen2"></a>
 - [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — **1×** · Medium
   <a id="azure-data-factory-scenario-based-questions"></a>
 - [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — **1×** · Medium
   <a id="azure-databricks-unity-catalog"></a>
+- [Azure Functions](../topics/azure.md#azure-functions) — **1×** · Medium
+  <a id="azure-functions"></a>
+- [Azure Networking & Security](../topics/azure.md#azure-networking-security) — **1×** · Medium
+  <a id="azure-networking-security"></a>
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — **1×** · Medium
   <a id="azure-regions-availability-zones"></a>
+- [Azure Service Bus](../topics/azure.md#azure-service-bus) — **1×** · Medium
+  <a id="azure-service-bus"></a>
+- [Azure SQL](../topics/azure.md#azure-sql) — **1×** · Medium
+  <a id="azure-sql"></a>
 - [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub) — **1×** · Medium
   <a id="explain-azure-service-bus-vs-event-grid-vs-event-hub"></a>
 - [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en) — **1×** · Medium
   <a id="following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en"></a>
+- [How do you deploy a .NET application to Azure App Service?](../topics/azure.md#how-do-you-deploy-a-net-application-to-azure-app-service) — **1×** · Medium
+  <a id="how-do-you-deploy-a-net-application-to-azure-app-service"></a>
 - [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application) — **1×** · Medium
   <a id="how-do-you-integrate-azure-openai-with-a-net-core-application"></a>
+- [How would you authenticate an AI application with Azure OpenAI without storing API keys in the code?](../topics/azure.md#how-would-you-authenticate-an-ai-application-with-azure-openai-without-storing-a) — **1×** · Medium
+  <a id="how-would-you-authenticate-an-ai-application-with-azure-openai-without-storing-a"></a>
+- [How would you migrate an on-premise data warehouse to Azure?](../topics/azure.md#how-would-you-migrate-an-on-premise-data-warehouse-to-azure) — **1×** · Medium
+  <a id="how-would-you-migrate-an-on-premise-data-warehouse-to-azure"></a>
+- [If the API becomes slow after deployment to Azure, how would you identify and fix the performance issue?](../topics/azure.md#if-the-api-becomes-slow-after-deployment-to-azure-how-would-you-identify-and-fix) — **1×** · Medium
+  <a id="if-the-api-becomes-slow-after-deployment-to-azure-how-would-you-identify-and-fix"></a>
+- [Interview VNet: A VNet provides private networking and traffic isolation for Azure resources.](../topics/azure.md#interview-vnet-a-vnet-provides-private-networking-and-traffic-isolation-for-azur) — **1×** · Medium
+  <a id="interview-vnet-a-vnet-provides-private-networking-and-traffic-isolation-for-azur"></a>
 - [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — **1×** · Hard · tags: `System Design`
   <a id="leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-"></a>
-- [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — **1×** · Medium
-  <a id="the-azure-shared-responsibility-model"></a>
-- [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) — **1×** · Medium
-  <a id="what-azure-interview-question-do-you-think-is-the-most-valuable"></a>
-- [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — **1×** · Easy
-  <a id="what-is-an-azure-resource-group"></a>
-- [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it) — **1×** · Easy
-  <a id="what-is-azure-api-management-and-why-would-you-use-it"></a>
-- [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) — **1×** · Easy
-  <a id="what-is-azure-boards"></a>
-- [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) — **1×** · Easy
-  <a id="what-is-azure-repos"></a>
-- [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — **1×** · Easy
-  <a id="what-is-azure-resource-manager-arm"></a>
-- [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — **1×** · Easy
-  <a id="what-is-azure-test-plans"></a>
-- [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) — **1×** · Easy
-  <a id="what-is-microsoft-azure"></a>
-- [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions) — **1×** · Easy
-  <a id="what-is-the-difference-between-azure-app-service-and-azure-functions"></a>
 
 ## Beginner
 
+- [What are Azure Functions and why did u implement in your project?](../topics/azure.md#what-are-azure-functions-and-why-did-u-implement-in-your-project) — 1×
+  <a id="what-are-azure-functions-and-why-did-u-implement-in-your-project"></a>
+- [What are Hot, Cool and Archive tiers in Azure Blob Storage?](../topics/azure.md#what-are-hot-cool-and-archive-tiers-in-azure-blob-storage) — 1×
+  <a id="what-are-hot-cool-and-archive-tiers-in-azure-blob-storage"></a>
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — 1×
   <a id="what-is-an-azure-resource-group"></a>
 - [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it) — 1×
@@ -90,6 +94,8 @@
   <a id="what-is-azure-repos"></a>
 - [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) — 1×
   <a id="what-is-azure-resource-manager-arm"></a>
+- [What is Azure Service Bus and why did u implement in your project?](../topics/azure.md#what-is-azure-service-bus-and-why-did-u-implement-in-your-project) — 1×
+  <a id="what-is-azure-service-bus-and-why-did-u-implement-in-your-project"></a>
 - [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) — 1×
   <a id="what-is-azure-test-plans"></a>
 - [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) — 1×
@@ -113,26 +119,52 @@
   <a id="ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it"></a>
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) — 2×
   <a id="when-would-you-choose-an-azure-function-over-power-automate"></a>
+- [Azure App Service](../topics/azure.md#azure-app-service) — 1×
+  <a id="azure-app-service"></a>
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 1×
   <a id="azure-blob-storage-vs-adls-gen2"></a>
 - [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — 1×
   <a id="azure-data-factory-scenario-based-questions"></a>
 - [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — 1×
   <a id="azure-databricks-unity-catalog"></a>
+- [Azure Functions](../topics/azure.md#azure-functions) — 1×
+  <a id="azure-functions"></a>
+- [Azure Networking & Security](../topics/azure.md#azure-networking-security) — 1×
+  <a id="azure-networking-security"></a>
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) — 1×
   <a id="azure-regions-availability-zones"></a>
+- [Azure Service Bus](../topics/azure.md#azure-service-bus) — 1×
+  <a id="azure-service-bus"></a>
+- [Azure SQL](../topics/azure.md#azure-sql) — 1×
+  <a id="azure-sql"></a>
 - [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub) — 1×
   <a id="explain-azure-service-bus-vs-event-grid-vs-event-hub"></a>
 - [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en) — 1×
   <a id="following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en"></a>
+- [How do you deploy a .NET application to Azure App Service?](../topics/azure.md#how-do-you-deploy-a-net-application-to-azure-app-service) — 1×
+  <a id="how-do-you-deploy-a-net-application-to-azure-app-service"></a>
 - [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application) — 1×
   <a id="how-do-you-integrate-azure-openai-with-a-net-core-application"></a>
+- [How would you authenticate an AI application with Azure OpenAI without storing API keys in the code?](../topics/azure.md#how-would-you-authenticate-an-ai-application-with-azure-openai-without-storing-a) — 1×
+  <a id="how-would-you-authenticate-an-ai-application-with-azure-openai-without-storing-a"></a>
+- [How would you migrate an on-premise data warehouse to Azure?](../topics/azure.md#how-would-you-migrate-an-on-premise-data-warehouse-to-azure) — 1×
+  <a id="how-would-you-migrate-an-on-premise-data-warehouse-to-azure"></a>
+- [If the API becomes slow after deployment to Azure, how would you identify and fix the performance issue?](../topics/azure.md#if-the-api-becomes-slow-after-deployment-to-azure-how-would-you-identify-and-fix) — 1×
+  <a id="if-the-api-becomes-slow-after-deployment-to-azure-how-would-you-identify-and-fix"></a>
+- [Interview VNet: A VNet provides private networking and traffic isolation for Azure resources.](../topics/azure.md#interview-vnet-a-vnet-provides-private-networking-and-traffic-isolation-for-azur) — 1×
+  <a id="interview-vnet-a-vnet-provides-private-networking-and-traffic-isolation-for-azur"></a>
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — 1×
   <a id="the-azure-shared-responsibility-model"></a>
 - [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) — 1×
   <a id="what-azure-interview-question-do-you-think-is-the-most-valuable"></a>
+- [What is Azure Storage? What is the difference between Blob Storage and Table Storage?](../topics/azure.md#what-is-azure-storage-what-is-the-difference-between-blob-storage-and-table-stor) — 1×
+  <a id="what-is-azure-storage-what-is-the-difference-between-blob-storage-and-table-stor"></a>
+- [What is the difference between authentication and authorization in Azure, and how do OAuth 2.0 access tokens support both?](../topics/azure.md#what-is-the-difference-between-authentication-and-authorization-in-azure-and-how) — 1×
+  <a id="what-is-the-difference-between-authentication-and-authorization-in-azure-and-how"></a>
 - [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) — 1×
   <a id="what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv"></a>
+- [Your AI application works locally but receives a 401 or 403 error after deployment to Azure. How would you troubleshoot it?](../topics/azure.md#your-ai-application-works-locally-but-receives-a-401-or-403-error-after-deployme) — 1×
+  <a id="your-ai-application-works-locally-but-receives-a-401-or-403-error-after-deployme"></a>
 
 ## Advanced
 
@@ -144,57 +176,75 @@
 ### Unspecified
 
 - [Azure](../topics/azure.md#azure)
+- [Azure App Service](../topics/azure.md#azure-app-service)
 - [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2)
 - [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios)
 - [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions)
 - [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog)
 - [Azure Function Deployment](../topics/azure.md#azure-function-deployment)
+- [Azure Functions](../topics/azure.md#azure-functions)
+- [Azure Networking & Security](../topics/azure.md#azure-networking-security)
 - [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones)
+- [Azure Service Bus](../topics/azure.md#azure-service-bus)
+- [Azure SQL](../topics/azure.md#azure-sql)
 - [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub)
 - [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en)
 - [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions)
+- [How do you deploy a .NET application to Azure App Service?](../topics/azure.md#how-do-you-deploy-a-net-application-to-azure-app-service)
 - [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application)
 - [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure)
+- [How would you authenticate an AI application with Azure OpenAI without storing API keys in the code?](../topics/azure.md#how-would-you-authenticate-an-ai-application-with-azure-openai-without-storing-a)
+- [How would you migrate an on-premise data warehouse to Azure?](../topics/azure.md#how-would-you-migrate-an-on-premise-data-warehouse-to-azure)
+- [If the API becomes slow after deployment to Azure, how would you identify and fix the performance issue?](../topics/azure.md#if-the-api-becomes-slow-after-deployment-to-azure-how-would-you-identify-and-fix)
+- [Interview VNet: A VNet provides private networking and traffic isolation for Azure resources.](../topics/azure.md#interview-vnet-a-vnet-provides-private-networking-and-traffic-isolation-for-azur)
 - [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — tags: `System Design`
 - [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it)
 - [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model)
+- [What are Azure Functions and why did u implement in your project?](../topics/azure.md#what-are-azure-functions-and-why-did-u-implement-in-your-project)
+- [What are Hot, Cool and Archive tiers in Azure Blob Storage?](../topics/azure.md#what-are-hot-cool-and-archive-tiers-in-azure-blob-storage)
 - [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable)
 - [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group)
 - [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it)
 - [What is Azure Boards?](../topics/azure.md#what-is-azure-boards)
 - [What is Azure Repos?](../topics/azure.md#what-is-azure-repos)
 - [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm)
+- [What is Azure Service Bus and why did u implement in your project?](../topics/azure.md#what-is-azure-service-bus-and-why-did-u-implement-in-your-project)
+- [What is Azure Storage? What is the difference between Blob Storage and Table Storage?](../topics/azure.md#what-is-azure-storage-what-is-the-difference-between-blob-storage-and-table-stor)
 - [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans)
 - [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure)
+- [What is the difference between authentication and authorization in Azure, and how do OAuth 2.0 access tokens support both?](../topics/azure.md#what-is-the-difference-between-authentication-and-authorization-in-azure-and-how)
 - [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions)
 - [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv)
 - [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate)
+- [Your AI application works locally but receives a 401 or 403 error after deployment to Azure. How would you troubleshoot it?](../topics/azure.md#your-ai-application-works-locally-but-receives-a-401-or-403-error-after-deployme)
 
 ## Companies asking
 
 - [CGI](../companies/cgi.md)
+- [Deloitte](../companies/deloitte.md)
 - [Elite Code Technologies](../companies/elite-code-technologies.md)
 - [EY](../companies/ey.md)
 - [Hexaware Technologies](../companies/hexaware-technologies.md)
+- [TCS](../companies/tcs.md)
 - [Wipro](../companies/wipro.md)
 
 ## Recently added
 
-- [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en) — 2026-08-13
-- [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application) — 2026-08-13
-- [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it) — 2026-08-13
-- [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub) — 2026-08-13
-- [Azure Function Deployment](../topics/azure.md#azure-function-deployment) — 2026-08-12
-- [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) — 2026-08-12
-- [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) — 2026-08-12
-- [Azure](../topics/azure.md#azure) — 2026-08-12
-- [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) — 2026-08-10
-- [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) — 2026-08-02 · tags: `System Design`
-- [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) — 2026-07-27
-- [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) — 2026-07-27
-- [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) — 2026-07-27
-- [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) — 2026-07-26
-- [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) — 2026-07-26
+- [How would you migrate an on-premise data warehouse to Azure?](../topics/azure.md#how-would-you-migrate-an-on-premise-data-warehouse-to-azure) — 2026-08-19
+- [Azure Networking & Security](../topics/azure.md#azure-networking-security) — 2026-08-19
+- [Azure SQL](../topics/azure.md#azure-sql) — 2026-08-19
+- [Azure Service Bus](../topics/azure.md#azure-service-bus) — 2026-08-19
+- [Azure Functions](../topics/azure.md#azure-functions) — 2026-08-19
+- [Azure App Service](../topics/azure.md#azure-app-service) — 2026-08-19
+- [Your AI application works locally but receives a 401 or 403 error after deployment to Azure. How would you troubleshoot it?](../topics/azure.md#your-ai-application-works-locally-but-receives-a-401-or-403-error-after-deployme) — 2026-08-19
+- [What is the difference between authentication and authorization in Azure, and how do OAuth 2.0 access tokens support both?](../topics/azure.md#what-is-the-difference-between-authentication-and-authorization-in-azure-and-how) — 2026-08-19
+- [How would you authenticate an AI application with Azure OpenAI without storing API keys in the code?](../topics/azure.md#how-would-you-authenticate-an-ai-application-with-azure-openai-without-storing-a) — 2026-08-19
+- [If the API becomes slow after deployment to Azure, how would you identify and fix the performance issue?](../topics/azure.md#if-the-api-becomes-slow-after-deployment-to-azure-how-would-you-identify-and-fix) — 2026-08-19
+- [What is Azure Service Bus and why did u implement in your project?](../topics/azure.md#what-is-azure-service-bus-and-why-did-u-implement-in-your-project) — 2026-08-19
+- [What are Azure Functions and why did u implement in your project?](../topics/azure.md#what-are-azure-functions-and-why-did-u-implement-in-your-project) — 2026-08-19
+- [What are Hot, Cool and Archive tiers in Azure Blob Storage?](../topics/azure.md#what-are-hot-cool-and-archive-tiers-in-azure-blob-storage) — 2026-08-19
+- [What is Azure Storage? What is the difference between Blob Storage and Table Storage?](../topics/azure.md#what-is-azure-storage-what-is-the-difference-between-blob-storage-and-table-stor) — 2026-08-19
+- [How do you deploy a .NET application to Azure App Service?](../topics/azure.md#how-do-you-deploy-a-net-application-to-azure-app-service) — 2026-08-19
 
 ## Related topics
 
@@ -207,31 +257,47 @@
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [Azure](../topics/azure.md#azure) | Medium | 2 |
+| [Azure App Service](../topics/azure.md#azure-app-service) | Medium | 1 |
 | [Azure Blob Storage vs ADLS Gen2](../topics/azure.md#azure-blob-storage-vs-adls-gen2) | Medium | 1 |
 | [Azure Data Factory (ADF) Scenarios](../topics/azure.md#azure-data-factory-adf-scenarios) | Medium | 2 |
 | [Azure Data Factory scenario-based questions](../topics/azure.md#azure-data-factory-scenario-based-questions) | Medium | 1 |
 | [Azure Databricks & Unity Catalog](../topics/azure.md#azure-databricks-unity-catalog) | Medium | 1 |
 | [Azure Function Deployment](../topics/azure.md#azure-function-deployment) | Medium | 2 |
+| [Azure Functions](../topics/azure.md#azure-functions) | Medium | 1 |
+| [Azure Networking & Security](../topics/azure.md#azure-networking-security) | Medium | 1 |
 | [Azure Regions & Availability Zones](../topics/azure.md#azure-regions-availability-zones) | Medium | 1 |
+| [Azure Service Bus](../topics/azure.md#azure-service-bus) | Medium | 1 |
+| [Azure SQL](../topics/azure.md#azure-sql) | Medium | 1 |
 | [Explain Azure Service Bus vs Event Grid vs Event Hub](../topics/azure.md#explain-azure-service-bus-vs-event-grid-vs-event-hub) | Medium | 1 |
 | [Following a global acquisition, multiple .NET applications, APIs, databases, Azure environments, authentication platforms, and DevOps pipelines must be integrated. How would you lead the technical transformation while maintaining security and business continuity?](../topics/azure.md#following-a-global-acquisition-multiple-net-applications-apis-databases-azure-en) | Medium | 1 |
 | [Have you worked with Azure Functions?](../topics/azure.md#have-you-worked-with-azure-functions) | Medium | 2 |
+| [How do you deploy a .NET application to Azure App Service?](../topics/azure.md#how-do-you-deploy-a-net-application-to-azure-app-service) | Medium | 1 |
 | [How do you integrate Azure OpenAI with a .NET Core application?](../topics/azure.md#how-do-you-integrate-azure-openai-with-a-net-core-application) | Medium | 1 |
 | [How will you troubleshoot connectivity issues in Azure?](../topics/azure.md#how-will-you-troubleshoot-connectivity-issues-in-azure) | Medium | 2 |
+| [How would you authenticate an AI application with Azure OpenAI without storing API keys in the code?](../topics/azure.md#how-would-you-authenticate-an-ai-application-with-azure-openai-without-storing-a) | Medium | 1 |
+| [How would you migrate an on-premise data warehouse to Azure?](../topics/azure.md#how-would-you-migrate-an-on-premise-data-warehouse-to-azure) | Medium | 1 |
+| [If the API becomes slow after deployment to Azure, how would you identify and fix the performance issue?](../topics/azure.md#if-the-api-becomes-slow-after-deployment-to-azure-how-would-you-identify-and-fix) | Medium | 1 |
+| [Interview VNet: A VNet provides private networking and traffic isolation for Azure resources.](../topics/azure.md#interview-vnet-a-vnet-provides-private-networking-and-traffic-isolation-for-azur) | Medium | 1 |
 | [Leadership wants to implement AI powered enterprise applications using Azure AI, Azure OpenAI, Microsoft Fabric, Semantic Kernel, and intelligent automation. How would you design the solution architecture while ensuring security, scalability, and maintainability?](../topics/azure.md#leadership-wants-to-implement-ai-powered-enterprise-applications-using-azure-ai-) | Hard | 1 |
 | [SSH through Azure Portal times out while connecting to a VM. What could cause it?](../topics/azure.md#ssh-through-azure-portal-times-out-while-connecting-to-a-vm-what-could-cause-it) | Medium | 2 |
 | [The Azure Shared Responsibility Model](../topics/azure.md#the-azure-shared-responsibility-model) | Medium | 1 |
+| [What are Azure Functions and why did u implement in your project?](../topics/azure.md#what-are-azure-functions-and-why-did-u-implement-in-your-project) | Easy | 1 |
+| [What are Hot, Cool and Archive tiers in Azure Blob Storage?](../topics/azure.md#what-are-hot-cool-and-archive-tiers-in-azure-blob-storage) | Easy | 1 |
 | [What Azure interview question do you think is the most valuable?](../topics/azure.md#what-azure-interview-question-do-you-think-is-the-most-valuable) | Medium | 1 |
 | [What is an Azure Resource Group?](../topics/azure.md#what-is-an-azure-resource-group) | Easy | 1 |
 | [What is Azure API Management and why would you use it?](../topics/azure.md#what-is-azure-api-management-and-why-would-you-use-it) | Easy | 1 |
 | [What is Azure Boards?](../topics/azure.md#what-is-azure-boards) | Easy | 1 |
 | [What is Azure Repos?](../topics/azure.md#what-is-azure-repos) | Easy | 1 |
 | [What is Azure Resource Manager (ARM)?](../topics/azure.md#what-is-azure-resource-manager-arm) | Easy | 1 |
+| [What is Azure Service Bus and why did u implement in your project?](../topics/azure.md#what-is-azure-service-bus-and-why-did-u-implement-in-your-project) | Easy | 1 |
+| [What is Azure Storage? What is the difference between Blob Storage and Table Storage?](../topics/azure.md#what-is-azure-storage-what-is-the-difference-between-blob-storage-and-table-stor) | Medium | 1 |
 | [What is Azure Test Plans?](../topics/azure.md#what-is-azure-test-plans) | Easy | 1 |
 | [What is Microsoft Azure?](../topics/azure.md#what-is-microsoft-azure) | Easy | 1 |
+| [What is the difference between authentication and authorization in Azure, and how do OAuth 2.0 access tokens support both?](../topics/azure.md#what-is-the-difference-between-authentication-and-authorization-in-azure-and-how) | Medium | 1 |
 | [What is the difference between Azure App Service and Azure Functions?](../topics/azure.md#what-is-the-difference-between-azure-app-service-and-azure-functions) | Easy | 1 |
 | [What is the difference between horizontal and vertical scaling in Azure App Service?](../topics/azure.md#what-is-the-difference-between-horizontal-and-vertical-scaling-in-azure-app-serv) | Medium | 1 |
 | [When would you choose an Azure Function over Power Automate?](../topics/azure.md#when-would-you-choose-an-azure-function-over-power-automate) | Medium | 2 |
+| [Your AI application works locally but receives a 401 or 403 error after deployment to Azure. How would you troubleshoot it?](../topics/azure.md#your-ai-application-works-locally-but-receives-a-401-or-403-error-after-deployme) | Medium | 1 |
 
 ## Learning resources
 

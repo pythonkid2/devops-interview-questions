@@ -68,6 +68,7 @@ _None in this band yet._
 - [IAM](./iam.md)
 - [Secrets](./secrets.md)
 - [Security](./security.md)
+- [Azure AD](./azure-ad.md)
 - [DevSecOps](./devsecops.md)
 - [Vault](./vault.md)
 - [Network Security](./network-security.md)

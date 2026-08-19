@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Microservices**
 
-**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 5 |
-| Easy / Medium / Hard | 0 / 4 / 1 |
-| Companies | 0 |
+| Questions | 6 |
+| Easy / Medium / Hard | 0 / 5 / 1 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -35,6 +35,8 @@
   <a id="how-would-you-manage-secrets-for-100-microservices"></a>
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — **1×** · Medium
   <a id="one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro"></a>
+- [Suppose the port of a microservice changes. How will another service identify and send requests to the correct instance?](../topics/microservices.md#suppose-the-port-of-a-microservice-changes-how-will-another-service-identify-and) — **1×** · Medium
+  <a id="suppose-the-port-of-a-microservice-changes-how-will-another-service-identify-and"></a>
 - [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) — **1×** · Medium
   <a id="what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano"></a>
 
@@ -50,6 +52,8 @@ _None in this band yet._
   <a id="how-would-you-manage-secrets-for-100-microservices"></a>
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — 1×
   <a id="one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro"></a>
+- [Suppose the port of a microservice changes. How will another service identify and send requests to the correct instance?](../topics/microservices.md#suppose-the-port-of-a-microservice-changes-how-will-another-service-identify-and) — 1×
+  <a id="suppose-the-port-of-a-microservice-changes-how-will-another-service-identify-and"></a>
 - [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) — 1×
   <a id="what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano"></a>
 
@@ -66,14 +70,16 @@ _None in this band yet._
 - [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices)
 - [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials)
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro)
+- [Suppose the port of a microservice changes. How will another service identify and send requests to the correct instance?](../topics/microservices.md#suppose-the-port-of-a-microservice-changes-how-will-another-service-identify-and)
 - [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano)
 
 ## Companies asking
 
-- [Unknown Company](../companies/unknown-company.md)
+- [Accenture](../companies/accenture.md)
 
 ## Recently added
 
+- [Suppose the port of a microservice changes. How will another service identify and send requests to the correct instance?](../topics/microservices.md#suppose-the-port-of-a-microservice-changes-how-will-another-service-identify-and) — 2026-08-19
 - [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) — 2026-08-15
 - [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) — 2026-08-12
 - [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) — 2026-07-17
@@ -93,6 +99,7 @@ _None in this band yet._
 | [How would you manage secrets for 100+ microservices?](../topics/microservices.md#how-would-you-manage-secrets-for-100-microservices) | Medium | 1 |
 | [How would you secure secrets for 100+ microservices without exposing credentials?](../topics/microservices.md#how-would-you-secure-secrets-for-100-microservices-without-exposing-credentials) | Medium | 7 |
 | [One microservice is unable to communicate with another service. How would you troubleshoot it?](../topics/microservices.md#one-microservice-is-unable-to-communicate-with-another-service-how-would-you-tro) | Medium | 1 |
+| [Suppose the port of a microservice changes. How will another service identify and send requests to the correct instance?](../topics/microservices.md#suppose-the-port-of-a-microservice-changes-how-will-another-service-identify-and) | Medium | 1 |
 | [What could be the problem if you discover that threads are stuck waiting for another microservice?](../topics/microservices.md#what-could-be-the-problem-if-you-discover-that-threads-are-stuck-waiting-for-ano) | Medium | 1 |
 
 ## Learning resources

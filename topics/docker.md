@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Docker**
 
-**105** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**108** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,18 +21,20 @@
 
 | | |
 | --- | ---: |
-| Questions | 105 |
-| Easy / Medium / Hard | 26 / 68 / 11 |
-| Companies | 7 |
+| Questions | 108 |
+| Easy / Medium / Hard | 27 / 70 / 11 |
+| Companies | 8 |
 
 ## Most asked
 
-- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — **6×** · Medium
+- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — **7×** · Medium
   <a id="what-happens-internally-when-you-run-docker-run"></a>
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — **5×** · Easy
   <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
-- [What is Docker?](../topics/docker.md#what-is-docker) — **3×** · Easy
+- [What is Docker?](../topics/docker.md#what-is-docker) — **4×** · Easy
   <a id="what-is-docker"></a>
+- [Docker](../topics/docker.md#docker) — **3×** · Medium
+  <a id="docker"></a>
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) — **3×** · Medium
   <a id="your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr"></a>
 - [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](../topics/docker.md#a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou) — **2×** · Medium
@@ -43,8 +45,6 @@
   <a id="a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay"></a>
 - [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — **2×** · Medium
   <a id="container-restarted-and-data-got-lost-how-do-you-fix-it"></a>
-- [Docker](../topics/docker.md#docker) — **2×** · Medium
-  <a id="docker"></a>
 - [Docker and Containers](../topics/docker.md#docker-and-containers) — **2×** · Medium
   <a id="docker-and-containers"></a>
 - [Docker architectures](../topics/docker.md#docker-architectures) — **2×** · Hard
@@ -82,7 +82,7 @@
 
 - [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) — 5×
   <a id="what-is-the-difference-between-a-docker-image-and-a-docker-container"></a>
-- [What is Docker?](../topics/docker.md#what-is-docker) — 3×
+- [What is Docker?](../topics/docker.md#what-is-docker) — 4×
   <a id="what-is-docker"></a>
 - [What are common Docker commands?](../topics/docker.md#what-are-common-docker-commands) — 2×
   <a id="what-are-common-docker-commands"></a>
@@ -116,6 +116,8 @@
   <a id="what-are-multi-stage-docker-builds-and-why-are-they-important"></a>
 - [What are multi-stage Docker builds?](../topics/docker.md#what-are-multi-stage-docker-builds) — 1×
   <a id="what-are-multi-stage-docker-builds"></a>
+- [What are the stages involved in building a Docker image?](../topics/docker.md#what-are-the-stages-involved-in-building-a-docker-image) — 1×
+  <a id="what-are-the-stages-involved-in-building-a-docker-image"></a>
 - [What is a Dockerfile and how do you create one?](../topics/docker.md#what-is-a-dockerfile-and-how-do-you-create-one) — 1×
   <a id="what-is-a-dockerfile-and-how-do-you-create-one"></a>
 - [What is a multi-stage Docker build?](../topics/docker.md#what-is-a-multi-stage-docker-build) — 1×
@@ -135,8 +137,10 @@
 
 ## Intermediate
 
-- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 6×
+- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 7×
   <a id="what-happens-internally-when-you-run-docker-run"></a>
+- [Docker](../topics/docker.md#docker) — 3×
+  <a id="docker"></a>
 - [Your container is running, but the application is not accessible. How would you troubleshoot it?](../topics/docker.md#your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr) — 3×
   <a id="your-container-is-running-but-the-application-is-not-accessible-how-would-you-tr"></a>
 - [A Docker container is consuming high CPU and memory. How would you check and troubleshoot it?](../topics/docker.md#a-docker-container-is-consuming-high-cpu-and-memory-how-would-you-check-and-trou) — 2×
@@ -145,8 +149,6 @@
   <a id="a-docker-image-has-10-layers-and-all-layers-are-already-cached-if-you-modify-lay"></a>
 - [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) — 2×
   <a id="container-restarted-and-data-got-lost-how-do-you-fix-it"></a>
-- [Docker](../topics/docker.md#docker) — 2×
-  <a id="docker"></a>
 - [Docker and Containers](../topics/docker.md#docker-and-containers) — 2×
   <a id="docker-and-containers"></a>
 - [Docker Images, Containers & Multi-Stage Builds](../topics/docker.md#docker-images-containers-multi-stage-builds) — 2×
@@ -239,8 +241,12 @@
   <a id="how-do-you-optimize-a-docker-image-build-pipeline-for-microservices"></a>
 - [How do you optimize Docker image size?](../topics/docker.md#how-do-you-optimize-docker-image-size) — 1×
   <a id="how-do-you-optimize-docker-image-size"></a>
+- [How do you pass environment variables during Docker build and runtime?](../topics/docker.md#how-do-you-pass-environment-variables-during-docker-build-and-runtime) — 1×
+  <a id="how-do-you-pass-environment-variables-during-docker-build-and-runtime"></a>
 - [How do you pass environment variables to a Docker container?](../topics/docker.md#how-do-you-pass-environment-variables-to-a-docker-container) — 1×
   <a id="how-do-you-pass-environment-variables-to-a-docker-container"></a>
+- [How do you perform Docker image vulnerability scanning during build time and at the registry level?](../topics/docker.md#how-do-you-perform-docker-image-vulnerability-scanning-during-build-time-and-at-) — 1× · tags: `Security`
+  <a id="how-do-you-perform-docker-image-vulnerability-scanning-during-build-time-and-at-"></a>
 - [How do you scan Docker images for vulnerabilities before deployment?](../topics/docker.md#how-do-you-scan-docker-images-for-vulnerabilities-before-deployment) — 1×
   <a id="how-do-you-scan-docker-images-for-vulnerabilities-before-deployment"></a>
 - [How do you secure Docker containers?](../topics/docker.md#how-do-you-secure-docker-containers) — 1×
@@ -351,7 +357,9 @@
 - [How do you monitor Docker containers?](../topics/docker.md#how-do-you-monitor-docker-containers)
 - [How do you optimize a docker image build pipeline for microservices ?](../topics/docker.md#how-do-you-optimize-a-docker-image-build-pipeline-for-microservices) — tags: `CI/CD`
 - [How do you optimize Docker image size?](../topics/docker.md#how-do-you-optimize-docker-image-size)
+- [How do you pass environment variables during Docker build and runtime?](../topics/docker.md#how-do-you-pass-environment-variables-during-docker-build-and-runtime)
 - [How do you pass environment variables to a Docker container?](../topics/docker.md#how-do-you-pass-environment-variables-to-a-docker-container)
+- [How do you perform Docker image vulnerability scanning during build time and at the registry level?](../topics/docker.md#how-do-you-perform-docker-image-vulnerability-scanning-during-build-time-and-at-) — tags: `Security`
 - [How do you reduce the size of a Docker image?](../topics/docker.md#how-do-you-reduce-the-size-of-a-docker-image)
 - [How do you scan Docker images for vulnerabilities before deployment?](../topics/docker.md#how-do-you-scan-docker-images-for-vulnerabilities-before-deployment)
 - [How do you secure container images before deployment?](../topics/docker.md#how-do-you-secure-container-images-before-deployment)
@@ -380,6 +388,7 @@
 - [What are Multi-Stage Docker Builds and why are they important?](../topics/docker.md#what-are-multi-stage-docker-builds-and-why-are-they-important)
 - [What are multi-stage Docker builds?](../topics/docker.md#what-are-multi-stage-docker-builds)
 - [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes)
+- [What are the stages involved in building a Docker image?](../topics/docker.md#what-are-the-stages-involved-in-building-a-docker-image)
 - [What best practices do you follow while writing a production-ready Dockerfile?](../topics/docker.md#what-best-practices-do-you-follow-while-writing-a-production-ready-dockerfile)
 - [What happens in each stage of a Docker build and why do ENTRYPOINT and CMD matter?](../topics/docker.md#what-happens-in-each-stage-of-a-docker-build-and-why-do-entrypoint-and-cmd-matte)
 - [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run)
@@ -418,25 +427,26 @@
 - [Deltassi](../companies/deltassi.md)
 - [Hexaware Technologies](../companies/hexaware-technologies.md)
 - [Infosys](../companies/infosys.md)
+- [Kotraya Technologies](../companies/kotraya-technologies.md)
 - [Oracle](../companies/oracle.md)
 
 ## Recently added
 
+- [Docker](../topics/docker.md#docker) — 2026-08-19
+- [What is Docker?](../topics/docker.md#what-is-docker) — 2026-08-19
+- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 2026-08-19
+- [How do you pass environment variables during Docker build and runtime?](../topics/docker.md#how-do-you-pass-environment-variables-during-docker-build-and-runtime) — 2026-08-19
+- [How do you perform Docker image vulnerability scanning during build time and at the registry level?](../topics/docker.md#how-do-you-perform-docker-image-vulnerability-scanning-during-build-time-and-at-) — 2026-08-19 · tags: `Security`
+- [What are the stages involved in building a Docker image?](../topics/docker.md#what-are-the-stages-involved-in-building-a-docker-image) — 2026-08-19
 - [What tools have you used for container orchestration?](../topics/docker.md#what-tools-have-you-used-for-container-orchestration) — 2026-08-13
 - [Have you written a Dockerfile?](../topics/docker.md#have-you-written-a-dockerfile) — 2026-08-13
 - [Docker and Containers](../topics/docker.md#docker-and-containers) — 2026-08-12
-- [Docker](../topics/docker.md#docker) — 2026-08-12
 - [Docker image optimization and security](../topics/docker.md#docker-image-optimization-and-security) — 2026-08-12
 - [How would you use Docker to implement a Pub/Sub system?](../topics/docker.md#how-would-you-use-docker-to-implement-a-pub-sub-system) — 2026-08-10
-- [What is Docker?](../topics/docker.md#what-is-docker) — 2026-08-10
 - [Can you explain your experience with Docker?](../topics/docker.md#can-you-explain-your-experience-with-docker) — 2026-08-10
-- [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) — 2026-08-10
 - [What's the difference between Docker and a virtual machine?](../topics/docker.md#what-s-the-difference-between-docker-and-a-virtual-machine) — 2026-08-10
 - [How to check the vulnerabilities in docker container which is running in the production ?](../topics/docker.md#how-to-check-the-vulnerabilities-in-docker-container-which-is-running-in-the-pro) — 2026-08-10
 - [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how) — 2026-08-10
-- [How do you optimize a docker image build pipeline for microservices ?](../topics/docker.md#how-do-you-optimize-a-docker-image-build-pipeline-for-microservices) — 2026-08-10 · tags: `CI/CD`
-- [How does Docker layer caching work?](../topics/docker.md#how-does-docker-layer-caching-work) — 2026-08-10
-- [How do you scan Docker images for vulnerabilities before deployment?](../topics/docker.md#how-do-you-scan-docker-images-for-vulnerabilities-before-deployment) — 2026-08-10
 
 ## Related topics
 
@@ -463,7 +473,7 @@
 | [Can you write a simple docker file](../topics/docker.md#can-you-write-a-simple-docker-file) | Medium | 1 |
 | [Container restarted and data got lost — how do you fix it?](../topics/docker.md#container-restarted-and-data-got-lost-how-do-you-fix-it) | Medium | 2 |
 | [Design, automate, and manage scalable cloud infrastructure using Microsoft Azure, Terraform, Azure DevOps, and Docker.](../topics/docker.md#design-automate-and-manage-scalable-cloud-infrastructure-using-microsoft-azure-t) | Hard | 1 |
-| [Docker](../topics/docker.md#docker) | Medium | 2 |
+| [Docker](../topics/docker.md#docker) | Medium | 3 |
 | [Docker and Containers](../topics/docker.md#docker-and-containers) | Medium | 2 |
 | [Docker architectures](../topics/docker.md#docker-architectures) | Hard | 2 |
 | [Docker containerized application is degrading with the performance over time, how to check and fix this issue?](../topics/docker.md#docker-containerized-application-is-degrading-with-the-performance-over-time-how) | Medium | 1 |
@@ -497,7 +507,9 @@
 | [How do you monitor Docker containers?](../topics/docker.md#how-do-you-monitor-docker-containers) | Medium | 1 |
 | [How do you optimize a docker image build pipeline for microservices ?](../topics/docker.md#how-do-you-optimize-a-docker-image-build-pipeline-for-microservices) | Medium | 1 |
 | [How do you optimize Docker image size?](../topics/docker.md#how-do-you-optimize-docker-image-size) | Medium | 1 |
+| [How do you pass environment variables during Docker build and runtime?](../topics/docker.md#how-do-you-pass-environment-variables-during-docker-build-and-runtime) | Medium | 1 |
 | [How do you pass environment variables to a Docker container?](../topics/docker.md#how-do-you-pass-environment-variables-to-a-docker-container) | Medium | 1 |
+| [How do you perform Docker image vulnerability scanning during build time and at the registry level?](../topics/docker.md#how-do-you-perform-docker-image-vulnerability-scanning-during-build-time-and-at-) | Medium | 1 |
 | [How do you reduce the size of a Docker image?](../topics/docker.md#how-do-you-reduce-the-size-of-a-docker-image) | Medium | 2 |
 | [How do you scan Docker images for vulnerabilities before deployment?](../topics/docker.md#how-do-you-scan-docker-images-for-vulnerabilities-before-deployment) | Medium | 1 |
 | [How do you secure container images before deployment?](../topics/docker.md#how-do-you-secure-container-images-before-deployment) | Medium | 2 |
@@ -527,9 +539,10 @@
 | [What are Multi-Stage Docker Builds and why are they important?](../topics/docker.md#what-are-multi-stage-docker-builds-and-why-are-they-important) | Easy | 1 |
 | [What are multi-stage Docker builds?](../topics/docker.md#what-are-multi-stage-docker-builds) | Easy | 1 |
 | [What are the 3 types of Docker volumes?](../topics/docker.md#what-are-the-3-types-of-docker-volumes) | Easy | 2 |
+| [What are the stages involved in building a Docker image?](../topics/docker.md#what-are-the-stages-involved-in-building-a-docker-image) | Easy | 1 |
 | [What best practices do you follow while writing a production-ready Dockerfile?](../topics/docker.md#what-best-practices-do-you-follow-while-writing-a-production-ready-dockerfile) | Hard | 1 |
 | [What happens in each stage of a Docker build and why do ENTRYPOINT and CMD matter?](../topics/docker.md#what-happens-in-each-stage-of-a-docker-build-and-why-do-entrypoint-and-cmd-matte) | Medium | 2 |
-| [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) | Medium | 6 |
+| [What happens internally when you run docker run?](../topics/docker.md#what-happens-internally-when-you-run-docker-run) | Medium | 7 |
 | [What is a Docker container?](../topics/docker.md#what-is-a-docker-container) | Easy | 2 |
 | [What is a Docker image?](../topics/docker.md#what-is-a-docker-image) | Easy | 2 |
 | [What is a Dockerfile and how do you create one?](../topics/docker.md#what-is-a-dockerfile-and-how-do-you-create-one) | Easy | 1 |
@@ -539,7 +552,7 @@
 | [What is Docker Compose?](../topics/docker.md#what-is-docker-compose) | Easy | 1 |
 | [What is Docker networking and its types?](../topics/docker.md#what-is-docker-networking-and-its-types) | Easy | 1 |
 | [What is Docker Networking?](../topics/docker.md#what-is-docker-networking) | Easy | 1 |
-| [What is Docker?](../topics/docker.md#what-is-docker) | Easy | 3 |
+| [What is Docker?](../topics/docker.md#what-is-docker) | Easy | 4 |
 | [What is the command to run a container](../topics/docker.md#what-is-the-command-to-run-a-container) | Easy | 1 |
 | [What is the difference between "COPY" and "ADD" in Docker? What was your usage?](../topics/docker.md#what-is-the-difference-between-copy-and-add-in-docker-what-was-your-usage) | Easy | 1 |
 | [What is the difference between a Docker Image and a Docker Container?](../topics/docker.md#what-is-the-difference-between-a-docker-image-and-a-docker-container) | Easy | 5 |

@@ -6,19 +6,20 @@
 
 | Metric | Value |
 | --- | ---: |
-| Questions | 47 |
-| Topics covered | 16 |
+| Questions | 52 |
+| Topics covered | 17 |
 
 ## Topics asked
 
-- [General](../topics/general.md) — 12
+- [General](../topics/general.md) — 14
 - [Terraform](../topics/terraform.md) — 8
 - [Kubernetes](../topics/kubernetes.md) — 6
 - [AWS](../topics/aws.md) — 5
+- [CI/CD](../topics/ci-cd.md) — 3
 - [Deployment Strategies](../topics/deployment-strategies.md) — 3
 - [Disaster Recovery](../topics/disaster-recovery.md) — 2
 - [Jenkins](../topics/jenkins.md) — 2
-- [CI/CD](../topics/ci-cd.md) — 1
+- [Azure](../topics/azure.md) — 1
 - [GitHub Actions](../topics/github-actions.md) — 1
 - [IAM](../topics/iam.md) — 1
 - [Incident Response](../topics/incident-response.md) — 1
@@ -32,9 +33,9 @@
 
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 7× · Terraform
 - [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — 4× · Terraform
+- [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — 4× · General
 - [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 4× · GitHub Actions · tags: `CI/CD`
 - [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 3× · Kubernetes
-- [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — 3× · General
 - [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2× · Jenkins · tags: `CI/CD`
 - [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — 2× · Kubernetes
 - [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2× · Kubernetes · tags: `AWS`
@@ -61,9 +62,15 @@
 - [How would you optimize AWS costs without impacting performance?](../topics/aws.md#how-would-you-optimize-aws-costs-without-impacting-performance) — Medium
 - [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance) — Medium
 
+### Azure
+
+- [How would you migrate an on-premise data warehouse to Azure?](../topics/azure.md#how-would-you-migrate-an-on-premise-data-warehouse-to-azure) — Medium
+
 ### CI/CD
 
 - [Explain the stages of a CI/CD pipeline.](../topics/ci-cd.md#explain-the-stages-of-a-ci-cd-pipeline) — Medium
+- [How would you design a metadata-driven pipeline?](../topics/ci-cd.md#how-would-you-design-a-metadata-driven-pipeline) — Hard
+- [Your pipeline went from 20 minutes to 2 hours. How would you troubleshoot it?](../topics/ci-cd.md#your-pipeline-went-from-20-minutes-to-2-hours-how-would-you-troubleshoot-it) — Medium
 
 ### Deployment Strategies
 
@@ -84,6 +91,8 @@
 - [How do you detect and prevent configuration drift?](../topics/general.md#how-do-you-detect-and-prevent-configuration-drift) — Medium
 - [How do you manage remote state?](../topics/general.md#how-do-you-manage-remote-state) — Medium
 - [How would you deploy the same application to multiple environments?](../topics/general.md#how-would-you-deploy-the-same-application-to-multiple-environments) — Medium
+- [How would you handle data skew in Databricks?](../topics/general.md#how-would-you-handle-data-skew-in-databricks) — Hard
+- [How would you implement incremental loading?](../topics/general.md#how-would-you-implement-incremental-loading) — Hard
 - [How would you reduce deployment downtime for a critical application?](../topics/general.md#how-would-you-reduce-deployment-downtime-for-a-critical-application) — Medium
 - [matrix problem](../topics/general.md#matrix-problem) — Medium
 - [SQL queries](../topics/general.md#sql-queries) — Medium
@@ -150,20 +159,20 @@
 
 ## Interview rounds
 
-- Unspecified — 39
+- Unspecified — 44
 - Technical — 8
 
 ## Recently added
 
+- [How would you implement incremental loading?](../topics/general.md#how-would-you-implement-incremental-loading) — 2026-08-19
+- [How would you migrate an on-premise data warehouse to Azure?](../topics/azure.md#how-would-you-migrate-an-on-premise-data-warehouse-to-azure) — 2026-08-19
+- [How would you handle data skew in Databricks?](../topics/general.md#how-would-you-handle-data-skew-in-databricks) — 2026-08-19
+- [Your pipeline went from 20 minutes to 2 hours. How would you troubleshoot it?](../topics/ci-cd.md#your-pipeline-went-from-20-minutes-to-2-hours-how-would-you-troubleshoot-it) — 2026-08-19
+- [How would you design a metadata-driven pipeline?](../topics/ci-cd.md#how-would-you-design-a-metadata-driven-pipeline) — 2026-08-19
+- [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — 2026-08-19
 - [tree traversal](../topics/general.md#tree-traversal) — 2026-08-02
 - [matrix problem](../topics/general.md#matrix-problem) — 2026-08-02
 - [SQL queries](../topics/general.md#sql-queries) — 2026-08-02
 - [cloud fundamentals](../topics/general.md#cloud-fundamentals) — 2026-08-02
-- [A few AWS services and their use cases.](../topics/aws.md#a-few-aws-services-and-their-use-cases) — 2026-08-02
-- [Basic Terraform concepts.](../topics/terraform.md#basic-terraform-concepts) — 2026-08-02
-- [Kubernetes architecture and overall cluster structure.](../topics/kubernetes.md#kubernetes-architecture-and-overall-cluster-structure) — 2026-08-02 · tags: `System Design`
-- [Pod-to-Pod communication in Kubernetes.](../topics/kubernetes.md#pod-to-pod-communication-in-kubernetes) — 2026-08-02
-- [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) — 2026-08-02 · tags: `CI/CD`
-- [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 2026-07-30
 
 [← All companies](./README.md) · [Home](../README.md)

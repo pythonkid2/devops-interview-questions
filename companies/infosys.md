@@ -36,7 +36,7 @@
 
 ## Most repeated
 
-- [What is the difference between CMD and ENTRYPOINT?](../topics/general.md#what-is-the-difference-between-cmd-and-entrypoint) — 8× · General
+- [What is the difference between CMD and ENTRYPOINT?](../topics/general.md#what-is-the-difference-between-cmd-and-entrypoint) — 9× · General
 - [Do you have any questions for the interviewer?](../topics/general.md#do-you-have-any-questions-for-the-interviewer) — 3× · General
 - [Terraform state management](../topics/terraform.md#terraform-state-management) — 3× · Terraform
 - [A cloud-based e-commerce application experiences unpredictable traffic spikes. How would you ensure responsiveness and reliability?](../topics/general.md#a-cloud-based-e-commerce-application-experiences-unpredictable-traffic-spikes-ho) — 2× · General
@@ -195,6 +195,7 @@
 
 ## Recently added
 
+- [What is the difference between CMD and ENTRYPOINT?](../topics/general.md#what-is-the-difference-between-cmd-and-entrypoint) — 2026-08-19
 - [Do you have any questions for the interviewer?](../topics/general.md#do-you-have-any-questions-for-the-interviewer) — 2026-08-13
 - [What are Terraform workspaces?](../topics/terraform.md#what-are-terraform-workspaces) — 2026-08-13
 - [What are Terraform modules and why do we use them?](../topics/terraform.md#what-are-terraform-modules-and-why-do-we-use-them) — 2026-08-13
@@ -204,6 +205,5 @@
 - [What repetitive tasks have you automated using Bash/Shell scripting?](../topics/bash.md#what-repetitive-tasks-have-you-automated-using-bash-shell-scripting) — 2026-08-13
 - [Which scripting languages have you worked with?](../topics/general.md#which-scripting-languages-have-you-worked-with) — 2026-08-13
 - [Have you worked on incident management / production incidents?](../topics/incident-response.md#have-you-worked-on-incident-management-production-incidents) — 2026-08-13
-- [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 2026-08-13
 
 [← All companies](./README.md) · [Home](../README.md)

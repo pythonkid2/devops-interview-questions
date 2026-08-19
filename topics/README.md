@@ -8,8 +8,8 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [AWS](./aws.md) | 115 |
-| [Azure](./azure.md) | 26 |
+| [AWS](./aws.md) | 121 |
+| [Azure](./azure.md) | 42 |
 | [CloudFormation](./cloudformation.md) | 7 |
 | [GCP](./gcp.md) | 1 |
 
@@ -17,36 +17,36 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Kubernetes](./kubernetes.md) | 236 |
-| [Docker](./docker.md) | 105 |
-| [EKS](./eks.md) | 22 |
+| [Kubernetes](./kubernetes.md) | 260 |
+| [Docker](./docker.md) | 108 |
+| [EKS](./eks.md) | 24 |
 | [ArgoCD](./argocd.md) | 10 |
-| [Helm](./helm.md) | 8 |
-| [AKS](./aks.md) | 2 |
+| [Helm](./helm.md) | 10 |
+| [AKS](./aks.md) | 4 |
 | [GKE](./gke.md) | 1 |
 
 ## IaC
 
 | Topic | Questions |
 | --- | ---: |
-| [Terraform](./terraform.md) | 140 |
+| [Terraform](./terraform.md) | 141 |
 | [Ansible](./ansible.md) | 16 |
 
 ## CI/CD
 
 | Topic | Questions |
 | --- | ---: |
-| [Jenkins](./jenkins.md) | 83 |
-| [CI/CD](./ci-cd.md) | 71 |
+| [Jenkins](./jenkins.md) | 91 |
+| [CI/CD](./ci-cd.md) | 79 |
 | [Deployment Strategies](./deployment-strategies.md) | 56 |
-| [Azure DevOps](./azure-devops.md) | 17 |
-| [GitHub Actions](./github-actions.md) | 7 |
+| [Azure DevOps](./azure-devops.md) | 19 |
+| [GitHub Actions](./github-actions.md) | 8 |
 
 ## Observability
 
 | Topic | Questions |
 | --- | ---: |
-| [Monitoring](./monitoring.md) | 19 |
+| [Monitoring](./monitoring.md) | 21 |
 | [Prometheus](./prometheus.md) | 16 |
 | [Alerting](./alerting.md) | 8 |
 | [Grafana](./grafana.md) | 8 |
@@ -62,10 +62,10 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 | Topic | Questions |
 | --- | ---: |
 | [Load Balancing](./load-balancing.md) | 15 |
-| [Ingress](./ingress.md) | 12 |
+| [Ingress](./ingress.md) | 13 |
 | [VPC](./vpc.md) | 11 |
+| [API Gateway](./api-gateway.md) | 8 |
 | [DNS](./dns.md) | 7 |
-| [API Gateway](./api-gateway.md) | 6 |
 | [Service Mesh](./service-mesh.md) | 6 |
 | [CDN](./cdn.md) | 3 |
 | [Networking](./networking.md) | 2 |
@@ -74,10 +74,11 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [IAM](./iam.md) | 26 |
+| [IAM](./iam.md) | 28 |
 | [DevSecOps](./devsecops.md) | 18 |
-| [Network Security](./network-security.md) | 12 |
-| [Vault](./vault.md) | 4 |
+| [Network Security](./network-security.md) | 13 |
+| [Vault](./vault.md) | 5 |
+| [Azure AD](./azure-ad.md) | 2 |
 | [Certificate Management](./certificate-management.md) | 2 |
 | [Secrets](./secrets.md) | 1 |
 | [Security](./security.md) | 1 |
@@ -86,12 +87,12 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Incident Response](./incident-response.md) | 69 |
+| [Incident Response](./incident-response.md) | 72 |
 | [Disaster Recovery](./disaster-recovery.md) | 18 |
 | [Capacity Planning](./capacity-planning.md) | 15 |
-| [High Availability](./high-availability.md) | 11 |
+| [High Availability](./high-availability.md) | 12 |
+| [SRE](./sre.md) | 5 |
 | [Chaos Engineering](./chaos-engineering.md) | 4 |
-| [SRE](./sre.md) | 4 |
 | [On-Call](./on-call.md) | 3 |
 | [SLOs](./slos.md) | 2 |
 
@@ -99,7 +100,7 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Linux](./linux.md) | 28 |
+| [Linux](./linux.md) | 30 |
 | [Shell Scripting](./shell-scripting.md) | 6 |
 | [Bash](./bash.md) | 3 |
 
@@ -107,25 +108,25 @@ Pick a technology and study from **one page** — most-asked, difficulty bands, 
 
 | Topic | Questions |
 | --- | ---: |
-| [Git](./git.md) | 23 |
-| [Python](./python.md) | 8 |
+| [Git](./git.md) | 24 |
+| [Python](./python.md) | 9 |
 
 ## Data & platforms
 
 | Topic | Questions |
 | --- | ---: |
-| [Databases](./databases.md) | 17 |
+| [Databases](./databases.md) | 23 |
 | [Kafka](./kafka.md) | 10 |
 | [Storage](./storage.md) | 9 |
-| [Redis](./redis.md) | 3 |
+| [Redis](./redis.md) | 6 |
 
 ## Architecture & cost
 
 | Topic | Questions |
 | --- | ---: |
-| [System Design](./system-design.md) | 38 |
+| [System Design](./system-design.md) | 44 |
 | [FinOps](./finops.md) | 9 |
-| [Microservices](./microservices.md) | 5 |
+| [Microservices](./microservices.md) | 6 |
 
 
 [← Home](../README.md)

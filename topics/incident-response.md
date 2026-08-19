@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Incident Response**
 
-**69** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**72** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 69 |
-| Easy / Medium / Hard | 0 / 37 / 32 |
-| Companies | 8 |
+| Questions | 72 |
+| Easy / Medium / Hard | 0 / 39 / 33 |
+| Companies | 9 |
 
 ## Most asked
 
@@ -140,8 +140,12 @@ _None in this band yet._
   <a id="how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach"></a>
 - [Incident Management](../topics/incident-response.md#incident-management) — 1×
   <a id="incident-management"></a>
+- [Know how to debug: 503 errors](../topics/incident-response.md#know-how-to-debug-503-errors) — 1×
+  <a id="know-how-to-debug-503-errors"></a>
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/incident-response.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — 1× · tags: `Ingress`, `Kubernetes`
   <a id="pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress"></a>
+- [Pods are Running but users get 503 errors — what would you check?](../topics/incident-response.md#pods-are-running-but-users-get-503-errors-what-would-you-check) — 1× · tags: `Kubernetes`
+  <a id="pods-are-running-but-users-get-503-errors-what-would-you-check"></a>
 - [Real incident-based thinking](../topics/incident-response.md#real-incident-based-thinking) — 1×
   <a id="real-incident-based-thinking"></a>
 - [Storage latency suddenly increases. How would you investigate?](../topics/incident-response.md#storage-latency-suddenly-increases-how-would-you-investigate) — 1×
@@ -209,6 +213,8 @@ _None in this band yet._
   <a id="explain-your-production-incident-management-process"></a>
 - [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident) — 1×
   <a id="how-do-you-respond-to-a-production-incident"></a>
+- [How would you troubleshoot a production issue without impacting the running application?](../topics/incident-response.md#how-would-you-troubleshoot-a-production-issue-without-impacting-the-running-appl) — 1×
+  <a id="how-would-you-troubleshoot-a-production-issue-without-impacting-the-running-appl"></a>
 - [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) — 1× · tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Observability`
   <a id="leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag"></a>
 - [Monitoring, Troubleshooting & Production Support](../topics/incident-response.md#monitoring-troubleshooting-production-support) — 1× · tags: `Monitoring`
@@ -263,13 +269,16 @@ _None in this band yet._
 - [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident)
 - [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident)
 - [How would you troubleshoot a deployment that succeeded but users are receiving 503 errors?](../topics/incident-response.md#how-would-you-troubleshoot-a-deployment-that-succeeded-but-users-are-receiving-5)
+- [How would you troubleshoot a production issue without impacting the running application?](../topics/incident-response.md#how-would-you-troubleshoot-a-production-issue-without-impacting-the-running-appl)
 - [How would you troubleshoot intermittent 503 errors in Kubernetes?](../topics/incident-response.md#how-would-you-troubleshoot-intermittent-503-errors-in-kubernetes) — tags: `Kubernetes`
 - [Incident Management](../topics/incident-response.md#incident-management)
 - [Incident Response](../topics/incident-response.md#incident-response)
+- [Know how to debug: 503 errors](../topics/incident-response.md#know-how-to-debug-503-errors)
 - [Kubernetes pods are Running but users receive 503 errors. What will you check?](../topics/incident-response.md#kubernetes-pods-are-running-but-users-receive-503-errors-what-will-you-check) — tags: `Kubernetes`
 - [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) — tags: `OpenTelemetry`, `Prometheus`, `Grafana`, `Observability`
 - [Monitoring, Troubleshooting & Production Support](../topics/incident-response.md#monitoring-troubleshooting-production-support) — tags: `Monitoring`
 - [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/incident-response.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) — tags: `Ingress`, `Kubernetes`
+- [Pods are Running but users get 503 errors — what would you check?](../topics/incident-response.md#pods-are-running-but-users-get-503-errors-what-would-you-check) — tags: `Kubernetes`
 - [Production error crashloopback of how do you troubleshoot.](../topics/incident-response.md#production-error-crashloopback-of-how-do-you-troubleshoot)
 - [Production incident response](../topics/incident-response.md#production-incident-response)
 - [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han)
@@ -311,11 +320,15 @@ _None in this band yet._
 - [Elite Code Technologies](../companies/elite-code-technologies.md)
 - [EY](../companies/ey.md)
 - [Infosys](../companies/infosys.md)
+- [Kotraya Technologies](../companies/kotraya-technologies.md)
 - [PwC](../companies/pwc.md)
 - [TCS](../companies/tcs.md)
 
 ## Recently added
 
+- [Know how to debug: 503 errors](../topics/incident-response.md#know-how-to-debug-503-errors) — 2026-08-19
+- [Pods are Running but users get 503 errors — what would you check?](../topics/incident-response.md#pods-are-running-but-users-get-503-errors-what-would-you-check) — 2026-08-19 · tags: `Kubernetes`
+- [How would you troubleshoot a production issue without impacting the running application?](../topics/incident-response.md#how-would-you-troubleshoot-a-production-issue-without-impacting-the-running-appl) — 2026-08-19
 - [Explain the most challenging production incident you've handled and the architectural improvements you made afterward.](../topics/incident-response.md#explain-the-most-challenging-production-incident-you-ve-handled-and-the-architec) — 2026-08-15
 - [Your application latency suddenly increased after a release. Walk me through your debugging approach.](../topics/incident-response.md#your-application-latency-suddenly-increased-after-a-release-walk-me-through-your) — 2026-08-15
 - [How would you troubleshoot a deployment that succeeded but users are receiving 503 errors?](../topics/incident-response.md#how-would-you-troubleshoot-a-deployment-that-succeeded-but-users-are-receiving-5) — 2026-08-15
@@ -328,9 +341,6 @@ _None in this band yet._
 - [AI-assisted incident management](../topics/incident-response.md#ai-assisted-incident-management) — 2026-08-10
 - [You're on-call and production is down. What's the FIRST command you run?](../topics/incident-response.md#you-re-on-call-and-production-is-down-what-s-the-first-command-you-run) — 2026-08-10 · tags: `On-Call`
 - [Explain a production incident you resolved and your RCA approach.](../topics/incident-response.md#explain-a-production-incident-you-resolved-and-your-rca-approach) — 2026-08-10
-- [How would you troubleshoot intermittent 503 errors in Kubernetes?](../topics/incident-response.md#how-would-you-troubleshoot-intermittent-503-errors-in-kubernetes) — 2026-08-10 · tags: `Kubernetes`
-- [Describe a production incident you handled. What was the root cause, how did you resolve it, and what did you learn from the experience?](../topics/incident-response.md#describe-a-production-incident-you-handled-what-was-the-root-cause-how-did-you-r) — 2026-08-10
-- [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident) — 2026-08-10
 
 ## Related topics
 
@@ -375,13 +385,16 @@ _None in this band yet._
 | [How do you perform a Root Cause Analysis (RCA) after a major production incident?](../topics/incident-response.md#how-do-you-perform-a-root-cause-analysis-rca-after-a-major-production-incident) | Hard | 2 |
 | [How do you respond to a production incident?](../topics/incident-response.md#how-do-you-respond-to-a-production-incident) | Hard | 1 |
 | [How would you troubleshoot a deployment that succeeded but users are receiving 503 errors?](../topics/incident-response.md#how-would-you-troubleshoot-a-deployment-that-succeeded-but-users-are-receiving-5) | Medium | 4 |
+| [How would you troubleshoot a production issue without impacting the running application?](../topics/incident-response.md#how-would-you-troubleshoot-a-production-issue-without-impacting-the-running-appl) | Hard | 1 |
 | [How would you troubleshoot intermittent 503 errors in Kubernetes?](../topics/incident-response.md#how-would-you-troubleshoot-intermittent-503-errors-in-kubernetes) | Medium | 2 |
 | [Incident Management](../topics/incident-response.md#incident-management) | Medium | 1 |
 | [Incident Response](../topics/incident-response.md#incident-response) | Medium | 2 |
+| [Know how to debug: 503 errors](../topics/incident-response.md#know-how-to-debug-503-errors) | Medium | 1 |
 | [Kubernetes pods are Running but users receive 503 errors. What will you check?](../topics/incident-response.md#kubernetes-pods-are-running-but-users-receive-503-errors-what-will-you-check) | Medium | 2 |
 | [Leadership wants to implement AI-powered Platform Engineering using GitOps, AI Agents, Observability, Prometheus, Grafana, OpenTelemetry, Microsoft Fabric, and predictive incident management. How would you design the enterprise platform architecture?](../topics/incident-response.md#leadership-wants-to-implement-ai-powered-platform-engineering-using-gitops-ai-ag) | Hard | 1 |
 | [Monitoring, Troubleshooting & Production Support](../topics/incident-response.md#monitoring-troubleshooting-production-support) | Hard | 1 |
 | [Pod is Running but returning 503 - how do you debug at network, service, and ingress level?](../topics/incident-response.md#pod-is-running-but-returning-503-how-do-you-debug-at-network-service-and-ingress) | Medium | 1 |
+| [Pods are Running but users get 503 errors — what would you check?](../topics/incident-response.md#pods-are-running-but-users-get-503-errors-what-would-you-check) | Medium | 1 |
 | [Production error crashloopback of how do you troubleshoot.](../topics/incident-response.md#production-error-crashloopback-of-how-do-you-troubleshoot) | Hard | 2 |
 | [Production incident response](../topics/incident-response.md#production-incident-response) | Hard | 1 |
 | [Production is down, and multiple teams join the incident bridge. How would you handle the situation?](../topics/incident-response.md#production-is-down-and-multiple-teams-join-the-incident-bridge-how-would-you-han) | Hard | 2 |

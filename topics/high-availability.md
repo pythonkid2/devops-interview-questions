@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **High Availability**
 
-**11** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**12** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 11 |
-| Easy / Medium / Hard | 1 / 8 / 2 |
+| Questions | 12 |
+| Easy / Medium / Hard | 1 / 9 / 2 |
 | Companies | 2 |
 
 ## Most asked
@@ -45,6 +45,8 @@
   <a id="how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and"></a>
 - [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) — **1×** · Medium · tags: `Kubernetes`
   <a id="how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state"></a>
+- [Learn: High Availability](../topics/high-availability.md#learn-high-availability) — **1×** · Medium
+  <a id="learn-high-availability"></a>
 - [what is high availability?](../topics/high-availability.md#what-is-high-availability) — **1×** · Easy
   <a id="what-is-high-availability"></a>
 - [Your organization supports millions of users through .NET, Azure, Microservices, Kubernetes, and API-based applications. Performance and scalability issues are affecting critical business operations. How would you modernize the architecture while ensuring high availability and resilience?](../topics/high-availability.md#your-organization-supports-millions-of-users-through-net-azure-microservices-kub) — **1×** · Hard · tags: `Kubernetes`, `Azure`, `System Design`
@@ -73,6 +75,8 @@
   <a id="how-do-you-achieve-high-availability-targets-like-99-uptime-using-monitoring-and"></a>
 - [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) — 1× · tags: `Kubernetes`
   <a id="how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state"></a>
+- [Learn: High Availability](../topics/high-availability.md#learn-high-availability) — 1×
+  <a id="learn-high-availability"></a>
 
 ## Advanced
 
@@ -93,6 +97,7 @@
 - [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — tags: `Databases`
 - [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) — tags: `Kubernetes`
 - [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) — tags: `Kubernetes`, `System Design`
+- [Learn: High Availability](../topics/high-availability.md#learn-high-availability)
 - [what is high availability?](../topics/high-availability.md#what-is-high-availability)
 - [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases)
 - [Your organization supports millions of users through .NET, Azure, Microservices, Kubernetes, and API-based applications. Performance and scalability issues are affecting critical business operations. How would you modernize the architecture while ensuring high availability and resilience?](../topics/high-availability.md#your-organization-supports-millions-of-users-through-net-azure-microservices-kub) — tags: `Kubernetes`, `Azure`, `System Design`
@@ -104,6 +109,7 @@
 
 ## Recently added
 
+- [Learn: High Availability](../topics/high-availability.md#learn-high-availability) — 2026-08-19
 - [Your organization supports millions of users through .NET, Azure, Microservices, Kubernetes, and API-based applications. Performance and scalability issues are affecting critical business operations. How would you modernize the architecture while ensuring high availability and resilience?](../topics/high-availability.md#your-organization-supports-millions-of-users-through-net-azure-microservices-kub) — 2026-08-13 · tags: `Kubernetes`, `Azure`, `System Design`
 - [what is high availability?](../topics/high-availability.md#what-is-high-availability) — 2026-08-13
 - [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) — 2026-08-12 · tags: `Databases`
@@ -138,6 +144,7 @@
 | [How do you ensure high availability for RDS ?](../topics/high-availability.md#how-do-you-ensure-high-availability-for-rds) | Medium | 2 |
 | [How high availability will be ensured in Kubernetes cluster when running a stateful application ?](../topics/high-availability.md#how-high-availability-will-be-ensured-in-kubernetes-cluster-when-running-a-state) | Medium | 1 |
 | [How would you design a multi-region Kubernetes architecture for high availability?](../topics/high-availability.md#how-would-you-design-a-multi-region-kubernetes-architecture-for-high-availabilit) | Hard | 8 |
+| [Learn: High Availability](../topics/high-availability.md#learn-high-availability) | Medium | 1 |
 | [what is high availability?](../topics/high-availability.md#what-is-high-availability) | Easy | 1 |
 | [Why are Multi-AZ and replicas used for databases?](../topics/high-availability.md#why-are-multi-az-and-replicas-used-for-databases) | Medium | 2 |
 | [Your organization supports millions of users through .NET, Azure, Microservices, Kubernetes, and API-based applications. Performance and scalability issues are affecting critical business operations. How would you modernize the architecture while ensuring high availability and resilience?](../topics/high-availability.md#your-organization-supports-millions-of-users-through-net-azure-microservices-kub) | Hard | 1 |

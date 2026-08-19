@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Helm**
 
-**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**10** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 8 |
-| Easy / Medium / Hard | 0 / 8 / 0 |
+| Questions | 10 |
+| Easy / Medium / Hard | 1 / 9 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -41,12 +41,17 @@
   <a id="helm-kubernetes-deployments"></a>
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — **1×** · Medium · tags: `Jenkins`
   <a id="jenkins-debugging-helm-deployments"></a>
+- [What is email signing and Helm chart signing? Which tools are used?](../topics/helm.md#what-is-email-signing-and-helm-chart-signing-which-tools-are-used) — **1×** · Easy
+  <a id="what-is-email-signing-and-helm-chart-signing-which-tools-are-used"></a>
+- [Which deployment tools have you used (Docker, Kubernetes, Helm, Terraform)?](../topics/helm.md#which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform) — **1×** · Medium · tags: `Kubernetes`, `Docker`, `Terraform`
+  <a id="which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform"></a>
 - [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) — **1×** · Medium
   <a id="you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm"></a>
 
 ## Beginner
 
-_None in this band yet._
+- [What is email signing and Helm chart signing? Which tools are used?](../topics/helm.md#what-is-email-signing-and-helm-chart-signing-which-tools-are-used) — 1×
+  <a id="what-is-email-signing-and-helm-chart-signing-which-tools-are-used"></a>
 
 ## Intermediate
 
@@ -64,6 +69,8 @@ _None in this band yet._
   <a id="helm-kubernetes-deployments"></a>
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — 1× · tags: `Jenkins`
   <a id="jenkins-debugging-helm-deployments"></a>
+- [Which deployment tools have you used (Docker, Kubernetes, Helm, Terraform)?](../topics/helm.md#which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform) — 1× · tags: `Kubernetes`, `Docker`, `Terraform`
+  <a id="which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform"></a>
 - [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) — 1×
   <a id="you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm"></a>
 
@@ -81,7 +88,9 @@ _None in this band yet._
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm)
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — tags: `Jenkins`
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — tags: `Jenkins`
+- [What is email signing and Helm chart signing? Which tools are used?](../topics/helm.md#what-is-email-signing-and-helm-chart-signing-which-tools-are-used)
 - [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use)
+- [Which deployment tools have you used (Docker, Kubernetes, Helm, Terraform)?](../topics/helm.md#which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform) — tags: `Kubernetes`, `Docker`, `Terraform`
 - [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm)
 
 ## Companies asking
@@ -90,6 +99,8 @@ _None in this band yet._
 
 ## Recently added
 
+- [What is email signing and Helm chart signing? Which tools are used?](../topics/helm.md#what-is-email-signing-and-helm-chart-signing-which-tools-are-used) — 2026-08-19
+- [Which deployment tools have you used (Docker, Kubernetes, Helm, Terraform)?](../topics/helm.md#which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform) — 2026-08-19 · tags: `Kubernetes`, `Docker`, `Terraform`
 - [Helm](../topics/helm.md#helm) — 2026-08-12
 - [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) — 2026-08-10
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — 2026-07-29 · tags: `Jenkins`
@@ -118,7 +129,9 @@ _None in this band yet._
 | [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) | Medium | 2 |
 | [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) | Medium | 1 |
 | [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) | Medium | 2 |
+| [What is email signing and Helm chart signing? Which tools are used?](../topics/helm.md#what-is-email-signing-and-helm-chart-signing-which-tools-are-used) | Easy | 1 |
 | [What’s signing for email and Helm charts and which tools do you use?](../topics/helm.md#whats-signing-for-email-and-helm-charts-and-which-tools-do-you-use) | Medium | 2 |
+| [Which deployment tools have you used (Docker, Kubernetes, Helm, Terraform)?](../topics/helm.md#which-deployment-tools-have-you-used-docker-kubernetes-helm-terraform) | Medium | 1 |
 | [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) | Medium | 1 |
 
 ## Learning resources

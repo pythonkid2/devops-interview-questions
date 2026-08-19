@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **AWS**
 
-**115** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**121** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 115 |
-| Easy / Medium / Hard | 15 / 92 / 8 |
-| Companies | 11 |
+| Questions | 121 |
+| Easy / Medium / Hard | 17 / 96 / 8 |
+| Companies | 13 |
 
 ## Most asked
 
@@ -35,14 +35,16 @@
   <a id="how-do-you-connect-to-an-ec2-instance-using-ssh"></a>
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — **4×** · Easy
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
+- [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — **3×** · Medium · tags: `Azure`, `GCP`
+  <a id="aws-azure-gcp"></a>
+- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — **3×** · Easy
+  <a id="what-is-amazon-s3"></a>
 - [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — **3×** · Medium
   <a id="write-an-example-for-lambda-expression"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — **2×** · Medium
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
 - [AWS](../topics/aws.md#aws) — **2×** · Medium
   <a id="aws"></a>
-- [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — **2×** · Medium · tags: `Azure`, `GCP`
-  <a id="aws-azure-gcp"></a>
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — **2×** · Medium
   <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
 - [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) — **2×** · Medium
@@ -69,8 +71,6 @@
   <a id="what-aws-services-have-you-used-explain-your-experience-in-detail"></a>
 - [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) — **2×** · Medium
   <a id="what-happens-when-an-aws-region-goes-down"></a>
-- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — **2×** · Easy
-  <a id="what-is-amazon-s3"></a>
 - [What is AWS?](../topics/aws.md#what-is-aws) — **2×** · Easy
   <a id="what-is-aws"></a>
 - [What is EC2?](../topics/aws.md#what-is-ec2) — **2×** · Easy
@@ -82,7 +82,7 @@
 
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) — 4×
   <a id="what-are-the-major-aws-services-you-have-worked-on"></a>
-- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — 2×
+- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — 3×
   <a id="what-is-amazon-s3"></a>
 - [What is AWS?](../topics/aws.md#what-is-aws) — 2×
   <a id="what-is-aws"></a>
@@ -92,8 +92,12 @@
   <a id="what-are-aws-regions-and-availability-zones"></a>
 - [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) — 1×
   <a id="what-are-the-different-aws-services-you-used"></a>
+- [What are the different ways to push artifacts to AWS Lambda?](../topics/aws.md#what-are-the-different-ways-to-push-artifacts-to-aws-lambda) — 1×
+  <a id="what-are-the-different-ways-to-push-artifacts-to-aws-lambda"></a>
 - [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) — 1×
   <a id="what-are-the-limitations-of-lambda-functions"></a>
+- [What are the use cases of S3?](../topics/aws.md#what-are-the-use-cases-of-s3) — 1×
+  <a id="what-are-the-use-cases-of-s3"></a>
 - [What is an Amazon S3 bucket, and what are S3 Lifecycle Policies?](../topics/aws.md#what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies) — 1×
   <a id="what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies"></a>
 - [What is AWS Transit Gateway?](../topics/aws.md#what-is-aws-transit-gateway) — 1×
@@ -117,14 +121,14 @@
   <a id="an-application-works-perfectly-in-one-availability-zone-but-intermittently-fails"></a>
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) — 5×
   <a id="how-do-you-connect-to-an-ec2-instance-using-ssh"></a>
+- [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — 3× · tags: `Azure`, `GCP`
+  <a id="aws-azure-gcp"></a>
 - [Write an example for lambda expression.](../topics/aws.md#write-an-example-for-lambda-expression) — 3×
   <a id="write-an-example-for-lambda-expression"></a>
 - [An AWS EC2 instance becomes unreachable. What's your recovery plan?](../topics/aws.md#an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan) — 2×
   <a id="an-aws-ec2-instance-becomes-unreachable-what-s-your-recovery-plan"></a>
 - [AWS](../topics/aws.md#aws) — 2×
   <a id="aws"></a>
-- [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — 2× · tags: `Azure`, `GCP`
-  <a id="aws-azure-gcp"></a>
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) — 2×
   <a id="how-do-you-create-lambda-functions-and-push-artifacts"></a>
 - [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) — 2×
@@ -213,8 +217,12 @@
   <a id="how-can-you-ensure-cost-efficient-storage-solution-using-s3"></a>
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — 1× · tags: `FinOps`
   <a id="how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources"></a>
+- [How do you create and deploy AWS Lambda functions?](../topics/aws.md#how-do-you-create-and-deploy-aws-lambda-functions) — 1×
+  <a id="how-do-you-create-and-deploy-aws-lambda-functions"></a>
 - [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) — 1×
   <a id="how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati"></a>
+- [How do you establish connectivity between on-premises and AWS?](../topics/aws.md#how-do-you-establish-connectivity-between-on-premises-and-aws) — 1×
+  <a id="how-do-you-establish-connectivity-between-on-premises-and-aws"></a>
 - [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use) — 1×
   <a id="how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use"></a>
 - [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) — 1×
@@ -229,6 +237,8 @@
   <a id="how-do-you-prepare-for-the-aws-developer-associate-exam"></a>
 - [How do you securely manage application secrets in AWS?](../topics/aws.md#how-do-you-securely-manage-application-secrets-in-aws) — 1×
   <a id="how-do-you-securely-manage-application-secrets-in-aws"></a>
+- [How do you store application data in AWS?](../topics/aws.md#how-do-you-store-application-data-in-aws) — 1×
+  <a id="how-do-you-store-application-data-in-aws"></a>
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) — 1×
   <a id="how-good-are-you-in-aws-self-rating-question"></a>
 - [How to provide access to an S3 bucket? Required permissions?](../topics/aws.md#how-to-provide-access-to-an-s3-bucket-required-permissions) — 1×
@@ -273,6 +283,8 @@
   <a id="what-percentage-of-the-exam-is-focused-on-development-with-aws-services"></a>
 - [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads) — 1×
   <a id="which-aws-pricing-model-should-you-choose-for-different-workloads"></a>
+- [Which AWS services are you currently using in your project?](../topics/aws.md#which-aws-services-are-you-currently-using-in-your-project) — 1×
+  <a id="which-aws-services-are-you-currently-using-in-your-project"></a>
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) — 1×
   <a id="which-aws-services-have-you-used-extensively"></a>
 - [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) — 1×
@@ -372,8 +384,10 @@
 - [How can you ensure cost efficient storage solution using S3 ?](../topics/aws.md#how-can-you-ensure-cost-efficient-storage-solution-using-s3)
 - [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) — tags: `FinOps`
 - [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh)
+- [How do you create and deploy AWS Lambda functions?](../topics/aws.md#how-do-you-create-and-deploy-aws-lambda-functions)
 - [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts)
 - [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati)
+- [How do you establish connectivity between on-premises and AWS?](../topics/aws.md#how-do-you-establish-connectivity-between-on-premises-and-aws)
 - [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use)
 - [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue)
 - [How do you implement Load Balancing in AWS?](../topics/aws.md#how-do-you-implement-load-balancing-in-aws)
@@ -383,6 +397,7 @@
 - [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam)
 - [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket)
 - [How do you securely manage application secrets in AWS?](../topics/aws.md#how-do-you-securely-manage-application-secrets-in-aws)
+- [How do you store application data in AWS?](../topics/aws.md#how-do-you-store-application-data-in-aws)
 - [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable)
 - [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions)
 - [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question)
@@ -407,8 +422,10 @@
 - [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi)
 - [What are AWS Regions and Availability Zones?](../topics/aws.md#what-are-aws-regions-and-availability-zones)
 - [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used)
+- [What are the different ways to push artifacts to AWS Lambda?](../topics/aws.md#what-are-the-different-ways-to-push-artifacts-to-aws-lambda)
 - [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions)
 - [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on)
+- [What are the use cases of S3?](../topics/aws.md#what-are-the-use-cases-of-s3)
 - [What checks would you perform before moving an EC2 instance from C5 to T3 family?](../topics/aws.md#what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family)
 - [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down)
 - [What happens when an EC2 instance in an Auto Scaling Group becomes unhealthy?](../topics/aws.md#what-happens-when-an-ec2-instance-in-an-auto-scaling-group-becomes-unhealthy)
@@ -427,6 +444,7 @@
 - [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance)
 - [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services)
 - [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads)
+- [Which AWS services are you currently using in your project?](../topics/aws.md#which-aws-services-are-you-currently-using-in-your-project)
 - [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know)
 - [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively)
 - [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them)
@@ -448,6 +466,7 @@
 
 ## Companies asking
 
+- [Accenture](../companies/accenture.md)
 - [Capgemini](../companies/capgemini.md)
 - [Deloitte](../companies/deloitte.md)
 - [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md)
@@ -459,9 +478,18 @@
 - [SpaceTech Inc.](../companies/spacetech-inc.md)
 - [Swageazy](../companies/swageazy.md)
 - [TCS](../companies/tcs.md)
+- [UST](../companies/ust.md)
 
 ## Recently added
 
+- [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) — 2026-08-19 · tags: `Azure`, `GCP`
+- [How do you establish connectivity between on-premises and AWS?](../topics/aws.md#how-do-you-establish-connectivity-between-on-premises-and-aws) — 2026-08-19
+- [What are the different ways to push artifacts to AWS Lambda?](../topics/aws.md#what-are-the-different-ways-to-push-artifacts-to-aws-lambda) — 2026-08-19
+- [How do you create and deploy AWS Lambda functions?](../topics/aws.md#how-do-you-create-and-deploy-aws-lambda-functions) — 2026-08-19
+- [How do you store application data in AWS?](../topics/aws.md#how-do-you-store-application-data-in-aws) — 2026-08-19
+- [What are the use cases of S3?](../topics/aws.md#what-are-the-use-cases-of-s3) — 2026-08-19
+- [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) — 2026-08-19
+- [Which AWS services are you currently using in your project?](../topics/aws.md#which-aws-services-are-you-currently-using-in-your-project) — 2026-08-19
 - [services of the aws cloud what are cloud services in the market?](../topics/aws.md#services-of-the-aws-cloud-what-are-cloud-services-in-the-market) — 2026-08-13
 - [Can you describe your experience with cloud providers like AWS, Azure, or GCP?](../topics/aws.md#can-you-describe-your-experience-with-cloud-providers-like-aws-azure-or-gcp) — 2026-08-13 · tags: `Azure`, `GCP`
 - [Is your DevOps experience primarily on AWS or other cloud platforms?](../topics/aws.md#is-your-devops-experience-primarily-on-aws-or-other-cloud-platforms) — 2026-08-13
@@ -469,14 +497,6 @@
 - [How do you perform security assessments in AWS ?](../topics/aws.md#how-do-you-perform-security-assessments-in-aws) — 2026-08-12
 - [S3 replication silently failed for 2 days. Who caught it and why?](../topics/aws.md#s3-replication-silently-failed-for-2-days-who-caught-it-and-why) — 2026-08-12
 - [AWS](../topics/aws.md#aws) — 2026-08-12
-- [AWS networking and DevOps services](../topics/aws.md#aws-networking-and-devops-services) — 2026-08-12
-- [Which cloud platform are you comfortable with (AWS, Azure, or GCP)?](../topics/aws.md#which-cloud-platform-are-you-comfortable-with-aws-azure-or-gcp) — 2026-08-10 · tags: `Azure`, `GCP`
-- [How would you access a private EC2 instance if the private PEM key is lost and EC2 Instance Connect is not available?](../topics/aws.md#how-would-you-access-a-private-ec2-instance-if-the-private-pem-key-is-lost-and-e) — 2026-08-10
-- [What is an Amazon S3 bucket, and what are S3 Lifecycle Policies?](../topics/aws.md#what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies) — 2026-08-10
-- [What is AWS Transit Gateway?](../topics/aws.md#what-is-aws-transit-gateway) — 2026-08-10
-- [How do you implement Load Balancing in AWS?](../topics/aws.md#how-do-you-implement-load-balancing-in-aws) — 2026-08-10
-- [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use) — 2026-08-10
-- [How can you ensure cost efficient storage solution using S3 ?](../topics/aws.md#how-can-you-ensure-cost-efficient-storage-solution-using-s3) — 2026-08-10
 
 ## Related topics
 
@@ -503,7 +523,7 @@
 | [AWS networking and DevOps services](../topics/aws.md#aws-networking-and-devops-services) | Medium | 1 |
 | [AWS provides an HTTP endpoint. How would you enable HTTPS?](../topics/aws.md#aws-provides-an-http-endpoint-how-would-you-enable-https) | Medium | 1 |
 | [AWS/Azure Cloud Fundamentals](../topics/aws.md#aws-azure-cloud-fundamentals) | Medium | 1 |
-| [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) | Medium | 2 |
+| [AWS/Azure/GCP](../topics/aws.md#aws-azure-gcp) | Medium | 3 |
 | [Can you describe your experience with cloud providers like AWS, Azure, or GCP?](../topics/aws.md#can-you-describe-your-experience-with-cloud-providers-like-aws-azure-or-gcp) | Medium | 1 |
 | [Can you explain AWS architecture?](../topics/aws.md#can-you-explain-aws-architecture) | Hard | 1 |
 | [Can you explain how to implement security best practices in AWS?](../topics/aws.md#can-you-explain-how-to-implement-security-best-practices-in-aws) | Medium | 1 |
@@ -524,8 +544,10 @@
 | [How can you ensure cost efficient storage solution using S3 ?](../topics/aws.md#how-can-you-ensure-cost-efficient-storage-solution-using-s3) | Medium | 1 |
 | [How do you approach AWS cost optimization and identify underutilized resources?](../topics/aws.md#how-do-you-approach-aws-cost-optimization-and-identify-underutilized-resources) | Medium | 1 |
 | [How do you connect to an EC2 instance using SSH?](../topics/aws.md#how-do-you-connect-to-an-ec2-instance-using-ssh) | Medium | 5 |
+| [How do you create and deploy AWS Lambda functions?](../topics/aws.md#how-do-you-create-and-deploy-aws-lambda-functions) | Medium | 1 |
 | [How do you create Lambda functions and push artifacts?](../topics/aws.md#how-do-you-create-lambda-functions-and-push-artifacts) | Medium | 2 |
 | [How do you ensure you are exam-ready for the AWS Developer Associate certification?](../topics/aws.md#how-do-you-ensure-you-are-exam-ready-for-the-aws-developer-associate-certificati) | Medium | 1 |
+| [How do you establish connectivity between on-premises and AWS?](../topics/aws.md#how-do-you-establish-connectivity-between-on-premises-and-aws) | Medium | 1 |
 | [How do you expose a web application running on a private EC2 instance to end users?](../topics/aws.md#how-do-you-expose-a-web-application-running-on-a-private-ec2-instance-to-end-use) | Medium | 1 |
 | [How do you handle an AWS networking issue?](../topics/aws.md#how-do-you-handle-an-aws-networking-issue) | Medium | 1 |
 | [How do you implement Load Balancing in AWS?](../topics/aws.md#how-do-you-implement-load-balancing-in-aws) | Medium | 1 |
@@ -535,6 +557,7 @@
 | [How do you prepare for the AWS Developer Associate exam?](../topics/aws.md#how-do-you-prepare-for-the-aws-developer-associate-exam) | Medium | 1 |
 | [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) | Medium | 2 |
 | [How do you securely manage application secrets in AWS?](../topics/aws.md#how-do-you-securely-manage-application-secrets-in-aws) | Medium | 1 |
+| [How do you store application data in AWS?](../topics/aws.md#how-do-you-store-application-data-in-aws) | Medium | 1 |
 | [How do you troubleshoot an EC2 instance that is unreachable?](../topics/aws.md#how-do-you-troubleshoot-an-ec2-instance-that-is-unreachable) | Medium | 2 |
 | [How do you troubleshoot EC2 SSH connectivity from network to OS permissions?](../topics/aws.md#how-do-you-troubleshoot-ec2-ssh-connectivity-from-network-to-os-permissions) | Medium | 2 |
 | [How good are you in AWS? (Self-rating question.)](../topics/aws.md#how-good-are-you-in-aws-self-rating-question) | Medium | 1 |
@@ -563,14 +586,16 @@
 | [Users report random application failures. Which AWS tools would you use to identify the root cause?](../topics/aws.md#users-report-random-application-failures-which-aws-tools-would-you-use-to-identi) | Medium | 1 |
 | [What are AWS Regions and Availability Zones?](../topics/aws.md#what-are-aws-regions-and-availability-zones) | Easy | 1 |
 | [What are the different AWS services you used?](../topics/aws.md#what-are-the-different-aws-services-you-used) | Easy | 1 |
+| [What are the different ways to push artifacts to AWS Lambda?](../topics/aws.md#what-are-the-different-ways-to-push-artifacts-to-aws-lambda) | Easy | 1 |
 | [What are the limitations of Lambda functions?](../topics/aws.md#what-are-the-limitations-of-lambda-functions) | Easy | 1 |
 | [What are the major AWS services you have worked on?](../topics/aws.md#what-are-the-major-aws-services-you-have-worked-on) | Easy | 4 |
+| [What are the use cases of S3?](../topics/aws.md#what-are-the-use-cases-of-s3) | Easy | 1 |
 | [What AWS services are you currently using?](../topics/aws.md#what-aws-services-are-you-currently-using) | Medium | 2 |
 | [What AWS services have you used? Explain your experience in detail.](../topics/aws.md#what-aws-services-have-you-used-explain-your-experience-in-detail) | Medium | 2 |
 | [What checks would you perform before moving an EC2 instance from C5 to T3 family?](../topics/aws.md#what-checks-would-you-perform-before-moving-an-ec2-instance-from-c5-to-t3-family) | Medium | 1 |
 | [What happens when an AWS region goes down ?](../topics/aws.md#what-happens-when-an-aws-region-goes-down) | Medium | 2 |
 | [What happens when an EC2 instance in an Auto Scaling Group becomes unhealthy?](../topics/aws.md#what-happens-when-an-ec2-instance-in-an-auto-scaling-group-becomes-unhealthy) | Medium | 1 |
-| [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) | Easy | 2 |
+| [What is Amazon S3?](../topics/aws.md#what-is-amazon-s3) | Easy | 3 |
 | [What is an Amazon S3 bucket, and what are S3 Lifecycle Policies?](../topics/aws.md#what-is-an-amazon-s3-bucket-and-what-are-s3-lifecycle-policies) | Easy | 1 |
 | [What is AWS Transit Gateway?](../topics/aws.md#what-is-aws-transit-gateway) | Easy | 1 |
 | [What is AWS, and why do companies use it?](../topics/aws.md#what-is-aws-and-why-do-companies-use-it) | Easy | 1 |
@@ -585,6 +610,7 @@
 | [What metrics would you monitor for an EC2 instance?](../topics/aws.md#what-metrics-would-you-monitor-for-an-ec2-instance) | Medium | 1 |
 | [What percentage of the exam is focused on development with AWS services?](../topics/aws.md#what-percentage-of-the-exam-is-focused-on-development-with-aws-services) | Medium | 1 |
 | [Which AWS pricing model should you choose for different workloads?](../topics/aws.md#which-aws-pricing-model-should-you-choose-for-different-workloads) | Medium | 1 |
+| [Which AWS services are you currently using in your project?](../topics/aws.md#which-aws-services-are-you-currently-using-in-your-project) | Medium | 1 |
 | [Which AWS services do you know?](../topics/aws.md#which-aws-services-do-you-know) | Medium | 2 |
 | [Which AWS services have you used extensively?](../topics/aws.md#which-aws-services-have-you-used-extensively) | Medium | 1 |
 | [Which AWS services have you worked on and where have you used them?](../topics/aws.md#which-aws-services-have-you-worked-on-and-where-have-you-used-them) | Medium | 1 |

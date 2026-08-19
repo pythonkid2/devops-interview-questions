@@ -23,13 +23,13 @@
 | --- | ---: |
 | Questions | 11 |
 | Easy / Medium / Hard | 3 / 6 / 2 |
-| Companies | 1 |
+| Companies | 2 |
 
 ## Most asked
 
 - [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/vpc.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — **5×** · Hard · tags: `System Design`
   <a id="how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams"></a>
-- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/vpc.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — **2×** · Medium · tags: `Networking`
+- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/vpc.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — **3×** · Medium · tags: `Networking`
   <a id="explain-vpc-subnets-nat-gateway-and-internet-gateway"></a>
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) — **2×** · Medium
   <a id="how-to-create-different-subnets-in-vpc"></a>
@@ -61,7 +61,7 @@
 
 ## Intermediate
 
-- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/vpc.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — 2× · tags: `Networking`
+- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/vpc.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — 3× · tags: `Networking`
   <a id="explain-vpc-subnets-nat-gateway-and-internet-gateway"></a>
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) — 2×
   <a id="how-to-create-different-subnets-in-vpc"></a>
@@ -105,10 +105,12 @@
 
 ## Companies asking
 
+- [Kotraya Technologies](../companies/kotraya-technologies.md)
 - [PwC](../companies/pwc.md)
 
 ## Recently added
 
+- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/vpc.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — 2026-08-19 · tags: `Networking`
 - [What we actually do in VPC peering.](../topics/vpc.md#what-we-actually-do-in-vpc-peering) — 2026-08-12
 - [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) — 2026-08-10 · tags: `Databases`, `AWS`, `System Design`
 - [Suppose there are two subnets that cannot talk to each other even though they are in the same vpc, what steps would you take?](../topics/vpc.md#suppose-there-are-two-subnets-that-cannot-talk-to-each-other-even-though-they-ar) — 2026-07-27
@@ -116,7 +118,6 @@
 - [What is VPC?](../topics/vpc.md#what-is-vpc) — 2026-07-18
 - [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) — 2026-07-17 · tags: `Networking`
 - [What are the difference between these two private and public subnet?](../topics/vpc.md#what-are-the-difference-between-these-two-private-and-public-subnet) — 2026-07-17
-- [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/vpc.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) — 2026-07-17 · tags: `Networking`
 - [How would you design a VPC architecture that supports multiple application teams without overlapping CIDR ranges?](../topics/vpc.md#how-would-you-design-a-vpc-architecture-that-supports-multiple-application-teams) — 2026-07-17 · tags: `System Design`
 - [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) — 2026-07-16
 - [Which VPC Interface Endpoints are required for AWS SSM to work without internet access?](../topics/vpc.md#which-vpc-interface-endpoints-are-required-for-aws-ssm-to-work-without-internet-) — 2026-07-15 · tags: `AWS`
@@ -135,7 +136,7 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/vpc.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) | Medium | 2 |
+| [Explain VPC, Subnets, NAT Gateway, and Internet Gateway.](../topics/vpc.md#explain-vpc-subnets-nat-gateway-and-internet-gateway) | Medium | 3 |
 | [How the traffic from private subnet to this NAT Gateway is configured?](../topics/vpc.md#how-the-traffic-from-private-subnet-to-this-nat-gateway-is-configured) | Medium | 1 |
 | [How to create different subnets in VPC ?](../topics/vpc.md#how-to-create-different-subnets-in-vpc) | Medium | 2 |
 | [How would you connect 3 VPCs in one AWS account, 1 VPC in another AWS account, and an on-premises server? Explain the architecture and how they can access an Amazon RDS instance.](../topics/vpc.md#how-would-you-connect-3-vpcs-in-one-aws-account-1-vpc-in-another-aws-account-and) | Hard | 1 |

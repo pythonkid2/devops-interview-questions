@@ -163,6 +163,7 @@
 - [IAM](./iam.md)
 - [Secrets](./secrets.md)
 - [Security](./security.md)
+- [Azure AD](./azure-ad.md)
 - [Vault](./vault.md)
 - [Network Security](./network-security.md)
 - [Certificate Management](./certificate-management.md)

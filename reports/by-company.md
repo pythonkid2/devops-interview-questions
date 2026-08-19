@@ -4,19 +4,21 @@
 
 | Company | Questions |
 | --- | ---: |
-| [Unknown Company](../companies/unknown-company.md) | 1816 |
+| [Unknown Company](../companies/unknown-company.md) | 1898 |
+| [Accenture](../companies/accenture.md) | 65 |
 | [Infosys](../companies/infosys.md) | 63 |
-| [TCS](../companies/tcs.md) | 47 |
+| [Deloitte](../companies/deloitte.md) | 53 |
+| [TCS](../companies/tcs.md) | 52 |
 | [Mphasis](../companies/mphasis.md) | 43 |
 | [Oracle](../companies/oracle.md) | 37 |
 | [Elite Code Technologies](../companies/elite-code-technologies.md) | 33 |
-| [Accenture](../companies/accenture.md) | 32 |
 | [BNP Paribas](../companies/bnp-paribas.md) | 28 |
-| [Deloitte](../companies/deloitte.md) | 28 |
 | [Mirafra](../companies/mirafra.md) | 28 |
+| [Kotraya Technologies](../companies/kotraya-technologies.md) | 27 |
 | [Amazon](../companies/amazon.md) | 26 |
 | [Hexaware Technologies](../companies/hexaware-technologies.md) | 25 |
 | [Global Payments](../companies/global-payments.md) | 23 |
+| [UST](../companies/ust.md) | 17 |
 | [Capgemini](../companies/capgemini.md) | 13 |
 | [PwC](../companies/pwc.md) | 13 |
 | [SpaceTech Inc.](../companies/spacetech-inc.md) | 13 |

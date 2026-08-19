@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Azure DevOps**
 
-**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**19** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 17 |
-| Easy / Medium / Hard | 6 / 9 / 2 |
+| Questions | 19 |
+| Easy / Medium / Hard | 6 / 10 / 3 |
 | Companies | 3 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="what-is-azure-devops"></a>
 - [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) — **2×** · Medium · tags: `Azure`
   <a id="azure-azure-devops"></a>
+- [Azure DevOps & CI/CD](../topics/azure-devops.md#azure-devops-ci-cd) — **1×** · Medium · tags: `CI/CD`, `Azure`
+  <a id="azure-devops-ci-cd"></a>
 - [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) — **1×** · Hard · tags: `Azure`
   <a id="explain-an-end-to-end-azure-devops-alm-process"></a>
 - [How do you achieve traceability in Azure DevOps?](../topics/azure-devops.md#how-do-you-achieve-traceability-in-azure-devops) — **1×** · Medium · tags: `Azure`
@@ -43,6 +45,8 @@
   <a id="how-do-you-secure-azure-devops"></a>
 - [How do you store secrets in Azure DevOps?](../topics/azure-devops.md#how-do-you-store-secrets-in-azure-devops) — **1×** · Medium · tags: `Azure`
   <a id="how-do-you-store-secrets-in-azure-devops"></a>
+- [How would you design a scalable CI/CD pipeline in Azure DevOps?](../topics/azure-devops.md#how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops) — **1×** · Hard · tags: `CI/CD`, `Azure`, `System Design`
+  <a id="how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops"></a>
 - [How would you design an enterprise Azure DevOps ALM process?](../topics/azure-devops.md#how-would-you-design-an-enterprise-azure-devops-alm-process) — **1×** · Hard · tags: `Azure`
   <a id="how-would-you-design-an-enterprise-azure-devops-alm-process"></a>
 - [Migrate GitHub repositories to Azure DevOps.](../topics/azure-devops.md#migrate-github-repositories-to-azure-devops) — **1×** · Medium · tags: `Azure`
@@ -81,6 +85,8 @@
 
 - [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) — 2× · tags: `Azure`
   <a id="azure-azure-devops"></a>
+- [Azure DevOps & CI/CD](../topics/azure-devops.md#azure-devops-ci-cd) — 1× · tags: `CI/CD`, `Azure`
+  <a id="azure-devops-ci-cd"></a>
 - [How do you achieve traceability in Azure DevOps?](../topics/azure-devops.md#how-do-you-achieve-traceability-in-azure-devops) — 1× · tags: `Azure`
   <a id="how-do-you-achieve-traceability-in-azure-devops"></a>
 - [How do you implement Agile methodology in Azure DevOps?](../topics/azure-devops.md#how-do-you-implement-agile-methodology-in-azure-devops) — 1× · tags: `Azure`
@@ -102,6 +108,8 @@
 
 - [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) — 1× · tags: `Azure`
   <a id="explain-an-end-to-end-azure-devops-alm-process"></a>
+- [How would you design a scalable CI/CD pipeline in Azure DevOps?](../topics/azure-devops.md#how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops) — 1× · tags: `CI/CD`, `Azure`, `System Design`
+  <a id="how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops"></a>
 - [How would you design an enterprise Azure DevOps ALM process?](../topics/azure-devops.md#how-would-you-design-an-enterprise-azure-devops-alm-process) — 1× · tags: `Azure`
   <a id="how-would-you-design-an-enterprise-azure-devops-alm-process"></a>
 
@@ -109,6 +117,7 @@
 
 ### Unspecified
 
+- [Azure DevOps & CI/CD](../topics/azure-devops.md#azure-devops-ci-cd) — tags: `CI/CD`, `Azure`
 - [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) — tags: `Azure`
 - [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) — tags: `Azure`
 - [How do you achieve traceability in Azure DevOps?](../topics/azure-devops.md#how-do-you-achieve-traceability-in-azure-devops) — tags: `Azure`
@@ -116,6 +125,7 @@
 - [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/azure-devops.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments) — tags: `Azure`
 - [How do you secure Azure DevOps?](../topics/azure-devops.md#how-do-you-secure-azure-devops) — tags: `Azure`
 - [How do you store secrets in Azure DevOps?](../topics/azure-devops.md#how-do-you-store-secrets-in-azure-devops) — tags: `Azure`
+- [How would you design a scalable CI/CD pipeline in Azure DevOps?](../topics/azure-devops.md#how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops) — tags: `CI/CD`, `Azure`, `System Design`
 - [How would you design an enterprise Azure DevOps ALM process?](../topics/azure-devops.md#how-would-you-design-an-enterprise-azure-devops-alm-process) — tags: `Azure`
 - [Migrate GitHub repositories to Azure DevOps.](../topics/azure-devops.md#migrate-github-repositories-to-azure-devops) — tags: `Azure`
 - [What are Dashboards in Azure DevOps?](../topics/azure-devops.md#what-are-dashboards-in-azure-devops) — tags: `Azure`
@@ -135,6 +145,8 @@
 
 ## Recently added
 
+- [Azure DevOps & CI/CD](../topics/azure-devops.md#azure-devops-ci-cd) — 2026-08-19 · tags: `CI/CD`, `Azure`
+- [How would you design a scalable CI/CD pipeline in Azure DevOps?](../topics/azure-devops.md#how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops) — 2026-08-19 · tags: `CI/CD`, `Azure`, `System Design`
 - [What is Azure DevOps?](../topics/azure-devops.md#what-is-azure-devops) — 2026-07-18 · tags: `Azure`
 - [Why is Azure DevOps considered an ALM platform?](../topics/azure-devops.md#why-is-azure-devops-considered-an-alm-platform) — 2026-07-17 · tags: `Azure`
 - [How would you design an enterprise Azure DevOps ALM process?](../topics/azure-devops.md#how-would-you-design-an-enterprise-azure-devops-alm-process) — 2026-07-17 · tags: `Azure`
@@ -148,8 +160,6 @@
 - [What are Work Items in Azure DevOps?](../topics/azure-devops.md#what-are-work-items-in-azure-devops) — 2026-07-17 · tags: `Azure`
 - [What are the main components of Azure DevOps?](../topics/azure-devops.md#what-are-the-main-components-of-azure-devops) — 2026-07-17 · tags: `Azure`
 - [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) — 2026-07-15 · tags: `Azure`
-- [Migrate GitHub repositories to Azure DevOps.](../topics/azure-devops.md#migrate-github-repositories-to-azure-devops) — 2026-07-15 · tags: `Azure`
-- [Write YAML templates for Azure DevOps Pipelines.](../topics/azure-devops.md#write-yaml-templates-for-azure-devops-pipelines) — 2026-07-15 · tags: `Azure`
 
 ## Related topics
 
@@ -162,6 +172,7 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
+| [Azure DevOps & CI/CD](../topics/azure-devops.md#azure-devops-ci-cd) | Medium | 1 |
 | [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) | Medium | 2 |
 | [Explain an end-to-end Azure DevOps ALM process.](../topics/azure-devops.md#explain-an-end-to-end-azure-devops-alm-process) | Hard | 1 |
 | [How do you achieve traceability in Azure DevOps?](../topics/azure-devops.md#how-do-you-achieve-traceability-in-azure-devops) | Medium | 1 |
@@ -169,6 +180,7 @@
 | [How do you implement Azure DevOps / CI-CD Pipelines for automated deployments?](../topics/azure-devops.md#how-do-you-implement-azure-devops-ci-cd-pipelines-for-automated-deployments) | Medium | 1 |
 | [How do you secure Azure DevOps?](../topics/azure-devops.md#how-do-you-secure-azure-devops) | Medium | 1 |
 | [How do you store secrets in Azure DevOps?](../topics/azure-devops.md#how-do-you-store-secrets-in-azure-devops) | Medium | 1 |
+| [How would you design a scalable CI/CD pipeline in Azure DevOps?](../topics/azure-devops.md#how-would-you-design-a-scalable-ci-cd-pipeline-in-azure-devops) | Hard | 1 |
 | [How would you design an enterprise Azure DevOps ALM process?](../topics/azure-devops.md#how-would-you-design-an-enterprise-azure-devops-alm-process) | Hard | 1 |
 | [Migrate GitHub repositories to Azure DevOps.](../topics/azure-devops.md#migrate-github-repositories-to-azure-devops) | Medium | 1 |
 | [What are Dashboards in Azure DevOps?](../topics/azure-devops.md#what-are-dashboards-in-azure-devops) | Easy | 1 |
