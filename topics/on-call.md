@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **On-Call**
 
-**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**3** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 4 |
-| Easy / Medium / Hard | 0 / 2 / 2 |
+| Questions | 3 |
+| Easy / Medium / Hard | 0 / 2 / 1 |
 | Companies | 0 |
 
 ## Most asked
@@ -31,10 +31,8 @@
   <a id="get-comfortable-being-on-call"></a>
 - [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — **1×** · Hard · tags: `SRE`, `Kubernetes`
   <a id="imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust"></a>
-- [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — **1×** · Medium
+- [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — **1×** · Medium · tags: `Kubernetes`
   <a id="it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c"></a>
-- [You're on-call and production is down. What's the FIRST command you run?](../topics/on-call.md#you-re-on-call-and-production-is-down-what-s-the-first-command-you-run) — **1×** · Hard
-  <a id="you-re-on-call-and-production-is-down-what-s-the-first-command-you-run"></a>
 
 ## Beginner
 
@@ -44,15 +42,13 @@ _None in this band yet._
 
 - [Get comfortable being on-call.](../topics/on-call.md#get-comfortable-being-on-call) — 2×
   <a id="get-comfortable-being-on-call"></a>
-- [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — 1×
+- [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — 1× · tags: `Kubernetes`
   <a id="it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c"></a>
 
 ## Advanced
 
 - [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — 1× · tags: `SRE`, `Kubernetes`
   <a id="imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust"></a>
-- [You're on-call and production is down. What's the FIRST command you run?](../topics/on-call.md#you-re-on-call-and-production-is-down-what-s-the-first-command-you-run) — 1×
-  <a id="you-re-on-call-and-production-is-down-what-s-the-first-command-you-run"></a>
 
 ## By interview round
 
@@ -60,8 +56,7 @@ _None in this band yet._
 
 - [Get comfortable being on-call.](../topics/on-call.md#get-comfortable-being-on-call)
 - [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — tags: `SRE`, `Kubernetes`
-- [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c)
-- [You're on-call and production is down. What's the FIRST command you run?](../topics/on-call.md#you-re-on-call-and-production-is-down-what-s-the-first-command-you-run)
+- [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — tags: `Kubernetes`
 
 ## Companies asking
 
@@ -69,9 +64,8 @@ _None in this band yet._
 
 ## Recently added
 
-- [You're on-call and production is down. What's the FIRST command you run?](../topics/on-call.md#you-re-on-call-and-production-is-down-what-s-the-first-command-you-run) — 2026-08-10
 - [Get comfortable being on-call.](../topics/on-call.md#get-comfortable-being-on-call) — 2026-07-26
-- [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — 2026-07-18
+- [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) — 2026-07-18 · tags: `Kubernetes`
 - [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) — 2026-07-17 · tags: `SRE`, `Kubernetes`
 
 ## Related topics
@@ -91,7 +85,6 @@ _None in this band yet._
 | [Get comfortable being on-call.](../topics/on-call.md#get-comfortable-being-on-call) | Medium | 2 |
 | [Imagine you're the on-call DevOps/SRE engineer for a production Kubernetes cluster. One worker node suddenly becomes NotReady. The cluster is serving live customer traffic. What happens next, and how would you respond?](../topics/on-call.md#imagine-you-re-the-on-call-devops-sre-engineer-for-a-production-kubernetes-clust) | Hard | 1 |
 | [It's 2 AM. PagerDuty alerts that 40% of the Pods in your Payments service are in CrashLoopBackOff, while the remaining 60% are still serving traffic. You have 5 minutes before the SLA is breached. Walk me through your response.](../topics/on-call.md#it-s-2-am-pagerduty-alerts-that-40-of-the-pods-in-your-payments-service-are-in-c) | Medium | 1 |
-| [You're on-call and production is down. What's the FIRST command you run?](../topics/on-call.md#you-re-on-call-and-production-is-down-what-s-the-first-command-you-run) | Hard | 1 |
 
 ## Learning resources
 

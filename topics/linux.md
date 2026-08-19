@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Linux**
 
-**29** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**28** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 29 |
-| Easy / Medium / Hard | 4 / 25 / 0 |
+| Questions | 28 |
+| Easy / Medium / Hard | 4 / 24 / 0 |
 | Companies | 2 |
 
 ## Most asked
@@ -31,8 +31,6 @@
   <a id="what-is-linux"></a>
 - [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) — **2×** · Medium
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
-- [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — **2×** · Medium
-  <a id="for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events"></a>
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — **2×** · Medium
   <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — **2×** · Medium
@@ -77,6 +75,8 @@
   <a id="what-is-your-experience-with-linux-and-networking"></a>
 - [What would you check first when something breaks in a Linux environment?](../topics/linux.md#what-would-you-check-first-when-something-breaks-in-a-linux-environment) — **1×** · Medium
   <a id="what-would-you-check-first-when-something-breaks-in-a-linux-environment"></a>
+- [which Linux command has embarrassed you the most?](../topics/linux.md#which-linux-command-has-embarrassed-you-the-most) — **1×** · Medium
+  <a id="which-linux-command-has-embarrassed-you-the-most"></a>
 
 ## Beginner
 
@@ -93,8 +93,6 @@
 
 - [A tool installed on a Linux server is running slowly. How would you troubleshoot and improve its performance?](../topics/linux.md#a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-) — 2×
   <a id="a-tool-installed-on-a-linux-server-is-running-slowly-how-would-you-troubleshoot-"></a>
-- [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) — 2×
-  <a id="for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events"></a>
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) — 2×
   <a id="how-comfortable-are-you-with-linux-what-activities-do-you-perform"></a>
 - [How do you troubleshoot high CPU or memory utilization in Linux?](../topics/linux.md#how-do-you-troubleshoot-high-cpu-or-memory-utilization-in-linux) — 2×
@@ -154,7 +152,6 @@ _None in this band yet._
 - [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux)
 - [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774)
 - [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy)
-- [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events)
 - [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform)
 - [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues)
 - [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux)
@@ -216,7 +213,6 @@ _None in this band yet._
 | [Can you write rule for setting for iptable in Linux](../topics/linux.md#can-you-write-rule-for-setting-for-iptable-in-linux) | Medium | 1 |
 | [Explain Linux permission "774".](../topics/linux.md#explain-linux-permission-774) | Medium | 1 |
 | [Explain the Linux file system hierarchy.](../topics/linux.md#explain-the-linux-file-system-hierarchy) | Medium | 1 |
-| [For a memory or CPU-related issue, what would be shown in logs or events?](../topics/linux.md#for-a-memory-or-cpu-related-issue-what-would-be-shown-in-logs-or-events) | Medium | 2 |
 | [How comfortable are you with Linux? What activities do you perform?](../topics/linux.md#how-comfortable-are-you-with-linux-what-activities-do-you-perform) | Medium | 2 |
 | [How do you analyze Linux logs to identify application issues?](../topics/linux.md#how-do-you-analyze-linux-logs-to-identify-application-issues) | Medium | 1 |
 | [How do you check the disk space in Linux ?](../topics/linux.md#how-do-you-check-the-disk-space-in-linux) | Medium | 1 |

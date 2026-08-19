@@ -13,14 +13,14 @@
 
 - [General](../topics/general.md) — 2
 - [AWS](../topics/aws.md) — 1
+- [CI/CD](../topics/ci-cd.md) — 1
 - [Kubernetes](../topics/kubernetes.md) — 1
 - [Linux](../topics/linux.md) — 1
 - [Monitoring](../topics/monitoring.md) — 1
-- [Terraform](../topics/terraform.md) — 1
 
 ## Most repeated
 
-- [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2× · Terraform
+- [CI/CD Pipeline Automation (YAML Templates)](../topics/ci-cd.md#ci-cd-pipeline-automation-yaml-templates) — 2× · CI/CD
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — 1× · AWS · tags: `Azure`
 - [DevOps Automation & Best Practices](../topics/general.md#devops-automation-best-practices) — 1× · General
 - [Docker, Kubernetes & Jenkins](../topics/kubernetes.md#docker-kubernetes-jenkins) — 1× · Kubernetes · tags: `Docker`, `Jenkins`
@@ -33,6 +33,10 @@
 ### AWS
 
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — Medium · tags: `Azure`
+
+### CI/CD
+
+- [CI/CD Pipeline Automation (YAML Templates)](../topics/ci-cd.md#ci-cd-pipeline-automation-yaml-templates) — Medium
 
 ### General
 
@@ -51,10 +55,6 @@
 
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — Medium
 
-### Terraform
-
-- [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — Easy
-
 ## Recently added
 
 - [Technical Discussion](../topics/general.md#technical-discussion) — 2026-07-15
@@ -63,6 +63,6 @@
 - [Docker, Kubernetes & Jenkins](../topics/kubernetes.md#docker-kubernetes-jenkins) — 2026-07-15 · tags: `Docker`, `Jenkins`
 - [AWS / Azure Cloud Services](../topics/aws.md#aws-azure-cloud-services) — 2026-07-15 · tags: `Azure`
 - [Linux Administration & Networking Basics](../topics/linux.md#linux-administration-networking-basics) — 2026-07-15
-- [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2026-07-15
+- [CI/CD Pipeline Automation (YAML Templates)](../topics/ci-cd.md#ci-cd-pipeline-automation-yaml-templates) — 2026-07-15
 
 [← All companies](./README.md) · [Home](../README.md)

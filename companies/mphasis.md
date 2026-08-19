@@ -73,7 +73,7 @@
 - [How do you enforce mandatory approvals before merging into production branches?](../topics/general.md#how-do-you-enforce-mandatory-approvals-before-merging-into-production-branches) — Hard
 - [How do you expose applications externally in OpenShift?](../topics/general.md#how-do-you-expose-applications-externally-in-openshift) — Medium
 - [How do you log every execution step in a deployment script for future troubleshooting?](../topics/general.md#how-do-you-log-every-execution-step-in-a-deployment-script-for-future-troublesho) — Medium
-- [How do you manage different configurations for Dev, QA, and Production?](../topics/general.md#how-do-you-manage-different-configurations-for-dev-qa-and-production) — Medium
+- [How do you manage different configurations for Dev, QA, and Production?](../topics/general.md#how-do-you-manage-different-configurations-for-dev-qa-and-production) — Hard
 - [How would you deploy a configuration update to 500 servers without restarting all services at once?](../topics/general.md#how-would-you-deploy-a-configuration-update-to-500-servers-without-restarting-al) — Medium
 - [How would you prevent unauthorized users from executing production Rundeck jobs?](../topics/general.md#how-would-you-prevent-unauthorized-users-from-executing-production-rundeck-jobs) — Hard
 - [How would you troubleshoot a GitLab Runner that suddenly stops picking up jobs?](../topics/general.md#how-would-you-troubleshoot-a-gitlab-runner-that-suddenly-stops-picking-up-jobs) — Medium

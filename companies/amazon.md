@@ -11,11 +11,11 @@
 
 ## Topics asked
 
-- [General](../topics/general.md) — 18
+- [General](../topics/general.md) — 17
 - [System Design](../topics/system-design.md) — 4
+- [Incident Response](../topics/incident-response.md) — 2
 - [Chaos Engineering](../topics/chaos-engineering.md) — 1
 - [Deployment Strategies](../topics/deployment-strategies.md) — 1
-- [Incident Response](../topics/incident-response.md) — 1
 - [Kubernetes](../topics/kubernetes.md) — 1
 
 ## Most repeated
@@ -35,7 +35,7 @@
 - [Give an example of a time you changed an architecture decision after seeing production data that contradicted the original plan.](../topics/system-design.md#give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod) — 1× · System Design
 - [Given the array: "[-2, 1, -3, 4, -1, 2, 1, -5, 4]" What is the maximum possible sum of a contiguous subarray? A) 5 B) 6 C) 7 D) 8](../topics/general.md#given-the-array-2-1-3-4-1-2-1-5-4-what-is-the-maximum-possible-sum-of-a-contiguo) — 1× · General
 - [How do you build a control plane that keeps state consistent across regions when one region’s control layer goes dark for 40 minutes?](../topics/kubernetes.md#how-do-you-build-a-control-plane-that-keeps-state-consistent-across-regions-when) — 1× · Kubernetes
-- [How do you communicate outage impact and recovery to executives who only care about revenue metrics?](../topics/general.md#how-do-you-communicate-outage-impact-and-recovery-to-executives-who-only-care-ab) — 1× · General
+- [How do you communicate outage impact and recovery to executives who only care about revenue metrics?](../topics/incident-response.md#how-do-you-communicate-outage-impact-and-recovery-to-executives-who-only-care-ab) — 1× · Incident Response
 - [How do you demonstrate Learn and Be Curious in your career?](../topics/general.md#how-do-you-demonstrate-learn-and-be-curious-in-your-career) — 1× · General
 - [How do you isolate workloads and secrets across hundreds of accounts while maintaining a single source of audit truth?](../topics/general.md#how-do-you-isolate-workloads-and-secrets-across-hundreds-of-accounts-while-maint) — 1× · General
 - [How do you run chaos experiments in a live environment without impacting paying customers or compliance reports?](../topics/chaos-engineering.md#how-do-you-run-chaos-experiments-in-a-live-environment-without-impacting-paying-) — 1× · Chaos Engineering
@@ -61,7 +61,6 @@
 - [DSA / Problem Solving](../topics/general.md#dsa-problem-solving) — Medium
 - [Gen AI Fluency](../topics/general.md#gen-ai-fluency) — Medium
 - [Given the array: "[-2, 1, -3, 4, -1, 2, 1, -5, 4]" What is the maximum possible sum of a contiguous subarray? A) 5 B) 6 C) 7 D) 8](../topics/general.md#given-the-array-2-1-3-4-1-2-1-5-4-what-is-the-maximum-possible-sum-of-a-contiguo) — Medium
-- [How do you communicate outage impact and recovery to executives who only care about revenue metrics?](../topics/general.md#how-do-you-communicate-outage-impact-and-recovery-to-executives-who-only-care-ab) — Medium
 - [How do you demonstrate Learn and Be Curious in your career?](../topics/general.md#how-do-you-demonstrate-learn-and-be-curious-in-your-career) — Medium
 - [How do you isolate workloads and secrets across hundreds of accounts while maintaining a single source of audit truth?](../topics/general.md#how-do-you-isolate-workloads-and-secrets-across-hundreds-of-accounts-while-maint) — Medium
 - [Leadership Principles](../topics/general.md#leadership-principles) — Medium
@@ -75,6 +74,7 @@
 ### Incident Response
 
 - [Design a multi-region observability and incident platform that can survive the loss of two availability zones at once.](../topics/incident-response.md#design-a-multi-region-observability-and-incident-platform-that-can-survive-the-l) — Hard · tags: `Observability`, `System Design`
+- [How do you communicate outage impact and recovery to executives who only care about revenue metrics?](../topics/incident-response.md#how-do-you-communicate-outage-impact-and-recovery-to-executives-who-only-care-ab) — Medium
 
 ### Kubernetes
 

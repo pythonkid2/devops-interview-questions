@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **EKS**
 
-**20** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**22** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,12 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 20 |
-| Easy / Medium / Hard | 1 / 18 / 1 |
-| Companies | 3 |
+| Questions | 22 |
+| Easy / Medium / Hard | 1 / 19 / 2 |
+| Companies | 4 |
 
 ## Most asked
 
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/eks.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — **5×** · Medium
+  <a id="how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi"></a>
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — **3×** · Medium
   <a id="how-did-you-deploy-eks-cluster-in-cloud"></a>
 - [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — **2×** · Medium
@@ -35,7 +37,7 @@
   <a id="eks-nodes-are-unhealthy-how-would-you-investigate"></a>
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — **2×** · Medium
   <a id="how-do-you-authenticate-to-eks-and-keep-secrets-safe"></a>
-- [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — **2×** · Medium
+- [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — **2×** · Medium · tags: `Kubernetes`
   <a id="how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster"></a>
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — **2×** · Medium · tags: `AWS`
   <a id="how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs"></a>
@@ -49,6 +51,8 @@
   <a id="explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f"></a>
 - [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) — **1×** · Hard
   <a id="how-did-you-design-your-eks-cluster"></a>
+- [How did you design your Kubernetes (EKS) architecture, and what were the key design decisions?](../topics/eks.md#how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design) — **1×** · Hard · tags: `Kubernetes`, `System Design`
+  <a id="how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design"></a>
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — **1×** · Medium · tags: `Kubernetes`
   <a id="how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes"></a>
 - [How do you deploy applications on Amazon EKS? What are the advantages over Amazon ECS?](../topics/eks.md#how-do-you-deploy-applications-on-amazon-eks-what-are-the-advantages-over-amazon) — **1×** · Medium
@@ -75,6 +79,8 @@
 
 ## Intermediate
 
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/eks.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) — 5×
+  <a id="how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi"></a>
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — 3×
   <a id="how-did-you-deploy-eks-cluster-in-cloud"></a>
 - [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — 2×
@@ -83,7 +89,7 @@
   <a id="eks-nodes-are-unhealthy-how-would-you-investigate"></a>
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — 2×
   <a id="how-do-you-authenticate-to-eks-and-keep-secrets-safe"></a>
-- [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — 2×
+- [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — 2× · tags: `Kubernetes`
   <a id="how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster"></a>
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — 2× · tags: `AWS`
   <a id="how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs"></a>
@@ -116,8 +122,14 @@
 
 - [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) — 1×
   <a id="how-did-you-design-your-eks-cluster"></a>
+- [How did you design your Kubernetes (EKS) architecture, and what were the key design decisions?](../topics/eks.md#how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design) — 1× · tags: `Kubernetes`, `System Design`
+  <a id="how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design"></a>
 
 ## By interview round
+
+### Technical
+
+- [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/eks.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi)
 
 ### Unspecified
 
@@ -129,10 +141,11 @@
 - [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) — tags: `Kubernetes`
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud)
 - [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster)
+- [How did you design your Kubernetes (EKS) architecture, and what were the key design decisions?](../topics/eks.md#how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design) — tags: `Kubernetes`, `System Design`
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe)
 - [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) — tags: `Kubernetes`
 - [How do you deploy applications on Amazon EKS? What are the advantages over Amazon ECS?](../topics/eks.md#how-do-you-deploy-applications-on-amazon-eks-what-are-the-advantages-over-amazon)
-- [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster)
+- [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — tags: `Kubernetes`
 - [How do you optimize AWS costs for EC2, EKS, S3, and RDS?](../topics/eks.md#how-do-you-optimize-aws-costs-for-ec2-eks-s3-and-rds) — tags: `Databases`, `AWS`
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — tags: `AWS`
 - [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster)
@@ -147,6 +160,7 @@
 - [Accenture](../companies/accenture.md)
 - [Deloitte](../companies/deloitte.md)
 - [Infosys](../companies/infosys.md)
+- [PwC](../companies/pwc.md)
 
 ## Recently added
 
@@ -155,7 +169,7 @@
 - [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) — 2026-08-10
 - [App is deployed on EKS but not accessible externally — what do you check?](../topics/eks.md#app-is-deployed-on-eks-but-not-accessible-externally-what-do-you-check) — 2026-07-29
 - [EKS nodes are unhealthy. How would you investigate?](../topics/eks.md#eks-nodes-are-unhealthy-how-would-you-investigate) — 2026-07-29
-- [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — 2026-07-26
+- [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) — 2026-07-26 · tags: `Kubernetes`
 - [EKS communication & networking flow](../topics/eks.md#eks-communication-networking-flow) — 2026-07-26
 - [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) — 2026-07-26
 - [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) — 2026-07-26 · tags: `AWS`
@@ -187,12 +201,14 @@
 | [Explain your experience with Kubernetes or Amazon EKS. What challenges have you faced while managing workloads?](../topics/eks.md#explain-your-experience-with-kubernetes-or-amazon-eks-what-challenges-have-you-f) | Medium | 1 |
 | [How did you deploy EKS cluster in cloud?](../topics/eks.md#how-did-you-deploy-eks-cluster-in-cloud) | Medium | 3 |
 | [How did you design your EKS cluster ?](../topics/eks.md#how-did-you-design-your-eks-cluster) | Hard | 1 |
+| [How did you design your Kubernetes (EKS) architecture, and what were the key design decisions?](../topics/eks.md#how-did-you-design-your-kubernetes-eks-architecture-and-what-were-the-key-design) | Hard | 1 |
 | [How do you authenticate to EKS and keep secrets safe?](../topics/eks.md#how-do-you-authenticate-to-eks-and-keep-secrets-safe) | Medium | 2 |
 | [How do you deploy and manage applications on Amazon EKS/Kubernetes?](../topics/eks.md#how-do-you-deploy-and-manage-applications-on-amazon-eks-kubernetes) | Medium | 1 |
 | [How do you deploy applications on Amazon EKS? What are the advantages over Amazon ECS?](../topics/eks.md#how-do-you-deploy-applications-on-amazon-eks-what-are-the-advantages-over-amazon) | Medium | 1 |
 | [How do you monitor the logs for pods running in an EKS cluster?](../topics/eks.md#how-do-you-monitor-the-logs-for-pods-running-in-an-eks-cluster) | Medium | 2 |
 | [How do you optimize AWS costs for EC2, EKS, S3, and RDS?](../topics/eks.md#how-do-you-optimize-aws-costs-for-ec2-eks-s3-and-rds) | Medium | 1 |
 | [How do you wire DBs, EC2, EKS, and ECS together and what’s the command to hit ECS?](../topics/eks.md#how-do-you-wire-dbs-ec2-eks-and-ecs-together-and-whats-the-command-to-hit-ecs) | Medium | 2 |
+| [How would you verify that a newly deployed EKS cluster complies with your organization's security standards?](../topics/eks.md#how-would-you-verify-that-a-newly-deployed-eks-cluster-complies-with-your-organi) | Medium | 5 |
 | [How your Auto scaling strategy is working in your EKS cluster?](../topics/eks.md#how-your-auto-scaling-strategy-is-working-in-your-eks-cluster) | Medium | 1 |
 | [Suppose your EKS cluster is experiencing pod CrashLoopBackOff issues. Walk me through your debugging process.](../topics/eks.md#suppose-your-eks-cluster-is-experiencing-pod-crashloopbackoff-issues-walk-me-thr) | Medium | 1 |
 | [What are the steps you will take in your upgrading EKS cluster?](../topics/eks.md#what-are-the-steps-you-will-take-in-your-upgrading-eks-cluster) | Easy | 1 |

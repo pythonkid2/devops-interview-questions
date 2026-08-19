@@ -27,7 +27,7 @@
 
 ## Most asked
 
-- [How would you upgrade a 40-node GKE production cluster running more than 100 microservices with zero downtime?](../topics/gke.md#how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic) — **1×** · Hard
+- [How would you upgrade a 40-node GKE production cluster running more than 100 microservices with zero downtime?](../topics/gke.md#how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic) — **1×** · Hard · tags: `Deployment Strategies`
   <a id="how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic"></a>
 
 ## Beginner
@@ -40,14 +40,14 @@ _None in this band yet._
 
 ## Advanced
 
-- [How would you upgrade a 40-node GKE production cluster running more than 100 microservices with zero downtime?](../topics/gke.md#how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic) — 1×
+- [How would you upgrade a 40-node GKE production cluster running more than 100 microservices with zero downtime?](../topics/gke.md#how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic) — 1× · tags: `Deployment Strategies`
   <a id="how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic"></a>
 
 ## By interview round
 
 ### Unspecified
 
-- [How would you upgrade a 40-node GKE production cluster running more than 100 microservices with zero downtime?](../topics/gke.md#how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic)
+- [How would you upgrade a 40-node GKE production cluster running more than 100 microservices with zero downtime?](../topics/gke.md#how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic) — tags: `Deployment Strategies`
 
 ## Companies asking
 
@@ -55,7 +55,7 @@ _None in this band yet._
 
 ## Recently added
 
-- [How would you upgrade a 40-node GKE production cluster running more than 100 microservices with zero downtime?](../topics/gke.md#how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic) — 2026-07-18
+- [How would you upgrade a 40-node GKE production cluster running more than 100 microservices with zero downtime?](../topics/gke.md#how-would-you-upgrade-a-40-node-gke-production-cluster-running-more-than-100-mic) — 2026-07-18 · tags: `Deployment Strategies`
 
 ## Related topics
 

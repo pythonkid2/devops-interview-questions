@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Monitoring**
 
-**22** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**19** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,20 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 22 |
-| Easy / Medium / Hard | 3 / 17 / 2 |
-| Companies | 8 |
+| Questions | 19 |
+| Easy / Medium / Hard | 1 / 17 / 1 |
+| Companies | 7 |
 
 ## Most asked
 
 - [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — **2×** · Medium
   <a id="check-monitoring-alerts"></a>
-- [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — **2×** · Easy
-  <a id="difference-between-logs-metrics-and-traces"></a>
-- [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — **2×** · Medium
-  <a id="explain-your-monitoring-and-alerting-strategy"></a>
-- [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) — **2×** · Medium
-  <a id="how-do-you-investigate-a-sudden-spike-in-application-latency"></a>
+- [Explain your CPU monitoring script line by line.](../topics/monitoring.md#explain-your-cpu-monitoring-script-line-by-line) — **2×** · Medium
+  <a id="explain-your-cpu-monitoring-script-line-by-line"></a>
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) — **2×** · Medium
   <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — **2×** · Medium
@@ -43,8 +39,8 @@
   <a id="what-monitoring-tools-are-you-using"></a>
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — **2×** · Medium
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
-- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — **1×** · Hard
-  <a id="can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios"></a>
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/monitoring.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — **2×** · Medium
+  <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — **1×** · Medium
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — **1×** · Medium
@@ -53,16 +49,12 @@
   <a id="how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d"></a>
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — **1×** · Medium
   <a id="how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d"></a>
+- [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/monitoring.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) — **1×** · Medium · tags: `AWS`
+  <a id="how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin"></a>
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — **1×** · Medium
   <a id="infrastructure-monitoring-troubleshooting"></a>
-- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — **1×** · Easy
-  <a id="monitoring-logging-cloudwatch-prometheus-elk-stack"></a>
-- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — **1×** · Medium
-  <a id="monitoring-troubleshooting-production-support"></a>
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — **1×** · Hard · tags: `System Design`
   <a id="production-mein-monitoring-architecture-kaise-design-karoge"></a>
-- [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — **1×** · Medium · tags: `CI/CD`
-  <a id="what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated"></a>
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — **1×** · Medium · tags: `AWS`
   <a id="what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail"></a>
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — **1×** · Easy
@@ -71,13 +63,11 @@
   <a id="what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool"></a>
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — **1×** · Medium
   <a id="which-monitoring-tools-have-you-worked-with"></a>
+- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — **1×** · Medium · tags: `Azure`
+  <a id="write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources"></a>
 
 ## Beginner
 
-- [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — 2×
-  <a id="difference-between-logs-metrics-and-traces"></a>
-- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 1×
-  <a id="monitoring-logging-cloudwatch-prometheus-elk-stack"></a>
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) — 1×
   <a id="what-is-your-approach-to-using-cloudwatch-logs-and-metrics"></a>
 
@@ -85,10 +75,8 @@
 
 - [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) — 2×
   <a id="check-monitoring-alerts"></a>
-- [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — 2×
-  <a id="explain-your-monitoring-and-alerting-strategy"></a>
-- [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) — 2×
-  <a id="how-do-you-investigate-a-sudden-spike-in-application-latency"></a>
+- [Explain your CPU monitoring script line by line.](../topics/monitoring.md#explain-your-cpu-monitoring-script-line-by-line) — 2×
+  <a id="explain-your-cpu-monitoring-script-line-by-line"></a>
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) — 2×
   <a id="monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue"></a>
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) — 2×
@@ -97,6 +85,8 @@
   <a id="what-monitoring-tools-are-you-using"></a>
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) — 2×
   <a id="what-monitoring-tools-have-you-used-after-deployment"></a>
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/monitoring.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 2×
+  <a id="which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform"></a>
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 1×
   <a id="explain-cloudwatch-logs-metrics-and-alarms"></a>
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 1×
@@ -105,23 +95,21 @@
   <a id="how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d"></a>
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — 1×
   <a id="how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d"></a>
+- [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/monitoring.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) — 1× · tags: `AWS`
+  <a id="how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin"></a>
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 1×
   <a id="infrastructure-monitoring-troubleshooting"></a>
-- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 1×
-  <a id="monitoring-troubleshooting-production-support"></a>
-- [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — 1× · tags: `CI/CD`
-  <a id="what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated"></a>
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — 1× · tags: `AWS`
   <a id="what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail"></a>
 - [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) — 1×
   <a id="what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool"></a>
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — 1×
   <a id="which-monitoring-tools-have-you-worked-with"></a>
+- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 1× · tags: `Azure`
+  <a id="write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources"></a>
 
 ## Advanced
 
-- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) — 1×
-  <a id="can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios"></a>
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — 1× · tags: `System Design`
   <a id="production-mein-monitoring-architecture-kaise-design-karoge"></a>
 
@@ -129,37 +117,36 @@
 
 ### Final
 
+- [Explain your CPU monitoring script line by line.](../topics/monitoring.md#explain-your-cpu-monitoring-script-line-by-line)
 - [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment)
+
+### Technical Round 1
+
+- [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/monitoring.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) — tags: `AWS`
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/monitoring.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform)
 
 ### Unspecified
 
-- [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios)
 - [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts)
-- [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces)
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms)
-- [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy)
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring)
-- [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency)
 - [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) — tags: `AWS`
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d)
 - [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting)
-- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack)
 - [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue)
 - [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios)
-- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support)
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — tags: `System Design`
-- [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — tags: `CI/CD`
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — tags: `AWS`
 - [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics)
 - [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using)
 - [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool)
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with)
+- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — tags: `Azure`
 
 ## Companies asking
 
 - [Accenture](../companies/accenture.md)
 - [Argyll Infotech](../companies/argyll-infotech.md)
-- [DPRSolutions](../companies/dprsolutions.md)
 - [Fineshift Software Pvt. Ltd.](../companies/fineshift-software-pvt-ltd.md)
 - [Infosys](../companies/infosys.md)
 - [Mirafra](../companies/mirafra.md)
@@ -176,13 +163,13 @@
 - [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) — 2026-07-28
 - [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) — 2026-07-20
 - [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) — 2026-07-18 · tags: `System Design`
+- [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/monitoring.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) — 2026-07-18
 - [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) — 2026-07-17 · tags: `AWS`
 - [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) — 2026-07-17
-- [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) — 2026-07-17
-- [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) — 2026-07-17
-- [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) — 2026-07-17
-- [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) — 2026-07-17 · tags: `CI/CD`
 - [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) — 2026-07-17
+- [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) — 2026-07-15
+- [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/monitoring.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) — 2026-07-15 · tags: `AWS`
+- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 2026-07-15 · tags: `Azure`
 
 ## Related topics
 
@@ -199,28 +186,25 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Can you explain the differences between Dynatrace, Sensu, Datadog, and Nagios?](../topics/monitoring.md#can-you-explain-the-differences-between-dynatrace-sensu-datadog-and-nagios) | Hard | 1 |
 | [Check Monitoring & Alerts](../topics/monitoring.md#check-monitoring-alerts) | Medium | 2 |
-| [Difference between logs, metrics, and traces.](../topics/monitoring.md#difference-between-logs-metrics-and-traces) | Easy | 2 |
 | [Explain CloudWatch Logs, Metrics, and Alarms.](../topics/monitoring.md#explain-cloudwatch-logs-metrics-and-alarms) | Medium | 1 |
-| [Explain your monitoring and alerting strategy.](../topics/monitoring.md#explain-your-monitoring-and-alerting-strategy) | Medium | 2 |
+| [Explain your CPU monitoring script line by line.](../topics/monitoring.md#explain-your-cpu-monitoring-script-line-by-line) | Medium | 2 |
 | [Health checks & monitoring](../topics/monitoring.md#health-checks-monitoring) | Medium | 1 |
-| [How do you investigate a sudden spike in application latency?](../topics/monitoring.md#how-do-you-investigate-a-sudden-spike-in-application-latency) | Medium | 2 |
 | [How do you monitor AWS infrastructure using CloudWatch? What metrics and alarms do you configure?](../topics/monitoring.md#how-do-you-monitor-aws-infrastructure-using-cloudwatch-what-metrics-and-alarms-d) | Medium | 1 |
 | [How do you use AI tools like ChatGPT, Copilot, or AI-assisted monitoring in your daily DevOps work?](../topics/monitoring.md#how-do-you-use-ai-tools-like-chatgpt-copilot-or-ai-assisted-monitoring-in-your-d) | Medium | 1 |
+| [How would you centralize CloudWatch Logs from 150+ AWS accounts into a single Kinesis Data Stream?](../topics/monitoring.md#how-would-you-centralize-cloudwatch-logs-from-150-aws-accounts-into-a-single-kin) | Medium | 1 |
 | [Infrastructure Monitoring & Troubleshooting](../topics/monitoring.md#infrastructure-monitoring-troubleshooting) | Medium | 1 |
-| [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) | Easy | 1 |
 | [Monitoring shows increased latency across services. How do you isolate the issue?](../topics/monitoring.md#monitoring-shows-increased-latency-across-services-how-do-you-isolate-the-issue) | Medium | 2 |
 | [Monitoring, Security & Troubleshooting Scenarios](../topics/monitoring.md#monitoring-security-troubleshooting-scenarios) | Medium | 2 |
-| [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) | Medium | 1 |
 | [Production mein monitoring architecture kaise design karoge?](../topics/monitoring.md#production-mein-monitoring-architecture-kaise-design-karoge) | Hard | 1 |
-| [What CI/CD practices have you implemented? Explain your experience with automated testing, deployment pipelines, rollback strategies, and monitoring.](../topics/monitoring.md#what-ci-cd-practices-have-you-implemented-explain-your-experience-with-automated) | Medium | 1 |
 | [What exactly were you doing with AWS CloudWatch and CloudTrail?](../topics/monitoring.md#what-exactly-were-you-doing-with-aws-cloudwatch-and-cloudtrail) | Medium | 1 |
 | [What is your approach to using CloudWatch logs and metrics?](../topics/monitoring.md#what-is-your-approach-to-using-cloudwatch-logs-and-metrics) | Easy | 1 |
 | [What monitoring tools are you using.](../topics/monitoring.md#what-monitoring-tools-are-you-using) | Medium | 2 |
 | [What monitoring tools have you used after deployment?](../topics/monitoring.md#what-monitoring-tools-have-you-used-after-deployment) | Medium | 2 |
 | [What monitoring tools have you used in the past? How do you choose the right tool for a particular use case?](../topics/monitoring.md#what-monitoring-tools-have-you-used-in-the-past-how-do-you-choose-the-right-tool) | Medium | 1 |
+| [Which Amazon CloudWatch metrics and alarms would you configure to detect performance bottlenecks during high-traffic periods?](../topics/monitoring.md#which-amazon-cloudwatch-metrics-and-alarms-would-you-configure-to-detect-perform) | Medium | 2 |
 | [Which monitoring tools have you worked with?](../topics/monitoring.md#which-monitoring-tools-have-you-worked-with) | Medium | 1 |
+| [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) | Medium | 1 |
 
 ## Learning resources
 

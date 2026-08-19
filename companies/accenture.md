@@ -7,16 +7,17 @@
 | Metric | Value |
 | --- | ---: |
 | Questions | 32 |
-| Topics covered | 10 |
+| Topics covered | 11 |
 
 ## Topics asked
 
 - [General](../topics/general.md) — 10
 - [Docker](../topics/docker.md) — 5
 - [Kubernetes](../topics/kubernetes.md) — 5
-- [Jenkins](../topics/jenkins.md) — 4
+- [Jenkins](../topics/jenkins.md) — 3
 - [Prometheus](../topics/prometheus.md) — 2
 - [Terraform](../topics/terraform.md) — 2
+- [Deployment Strategies](../topics/deployment-strategies.md) — 1
 - [EKS](../topics/eks.md) — 1
 - [Grafana](../topics/grafana.md) — 1
 - [High Availability](../topics/high-availability.md) — 1
@@ -46,6 +47,10 @@
 - [How do you scale pods while maintaining minimum replicas?](../topics/kubernetes.md#how-do-you-scale-pods-while-maintaining-minimum-replicas) — 1× · Kubernetes
 
 ## By topic
+
+### Deployment Strategies
+
+- [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/deployment-strategies.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-) — Hard · tags: `Jenkins`
 
 ### Docker
 
@@ -84,7 +89,6 @@
 
 - [Have you configured any code quality or security tools in Jenkins pipelines?](../topics/jenkins.md#have-you-configured-any-code-quality-or-security-tools-in-jenkins-pipelines) — Medium
 - [If a Jenkins pipeline is failing but the application works locally, how would you troubleshoot it?](../topics/jenkins.md#if-a-jenkins-pipeline-is-failing-but-the-application-works-locally-how-would-you) — Medium · tags: `CI/CD`
-- [Suppose a production deployment fails and Jenkins catches it. How do you perform rollback and what responsibilities did you handle?](../topics/jenkins.md#suppose-a-production-deployment-fails-and-jenkins-catches-it-how-do-you-perform-) — Hard
 - [You mentioned maintaining separate CI and CD pipelines in Jenkins. How did you separate them and what triggers were configured at each stage?](../topics/jenkins.md#you-mentioned-maintaining-separate-ci-and-cd-pipelines-in-jenkins-how-did-you-se) — Medium
 
 ### Kubernetes

@@ -22,7 +22,7 @@
 | | |
 | --- | ---: |
 | Questions | 10 |
-| Easy / Medium / Hard | 0 / 7 / 3 |
+| Easy / Medium / Hard | 1 / 6 / 3 |
 | Companies | 0 |
 
 ## Most asked
@@ -45,12 +45,13 @@
   <a id="if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire"></a>
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — **1×** · Medium
   <a id="in-argocd-what-are-the-different-components-available"></a>
-- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — **1×** · Medium
+- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — **1×** · Easy · tags: `GitOps`
   <a id="what-is-the-difference-between-gitops-and-traditional-devops"></a>
 
 ## Beginner
 
-_None in this band yet._
+- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 1× · tags: `GitOps`
+  <a id="what-is-the-difference-between-gitops-and-traditional-devops"></a>
 
 ## Intermediate
 
@@ -66,8 +67,6 @@ _None in this band yet._
   <a id="if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire"></a>
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — 1×
   <a id="in-argocd-what-are-the-different-components-available"></a>
-- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 1×
-  <a id="what-is-the-difference-between-gitops-and-traditional-devops"></a>
 
 ## Advanced
 
@@ -91,7 +90,7 @@ _None in this band yet._
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — tags: `GitOps`
 - [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) — tags: `Helm`, `CI/CD`, `Git`
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available)
-- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops)
+- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — tags: `GitOps`
 
 ## Companies asking
 
@@ -108,7 +107,7 @@ _None in this band yet._
 - [ArgoCD shows an application as OutOfSync, but synchronization fails because a PreSync database migration Job is failing. How do you recover without data loss?](../topics/argocd.md#argocd-shows-an-application-as-outofsync-but-synchronization-fails-because-a-pre) — 2026-07-18 · tags: `Databases`
 - [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) — 2026-07-17
 - [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) — 2026-07-17 · tags: `GitOps`
-- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 2026-07-15
+- [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) — 2026-07-15 · tags: `GitOps`
 
 ## Related topics
 
@@ -132,7 +131,7 @@ _None in this band yet._
 | [How would you design a GitOps workflow for multiple teams?](../topics/argocd.md#how-would-you-design-a-gitops-workflow-for-multiple-teams) | Hard | 1 |
 | [If Git is already the source of truth, why do we need Argo CD? Why not deploy directly using the CI/CD pipeline with Helm or kubectl?](../topics/argocd.md#if-git-is-already-the-source-of-truth-why-do-we-need-argo-cd-why-not-deploy-dire) | Medium | 1 |
 | [In ArgoCD, what are the different components available?](../topics/argocd.md#in-argocd-what-are-the-different-components-available) | Medium | 1 |
-| [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) | Medium | 1 |
+| [What is the difference between GitOps and traditional DevOps?](../topics/argocd.md#what-is-the-difference-between-gitops-and-traditional-devops) | Easy | 1 |
 
 ## Learning resources
 

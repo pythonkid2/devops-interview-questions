@@ -7,75 +7,79 @@
 | Metric | Value |
 | --- | ---: |
 | Questions | 10 |
-| Topics covered | 7 |
+| Topics covered | 8 |
 
 ## Topics asked
 
-- [Terraform](../topics/terraform.md) — 3
-- [CI/CD](../topics/ci-cd.md) — 2
-- [Azure](../topics/azure.md) — 1
-- [Bash](../topics/bash.md) — 1
-- [GitHub Actions](../topics/github-actions.md) — 1
+- [Azure DevOps](../topics/azure-devops.md) — 2
+- [General](../topics/general.md) — 2
+- [AKS](../topics/aks.md) — 1
+- [CI/CD](../topics/ci-cd.md) — 1
+- [Incident Response](../topics/incident-response.md) — 1
 - [Kubernetes](../topics/kubernetes.md) — 1
 - [Monitoring](../topics/monitoring.md) — 1
+- [Terraform](../topics/terraform.md) — 1
 
 ## Most repeated
 
-- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 3× · Terraform
-- [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2× · Terraform
-- [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — 1× · Kubernetes
-- [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/terraform.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — 1× · Terraform
-- [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 1× · GitHub Actions
-- [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — 1× · Azure
-- [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops) — 1× · CI/CD
-- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 1× · Monitoring
-- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 1× · Bash
-- [Write YAML templates for Azure DevOps Pipelines.](../topics/ci-cd.md#write-yaml-templates-for-azure-devops-pipelines) — 1× · CI/CD
+- [Infrastructure as Code (IaC)](../topics/general.md#infrastructure-as-code-iac) — 3× · General
+- [CI/CD Pipeline Automation (YAML Templates)](../topics/ci-cd.md#ci-cd-pipeline-automation-yaml-templates) — 2× · CI/CD
+- [Azure Kubernetes Service (AKS) & Docker](../topics/aks.md#azure-kubernetes-service-aks-docker) — 1× · AKS · tags: `Kubernetes`, `Docker`, `Azure`
+- [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/kubernetes.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — 1× · Kubernetes · tags: `CI/CD`
+- [GitHub Administration & Repository Migration](../topics/general.md#github-administration-repository-migration) — 1× · General
+- [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/terraform.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — 1× · Terraform
+- [Migrate GitHub repositories to Azure DevOps.](../topics/azure-devops.md#migrate-github-repositories-to-azure-devops) — 1× · Azure DevOps · tags: `Azure`
+- [Monitoring, Troubleshooting & Production Support](../topics/incident-response.md#monitoring-troubleshooting-production-support) — 1× · Incident Response · tags: `Monitoring`
+- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 1× · Monitoring · tags: `Azure`
+- [Write YAML templates for Azure DevOps Pipelines.](../topics/azure-devops.md#write-yaml-templates-for-azure-devops-pipelines) — 1× · Azure DevOps · tags: `Azure`
 
 ## By topic
 
-### Azure
+### AKS
 
-- [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — Hard
+- [Azure Kubernetes Service (AKS) & Docker](../topics/aks.md#azure-kubernetes-service-aks-docker) — Medium · tags: `Kubernetes`, `Docker`, `Azure`
 
-### Bash
+### Azure DevOps
 
-- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — Hard
+- [Migrate GitHub repositories to Azure DevOps.](../topics/azure-devops.md#migrate-github-repositories-to-azure-devops) — Medium · tags: `Azure`
+- [Write YAML templates for Azure DevOps Pipelines.](../topics/azure-devops.md#write-yaml-templates-for-azure-devops-pipelines) — Medium · tags: `Azure`
 
 ### CI/CD
 
-- [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops) — Medium
-- [Write YAML templates for Azure DevOps Pipelines.](../topics/ci-cd.md#write-yaml-templates-for-azure-devops-pipelines) — Easy
+- [CI/CD Pipeline Automation (YAML Templates)](../topics/ci-cd.md#ci-cd-pipeline-automation-yaml-templates) — Medium
 
-### GitHub Actions
+### General
 
-- [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — Medium
+- [GitHub Administration & Repository Migration](../topics/general.md#github-administration-repository-migration) — Medium
+- [Infrastructure as Code (IaC)](../topics/general.md#infrastructure-as-code-iac) — Medium
+
+### Incident Response
+
+- [Monitoring, Troubleshooting & Production Support](../topics/incident-response.md#monitoring-troubleshooting-production-support) — Hard · tags: `Monitoring`
 
 ### Kubernetes
 
-- [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — Easy
+- [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/kubernetes.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — Hard · tags: `CI/CD`
 
 ### Monitoring
 
-- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — Medium
+- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — Medium · tags: `Azure`
 
 ### Terraform
 
-- [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — Easy
-- [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/terraform.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — Medium
-- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — Medium
+- [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/terraform.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — Medium
 
 ## Recently added
 
-- [Infrastructure as Code (IaC)](../topics/terraform.md#infrastructure-as-code-iac) — 2026-08-12
-- [CI/CD Pipeline Automation (YAML Templates)](../topics/terraform.md#ci-cd-pipeline-automation-yaml-templates) — 2026-07-15
-- [Monitoring, Troubleshooting & Production Support](../topics/monitoring.md#monitoring-troubleshooting-production-support) — 2026-07-15
-- [Azure Kubernetes Service (AKS) & Docker](../topics/kubernetes.md#azure-kubernetes-service-aks-docker) — 2026-07-15
-- [GitHub Administration & Repository Migration](../topics/github-actions.md#github-administration-repository-migration) — 2026-07-15
-- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/bash.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 2026-07-15
-- [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/azure.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — 2026-07-15
-- [Migrate GitHub repositories to Azure DevOps.](../topics/ci-cd.md#migrate-github-repositories-to-azure-devops) — 2026-07-15
-- [Write YAML templates for Azure DevOps Pipelines.](../topics/ci-cd.md#write-yaml-templates-for-azure-devops-pipelines) — 2026-07-15
-- [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/terraform.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — 2026-07-15
+- [Infrastructure as Code (IaC)](../topics/general.md#infrastructure-as-code-iac) — 2026-08-12
+- [CI/CD Pipeline Automation (YAML Templates)](../topics/ci-cd.md#ci-cd-pipeline-automation-yaml-templates) — 2026-07-15
+- [Monitoring, Troubleshooting & Production Support](../topics/incident-response.md#monitoring-troubleshooting-production-support) — 2026-07-15 · tags: `Monitoring`
+- [Azure Kubernetes Service (AKS) & Docker](../topics/aks.md#azure-kubernetes-service-aks-docker) — 2026-07-15 · tags: `Kubernetes`, `Docker`, `Azure`
+- [GitHub Administration & Repository Migration](../topics/general.md#github-administration-repository-migration) — 2026-07-15
+- [Write PowerShell scripts for monitoring and troubleshooting Azure resources.](../topics/monitoring.md#write-powershell-scripts-for-monitoring-and-troubleshooting-azure-resources) — 2026-07-15 · tags: `Azure`
+- [Implement Terraform, ARM templates, and Bicep for Infrastructure as Code.](../topics/terraform.md#implement-terraform-arm-templates-and-bicep-for-infrastructure-as-code) — 2026-07-15
+- [Migrate GitHub repositories to Azure DevOps.](../topics/azure-devops.md#migrate-github-repositories-to-azure-devops) — 2026-07-15 · tags: `Azure`
+- [Write YAML templates for Azure DevOps Pipelines.](../topics/azure-devops.md#write-yaml-templates-for-azure-devops-pipelines) — 2026-07-15 · tags: `Azure`
+- [Design and implement modern DevOps, CI/CD, Infrastructure as Code (IaC), and Kubernetes solutions.](../topics/kubernetes.md#design-and-implement-modern-devops-ci-cd-infrastructure-as-code-iac-and-kubernet) — 2026-07-15 · tags: `CI/CD`
 
 [← All companies](./README.md) · [Home](../README.md)

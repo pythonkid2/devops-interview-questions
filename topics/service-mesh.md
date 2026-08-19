@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Service Mesh**
 
-**5** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,16 @@
 
 | | |
 | --- | ---: |
-| Questions | 5 |
-| Easy / Medium / Hard | 0 / 4 / 1 |
+| Questions | 6 |
+| Easy / Medium / Hard | 0 / 4 / 2 |
 | Companies | 2 |
 
 ## Most asked
 
 - [Service Mesh](../topics/service-mesh.md#service-mesh) — **2×** · Medium
   <a id="service-mesh"></a>
+- [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/service-mesh.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — **2×** · Hard · tags: `System Design`
+  <a id="what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar"></a>
 - [Can you explain the concept of service mesh?](../topics/service-mesh.md#can-you-explain-the-concept-of-service-mesh) — **1×** · Medium
   <a id="can-you-explain-the-concept-of-service-mesh"></a>
 - [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) — **1×** · Medium · tags: `DNS`
@@ -55,6 +57,8 @@ _None in this band yet._
 
 ## Advanced
 
+- [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/service-mesh.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — 2× · tags: `System Design`
+  <a id="what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar"></a>
 - [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices) — 1×
   <a id="how-would-you-implement-fine-grained-service-discovery-across-1000-microservices"></a>
 
@@ -67,6 +71,7 @@ _None in this band yet._
 - [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices)
 - [Service Mesh](../topics/service-mesh.md#service-mesh)
 - [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
+- [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/service-mesh.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — tags: `System Design`
 
 ## Companies asking
 
@@ -80,6 +85,7 @@ _None in this band yet._
 - [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) — 2026-07-30 · tags: `ArgoCD`, `Kubernetes`, `Terraform`, `GitHub Actions`
 - [How do you handle DNS-level outages inside a service mesh without a full app redeploy?](../topics/service-mesh.md#how-do-you-handle-dns-level-outages-inside-a-service-mesh-without-a-full-app-red) — 2026-07-17 · tags: `DNS`
 - [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices) — 2026-07-17
+- [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/service-mesh.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — 2026-07-15 · tags: `System Design`
 
 ## Related topics
 
@@ -100,6 +106,7 @@ _None in this band yet._
 | [How would you implement fine-grained service discovery across 1000+ microservices using Envoy or Istio?](../topics/service-mesh.md#how-would-you-implement-fine-grained-service-discovery-across-1000-microservices) | Hard | 1 |
 | [Service Mesh](../topics/service-mesh.md#service-mesh) | Medium | 2 |
 | [The Board approves a $1 billion Cloud & Platform Modernization Program using Kubernetes, Terraform, GitHub Actions, ArgoCD, Istio, AI Ops, and Azure OpenAI, targeting 99.99% uptime, 70% faster deployments, and 40% lower infrastructure costs. What execution roadmap would you recommend?](../topics/service-mesh.md#the-board-approves-a-1-billion-cloud-platform-modernization-program-using-kubern) | Medium | 1 |
+| [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/service-mesh.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) | Hard | 2 |
 
 ## Learning resources
 

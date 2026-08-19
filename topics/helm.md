@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Helm**
 
-**9** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 9 |
-| Easy / Medium / Hard | 0 / 9 / 0 |
+| Questions | 8 |
+| Easy / Medium / Hard | 0 / 8 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -31,8 +31,6 @@
   <a id="break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it"></a>
 - [Helm](../topics/helm.md#helm) — **2×** · Medium
   <a id="helm"></a>
-- [Helm rollback worked. App still broken. Logs silent. What now?](../topics/helm.md#helm-rollback-worked-app-still-broken-logs-silent-what-now) — **2×** · Medium
-  <a id="helm-rollback-worked-app-still-broken-logs-silent-what-now"></a>
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — **2×** · Medium
   <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — **2×** · Medium · tags: `Jenkins`
@@ -56,8 +54,6 @@ _None in this band yet._
   <a id="break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it"></a>
 - [Helm](../topics/helm.md#helm) — 2×
   <a id="helm"></a>
-- [Helm rollback worked. App still broken. Logs silent. What now?](../topics/helm.md#helm-rollback-worked-app-still-broken-logs-silent-what-now) — 2×
-  <a id="helm-rollback-worked-app-still-broken-logs-silent-what-now"></a>
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) — 2×
   <a id="how-do-you-restart-or-upgrade-an-application-using-helm"></a>
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — 2× · tags: `Jenkins`
@@ -82,7 +78,6 @@ _None in this band yet._
 - [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it)
 - [Helm](../topics/helm.md#helm)
 - [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) — tags: `Kubernetes`
-- [Helm rollback worked. App still broken. Logs silent. What now?](../topics/helm.md#helm-rollback-worked-app-still-broken-logs-silent-what-now)
 - [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm)
 - [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) — tags: `Jenkins`
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — tags: `Jenkins`
@@ -95,7 +90,6 @@ _None in this band yet._
 
 ## Recently added
 
-- [Helm rollback worked. App still broken. Logs silent. What now?](../topics/helm.md#helm-rollback-worked-app-still-broken-logs-silent-what-now) — 2026-08-12
 - [Helm](../topics/helm.md#helm) — 2026-08-12
 - [you said helm and deploy, let me know how kubernates know there is helm.](../topics/helm.md#you-said-helm-and-deploy-let-me-know-how-kubernates-know-there-is-helm) — 2026-08-10
 - [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) — 2026-07-29 · tags: `Jenkins`
@@ -121,7 +115,6 @@ _None in this band yet._
 | [Break down a basic Helm chart folder and the commands you use to ship it.](../topics/helm.md#break-down-a-basic-helm-chart-folder-and-the-commands-you-use-to-ship-it) | Medium | 2 |
 | [Helm](../topics/helm.md#helm) | Medium | 2 |
 | [Helm & Kubernetes deployments](../topics/helm.md#helm-kubernetes-deployments) | Medium | 1 |
-| [Helm rollback worked. App still broken. Logs silent. What now?](../topics/helm.md#helm-rollback-worked-app-still-broken-logs-silent-what-now) | Medium | 2 |
 | [How do you restart or upgrade an application using Helm?](../topics/helm.md#how-do-you-restart-or-upgrade-an-application-using-helm) | Medium | 2 |
 | [Jenkins debugging & Helm deployments](../topics/helm.md#jenkins-debugging-helm-deployments) | Medium | 1 |
 | [Jenkins deployed via Helm — how do you update plugins?](../topics/helm.md#jenkins-deployed-via-helm-how-do-you-update-plugins) | Medium | 2 |

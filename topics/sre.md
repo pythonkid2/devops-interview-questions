@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **SRE**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**4** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 1 / 4 / 1 |
-| Companies | 2 |
+| Questions | 4 |
+| Easy / Medium / Hard | 1 / 3 / 0 |
+| Companies | 1 |
 
 ## Most asked
 
@@ -31,12 +31,8 @@
   <a id="how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac"></a>
 - [SRE](../topics/sre.md#sre) — **2×** · Medium
   <a id="sre"></a>
-- [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — **1×** · Hard
-  <a id="can-you-explain-the-concept-of-chaos-engineering"></a>
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) — **1×** · Medium
   <a id="does-your-project-needs-ai-also-with-devops-sre-tools"></a>
-- [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — **1×** · Medium
-  <a id="what-is-the-difference-between-slos-and-slis"></a>
 - [What is the role of a Site Reliability Engineer (SRE)?](../topics/sre.md#what-is-the-role-of-a-site-reliability-engineer-sre) — **1×** · Easy
   <a id="what-is-the-role-of-a-site-reliability-engineer-sre"></a>
 
@@ -53,29 +49,23 @@
   <a id="sre"></a>
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) — 1×
   <a id="does-your-project-needs-ai-also-with-devops-sre-tools"></a>
-- [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — 1×
-  <a id="what-is-the-difference-between-slos-and-slis"></a>
 
 ## Advanced
 
-- [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — 1×
-  <a id="can-you-explain-the-concept-of-chaos-engineering"></a>
+_None in this band yet._
 
 ## By interview round
 
 ### Unspecified
 
-- [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering)
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools)
 - [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — tags: `DevSecOps`
 - [SRE](../topics/sre.md#sre)
-- [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis)
 - [What is the role of a Site Reliability Engineer (SRE)?](../topics/sre.md#what-is-the-role-of-a-site-reliability-engineer-sre)
 
 ## Companies asking
 
 - [Oracle](../companies/oracle.md)
-- [SpaceTech Inc.](../companies/spacetech-inc.md)
 
 ## Recently added
 
@@ -83,8 +73,6 @@
 - [SRE](../topics/sre.md#sre) — 2026-08-12
 - [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) — 2026-07-26 · tags: `DevSecOps`
 - [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) — 2026-07-17
-- [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) — 2026-07-15
-- [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) — 2026-07-15
 
 ## Related topics
 
@@ -100,11 +88,9 @@
 
 | Question | Diff | Asked |
 | --- | --- | ---: |
-| [Can you explain the concept of Chaos Engineering?](../topics/sre.md#can-you-explain-the-concept-of-chaos-engineering) | Hard | 1 |
 | [Does your project needs AI also, with DevOps/SRE tools?](../topics/sre.md#does-your-project-needs-ai-also-with-devops-sre-tools) | Medium | 1 |
 | [How do you embed security into the DevOps and SRE lifecycle using DevSecOps practices?](../topics/sre.md#how-do-you-embed-security-into-the-devops-and-sre-lifecycle-using-devsecops-prac) | Medium | 3 |
 | [SRE](../topics/sre.md#sre) | Medium | 2 |
-| [What is the difference between SLOs and SLIs?](../topics/sre.md#what-is-the-difference-between-slos-and-slis) | Medium | 1 |
 | [What is the role of a Site Reliability Engineer (SRE)?](../topics/sre.md#what-is-the-role-of-a-site-reliability-engineer-sre) | Easy | 1 |
 
 ## Learning resources

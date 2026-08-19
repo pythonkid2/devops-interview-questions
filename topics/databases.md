@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Databases**
 
-**18** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**17** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 18 |
-| Easy / Medium / Hard | 1 / 15 / 2 |
+| Questions | 17 |
+| Easy / Medium / Hard | 1 / 14 / 2 |
 | Companies | 2 |
 
 ## Most asked
@@ -57,8 +57,6 @@
   <a id="design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des"></a>
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — **1×** · Medium
   <a id="explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t"></a>
-- [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — **1×** · Medium
-  <a id="how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach"></a>
 - [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — **1×** · Medium
   <a id="suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano"></a>
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — **1×** · Easy · tags: `Azure`
@@ -97,8 +95,6 @@
   <a id="database-transactions"></a>
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — 1×
   <a id="explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t"></a>
-- [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — 1×
-  <a id="how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach"></a>
 - [Suppose in my cluster there are two applications one is the main application another is the database which service you use and why?](../topics/databases.md#suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano) — 1×
   <a id="suppose-in-my-cluster-there-are-two-applications-one-is-the-main-application-ano"></a>
 
@@ -123,7 +119,6 @@
 - [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — tags: `System Design`
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t)
 - [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb)
-- [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach)
 - [How to optimize database query](../topics/databases.md#how-to-optimize-database-query)
 - [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do)
 - [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server)
@@ -153,7 +148,7 @@
 - [What is the difference between Azure SQL Database and SQL Server on a VM?](../topics/databases.md#what-is-the-difference-between-azure-sql-database-and-sql-server-on-a-vm) — 2026-07-26 · tags: `Azure`
 - [An application cannot connect to the database. What would you check?](../topics/databases.md#an-application-cannot-connect-to-the-database-what-would-you-check) — 2026-07-18
 - [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) — 2026-07-17
-- [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) — 2026-07-17
+- [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) — 2026-07-17 · tags: `System Design`
 
 ## Related topics
 
@@ -175,7 +170,6 @@
 | [Design a scalable URL Shortener (like Bitly). Explain the architecture, database design, caching strategy, and how you would handle billions of requests.](../topics/databases.md#design-a-scalable-url-shortener-like-bitly-explain-the-architecture-database-des) | Hard | 1 |
 | [Explain database indexing and query optimization. How would you improve a query that takes several seconds to execute?](../topics/databases.md#explain-database-indexing-and-query-optimization-how-would-you-improve-a-query-t) | Medium | 1 |
 | [Horizontal Scaling and Sharding in MongoDB](../topics/databases.md#horizontal-scaling-and-sharding-in-mongodb) | Medium | 2 |
-| [How do you optimize the performance of a slow application? Describe your approach to identifying bottlenecks in the frontend, backend, database, and network.](../topics/databases.md#how-do-you-optimize-the-performance-of-a-slow-application-describe-your-approach) | Medium | 1 |
 | [How to optimize database query](../topics/databases.md#how-to-optimize-database-query) | Medium | 2 |
 | [If you have to deploy a self hosted database ? what will you do ?](../topics/databases.md#if-you-have-to-deploy-a-self-hosted-database-what-will-you-do) | Medium | 3 |
 | [MongoDB vs SQL Server](../topics/databases.md#mongodb-vs-sql-server) | Medium | 2 |

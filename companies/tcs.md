@@ -11,14 +11,14 @@
 
 ## Topics asked
 
-- [General](../topics/general.md) — 14
+- [General](../topics/general.md) — 12
 - [Terraform](../topics/terraform.md) — 8
 - [Kubernetes](../topics/kubernetes.md) — 6
 - [AWS](../topics/aws.md) — 5
+- [Deployment Strategies](../topics/deployment-strategies.md) — 3
 - [Disaster Recovery](../topics/disaster-recovery.md) — 2
 - [Jenkins](../topics/jenkins.md) — 2
 - [CI/CD](../topics/ci-cd.md) — 1
-- [Deployment Strategies](../topics/deployment-strategies.md) — 1
 - [GitHub Actions](../topics/github-actions.md) — 1
 - [IAM](../topics/iam.md) — 1
 - [Incident Response](../topics/incident-response.md) — 1
@@ -32,19 +32,19 @@
 
 - [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — 7× · Terraform
 - [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — 4× · Terraform
-- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 4× · GitHub Actions
+- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — 4× · GitHub Actions · tags: `CI/CD`
 - [How do you troubleshoot Pods stuck in CrashLoopBackOff?](../topics/kubernetes.md#how-do-you-troubleshoot-pods-stuck-in-crashloopbackoff) — 3× · Kubernetes
 - [What are ConfigMaps and Secrets?](../topics/general.md#what-are-configmaps-and-secrets) — 3× · General
-- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2× · Jenkins
+- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — 2× · Jenkins · tags: `CI/CD`
 - [Explain Kubernetes Manifest Files and the purpose of different YAML resources.](../topics/kubernetes.md#explain-kubernetes-manifest-files-and-the-purpose-of-different-yaml-resources) — 2× · Kubernetes
 - [How do you monitor AWS infrastructure and Kubernetes?](../topics/kubernetes.md#how-do-you-monitor-aws-infrastructure-and-kubernetes) — 2× · Kubernetes · tags: `AWS`
 - [How do you secure an S3 bucket?](../topics/aws.md#how-do-you-secure-an-s3-bucket) — 2× · AWS
 - [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — 2× · Terraform
 - [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — 2× · Terraform
 - [What is the difference between Deployment and StatefulSet?](../topics/kubernetes.md#what-is-the-difference-between-deployment-and-statefulset) — 2× · Kubernetes
-- [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — 2× · Terraform
+- [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — 2× · Terraform · tags: `AWS`
 - [A few AWS services and their use cases.](../topics/aws.md#a-few-aws-services-and-their-use-cases) — 1× · AWS
-- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/general.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — 1× · General
+- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/deployment-strategies.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — 1× · Deployment Strategies · tags: `Incident Response`
 - [Basic Terraform concepts.](../topics/terraform.md#basic-terraform-concepts) — 1× · Terraform
 - [cloud fundamentals](../topics/general.md#cloud-fundamentals) — 1× · General
 - [Describe a challenging production incident you resolved and what you learned from it.](../topics/incident-response.md#describe-a-challenging-production-incident-you-resolved-and-what-you-learned-fro) — 1× · Incident Response
@@ -67,6 +67,8 @@
 
 ### Deployment Strategies
 
+- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/deployment-strategies.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — Hard · tags: `Incident Response`
+- [How do you handle rollback if a deployment fails?](../topics/deployment-strategies.md#how-do-you-handle-rollback-if-a-deployment-fails) — Medium
 - [How do you implement blue-green and canary deployments?](../topics/deployment-strategies.md#how-do-you-implement-blue-green-and-canary-deployments) — Medium · tags: `Blue-Green`, `Canary`
 
 ### Disaster Recovery
@@ -76,12 +78,10 @@
 
 ### General
 
-- [A production deployment failed. What steps would you take to troubleshoot and recover?](../topics/general.md#a-production-deployment-failed-what-steps-would-you-take-to-troubleshoot-and-rec) — Hard
 - [cloud fundamentals](../topics/general.md#cloud-fundamentals) — Medium
 - [How do readiness and liveness probes work?](../topics/general.md#how-do-readiness-and-liveness-probes-work) — Medium
 - [How do you centralize application logs?](../topics/general.md#how-do-you-centralize-application-logs) — Medium
 - [How do you detect and prevent configuration drift?](../topics/general.md#how-do-you-detect-and-prevent-configuration-drift) — Medium
-- [How do you handle rollback if a deployment fails?](../topics/general.md#how-do-you-handle-rollback-if-a-deployment-fails) — Medium
 - [How do you manage remote state?](../topics/general.md#how-do-you-manage-remote-state) — Medium
 - [How would you deploy the same application to multiple environments?](../topics/general.md#how-would-you-deploy-the-same-application-to-multiple-environments) — Medium
 - [How would you reduce deployment downtime for a critical application?](../topics/general.md#how-would-you-reduce-deployment-downtime-for-a-critical-application) — Medium
@@ -93,7 +93,7 @@
 
 ### GitHub Actions
 
-- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — Medium
+- [Write a GitHub Actions workflow for CI/CD.](../topics/github-actions.md#write-a-github-actions-workflow-for-ci-cd) — Medium · tags: `CI/CD`
 
 ### IAM
 
@@ -109,7 +109,7 @@
 
 ### Jenkins
 
-- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — Medium
+- [Explain a Jenkins Pipeline and its stages.](../topics/jenkins.md#explain-a-jenkins-pipeline-and-its-stages) — Medium · tags: `CI/CD`
 - [Jenkins pipeline failures – what are the first things you check before troubleshooting?](../topics/jenkins.md#jenkins-pipeline-failures-what-are-the-first-things-you-check-before-troubleshoo) — Medium · tags: `CI/CD`
 
 ### Kubernetes
@@ -142,11 +142,11 @@
 - [Basic Terraform concepts.](../topics/terraform.md#basic-terraform-concepts) — Medium
 - [Explain Terraform modules and workspaces.](../topics/terraform.md#explain-terraform-modules-and-workspaces) — Medium
 - [Explain Terraform Workspaces and their use cases.](../topics/terraform.md#explain-terraform-workspaces-and-their-use-cases) — Medium
-- [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — Hard
+- [If the Terraform State File is lost, how can it be recovered?](../topics/terraform.md#if-the-terraform-state-file-is-lost-how-can-it-be-recovered) — Medium
 - [What are Terraform state files, and why are they important?](../topics/terraform.md#what-are-terraform-state-files-and-why-are-they-important) — Easy
-- [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — Medium
-- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — Medium
-- [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — Medium
+- [What is a Terraform Backend? Explain the Backend configuration.](../topics/terraform.md#what-is-a-terraform-backend-explain-the-backend-configuration) — Easy
+- [What is a Terraform State File, and why is it important?](../topics/terraform.md#what-is-a-terraform-state-file-and-why-is-it-important) — Easy
+- [Write Terraform code to provision an AWS EC2 instance.](../topics/terraform.md#write-terraform-code-to-provision-an-aws-ec2-instance) — Medium · tags: `AWS`
 
 ## Interview rounds
 

@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **GCP**
 
-**2** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**1** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,16 +21,14 @@
 
 | | |
 | --- | ---: |
-| Questions | 2 |
-| Easy / Medium / Hard | 0 / 2 / 0 |
+| Questions | 1 |
+| Easy / Medium / Hard | 0 / 1 / 0 |
 | Companies | 0 |
 
 ## Most asked
 
 - [GCP](../topics/gcp.md#gcp) — **2×** · Medium
   <a id="gcp"></a>
-- [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why) — **1×** · Medium
-  <a id="which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why"></a>
 
 ## Beginner
 
@@ -40,8 +38,6 @@ _None in this band yet._
 
 - [GCP](../topics/gcp.md#gcp) — 2×
   <a id="gcp"></a>
-- [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why) — 1×
-  <a id="which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why"></a>
 
 ## Advanced
 
@@ -52,7 +48,6 @@ _None in this band yet._
 ### Unspecified
 
 - [GCP](../topics/gcp.md#gcp)
-- [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why)
 
 ## Companies asking
 
@@ -61,7 +56,6 @@ _None in this band yet._
 ## Recently added
 
 - [GCP](../topics/gcp.md#gcp) — 2026-08-12
-- [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why) — 2026-07-15
 
 ## Related topics
 
@@ -74,7 +68,6 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [GCP](../topics/gcp.md#gcp) | Medium | 2 |
-| [Which cloud platform do you prefer working with — AWS or GCP — and why?](../topics/gcp.md#which-cloud-platform-do-you-prefer-working-with-aws-or-gcp-and-why) | Medium | 1 |
 
 ## Learning resources
 

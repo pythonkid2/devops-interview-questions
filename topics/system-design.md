@@ -22,8 +22,8 @@
 | | |
 | --- | ---: |
 | Questions | 38 |
-| Easy / Medium / Hard | 0 / 9 / 29 |
-| Companies | 7 |
+| Easy / Medium / Hard | 1 / 6 / 31 |
+| Companies | 8 |
 
 ## Most asked
 
@@ -35,6 +35,8 @@
   <a id="explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region"></a>
 - [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) — **2×** · Hard
   <a id="net-core-architecture"></a>
+- [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/system-design.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) — **2×** · Medium
+  <a id="a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r"></a>
 - [Design the architecture of a mission-critical platform that must scale rapidly and integrate with third-party APIs.](../topics/system-design.md#design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a) — **2×** · Hard
   <a id="design-the-architecture-of-a-mission-critical-platform-that-must-scale-rapidly-a"></a>
 - [Explain the architecture of MVC in .NET Core](../topics/system-design.md#explain-the-architecture-of-mvc-in-net-core) — **2×** · Hard
@@ -43,7 +45,7 @@
   <a id="explain-the-microservices-architecture-you-ve-worked-on"></a>
 - [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) — **2×** · Hard
   <a id="explain-your-project-architecture"></a>
-- [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — **2×** · Medium
+- [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — **2×** · Hard
   <a id="explain-your-project-architecture-from-a-devops-perspective"></a>
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — **2×** · Hard
   <a id="how-would-you-design-a-highly-available-and-scalable-devops-platform"></a>
@@ -51,8 +53,8 @@
   <a id="system-design"></a>
 - [System Design (LLD/HLD)](../topics/system-design.md#system-design-lld-hld) — **2×** · Hard
   <a id="system-design-lld-hld"></a>
-- [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — **2×** · Medium
-  <a id="what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar"></a>
+- [What are the benefits of containerization in Microservices architecture?](../topics/system-design.md#what-are-the-benefits-of-containerization-in-microservices-architecture) — **2×** · Hard
+  <a id="what-are-the-benefits-of-containerization-in-microservices-architecture"></a>
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) — **1×** · Hard
   <a id="apache-spark-architecture-catalyst-optimizer"></a>
 - [Backend architecture interview](../topics/system-design.md#backend-architecture-interview) — **1×** · Hard
@@ -73,35 +75,28 @@
   <a id="explain-the-exact-process-youd-use-to-contain-a-cascading-failure-caused-by-a-ba"></a>
 - [Give an example of a time you changed an architecture decision after seeing production data that contradicted the original plan.](../topics/system-design.md#give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod) — **1×** · Hard
   <a id="give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod"></a>
-- [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — **1×** · Medium
-  <a id="how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan"></a>
 - [How well you understand architecture](../topics/system-design.md#how-well-you-understand-architecture) — **1×** · Hard
   <a id="how-well-you-understand-architecture"></a>
 
 ## Beginner
 
-_None in this band yet._
+- [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) — 1×
+  <a id="what-s-the-difference-between-scalability-and-elasticity"></a>
 
 ## Intermediate
 
 - [Explain Load balancers? how u can achieve the load balancing in multi-region ?](../topics/system-design.md#explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region) — 3×
   <a id="explain-load-balancers-how-u-can-achieve-the-load-balancing-in-multi-region"></a>
-- [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — 2×
-  <a id="explain-your-project-architecture-from-a-devops-perspective"></a>
-- [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) — 2×
-  <a id="what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar"></a>
+- [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/system-design.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) — 2×
+  <a id="a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r"></a>
 - [Describe a software project where you significantly improved performance, scalability, or maintainability. What was the problem, what solution did you implement, and what measurable results did you achieve?](../topics/system-design.md#describe-a-software-project-where-you-significantly-improved-performance-scalabi) — 1×
   <a id="describe-a-software-project-where-you-significantly-improved-performance-scalabi"></a>
-- [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) — 1×
-  <a id="how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan"></a>
 - [Performance and scalability](../topics/system-design.md#performance-and-scalability) — 1×
   <a id="performance-and-scalability"></a>
 - [Scalability and reliability](../topics/system-design.md#scalability-and-reliability) — 1×
   <a id="scalability-and-reliability"></a>
 - [Scalability vs. Elasticity](../topics/system-design.md#scalability-vs-elasticity) — 1×
   <a id="scalability-vs-elasticity"></a>
-- [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) — 1×
-  <a id="what-s-the-difference-between-scalability-and-elasticity"></a>
 
 ## Advanced
 
@@ -119,12 +114,16 @@ _None in this band yet._
   <a id="explain-the-microservices-architecture-you-ve-worked-on"></a>
 - [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) — 2×
   <a id="explain-your-project-architecture"></a>
+- [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) — 2×
+  <a id="explain-your-project-architecture-from-a-devops-perspective"></a>
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) — 2×
   <a id="how-would-you-design-a-highly-available-and-scalable-devops-platform"></a>
 - [System Design](../topics/system-design.md#system-design) — 2×
   <a id="system-design"></a>
 - [System Design (LLD/HLD)](../topics/system-design.md#system-design-lld-hld) — 2×
   <a id="system-design-lld-hld"></a>
+- [What are the benefits of containerization in Microservices architecture?](../topics/system-design.md#what-are-the-benefits-of-containerization-in-microservices-architecture) — 2×
+  <a id="what-are-the-benefits-of-containerization-in-microservices-architecture"></a>
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) — 1×
   <a id="apache-spark-architecture-catalyst-optimizer"></a>
 - [Backend architecture interview](../topics/system-design.md#backend-architecture-interview) — 1×
@@ -177,6 +176,7 @@ _None in this band yet._
 ### Unspecified
 
 - [.NET Core & Architecture](../topics/system-design.md#net-core-architecture)
+- [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/system-design.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r)
 - [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer)
 - [Backend architecture interview](../topics/system-design.md#backend-architecture-interview)
 - [Can you explain system design?](../topics/system-design.md#can-you-explain-system-design)
@@ -192,7 +192,6 @@ _None in this band yet._
 - [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on)
 - [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture)
 - [Give an example of a time you changed an architecture decision after seeing production data that contradicted the original plan.](../topics/system-design.md#give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod)
-- [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan)
 - [How well you understand architecture](../topics/system-design.md#how-well-you-understand-architecture)
 - [How would you design a fault-tolerant integration architecture?](../topics/system-design.md#how-would-you-design-a-fault-tolerant-integration-architecture)
 - [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform)
@@ -207,7 +206,7 @@ _None in this band yet._
 - [System Design](../topics/system-design.md#system-design)
 - [System Design (LLD/HLD)](../topics/system-design.md#system-design-lld-hld)
 - [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations)
-- [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar)
+- [What are the benefits of containerization in Microservices architecture?](../topics/system-design.md#what-are-the-benefits-of-containerization-in-microservices-architecture)
 - [What is your experience with serverless architecture?](../topics/system-design.md#what-is-your-experience-with-serverless-architecture)
 - [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity)
 - [Why was the architecture designed that way?](../topics/system-design.md#why-was-the-architecture-designed-that-way)
@@ -219,6 +218,7 @@ _None in this band yet._
 - [Infosys](../companies/infosys.md)
 - [Merge](../companies/merge.md)
 - [Mirafra](../companies/mirafra.md)
+- [NVIDIA](../companies/nvidia.md)
 - [Oracle](../companies/oracle.md)
 - [Swageazy](../companies/swageazy.md)
 - [Wipro](../companies/wipro.md)
@@ -251,6 +251,7 @@ _None in this band yet._
 | Question | Diff | Asked |
 | --- | --- | ---: |
 | [.NET Core & Architecture](../topics/system-design.md#net-core-architecture) | Hard | 2 |
+| [A multi-cluster, multi-region AI training job fails halfway because one cluster runs out of GPU memory. How do you rebalance workloads live?](../topics/system-design.md#a-multi-cluster-multi-region-ai-training-job-fails-halfway-because-one-cluster-r) | Medium | 2 |
 | [Apache Spark architecture & Catalyst Optimizer](../topics/system-design.md#apache-spark-architecture-catalyst-optimizer) | Hard | 1 |
 | [Backend architecture interview](../topics/system-design.md#backend-architecture-interview) | Hard | 1 |
 | [Can you explain system design?](../topics/system-design.md#can-you-explain-system-design) | Hard | 1 |
@@ -266,9 +267,8 @@ _None in this band yet._
 | [Explain the exact process you’d use to contain a cascading failure caused by a bad config rollout across production tenants.](../topics/system-design.md#explain-the-exact-process-youd-use-to-contain-a-cascading-failure-caused-by-a-ba) | Hard | 1 |
 | [Explain the Microservices architecture you've worked on.](../topics/system-design.md#explain-the-microservices-architecture-you-ve-worked-on) | Hard | 2 |
 | [Explain your project architecture](../topics/system-design.md#explain-your-project-architecture) | Hard | 2 |
-| [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) | Medium | 2 |
+| [Explain your project architecture from a DevOps perspective.](../topics/system-design.md#explain-your-project-architecture-from-a-devops-perspective) | Hard | 2 |
 | [Give an example of a time you changed an architecture decision after seeing production data that contradicted the original plan.](../topics/system-design.md#give-an-example-of-a-time-you-changed-an-architecture-decision-after-seeing-prod) | Hard | 1 |
-| [How do you optimize infrastructure costs while maintaining application performance?](../topics/system-design.md#how-do-you-optimize-infrastructure-costs-while-maintaining-application-performan) | Medium | 1 |
 | [How well you understand architecture](../topics/system-design.md#how-well-you-understand-architecture) | Hard | 1 |
 | [How would you design a fault-tolerant integration architecture?](../topics/system-design.md#how-would-you-design-a-fault-tolerant-integration-architecture) | Hard | 1 |
 | [How would you design a highly available and scalable DevOps platform?](../topics/system-design.md#how-would-you-design-a-highly-available-and-scalable-devops-platform) | Hard | 2 |
@@ -283,9 +283,9 @@ _None in this band yet._
 | [System Design](../topics/system-design.md#system-design) | Hard | 2 |
 | [System Design (LLD/HLD)](../topics/system-design.md#system-design-lld-hld) | Hard | 2 |
 | [Understand trade-offs across architecture and operations](../topics/system-design.md#understand-trade-offs-across-architecture-and-operations) | Hard | 1 |
-| [What is the purpose of a service mesh, and how does it relate to microservices architecture?](../topics/system-design.md#what-is-the-purpose-of-a-service-mesh-and-how-does-it-relate-to-microservices-ar) | Medium | 2 |
+| [What are the benefits of containerization in Microservices architecture?](../topics/system-design.md#what-are-the-benefits-of-containerization-in-microservices-architecture) | Hard | 2 |
 | [What is your experience with serverless architecture?](../topics/system-design.md#what-is-your-experience-with-serverless-architecture) | Hard | 1 |
-| [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) | Medium | 1 |
+| [What's the difference between Scalability and Elasticity?](../topics/system-design.md#what-s-the-difference-between-scalability-and-elasticity) | Easy | 1 |
 | [Why was the architecture designed that way?](../topics/system-design.md#why-was-the-architecture-designed-that-way) | Hard | 1 |
 | [You are onboarding a new customer with 5 million+ users. How would you design the complete application architecture as a Solution Architect?](../topics/system-design.md#you-are-onboarding-a-new-customer-with-5-million-users-how-would-you-design-the-) | Hard | 1 |
 

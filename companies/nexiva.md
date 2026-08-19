@@ -11,20 +11,20 @@
 
 ## Topics asked
 
-- [Azure](../topics/azure.md) — 1
+- [Azure DevOps](../topics/azure-devops.md) — 1
 
 ## Most repeated
 
-- [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — 2× · Azure
+- [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) — 2× · Azure DevOps · tags: `Azure`
 
 ## By topic
 
-### Azure
+### Azure DevOps
 
-- [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — Medium
+- [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) — Medium · tags: `Azure`
 
 ## Recently added
 
-- [Azure \| Azure DevOps](../topics/azure.md#azure-azure-devops) — 2026-07-15
+- [Azure \| Azure DevOps](../topics/azure-devops.md#azure-azure-devops) — 2026-07-15 · tags: `Azure`
 
 [← All companies](./README.md) · [Home](../README.md)

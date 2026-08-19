@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Grafana**
 
-**7** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@
 
 | | |
 | --- | ---: |
-| Questions | 7 |
-| Easy / Medium / Hard | 0 / 7 / 0 |
-| Companies | 1 |
+| Questions | 8 |
+| Easy / Medium / Hard | 1 / 7 / 0 |
+| Companies | 2 |
 
 ## Most asked
 
@@ -33,6 +33,8 @@
   <a id="how-do-you-implement-monitoring-using-grafana-and-cloudwatch"></a>
 - [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) — **2×** · Medium
   <a id="logs-are-missing-from-grafana-loki-how-would-you-troubleshoot"></a>
+- [What is the difference between Grafana and the ELK Stack?](../topics/grafana.md#what-is-the-difference-between-grafana-and-the-elk-stack) — **2×** · Easy · tags: `ELK`
+  <a id="what-is-the-difference-between-grafana-and-the-elk-stack"></a>
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — **1×** · Medium
   <a id="grafana-ka-use-kyu-hota-hai"></a>
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) — **1×** · Medium
@@ -44,7 +46,8 @@
 
 ## Beginner
 
-_None in this band yet._
+- [What is the difference between Grafana and the ELK Stack?](../topics/grafana.md#what-is-the-difference-between-grafana-and-the-elk-stack) — 2× · tags: `ELK`
+  <a id="what-is-the-difference-between-grafana-and-the-elk-stack"></a>
 
 ## Intermediate
 
@@ -69,6 +72,10 @@ _None in this band yet._
 
 ## By interview round
 
+### Technical Round 1
+
+- [What is the difference between Grafana and the ELK Stack?](../topics/grafana.md#what-is-the-difference-between-grafana-and-the-elk-stack) — tags: `ELK`
+
 ### Unspecified
 
 - [Grafana](../topics/grafana.md#grafana)
@@ -82,6 +89,7 @@ _None in this band yet._
 ## Companies asking
 
 - [Accenture](../companies/accenture.md)
+- [BNP Paribas](../companies/bnp-paribas.md)
 
 ## Recently added
 
@@ -92,6 +100,7 @@ _None in this band yet._
 - [Grafana ka use kyu hota hai?](../topics/grafana.md#grafana-ka-use-kyu-hota-hai) — 2026-07-18
 - [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) — 2026-07-17
 - [Have you created Grafana dashboards for metrics, logs, and traces for RCA activities?](../topics/grafana.md#have-you-created-grafana-dashboards-for-metrics-logs-and-traces-for-rca-activiti) — 2026-07-17
+- [What is the difference between Grafana and the ELK Stack?](../topics/grafana.md#what-is-the-difference-between-grafana-and-the-elk-stack) — 2026-07-15 · tags: `ELK`
 
 ## Related topics
 
@@ -115,6 +124,7 @@ _None in this band yet._
 | [In Grafana how have you created dashboards?](../topics/grafana.md#in-grafana-how-have-you-created-dashboards) | Medium | 1 |
 | [Logs are missing from Grafana/Loki. How would you troubleshoot?](../topics/grafana.md#logs-are-missing-from-grafana-loki-how-would-you-troubleshoot) | Medium | 2 |
 | [What dashboards and alerts have you configured in Grafana?](../topics/grafana.md#what-dashboards-and-alerts-have-you-configured-in-grafana) | Medium | 1 |
+| [What is the difference between Grafana and the ELK Stack?](../topics/grafana.md#what-is-the-difference-between-grafana-and-the-elk-stack) | Easy | 2 |
 
 ## Learning resources
 

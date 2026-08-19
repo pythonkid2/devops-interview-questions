@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **IAM**
 
-**18** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**26** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,24 +21,34 @@
 
 | | |
 | --- | ---: |
-| Questions | 18 |
-| Easy / Medium / Hard | 3 / 15 / 0 |
-| Companies | 3 |
+| Questions | 26 |
+| Easy / Medium / Hard | 5 / 20 / 1 |
+| Companies | 4 |
 
 ## Most asked
 
+- [Difference between IAM Roles and IAM Policies.](../topics/iam.md#difference-between-iam-roles-and-iam-policies) — **3×** · Easy
+  <a id="difference-between-iam-roles-and-iam-policies"></a>
+- [How do you implement RBAC in Kubernetes?](../topics/iam.md#how-do-you-implement-rbac-in-kubernetes) — **3×** · Medium · tags: `Kubernetes`, `RBAC`
+  <a id="how-do-you-implement-rbac-in-kubernetes"></a>
 - [What is IAM?](../topics/iam.md#what-is-iam) — **3×** · Easy
   <a id="what-is-iam"></a>
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — **2×** · Medium · tags: `AWS`
   <a id="an-iam-user-has-admin-access-but-s3-access-is-denied-why"></a>
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — **2×** · Medium · tags: `AWS`
   <a id="aws-iam-ec2-lambda-load-balancers"></a>
+- [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/iam.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) — **2×** · Medium · tags: `Kubernetes`, `RBAC`
+  <a id="explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources"></a>
 - [IAM](../topics/iam.md#iam) — **2×** · Medium
   <a id="iam"></a>
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — **2×** · Medium · tags: `Kubernetes`, `RBAC`
   <a id="in-kubernetes-what-is-rbac"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — **2×** · Medium · tags: `RBAC`
   <a id="rbac-security"></a>
+- [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/iam.md#what-do-you-mean-by-rbac-iam-kubernetes-context) — **2×** · Medium · tags: `Kubernetes`, `RBAC`
+  <a id="what-do-you-mean-by-rbac-iam-kubernetes-context"></a>
+- [What is RBAC and its components](../topics/iam.md#what-is-rbac-and-its-components) — **2×** · Easy · tags: `RBAC`
+  <a id="what-is-rbac-and-its-components"></a>
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — **1×** · Medium · tags: `AWS`
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — **1×** · Medium
@@ -49,6 +59,10 @@
   <a id="how-do-you-handle-iam-roles-for-applications"></a>
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — **1×** · Medium
   <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
+- [How would you configure cross-account IAM roles for centralized logging?](../topics/iam.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) — **1×** · Medium · tags: `Logging`
+  <a id="how-would-you-configure-cross-account-iam-roles-for-centralized-logging"></a>
+- [How would you design IAM permissions and trust relationships for large-scale AWS Organizations environments?](../topics/iam.md#how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws) — **1×** · Hard · tags: `AWS`
+  <a id="how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws"></a>
 - [IAM Best Practices & Interview Revision](../topics/iam.md#iam-best-practices-interview-revision) — **1×** · Medium
   <a id="iam-best-practices-interview-revision"></a>
 - [IAM Policies](../topics/iam.md#iam-policies) — **1×** · Medium
@@ -59,15 +73,19 @@
   <a id="iam-users-groups"></a>
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — **1×** · Medium · tags: `ArgoCD`, `Terraform`, `RBAC`
   <a id="terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all"></a>
+- [What IAM permissions are required for AWS Systems Manager?](../topics/iam.md#what-iam-permissions-are-required-for-aws-systems-manager) — **1×** · Medium · tags: `AWS`
+  <a id="what-iam-permissions-are-required-for-aws-systems-manager"></a>
 - [What is IRSA and how is it used in Kubernetes?](../topics/iam.md#what-is-irsa-and-how-is-it-used-in-kubernetes) — **1×** · Easy · tags: `Kubernetes`, `IRSA`
   <a id="what-is-irsa-and-how-is-it-used-in-kubernetes"></a>
-- [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — **1×** · Easy
-  <a id="what-is-the-purpose-of-iam-roles-compared-to-iam-users"></a>
 
 ## Beginner
 
+- [Difference between IAM Roles and IAM Policies.](../topics/iam.md#difference-between-iam-roles-and-iam-policies) — 3×
+  <a id="difference-between-iam-roles-and-iam-policies"></a>
 - [What is IAM?](../topics/iam.md#what-is-iam) — 3×
   <a id="what-is-iam"></a>
+- [What is RBAC and its components](../topics/iam.md#what-is-rbac-and-its-components) — 2× · tags: `RBAC`
+  <a id="what-is-rbac-and-its-components"></a>
 - [What is IRSA and how is it used in Kubernetes?](../topics/iam.md#what-is-irsa-and-how-is-it-used-in-kubernetes) — 1× · tags: `Kubernetes`, `IRSA`
   <a id="what-is-irsa-and-how-is-it-used-in-kubernetes"></a>
 - [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) — 1×
@@ -75,16 +93,22 @@
 
 ## Intermediate
 
+- [How do you implement RBAC in Kubernetes?](../topics/iam.md#how-do-you-implement-rbac-in-kubernetes) — 3× · tags: `Kubernetes`, `RBAC`
+  <a id="how-do-you-implement-rbac-in-kubernetes"></a>
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — 2× · tags: `AWS`
   <a id="an-iam-user-has-admin-access-but-s3-access-is-denied-why"></a>
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — 2× · tags: `AWS`
   <a id="aws-iam-ec2-lambda-load-balancers"></a>
+- [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/iam.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) — 2× · tags: `Kubernetes`, `RBAC`
+  <a id="explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources"></a>
 - [IAM](../topics/iam.md#iam) — 2×
   <a id="iam"></a>
 - [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) — 2× · tags: `Kubernetes`, `RBAC`
   <a id="in-kubernetes-what-is-rbac"></a>
 - [RBAC & Security](../topics/iam.md#rbac-security) — 2× · tags: `RBAC`
   <a id="rbac-security"></a>
+- [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/iam.md#what-do-you-mean-by-rbac-iam-kubernetes-context) — 2× · tags: `Kubernetes`, `RBAC`
+  <a id="what-do-you-mean-by-rbac-iam-kubernetes-context"></a>
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — 1× · tags: `AWS`
   <a id="a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-"></a>
 - [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) — 1×
@@ -95,6 +119,8 @@
   <a id="how-do-you-handle-iam-roles-for-applications"></a>
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) — 1×
   <a id="how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles"></a>
+- [How would you configure cross-account IAM roles for centralized logging?](../topics/iam.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) — 1× · tags: `Logging`
+  <a id="how-would-you-configure-cross-account-iam-roles-for-centralized-logging"></a>
 - [IAM Best Practices & Interview Revision](../topics/iam.md#iam-best-practices-interview-revision) — 1×
   <a id="iam-best-practices-interview-revision"></a>
 - [IAM Policies](../topics/iam.md#iam-policies) — 1×
@@ -105,22 +131,38 @@
   <a id="iam-users-groups"></a>
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — 1× · tags: `ArgoCD`, `Terraform`, `RBAC`
   <a id="terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all"></a>
+- [What IAM permissions are required for AWS Systems Manager?](../topics/iam.md#what-iam-permissions-are-required-for-aws-systems-manager) — 1× · tags: `AWS`
+  <a id="what-iam-permissions-are-required-for-aws-systems-manager"></a>
 
 ## Advanced
 
-_None in this band yet._
+- [How would you design IAM permissions and trust relationships for large-scale AWS Organizations environments?](../topics/iam.md#how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws) — 1× · tags: `AWS`
+  <a id="how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws"></a>
 
 ## By interview round
+
+### Other
+
+- [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/iam.md#what-do-you-mean-by-rbac-iam-kubernetes-context) — tags: `Kubernetes`, `RBAC`
+
+### Technical Round 1
+
+- [How would you configure cross-account IAM roles for centralized logging?](../topics/iam.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) — tags: `Logging`
+- [How would you design IAM permissions and trust relationships for large-scale AWS Organizations environments?](../topics/iam.md#how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws) — tags: `AWS`
+- [What IAM permissions are required for AWS Systems Manager?](../topics/iam.md#what-iam-permissions-are-required-for-aws-systems-manager) — tags: `AWS`
 
 ### Unspecified
 
 - [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) — tags: `AWS`
 - [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) — tags: `AWS`
 - [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) — tags: `AWS`
+- [Difference between IAM Roles and IAM Policies.](../topics/iam.md#difference-between-iam-roles-and-iam-policies)
 - [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario)
 - [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e)
+- [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/iam.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) — tags: `Kubernetes`, `RBAC`
 - [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications)
 - [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles)
+- [How do you implement RBAC in Kubernetes?](../topics/iam.md#how-do-you-implement-rbac-in-kubernetes) — tags: `Kubernetes`, `RBAC`
 - [IAM](../topics/iam.md#iam)
 - [IAM Best Practices & Interview Revision](../topics/iam.md#iam-best-practices-interview-revision)
 - [IAM Policies](../topics/iam.md#iam-policies)
@@ -131,10 +173,12 @@ _None in this band yet._
 - [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) — tags: `ArgoCD`, `Terraform`, `RBAC`
 - [What is IAM?](../topics/iam.md#what-is-iam)
 - [What is IRSA and how is it used in Kubernetes?](../topics/iam.md#what-is-irsa-and-how-is-it-used-in-kubernetes) — tags: `Kubernetes`, `IRSA`
+- [What is RBAC and its components](../topics/iam.md#what-is-rbac-and-its-components) — tags: `RBAC`
 - [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users)
 
 ## Companies asking
 
+- [Global Payments](../companies/global-payments.md)
 - [Infosys](../companies/infosys.md)
 - [Oracle](../companies/oracle.md)
 - [TCS](../companies/tcs.md)
@@ -173,10 +217,15 @@ _None in this band yet._
 | [A new team member needs limited access to AWS resources. How would you configure IAM securely?](../topics/iam.md#a-new-team-member-needs-limited-access-to-aws-resources-how-would-you-configure-) | Medium | 1 |
 | [An IAM user has admin access, but S3 access is denied. Why?](../topics/iam.md#an-iam-user-has-admin-access-but-s3-access-is-denied-why) | Medium | 2 |
 | [AWS IAM, EC2, Lambda & Load Balancers](../topics/iam.md#aws-iam-ec2-lambda-load-balancers) | Medium | 2 |
+| [Difference between IAM Roles and IAM Policies.](../topics/iam.md#difference-between-iam-roles-and-iam-policies) | Easy | 3 |
 | [Explain IAM Roles vs IAM Policies with a real-world scenario.](../topics/iam.md#explain-iam-roles-vs-iam-policies-with-a-real-world-scenario) | Medium | 1 |
 | [Explain IAM Roles, Policies, and Cross-Account Role Assumption with a real-world example.](../topics/iam.md#explain-iam-roles-policies-and-cross-account-role-assumption-with-a-real-world-e) | Medium | 1 |
+| [Explain Kubernetes RBAC and how it controls access to cluster resources.](../topics/iam.md#explain-kubernetes-rbac-and-how-it-controls-access-to-cluster-resources) | Medium | 2 |
 | [How do you handle IAM roles for applications?](../topics/iam.md#how-do-you-handle-iam-roles-for-applications) | Medium | 1 |
 | [How do you implement cross-account access in Amazon Web Services using IAM roles?](../topics/iam.md#how-do-you-implement-cross-account-access-in-amazon-web-services-using-iam-roles) | Medium | 1 |
+| [How do you implement RBAC in Kubernetes?](../topics/iam.md#how-do-you-implement-rbac-in-kubernetes) | Medium | 3 |
+| [How would you configure cross-account IAM roles for centralized logging?](../topics/iam.md#how-would-you-configure-cross-account-iam-roles-for-centralized-logging) | Medium | 1 |
+| [How would you design IAM permissions and trust relationships for large-scale AWS Organizations environments?](../topics/iam.md#how-would-you-design-iam-permissions-and-trust-relationships-for-large-scale-aws) | Hard | 1 |
 | [IAM](../topics/iam.md#iam) | Medium | 2 |
 | [IAM Best Practices & Interview Revision](../topics/iam.md#iam-best-practices-interview-revision) | Medium | 1 |
 | [IAM Policies](../topics/iam.md#iam-policies) | Medium | 1 |
@@ -185,8 +234,11 @@ _None in this band yet._
 | [In Kubernetes, what is RBAC?](../topics/iam.md#in-kubernetes-what-is-rbac) | Medium | 2 |
 | [RBAC & Security](../topics/iam.md#rbac-security) | Medium | 2 |
 | [Terraform accidentally modifies ArgoCD RBAC, causing ArgoCD to lose access to all applications. How would you recover?](../topics/iam.md#terraform-accidentally-modifies-argocd-rbac-causing-argocd-to-lose-access-to-all) | Medium | 1 |
+| [What do you mean by RBAC? (IAM/Kubernetes context.)](../topics/iam.md#what-do-you-mean-by-rbac-iam-kubernetes-context) | Medium | 2 |
+| [What IAM permissions are required for AWS Systems Manager?](../topics/iam.md#what-iam-permissions-are-required-for-aws-systems-manager) | Medium | 1 |
 | [What is IAM?](../topics/iam.md#what-is-iam) | Easy | 3 |
 | [What is IRSA and how is it used in Kubernetes?](../topics/iam.md#what-is-irsa-and-how-is-it-used-in-kubernetes) | Easy | 1 |
+| [What is RBAC and its components](../topics/iam.md#what-is-rbac-and-its-components) | Easy | 2 |
 | [What is the purpose of IAM Roles compared to IAM Users?](../topics/iam.md#what-is-the-purpose-of-iam-roles-compared-to-iam-users) | Easy | 1 |
 
 ## Learning resources

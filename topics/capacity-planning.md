@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Capacity Planning**
 
-**13** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**15** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 13 |
-| Easy / Medium / Hard | 2 / 8 / 3 |
+| Questions | 15 |
+| Easy / Medium / Hard | 2 / 10 / 3 |
 | Companies | 2 |
 
 ## Most asked
@@ -31,6 +31,8 @@
   <a id="describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos"></a>
 - [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — **2×** · Medium · tags: `Kubernetes`
   <a id="how-do-you-handle-autoscaling-in-kubernetes"></a>
+- [How do you use hpa in prod env and what kind of metric target in cluster](../topics/capacity-planning.md#how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster) — **2×** · Medium · tags: `HPA`
+  <a id="how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster"></a>
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — **2×** · Medium · tags: `Kubernetes`, `HPA`
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
 - [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) — **2×** · Medium · tags: `Kubernetes`
@@ -43,6 +45,8 @@
   <a id="cluster-autoscaler-status"></a>
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — **1×** · Hard · tags: `HPA`
   <a id="design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike"></a>
+- [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/capacity-planning.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) — **1×** · Medium · tags: `Terraform`, `HPA`
+  <a id="how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-"></a>
 - [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) — **1×** · Hard · tags: `HPA`
   <a id="hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out"></a>
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — **1×** · Hard · tags: `Prometheus`, `Kubernetes`, `HPA`
@@ -67,6 +71,8 @@
   <a id="describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos"></a>
 - [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — 2× · tags: `Kubernetes`
   <a id="how-do-you-handle-autoscaling-in-kubernetes"></a>
+- [How do you use hpa in prod env and what kind of metric target in cluster](../topics/capacity-planning.md#how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster) — 2× · tags: `HPA`
+  <a id="how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster"></a>
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — 2× · tags: `Kubernetes`, `HPA`
   <a id="how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions"></a>
 - [Talk about autoscaling, resource requests & limits, taints, tolerations, node affinity, or troubleshooting CrashLoopBackOff issues in Kubernetes.](../topics/capacity-planning.md#talk-about-autoscaling-resource-requests-limits-taints-tolerations-node-affinity) — 2× · tags: `Kubernetes`
@@ -77,6 +83,8 @@
   <a id="autoscaling-resource-limits"></a>
 - [Cluster Autoscaler status](../topics/capacity-planning.md#cluster-autoscaler-status) — 1×
   <a id="cluster-autoscaler-status"></a>
+- [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/capacity-planning.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) — 1× · tags: `Terraform`, `HPA`
+  <a id="how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-"></a>
 - [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — 1× · tags: `Kubernetes`, `HPA`
   <a id="why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue"></a>
 
@@ -97,7 +105,9 @@
 - [Cluster Autoscaler status](../topics/capacity-planning.md#cluster-autoscaler-status)
 - [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos)
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — tags: `HPA`
+- [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/capacity-planning.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) — tags: `Terraform`, `HPA`
 - [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) — tags: `Kubernetes`
+- [How do you use hpa in prod env and what kind of metric target in cluster](../topics/capacity-planning.md#how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster) — tags: `HPA`
 - [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) — tags: `Kubernetes`, `HPA`
 - [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) — tags: `HPA`
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — tags: `Prometheus`, `Kubernetes`, `HPA`
@@ -126,7 +136,9 @@
 - [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) — 2026-07-18 · tags: `HPA`
 - [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) — 2026-07-18 · tags: `HPA`
 - [Why doesn't Horizontal Pod Autoscaler (HPA) solve every performance issue?](../topics/capacity-planning.md#why-doesn-t-horizontal-pod-autoscaler-hpa-solve-every-performance-issue) — 2026-07-17 · tags: `Kubernetes`, `HPA`
+- [How do you use hpa in prod env and what kind of metric target in cluster](../topics/capacity-planning.md#how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster) — 2026-07-17 · tags: `HPA`
 - [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) — 2026-07-17 · tags: `Prometheus`, `Kubernetes`, `HPA`
+- [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/capacity-planning.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) — 2026-07-15 · tags: `Terraform`, `HPA`
 
 ## Related topics
 
@@ -146,7 +158,9 @@
 | [Cluster Autoscaler status](../topics/capacity-planning.md#cluster-autoscaler-status) | Medium | 1 |
 | [Describe your strategy for capacity planning, resource optimization, and cloud cost management.](../topics/capacity-planning.md#describe-your-strategy-for-capacity-planning-resource-optimization-and-cloud-cos) | Medium | 3 |
 | [Design an HPA + Cluster Autoscaler solution capable of handling a 5× traffic spike within three minutes.](../topics/capacity-planning.md#design-an-hpa-cluster-autoscaler-solution-capable-of-handling-a-5x-traffic-spike) | Hard | 1 |
+| [How did you deploy components like HPA, Karpenter, Metrics Server, and CoreDNS? Did you use Terraform?](../topics/capacity-planning.md#how-did-you-deploy-components-like-hpa-karpenter-metrics-server-and-coredns-did-) | Medium | 1 |
 | [How do you handle autoscaling in Kubernetes?](../topics/capacity-planning.md#how-do-you-handle-autoscaling-in-kubernetes) | Medium | 2 |
+| [How do you use hpa in prod env and what kind of metric target in cluster](../topics/capacity-planning.md#how-do-you-use-hpa-in-prod-env-and-what-kind-of-metric-target-in-cluster) | Medium | 2 |
 | [How does Horizontal Pod Autoscaler (HPA) make scaling decisions?](../topics/capacity-planning.md#how-does-horizontal-pod-autoscaler-hpa-make-scaling-decisions) | Medium | 2 |
 | [HPA refuses to scale even though CPU is clearly maxed out](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-cpu-is-clearly-maxed-out) | Hard | 1 |
 | [HPA refuses to scale even though Prometheus shows CPU > 80%. Diagnose with cloud + K8s metrics.](../topics/capacity-planning.md#hpa-refuses-to-scale-even-though-prometheus-shows-cpu-80-diagnose-with-cloud-k8s) | Hard | 1 |

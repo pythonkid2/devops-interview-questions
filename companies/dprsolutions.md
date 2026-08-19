@@ -11,41 +11,41 @@
 
 ## Topics asked
 
-- [AWS](../topics/aws.md) — 1
-- [Monitoring](../topics/monitoring.md) — 1
-- [Network Security](../topics/network-security.md) — 1
-- [Python](../topics/python.md) — 1
+- [Bash](../topics/bash.md) — 1
+- [DNS](../topics/dns.md) — 1
+- [Prometheus](../topics/prometheus.md) — 1
+- [Terraform](../topics/terraform.md) — 1
 
 ## Most repeated
 
-- [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/aws.md#infrastructure-as-code-iac-terraform-cloudformation) — 1× · AWS
-- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 1× · Monitoring
-- [Networking: DNS, Firewall Rules, Virtual Networks](../topics/network-security.md#networking-dns-firewall-rules-virtual-networks) — 1× · Network Security
-- [Scripting & Automation: Python, Bash (or equivalent)](../topics/python.md#scripting-automation-python-bash-or-equivalent) — 1× · Python
+- [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/terraform.md#infrastructure-as-code-iac-terraform-cloudformation) — 1× · Terraform · tags: `CloudFormation`
+- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/prometheus.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 1× · Prometheus · tags: `ELK`, `Logging`, `Monitoring`
+- [Networking: DNS, Firewall Rules, Virtual Networks](../topics/dns.md#networking-dns-firewall-rules-virtual-networks) — 1× · DNS · tags: `Networking`
+- [Scripting & Automation: Python, Bash (or equivalent)](../topics/bash.md#scripting-automation-python-bash-or-equivalent) — 1× · Bash · tags: `Python`
 
 ## By topic
 
-### AWS
+### Bash
 
-- [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/aws.md#infrastructure-as-code-iac-terraform-cloudformation) — Easy
+- [Scripting & Automation: Python, Bash (or equivalent)](../topics/bash.md#scripting-automation-python-bash-or-equivalent) — Medium · tags: `Python`
 
-### Monitoring
+### DNS
 
-- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — Easy
+- [Networking: DNS, Firewall Rules, Virtual Networks](../topics/dns.md#networking-dns-firewall-rules-virtual-networks) — Medium · tags: `Networking`
 
-### Network Security
+### Prometheus
 
-- [Networking: DNS, Firewall Rules, Virtual Networks](../topics/network-security.md#networking-dns-firewall-rules-virtual-networks) — Easy
+- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/prometheus.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — Medium · tags: `ELK`, `Logging`, `Monitoring`
 
-### Python
+### Terraform
 
-- [Scripting & Automation: Python, Bash (or equivalent)](../topics/python.md#scripting-automation-python-bash-or-equivalent) — Easy
+- [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/terraform.md#infrastructure-as-code-iac-terraform-cloudformation) — Medium · tags: `CloudFormation`
 
 ## Recently added
 
-- [Networking: DNS, Firewall Rules, Virtual Networks](../topics/network-security.md#networking-dns-firewall-rules-virtual-networks) — 2026-07-15
-- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/monitoring.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 2026-07-15
-- [Scripting & Automation: Python, Bash (or equivalent)](../topics/python.md#scripting-automation-python-bash-or-equivalent) — 2026-07-15
-- [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/aws.md#infrastructure-as-code-iac-terraform-cloudformation) — 2026-07-15
+- [Networking: DNS, Firewall Rules, Virtual Networks](../topics/dns.md#networking-dns-firewall-rules-virtual-networks) — 2026-07-15 · tags: `Networking`
+- [Monitoring & Logging: CloudWatch, Prometheus, ELK Stack](../topics/prometheus.md#monitoring-logging-cloudwatch-prometheus-elk-stack) — 2026-07-15 · tags: `ELK`, `Logging`, `Monitoring`
+- [Scripting & Automation: Python, Bash (or equivalent)](../topics/bash.md#scripting-automation-python-bash-or-equivalent) — 2026-07-15 · tags: `Python`
+- [Infrastructure as Code (IaC): Terraform, CloudFormation](../topics/terraform.md#infrastructure-as-code-iac-terraform-cloudformation) — 2026-07-15 · tags: `CloudFormation`
 
 [← All companies](./README.md) · [Home](../README.md)

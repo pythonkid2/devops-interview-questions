@@ -1,6 +1,6 @@
 # DevOps Interview Questions
 
-![questions](https://img.shields.io/badge/questions-2394-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-1029-informational)
+![questions](https://img.shields.io/badge/questions-2394-blue) ![companies](https://img.shields.io/badge/companies-10-success) ![posts](https://img.shields.io/badge/linkedin_posts-1059-informational)
 
 Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experience posts — cleaned, topic-normalized, and organized for study.
 
@@ -19,21 +19,21 @@ Real **DevOps / Cloud / SRE interview questions** from LinkedIn interview-experi
 | Metric | Value |
 | --- | ---: |
 | Unique questions | 2394 |
-| Posts processed | 1029 |
-| Added this week | 427 |
+| Posts processed | 1059 |
+| Added this week | 209 |
 
 ## Popular topics
 
-- [Kubernetes](./topics/kubernetes.md) — 260
-- [Terraform](./topics/terraform.md) — 151
-- [AWS](./topics/aws.md) — 129
-- [Docker](./topics/docker.md) — 113
-- [Jenkins](./topics/jenkins.md) — 90
-- [CI/CD](./topics/ci-cd.md) — 89
+- [Kubernetes](./topics/kubernetes.md) — 236
+- [Terraform](./topics/terraform.md) — 140
+- [AWS](./topics/aws.md) — 115
+- [Docker](./topics/docker.md) — 105
+- [Jenkins](./topics/jenkins.md) — 83
+- [CI/CD](./topics/ci-cd.md) — 71
+- [Incident Response](./topics/incident-response.md) — 69
+- [Deployment Strategies](./topics/deployment-strategies.md) — 56
 - [System Design](./topics/system-design.md) — 38
-- [Incident Response](./topics/incident-response.md) — 35
-- [Azure](./topics/azure.md) — 29
-- [Linux](./topics/linux.md) — 29
+- [Linux](./topics/linux.md) — 28
 
 ## Popular companies
 

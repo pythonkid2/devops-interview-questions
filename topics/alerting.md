@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Alerting**
 
-**6** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**8** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,14 +21,18 @@
 
 | | |
 | --- | ---: |
-| Questions | 6 |
-| Easy / Medium / Hard | 0 / 5 / 1 |
+| Questions | 8 |
+| Easy / Medium / Hard | 0 / 7 / 1 |
 | Companies | 1 |
 
 ## Most asked
 
 - [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — **2×** · Medium · tags: `Monitoring`
   <a id="a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-"></a>
+- [Explain your monitoring and alerting strategy.](../topics/alerting.md#explain-your-monitoring-and-alerting-strategy) — **2×** · Medium · tags: `Monitoring`
+  <a id="explain-your-monitoring-and-alerting-strategy"></a>
+- [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/alerting.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) — **2×** · Medium · tags: `Python`
+  <a id="write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex"></a>
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — **1×** · Medium
   <a id="alertmanager-ka-role"></a>
 - [How do you design monitoring and alerting to reduce alert fatigue?](../topics/alerting.md#how-do-you-design-monitoring-and-alerting-to-reduce-alert-fatigue) — **1×** · Hard · tags: `Monitoring`
@@ -48,6 +52,10 @@ _None in this band yet._
 
 - [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — 2× · tags: `Monitoring`
   <a id="a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-"></a>
+- [Explain your monitoring and alerting strategy.](../topics/alerting.md#explain-your-monitoring-and-alerting-strategy) — 2× · tags: `Monitoring`
+  <a id="explain-your-monitoring-and-alerting-strategy"></a>
+- [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/alerting.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) — 2× · tags: `Python`
+  <a id="write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex"></a>
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — 1×
   <a id="alertmanager-ka-role"></a>
 - [if cloudwatch do alerting and monitor events, then what about cloudtrail do in AWS?](../topics/alerting.md#if-cloudwatch-do-alerting-and-monitor-events-then-what-about-cloudtrail-do-in-aw) — 1× · tags: `Monitoring`, `AWS`
@@ -68,8 +76,10 @@ _None in this band yet._
 
 - [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — tags: `Monitoring`
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role)
+- [Explain your monitoring and alerting strategy.](../topics/alerting.md#explain-your-monitoring-and-alerting-strategy) — tags: `Monitoring`
 - [How do you design monitoring and alerting to reduce alert fatigue?](../topics/alerting.md#how-do-you-design-monitoring-and-alerting-to-reduce-alert-fatigue) — tags: `Monitoring`
 - [if cloudwatch do alerting and monitor events, then what about cloudtrail do in AWS?](../topics/alerting.md#if-cloudwatch-do-alerting-and-monitor-events-then-what-about-cloudtrail-do-in-aw) — tags: `Monitoring`, `AWS`
+- [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/alerting.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) — tags: `Python`
 - [Write a shell script to monitor disk usage and send an alert if utilization exceeds 85%.](../topics/alerting.md#write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce) — tags: `Shell Scripting`
 - [you said cloudwatch for alerting, let me know what alerting seup its there in project as i know its for metrics.](../topics/alerting.md#you-said-cloudwatch-for-alerting-let-me-know-what-alerting-seup-its-there-in-pro) — tags: `Monitoring`
 
@@ -85,6 +95,8 @@ _None in this band yet._
 - [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) — 2026-08-10 · tags: `Monitoring`
 - [Write a shell script to monitor disk usage and send an alert if utilization exceeds 85%.](../topics/alerting.md#write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce) — 2026-07-26 · tags: `Shell Scripting`
 - [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) — 2026-07-18
+- [Explain your monitoring and alerting strategy.](../topics/alerting.md#explain-your-monitoring-and-alerting-strategy) — 2026-07-17 · tags: `Monitoring`
+- [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/alerting.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) — 2026-07-15 · tags: `Python`
 
 ## Related topics
 
@@ -103,8 +115,10 @@ _None in this band yet._
 | --- | --- | ---: |
 | [A monitoring alert fires every few minutes, but there is no real issue. How would you reduce alert fatigue?](../topics/alerting.md#a-monitoring-alert-fires-every-few-minutes-but-there-is-no-real-issue-how-would-) | Medium | 2 |
 | [Alertmanager ka role?](../topics/alerting.md#alertmanager-ka-role) | Medium | 1 |
+| [Explain your monitoring and alerting strategy.](../topics/alerting.md#explain-your-monitoring-and-alerting-strategy) | Medium | 2 |
 | [How do you design monitoring and alerting to reduce alert fatigue?](../topics/alerting.md#how-do-you-design-monitoring-and-alerting-to-reduce-alert-fatigue) | Hard | 1 |
 | [if cloudwatch do alerting and monitor events, then what about cloudtrail do in AWS?](../topics/alerting.md#if-cloudwatch-do-alerting-and-monitor-events-then-what-about-cloudtrail-do-in-aw) | Medium | 1 |
+| [Write a Python script to monitor CPU, Memory, and Disk utilization. If the usage exceeds 90%, generate an alert. You may use any Python packages.](../topics/alerting.md#write-a-python-script-to-monitor-cpu-memory-and-disk-utilization-if-the-usage-ex) | Medium | 2 |
 | [Write a shell script to monitor disk usage and send an alert if utilization exceeds 85%.](../topics/alerting.md#write-a-shell-script-to-monitor-disk-usage-and-send-an-alert-if-utilization-exce) | Medium | 1 |
 | [you said cloudwatch for alerting, let me know what alerting seup its there in project as i know its for metrics.](../topics/alerting.md#you-said-cloudwatch-for-alerting-let-me-know-what-alerting-seup-its-there-in-pro) | Medium | 1 |
 

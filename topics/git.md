@@ -2,7 +2,7 @@
 
 [Home](../README.md) > [Topics](./README.md) > **Git**
 
-**21** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
+**23** real interview questions. Study this page end-to-end — open a detail page only when an answer is enriched.
 
 ## Table of contents
 
@@ -21,8 +21,8 @@
 
 | | |
 | --- | ---: |
-| Questions | 21 |
-| Easy / Medium / Hard | 7 / 14 / 0 |
+| Questions | 23 |
+| Easy / Medium / Hard | 7 / 16 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -47,6 +47,8 @@
   <a id="what-are-git-commands-you-know"></a>
 - [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) — **2×** · Easy
   <a id="whats-the-difference-between-git-pull-and-git-fetch"></a>
+- [When you perform a Git merge, what are the different options you use?](../topics/git.md#when-you-perform-a-git-merge-what-are-the-different-options-you-use) — **2×** · Medium
+  <a id="when-you-perform-a-git-merge-what-are-the-different-options-you-use"></a>
 - [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — **2×** · Medium
   <a id="you-accidentally-deleted-the-git-folder-can-you-recover-it"></a>
 - [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) — **1×** · Medium
@@ -55,6 +57,8 @@
   <a id="git-error-not-a-git-repository-during-pull-how-to-fix"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — **1×** · Medium
   <a id="git-github-branching-strategies"></a>
+- [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../topics/git.md#how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a) — **1×** · Medium
+  <a id="how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a"></a>
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — **1×** · Medium
   <a id="how-do-you-manage-version-control-with-git"></a>
 - [How do you use Git and understand version control?](../topics/git.md#how-do-you-use-git-and-understand-version-control) — **1×** · Medium
@@ -99,6 +103,8 @@
   <a id="git-fetch-vs-git-pull"></a>
 - [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) — 2×
   <a id="how-does-git-merge-and-rebase-differ-internally"></a>
+- [When you perform a Git merge, what are the different options you use?](../topics/git.md#when-you-perform-a-git-merge-what-are-the-different-options-you-use) — 2×
+  <a id="when-you-perform-a-git-merge-what-are-the-different-options-you-use"></a>
 - [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) — 2×
   <a id="you-accidentally-deleted-the-git-folder-can-you-recover-it"></a>
 - [Git deep concepts (merge vs rebase, rebase squash)](../topics/git.md#git-deep-concepts-merge-vs-rebase-rebase-squash) — 1×
@@ -107,6 +113,8 @@
   <a id="git-error-not-a-git-repository-during-pull-how-to-fix"></a>
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) — 1×
   <a id="git-github-branching-strategies"></a>
+- [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../topics/git.md#how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a) — 1×
+  <a id="how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a"></a>
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) — 1×
   <a id="how-do-you-manage-version-control-with-git"></a>
 - [How do you use Git and understand version control?](../topics/git.md#how-do-you-use-git-and-understand-version-control) — 1×
@@ -133,6 +141,7 @@ _None in this band yet._
 - [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix)
 - [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull)
 - [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies)
+- [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../topics/git.md#how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a)
 - [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git)
 - [How do you use Git and understand version control?](../topics/git.md#how-do-you-use-git-and-understand-version-control)
 - [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally)
@@ -144,6 +153,7 @@ _None in this band yet._
 - [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge)
 - [What is Git?](../topics/git.md#what-is-git)
 - [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch)
+- [When you perform a Git merge, what are the different options you use?](../topics/git.md#when-you-perform-a-git-merge-what-are-the-different-options-you-use)
 - [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used)
 - [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool)
 - [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it)
@@ -185,6 +195,7 @@ _None in this band yet._
 | [Git error: “not a git repository” during pull — how to fix?](../topics/git.md#git-error-not-a-git-repository-during-pull-how-to-fix) | Medium | 1 |
 | [git fetch vs git pull?](../topics/git.md#git-fetch-vs-git-pull) | Medium | 2 |
 | [Git, GitHub & Branching Strategies](../topics/git.md#git-github-branching-strategies) | Medium | 1 |
+| [How do you manage Git, YAML Pipelines, ARM/Bicep (Good to Have) for infrastructure as code?](../topics/git.md#how-do-you-manage-git-yaml-pipelines-arm-bicep-good-to-have-for-infrastructure-a) | Medium | 1 |
 | [How do you manage version control with Git?](../topics/git.md#how-do-you-manage-version-control-with-git) | Medium | 1 |
 | [How do you use Git and understand version control?](../topics/git.md#how-do-you-use-git-and-understand-version-control) | Medium | 1 |
 | [How does Git merge and rebase differ internally?](../topics/git.md#how-does-git-merge-and-rebase-differ-internally) | Medium | 2 |
@@ -196,6 +207,7 @@ _None in this band yet._
 | [What is Git rebase and how does it different from Git merge ?](../topics/git.md#what-is-git-rebase-and-how-does-it-different-from-git-merge) | Easy | 1 |
 | [What is Git?](../topics/git.md#what-is-git) | Easy | 3 |
 | [What’s the difference between Git pull and Git fetch?](../topics/git.md#whats-the-difference-between-git-pull-and-git-fetch) | Easy | 2 |
+| [When you perform a Git merge, what are the different options you use?](../topics/git.md#when-you-perform-a-git-merge-what-are-the-different-options-you-use) | Medium | 2 |
 | [Which Git branching strategy have you used?](../topics/git.md#which-git-branching-strategy-have-you-used) | Medium | 1 |
 | [Why did you choose Git as the Source Code Management tool?](../topics/git.md#why-did-you-choose-git-as-the-source-code-management-tool) | Medium | 1 |
 | [You accidentally deleted the .git folder — can you recover it?](../topics/git.md#you-accidentally-deleted-the-git-folder-can-you-recover-it) | Medium | 2 |

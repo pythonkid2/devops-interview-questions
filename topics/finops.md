@@ -22,7 +22,7 @@
 | | |
 | --- | ---: |
 | Questions | 9 |
-| Easy / Medium / Hard | 1 / 8 / 0 |
+| Easy / Medium / Hard | 0 / 9 / 0 |
 | Companies | 1 |
 
 ## Most asked
@@ -35,7 +35,7 @@
   <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 - [Cost optimization](../topics/finops.md#cost-optimization) — **2×** · Medium
   <a id="cost-optimization"></a>
-- [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) — **2×** · Easy
+- [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) — **2×** · Medium
   <a id="how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh"></a>
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — **2×** · Medium
   <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
@@ -48,8 +48,7 @@
 
 ## Beginner
 
-- [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) — 2×
-  <a id="how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh"></a>
+_None in this band yet._
 
 ## Intermediate
 
@@ -61,6 +60,8 @@
   <a id="how-did-you-maintain-cost-optimization-for-the-customer"></a>
 - [Cost optimization](../topics/finops.md#cost-optimization) — 2×
   <a id="cost-optimization"></a>
+- [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) — 2×
+  <a id="how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh"></a>
 - [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) — 2×
   <a id="how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance"></a>
 - [Cluster and cost optimization](../topics/finops.md#cluster-and-cost-optimization) — 1×
@@ -117,7 +118,7 @@ _None in this band yet._
 | [Cost optimization](../topics/finops.md#cost-optimization) | Medium | 2 |
 | [Cost optimization scenarios](../topics/finops.md#cost-optimization-scenarios) | Medium | 1 |
 | [How did you maintain cost optimization for the customer ?](../topics/finops.md#how-did-you-maintain-cost-optimization-for-the-customer) | Medium | 3 |
-| [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) | Easy | 2 |
+| [How do you justify infrastructure cost for idle GPU pre-warming to leadership when each hour costs $30–$40 per GPU?](../topics/finops.md#how-do-you-justify-infrastructure-cost-for-idle-gpu-pre-warming-to-leadership-wh) | Medium | 2 |
 | [How do you manage infrastructure cost optimization without impacting performance?](../topics/finops.md#how-do-you-manage-infrastructure-cost-optimization-without-impacting-performance) | Medium | 2 |
 | [How would you investigate a 40% cloud cost increase?](../topics/finops.md#how-would-you-investigate-a-40-cloud-cost-increase) | Medium | 1 |
 | [Your cloud bill increased by 40%. Where would you start your investigation?](../topics/finops.md#your-cloud-bill-increased-by-40-where-would-you-start-your-investigation) | Medium | 4 |
